@@ -1,0 +1,99 @@
+@import '_generic.reset.less';
+
+@margin: 1rem;
+
+@black: #444;
+
+
+body {
+
+  max-width: 600px;
+  margin: @margin;
+  margin-bottom: 50vh;
+
+  font-size: 18px;
+  line-height: 1.4;
+
+  font-family: "PT Serif", serif;
+
+  color: @black;
+}
+
+aside {
+
+  max-width: 300px;
+
+  border-left: 2px solid #888;
+  margin-left: 0.75em;
+  padding-left: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.5em;
+
+  float: right;
+
+  @media screen and (max-width: 600px) {
+    border: none;
+    padding: 0;
+    margin: 0;
+    float: none;
+
+    margin-bottom: 0.5rem;
+
+    font-style: italic;
+
+    &::before {
+      content: "\21A1";
+      margin-right: 0.5rem;
+
+      font-style: normal;
+    }
+  }
+}
+
+h1 {
+  font-size: 3rem;
+  border-bottom: 1px solid @black;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+@media print {
+
+  @page-margin: 5cm;
+
+  @page {
+    size: A4 portrait;
+
+    margin: @page-margin;
+  }
+
+  body {
+    margin: 0;
+    font-size: 11pt;
+
+    display: block;
+
+  }
+
+  aside {
+    max-width: 3.5cm;
+  }
+}
