@@ -1,0 +1,14 @@
+---
+  layout: default
+  title: Home
+---
+
+<h1>Home</h1>
+
+<h2>Plans</h2>
+<ul>
+{%- for plan in collections.plan -%}
+  <li><a href="{{ plan.url }}">{{ plan.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
