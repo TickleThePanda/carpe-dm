@@ -1,8 +1,16 @@
 @import '_generic.reset.less';
 
-@margin: 5rem;
-
 @black: #444;
+
+:root {
+  --content-margin: 5rem;
+  --content-width: 600px;
+
+  @media screen and (max-width: 600px) {
+    --content-margin: 8vmin;
+  }
+}
+
 
 html, body {
   font-size: 18px;
@@ -14,11 +22,13 @@ html, body {
 }
 
 body {
+  margin: var(--content-margin);
+}
 
-  max-width: calc(450px + @margin * 2);
-  margin: @margin;
+main {
+  max-width: var(--content-width);
+  margin: auto;
   margin-bottom: 50vh;
-
 }
 
 aside {
