@@ -36,9 +36,9 @@ Attracted by these, you've travelled to this location.
 <aside>Allow character introductions</aside>
 
 You have all, making your own journeys, finally arrived. The cold, drizzle, and
-blustery wind keeps you damp and cold. You can smell the musk of the heather
-and peat. You arrived at different times over the last few days, Nim, then
-Prince Aseir, then Elmon. 
+blustery wind fight through your clothes, chilling you. You can smell the musk
+of the heather and peat. You arrived at different times over the last few days,
+Nim, then Prince Aseir, then Elmon. 
 
 The tower is as Nim and Prince Aseir remember in their dreams: tall, standing
 at around 130ft, it narrows slightly as it goes towards the top. There's no
