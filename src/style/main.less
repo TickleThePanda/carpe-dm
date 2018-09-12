@@ -33,19 +33,23 @@ main {
 
 aside {
 
-  max-width: 300px;
+  font-size: 0.9rem;
+
+  max-width: 25%;
 
   border-left: 2px solid #888;
-  margin-left: 0.75em;
-  padding-left: 0.5em;
-  padding-top: 0.25em;
-  padding-bottom: 0.5em;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  margin-left: 0.75rem;
+  padding-left: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.5rem;
 
   float: right;
 
   @media screen and (max-width: 600px) {
 
-    max-width: 300px;
+    width: unset;
 
     border: none;
     padding: 0;
@@ -54,7 +58,6 @@ aside {
     margin-bottom: 0.25rem;
 
     font-style: italic;
-    font-size: 0.9rem;
 
     &::before {
       content: "\21A1";
@@ -111,9 +114,12 @@ ul {
     margin: @page-margin;
   }
 
+  html, body {
+    font-size: 11pt;
+  }
+
   body {
     margin: 0;
-    font-size: 11pt;
 
     display: block;
 
