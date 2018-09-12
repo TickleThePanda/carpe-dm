@@ -8,18 +8,19 @@ title: Unbound
 
 ## Recurring dream
 
-Nim and Prince Aseir each been having similar dreams recently; not every night,
-but every few nights. Each dream always starts with you woken up suddenly by an
-ageing woman. With her help, you flee a different horror or are drawn by the
-promise of reward to a distant tower.
+Nim and Prince Aseir, you have each been having recurring dreams recently; not
+every night, but every few nights. Each dream always starts with you woken up
+suddenly by an ageing woman. With her help, you flee a different horror or are
+drawn by the promise of reward to a distant tower.
 
 Tall and alone, the unadorned tower stands in an almost barren valley. Its
 stonework is slotted together; each stone taller than a human but no further
 apart than a fingernail.
 
-You're brought to an entrance, although it's only carved in the stone of the
-building, facing the bottom of the valley. It's here she speaks to you "**LINE
-OF RIDDLE**. There are two others. They will help.  Meet them there."
+You're brought to the base of the tower, where there's the outline of a doorway
+carved in the stone of the building, facing the bottom of the valley. It's here
+she speaks to you "**LINE OF RIDDLE**. There are two others. They will help.
+Meet them there."
 
 The dreams end there, some of the specifics fade, but the way to the tower and
 ageing woman don't.
