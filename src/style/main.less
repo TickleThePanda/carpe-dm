@@ -6,6 +6,9 @@
   --content-margin: 5rem;
   --content-width: 600px;
 
+  --content-spacing: 0.7rem;
+  --section-spacing: 1.5rem;
+
   @media screen and (max-width: 600px) {
     --content-margin: 8vmin;
   }
@@ -74,21 +77,37 @@ aside {
   }
 }
 
+header {
+  display: flex;
+  height: calc(100vh - 2 * var(--content-margin));
+  align-items: flex-end;
+  line-height: 1;
+  border-bottom: 0.2rem solid @black;
+  margin-bottom: 5rem;
+}
+
 h1 {
-  font-size: 3rem;
-  border-bottom: 1px solid @black;
-  margin-bottom: 1rem;
+  font-size: 8rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 700;
 
-  margin-bottom: 0.5rem;
+  margin-top: var(--content-margin);
+  margin-bottom: var(--content-spacing);
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+
+  margin-top: var(--section-spacing);
+  margin-bottom: var(--content-spacing);
 }
 
 p {
-  margin-bottom: 1rem;
+  margin-bottom: var(--content-spacing);
 }
 
 strong {
@@ -110,6 +129,8 @@ blockquote.to-read {
   padding-left: 1rem;
   padding-right: 1rem;
   font-style: italic;
+
+  margin-bottom: 1rem;
 }
 
 .check {
@@ -130,6 +151,10 @@ blockquote.to-read {
     margin: @page-margin;
   }
 
+  @page :first {
+    margin: 3cm;
+  }
+
   html, body {
     font-size: 11pt;
   }
@@ -139,6 +164,10 @@ blockquote.to-read {
 
     display: block;
 
+  }
+
+  header {
+    height: calc(100vh - 1rem);
   }
 
   aside {
