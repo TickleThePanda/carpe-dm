@@ -4,7 +4,6 @@ layout: plan
 title: Unbound
 ---
 
-# Unbound
 
 ## Recurring dream
 
