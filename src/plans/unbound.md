@@ -76,14 +76,14 @@ To enter, the characters must speak the word "unbind" or "free".
   spiral upwards, starting on your right. Apart from this, the landing is
   empty.
 
-  The passage stays open after everybody walks in.
-
-  The stairway follows up and around, eventually reaching a landing with a door
-  on the left - facing the centre of the tower.
-
 </blockquote>
 
-- The lamps are made with "Continual Flame".
+The passage stays open after everybody walks in.
+
+The stairway follows up and around, eventually reaching a landing with a door
+on the left - facing the centre of the tower.
+
+The lamps are made with "Continual Flame".
 
 ### Reaching the Study
 
