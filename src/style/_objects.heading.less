@@ -1,0 +1,32 @@
+@header-font-size: 15vw;
+@header-max-font-size: 8rem;
+
+header {
+  display: flex;
+  height: calc(100vh - 2 * var(--content-margin));
+  align-items: flex-end;
+  line-height: 1;
+  border-bottom: 0.2rem solid @palette-black;
+  margin-bottom: var(--content-spacing);
+}
+
+h1 {
+  font-size: 8rem;
+}
+
+@media screen and (max-width: 700px) {
+  header {
+    border-bottom-width: 0.1vw;
+  }
+
+  h1 {
+    font-size: 15vw;
+  }
+}
+
+@media print {
+  header {
+    height: calc(100vh - 1rem);
+  }
+
+}

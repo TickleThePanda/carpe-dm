@@ -1,0 +1,53 @@
+aside {
+
+  max-width: 25%;
+
+  font-size: 0.9rem;
+
+  border-left: 1px solid @palette-dark-grey;
+
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  margin-left: 0.5rem;
+
+  padding-left: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.5rem;
+
+  float: right;
+
+  @media screen and (max-width: 600px) {
+
+    max-width: unset;
+
+    border: none;
+    padding: 0;
+    margin: 0;
+
+    margin-bottom: 0.1rem;
+
+    font-style: italic;
+
+    position: relative;
+    top: -1.2em;
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
+    height: 0;
+
+    &::before {
+      content: "\21A1";
+      margin-right: 0.5rem;
+
+      font-style: normal;
+    }
+
+    & + * {
+      clear: both;
+    }
+  }
+
+  @media print {
+    max-width: 3.5cm;
+  }
+}
+
