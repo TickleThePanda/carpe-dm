@@ -4,114 +4,353 @@ layout: plan
 title: Unbound
 ---
 
-## Introduction - Recurring dream
+## The recurring dream
 
-<blockquote class="to-read">
+> Nim and Prince Aseir, you have been having recurring dreams recently;
+> not every night, but every few nights. The dreams always start with
+> you woken up suddenly by an ageing elven woman. With her help, you
+> flee a different horror or are drawn by the promise of reward to a
+> distant tower.
+>
+> Tall and alone, the unadorned tower stands in an almost barren valley.
+> Its stonework is slotted together; each stone taller than a human but
+> placed no further apart than a fingernail.
+>
+> You're brought to the base of the tower, where there's the outline of
+> a doorway carved in the stone of the building, facing the bottom of
+> the valley. It's here she speaks the final words to you <q>**LINE OF
+> RIDDLE**. There are two others. They will help. Meet them there.</q>
+>
+> The dreams end there.  Some of the specifics fade, but you can still
+> remember the way to the tower and women who helps you.
+>
+> Elmon, you received a letter from a friend, somebody who you trust,
+> that invites you to travel to this location - you have the letter with
+> you.
+>
+> Attracted by these, you've travelled to this location.
+>
+> You have all, making your own journeys, finally arrived. The cold,
+> drizzle, and blustery wind fight through your clothes, chilling you.
+> You can smell the musk of the heather and peat. You arrived at
+> different times over the last few days, Nim, then Prince Aseir, then
+> Elmon. 
 
-  Nim and Prince Aseir, you have been having recurring dreams recently; not
-  every night, but every few nights. The dreams always start with you woken up
-  suddenly by an tall, thin, ageing woman. With her help, you flee a different
-  horror or are drawn by the promise of reward to a distant tower.
 
-  Tall and alone, the unadorned tower stands in an almost barren valley. Its
-  stonework is slotted together; each stone taller than a human but placed no
-  further apart than a fingernail.
+Allow for character introductions here.
 
-  You're brought to the base of the tower, where there's the outline of a
-  doorway carved in the stone of the building, facing the bottom of the valley.
-  It's here she speaks the final words to you "**LINE OF RIDDLE**. There are
-  two others.  They will help.  Meet them there."
+## Locations
 
-  The dreams end there. Some of the specifics fade, but you can still remember
-  the way to the tower and women who helps you.
+### The tower
 
-  Elmon, you recieved a letter from a friend, somebody who you trust, that
-  invites you to travel to this location - the letter expresses excitement over
-  a odd rumour of an adventure that will become a great tale! It's such a shame
-  that he can't go this time because he's "**LINE OF RIDDLE**".
-
-  Attracted by these, you've travelled to this location.
-
-  <aside>Allow character introductions</aside>
-
-  You have all, making your own journeys, finally arrived. The cold, drizzle,
-  and blustery wind fight through your clothes, chilling you. You can smell the
-  musk of the heather and peat. You arrived at different times over the last
-  few days, Nim, then Prince Aseir, then Elmon. 
-
-</blockquote>
-
-## The Tower
-
-The tower is as Nim and Prince Aseir saw in their dreams: tall, standing at
-around 130ft, it narrows slightly as it goes towards the top. There's no
-decoration and no windows. The unweathered stone is smooth to touch. 
+The tower is as Nim and Prince Aseir saw in their dreams: tall, standing
+at around 130ft, it narrows slightly as it goes towards the top. There's
+no decoration and no windows. The unweathered stone is smooth to touch. 
 
 The door faces towards the entrance of the valley and is easy to find.
 
-### The Door
+If a character uses detect magic, they will discover that there is an
+Abjuration field in the 
 
-<blockquote class="to-read">
+#### The door
 
-  The only decoration on the tower is the form of large doorway, carved into the
-  stone - 17 feet high. Above the door, you can see runes making up 5 words that
-  you do not recognise and cannot read.
+> Although the rest of the tower lacks decoration, carved into the stone
+> is the shape of a huge door. Above the door, you can see runes making
+> up 5 words that you do not recognise and cannot read.
 
-</blockquote>
+Anybody who tries to work out which language it is and makes a
+successful DC 15 Intelligence (History) check discovers that the
+language is **LOST LANGUAGE**, a lost language. If the language can be
+understood, it reads: <q>Safe we keep her. Allow no will.</q> The
+original intent, however, was: <q>This keeps us safe from her, do not
+free her.</q>
 
-On a successful history check, <span class="check">15</span>, it can be
-recognised as **LOST LANGUAGE**, a lost language. If the language can be
-understood, it reads "Safe, we keep her. Allow no will." The original intent
-was "This keeps us safe from her, do not free her."
+To enter, the characters must speak the word *unbind* or *free*.
 
-To enter, the characters must speak the word "unbind" or "free".
+#### Entering the tower
 
-### Entering the Tower
-
-<blockquote class="to-read">
-
-  The stones making up the doorway turn to a bright light. The light fades,
-  revealing a short passage into the tower. The passage leads to a brightly lit
-  landing; glass half-bowls filled with flame on the walls. From here, stairs
-  spiral upwards, starting on your right. Apart from this, the landing is
-  empty.
-
-</blockquote>
+> The stones making up the doorway turn to a bright light. The light
+> fades, revealing a short passage into the tower. The passage leads to
+> a brightly lit landing; glass half-bowls filled with flame on the
+> walls.  From here, stairs spiral upwards, starting on your right.
+> Apart from this, the landing is empty.
 
 The passage stays open after everybody walks in.
 
-The stairway follows up and around, eventually reaching a landing with a door
-on the left - facing the centre of the tower.
+The stairway follows up and around, eventually reaching a landing with a
+door on the left - facing the centre of the tower.
 
-The lamps are made with "Continual Flame".
+The lamps are made with *Continual Flame*.
 
-### Reaching the Study
+#### Reaching the study
 
-<blockquote class="to-read">
+> After you open the door, you see a large circular room before you. The
+> same torches as before light it. Luxurious furniture is sparsely
+> spread around the room, although its style is unlike anything you've
+> seen before.
+>  
+> On the left wall, there's a four-poster-bed with a chest sitting at
+> the end, and large wardrobe to the side of the bed. On the opposite
+> side, a huge bookcase is crammed with scrolls and books. In the centre
+> of the room is a large table that's dressed with food. Closest to you
+> is a desk facing the door. The smell of incense fills the room.
+>
+> Sitting at the desk is a woman: her hair grey and face wrinkled,
+> pointed ears poke out under a circlet with a ruby gemstone set, and
+> her robes are a deep dark red with intricate symbols laced in a golden
+> thread.
+>
+> Noticing you arriving, she smiles towards you and stands, gesturing
+> you into the room towards the table.
+>  
+> <q>Ah! I see that you managed to solve my riddle. Please, come in.</q>
 
-  After the door opens, you can see into a large circular room. The same torches
-  as before lighting it.
+Here, the woman introduces herself as *QUEST GIVER*. She offers the
+characters food and drink, and if they accept, food will appear at the
+table.
 
-  <blockquote class="npc-speech">
-    
-  </blockquote>
-</blockquote>
+She will explain that her quest is to have her stolen amulet retrieved.
+She's chosen them because it was taken from her a long time ago and it's
+likely to be a perilous journey to retrieve it. The amulet is in the
+*Tomb of *TOMB NAME**, which is close to *the City of *CITY** which is a
+2 day journey from here, across the moors. She doesn't know where the
+tomb is.
+
+She will give the adventurers an very old map and some food supplies for
+3 days travel.
+
+The map looks as follows: 
+
+```
+ ~  ~   @ @@@@@ ^ ^
+   x  ~  @@@@ @ ^^^ ^
+~  ~ ~   +-----O ^^
+  ~     / @@@ ^ ^  ^
+~      / ^ ^ ^ ^ ^
+ ~    /   ^^^ ^
+```
+
+### Travel to the City of *CITY*
+
+To see how quickly the adventurers get through the city to the, the
+characters can take a DC 20 Survival (Wisdom) check. On a:
+ - *success*, the journey takes 24 hours, with 1 night's rest. The first
+   day gets them to the road. The second day gets them to the city in
+   the afternoon. 
+ - *failure*, the journey takes 48 hours, with 2 nights' rest. The first
+   day is spent being lost in the wilderness. The second day gets them
+   to the road. The third day gets them to the city in the afternoon.
+
+General environment: Moor-wilderness → Road in the moors → Road through
+hilly-forest → Road through pastures (mountains and city in distance)
+
+### City of *CITY*
+
+#### From a distance
+
+> Nestled in a steep valley is a small city: its natural walls
+> overshadowing its constructed ones; its castle burrowed into the top
+> reaches. A single gatehouse guards the bottom.
+
+#### Approaching the city
+
+> As you approach the city, you can see that the walls scarred and worn,
+> some newer stonework replaces sections.
+>
+> A steady flow of people are passing in and out of the gates. A couple
+> of bored looking guards standing on either side, almost ignoring the
+> small rabble.
+
+Anyone who wants to know the history of the city and makes a successful
+DC 15 Intelligence (History) check knows that it's an ancient city that
+was, through sheer force of will, invaded over 300 years ago, the old
+royal family was forced into marriage into the new lords.
+
+The guards give the characters no trouble entering the city.
+
+#### Entering the gates
+
+> You've passed through the city gates. A busy main street climbs up.
+> Behind the stone houses that are set against the mountainside, you can
+> see the tops of the castle's towers.
+> 
+> The street, leading to the city's square, is lined with an assortment
+> of busy market stalls. Farmers and merchants are bartering. A
+> procession of robed figures part the crowd, walking away from you
+> towards the centre of the city. Guards wander, chatting with
+> merchants, watching the stalls.
+
+Here the characters have a whole range of options for finding out where
+the tomb is:
+ - merchants will point the characters towards *The Dragon's Claw* which
+   is <q>just up the road - the bar-keep there talks about mad things
+   like this</q>, if they're convinced by the characters
+ - guards will point the characters towards the castle (and more
+   specifically the castle library), if they're convinced by the
+   characters
+ - priests will welcome the characters to join their procession to the
+   temple where the scholarly acolytes might know of such a place
+ - general populace will be relatively helpful, pointing the characters
+   straight to *The Dragon's Claw*
+
+#### Temple of *TEMPLE NAME*
+
+> In the centre of the city's square, there's a large round building.
+> Outside, there's a statue of a bound man on his knees weeping. The
+> figure is scarred and his limbs are at unsettling angles. On it, in
+> common, is inscribed:
+>
+>> We welcome all to the house of Ilmater.
+
+At the temple, the characters will be encouraged by a greeter, who will
+introduce themselves as *GREETER NAME*, to pray.
+
+The temple has a *TEMPLE SCHOLOR* scholar that knows of the local tombs.
+*GREETER NAME* will take the characters to the her in the "records" room
+further in the temple.
+
+> *GREETER NAME* pushes a small door open that takes you into a small
+> room small room, only a few feet wide, lit by candles. The room has a
+> few bookcases in it, with scrolls and tomes on their shelves.
+> 
+> Despite you entering the room rather loudly, a young woman who is
+> hunched at the desk, has not looked up from the scroll she was
+> reading. Next to her is a discarded plate of bread and cheese.
+>
+> "*TEMPLE SCHOLOR*. *TEMPLE SCHOLOR*? *TEMPLE SCHOLOR*! Hey! We have
+> some travellers looking for some information about a nearby Tomb and I
+> was hoping you could help them."
+>
+> It seems to take her a little to return to the world from the text,
+> and she still glances back to it.
+
+The scholar will help the characters but won't do it gladly. She will be
+sharp with them and not really going too much out of her way to give
+them information.
+
+The scholar, sighing, will find a map and will point the characters to
+the correct place on a map. She knows a little of the history of the
+tombs.
+
+> This is to Tomb of *TOMB NAME* where the old Lords, *IMPRISONING
+> PARTY* buried, from before our current Lords, *CURRENT LORDS* came
+> here. Unfortunately - we those who worship Ilmater (the God of
+> Endurance) - we're not that good at keeping detailed records of
+> history.
+>
+> From my study of our small collection of histories, I can tell you
+> that their rule was tumultuous. There were different powers at play
+> within the city leaders and part of that lead to their declining power
+> and, ultimately, their family relying on the support and marriage with
+> *CURRENT LORDS* to maintain any form of power.
+>
+> I'm sorry I can't be any more helpful with the details here.
+>
+> You're welcome to read through the books on history that we have here
+> but I don't think you'll find much more than I've given you. If you do
+> choose to do so, I'd prefer for you to go elsewhere so as not to cause
+> any more distraction to me.
+
+#### The Dragon's Claw
+
+> Fighting away the cold, a roaring fire crackles. The funk of pipe weed
+> smoke and stale beer linger. There are a few people sitting around the
+> inn: a small group of younger men are playing dice, a hooded figure
+> watching the door from an alcove, a woman hunched at the bar.
+>
+> Behind the bar a balding man with silver hair is cleaning tankards.
+
+At the inn, the bar-keep will very gladly welcome the characters to sit
+at the almost-empty bar and to have a drink. He will gladly tell mildly
+accurate stories about a nearby tomb.
+
+> I don't know of the Tomb of *TOMB NAME* but there is an old tomb
+> outside the city. The old Lords of this city are buried there.
+>
+> Ooooohhh, there's lots of rumours about this place. Some people say
+> it's haunted by a ghost sworn to protect it. Others say that the dead
+> themselves walk the halls. I know that a scholar from the castle
+> library went there recently never to return.
+>
+> I doubt it's *the dead* that got her, though. Much more likely that
+> it's the goblins that use the place as a hide-out. I know that's not a
+> rumour! They don't really cause a problem to the people in the city so
+> the Lord here hasn't done anything about them.
+
+He continues to ramble about the troubles that the goblins cause to the
+farmers.
+
+#### The castle's library
+
+> *CASTLE DESCRIPTION*
+
+Guards will stop the characters from entering the castle.
+
+
+### Tomb of *TOMB NAME*
+
+<img class="map" alt="A map of the Tomb of *TOMB NAME*" src="/images/maps/unbound_tomb.png">
+
+#### Entrance to the tomb
+
+#### Goblin hideout
+
+#### Grand corridor
+
+#### Tomb of Lord *LORD NAME*
+
+#### The Lord's guard room
+
+#### Giant spider's chamber
+
+#### Tomb of *IMPRISONER*
+
+#### *STORAGE* ?
+
+#### Locked door
+
+#### Collapsed passageway
+
+#### Hidden doorway
+
+#### * Additional Tombs
 
 ## Characters
 
-### Artefact
+### *QUEST GIVER*
 
- - Stored in a crumbling ruin which holds magical protections.
- - Artefact will provide the wearer, if they're a descendant of *A* with some
-   powerful ablities. If it's not a descendant, it does very little.
+## Random encounters
 
----
+## Background
 
-## Behind the scenes
+*QUEST GIVER* is an elven wizard that worked with *IMPRISONING PARTY*
+but became powerful and corrupt, controlling the government and removing
+anybody who got in her way.
 
- - imprisoned being wishes to be freed, a milenia since he was put to sleep
- - reaching out to people and tricking them to free him
- - for him to leave:
-    - the word "unbind" must be spoken at the door to free him
-    - he must wear the amulet
+What was left of the *IMPRISONING PARTY* convinced *IMPRISONER* agreed
+to kill the *QUEST GIVER*. However, *IMPRISONER* was previously her
+lover and instead of killing her, he instead imprisoned her in a warded
+tower, taking her amulet, a family heirloom, as proof of killing her.
+The warded tower would only allow her to leave if the amulet was
+returned and the tower's doorway re-opened.
+
+*IMPRISONER* had planned to later free *QUEST GIVER* from the tower,
+when he discovered a way to strip the *QUEST GIVER* of her powers.
+
+After *IMPRISONER* returned to the *IMPRISONING PARTY* with the amulet,
+his victory celebrated. He spent the rest of his life in high regard
+with the *IMPRISONING PARTY* as their family scholar. He spent much time
+working in secret to find a way to free *QUEST GIVER* but to no avail.
+Over time, he became a frustrated and bitter man, eventually resorting
+to suicide. Still celebrated, he was buried with the family in the Tomb
+of *TOMB NAME*, the amulet buried with him.
+
+Despite his wish to leave the world, the *IMPRISONER*'s knowledge that
+there is no hope of stripping the *QUEST GIVER* of her powers bound him
+to the amulet to prevent anybody from ever returning it to her.
+
+The *QUEST GIVER* has spent the last 500 years finding weaknesses in the
+wards, using her powers to communicate to the outside world, planning
+her recovery of the amulet and to escape, taking her revenge over the
+descendants of the *IMPRISONING PARTY*.
 
