@@ -148,9 +148,11 @@ hilly-forest → Road through pastures (mountains and city in distance)
 
 #### From a distance
 
-> Nestled in a steep valley is a small city: its natural walls
-> overshadowing its constructed ones; its castle burrowed into the top
-> reaches. A single gatehouse guards the bottom.
+> Nestled in a steep valley is a small city: the valley's impassable
+> natural walls overshadowing the natural ones. There's a castle
+> burrowed into the top reaches where the surrounding mountains draw
+> closest. A single gatehouse guards the walls that span the bottom of
+> the steep valley.
 
 #### Approaching the city
 
@@ -282,9 +284,43 @@ farmers.
 
 #### The castle's library
 
-> *CASTLE DESCRIPTION*
+> As your tiring journey takes you higher up the city, closer to the
+> castle, the  become closer together, making the city narrower. Closest
+> to the castle, the path follows the side of one of the valley walls
+> with large mansions on the other side.
+>
+> Eventually, you pass the last building and ahead of you are the walls
+> to the castle. These walls stretch across the valley from one side to
+> another, though that space is now only 50 ft.
+>
+> Behind the walls you can see a stone castle with two towers at the
+> front. Layers continue behind it, each one building on the mountain's
+> incline.
+>
+> The path takes you to the centre of this wall to a gatehouse. There
+> are 4 guards standing at this entrance. They are suspicious of the
+> characters and will not want to let them through the gate.
 
-Guards will stop the characters from entering the castle.
+They can be, amongst other things:
+ - bribed for 20gp
+ - intimidated DC 20
+ - persuaded DC 25
+
+The characters will be let into the castle on the condition of being
+escorted.
+
+> The guard takes you through the gate into a courtyard and gardens, the
+> castle about 60ft away from you. In the centre is a fountain, although
+> there's no water flowing.
+>
+> Here, you can only see the front of the castle, a round tower built up
+> against the walls of the mountain. Large carved wooden doors are
+> closed at the front, a guard standing on either side.
+>
+> There's almost a direct path along the middle towards the wooden doors
+> but the guard takes you around to the right, following the valley's
+> wall, taking you to a smaller side entrance with little ornamentation.
+
 
 
 ### Tomb of *TOMB NAME*
