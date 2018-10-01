@@ -332,7 +332,7 @@ escorted.
 > A man dressed in robes is moving books to what somebody *might* call a
 > desk, although it could just be more storage.
 >
-> He gasps as you walk in, smiling.
+> He happily gasps as you walk in, smiling.
 
 He will explain to the players about the tomb's location and how to get
 there, although that they don't know much about it now - *NAME OF MAD
@@ -349,9 +349,11 @@ When they reach the path, depending on what information they know.
 > side of the path, a couple of stone sentinels are crumbling.
 > Undergrowth covers the path and bushes are growing between the stones.
 
+Players with a passive perception above 13 will see goblin tracks
+heading along the path.
 
-> As you continue on, the buses 
-
+> For about an hour, the path continues overgrown, getting steeper. It
+> ends where the mountain rises, a collapsed door in front of you.
 
 
 ### Tomb of *TOMB NAME*
@@ -360,13 +362,89 @@ When they reach the path, depending on what information they know.
 
 #### Entrance to the tomb
 
+> At the foot of the mountain is the collapsed door.
+
+There's a gap large enough for small creatures at the bottom, or medium
+creatures with a successful Dexterity check of 15.
+
+Some of the rubble can be shifted instead, with a successful Strength
+check of 15 but it will cause some of the remaining rubble to collapse
+and the goblins to be prepared
+
+The rubble can also be climbed over with a successful Strength check of
+15.
+
 #### Goblin hideout
+
+ - Stench of goblins
+ - If the goblins know the characters are there, then they're silent.
+   Otherwise, laughing and arguing can be heard.
+ - Room has wooden structures that some goblins might hide behind
+ - Goblins will try to ambush the players, if they know the players are
+   there
+
+---
+
+ - Levers need to be in the right order to open the door. *HOW*
 
 #### Grand corridor
 
+> There's grand corridor carved out of the stone. Torches of a similar
+> design from *QUEST GIVER*'s tower adorn the walls, fire flickering out
+> of them. The corridor is about 200ft long and about 10ft wide. You
+> can see 3 corridors off the left hand wall and 2 off the right hand
+> wall - these are built at odd intervals. The space in here is almost
+> pristine, apart from dust. The grand doors that are at the end of the
+> corridor are open.
+
+The smaller corridors as the characters go along:
+ 1. a corridor on the right, it's about 70ft long.
+ 2. a corridor on the left, it's about 90ft long.
+ 3. a short corridor on the right, and then a door
+ 4. a short corridor on the left, and then a door
+ 5. a short corridor on the right, and then a door
+
 #### Tomb of Lord *LORD NAME*
 
+> Coming through the main doors, an expansive vaulted room is before
+> you. It's about 120ft long. In the centre of the room a large
+> sarcophagus is built onto a stone platform with steps running up to
+> it. A blue crystalline stone outcrop is right above the sarcophagus,
+> casting weird flickering light from the torches around the room.
+>
+> Between the centre and each corner are 4 pillars. Each of these 4
+> pillars intertwine to build up to the vaulted ceiling.
+>
+> Collapsed one of the pillars is a slashed and bloodied body wearing
+> robes. A backpack lies on the floor before the engraving, its contents
+> strewn.
+>
+> There is a large engraving on the ground in front of the players.
+
+The backpack (and the area around the backpack) contains the following
+supplies:
+ - a hammer
+ - 10 pitons
+ - 10 torches
+ - a tinderbox
+ - 10 days of rations
+ - a waterskin
+ - 50ft of hempen rope
+ - a scroll of *Comprehend Languages*
+
+After two minutes in the room, the stone above the centre of the room
+flashes a bright blue. Nothing happens for a couple of seconds until the
+characters can hear the scraping of stone. The sarcophagus lids are
+sliding open. Skeletons begin to climb out.
+
+There are 11 skeletons.
+
 #### The Lord's guard room
+
+> 
+
+If the players try to go through this room, 6 skeletons will leave their
+sarcophagi to attack the players almost immediately.
 
 #### Giant spider's chamber
 
@@ -381,6 +459,9 @@ When they reach the path, depending on what information they know.
 #### Hidden doorway
 
 #### * Additional Tombs
+
+Each contains 3 skeletons that will attack the players almost
+immediately. In each of the tombs, the players will find 3d10 gold 
 
 ## Characters
 
