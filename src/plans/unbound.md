@@ -123,7 +123,7 @@ The map looks as follows:
 
 ```
  ~  ~   @ @@@@@ ^ ^
-   x  ~  @@@@ @ ^^^ ^
+   x  ~  @@@@   ^^^ ^
 ~  ~ ~   +-----O ^^
   ~     / @@@ ^ ^  ^
 ~      / ^ ^ ^ ^ ^
@@ -142,7 +142,8 @@ characters can take a DC 20 Survival (Wisdom) check. On a:
    to the road. The third day gets them to the city in the afternoon.
 
 General environment: Moor-wilderness → Road in the moors → Road through
-hilly-forest → Road through pastures (mountains and city in distance)
+hilly-forest → Road through hilly-forest broken up by pastures
+(mountains and city in distance)
 
 ### City of *CITY*
 
@@ -320,6 +321,36 @@ escorted.
 > There's almost a direct path along the middle towards the wooden doors
 > but the guard takes you around to the right, following the valley's
 > wall, taking you to a smaller side entrance with little ornamentation.
+>
+> You're taken through some narrow stone servant corridors through to a
+> library, just off a well decorated main corridor.
+>
+> The large room is filled with books and scrolls. Every accessible
+> *inch* of the room is taken up by shelves with the narrowest of spaces
+> between them.
+>
+> A man dressed in robes is moving books to what somebody *might* call a
+> desk, although it could just be more storage.
+>
+> He gasps as you walk in, smiling.
+
+He will explain to the players about the tomb's location and how to get
+there, although that they don't know much about it now - *NAME OF MAD
+LORD* a few generations ago demanded the burning of anything about the
+*IMPRISONING PARTY*. He will explain that one of his apprentices went
+there a few weeks ago but never returned, which he sounds very sad
+about. He will ask them to see if they can find this apprentice.
+
+### Travelling to the Tomb of *TOMB NAME*
+
+When they reach the path, depending on what information they know.
+
+> The old road is not easy to find - the forest reclaiming it. On each
+> side of the path, a couple of stone sentinels are crumbling.
+> Undergrowth covers the path and bushes are growing between the stones.
+
+
+> As you continue on, the buses 
 
 
 
