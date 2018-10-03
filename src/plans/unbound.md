@@ -415,11 +415,11 @@ The smaller corridors as the characters go along:
 > Between the centre and each corner are 4 pillars. Each of these 4
 > pillars intertwine to build up to the vaulted ceiling.
 >
-> Collapsed one of the pillars is a slashed and bloodied body wearing
+> There is a large engraving on the ground in front of you.
+>
+> Collapsed at one of the pillars is a slashed and bloodied body wearing
 > robes. A backpack lies on the floor before the engraving, its contents
 > strewn.
->
-> There is a large engraving on the ground in front of the players.
 
 The backpack (and the area around the backpack) contains the following
 supplies:
@@ -439,35 +439,84 @@ sliding open. Skeletons begin to climb out.
 
 There are 11 skeletons.
 
-#### The Lord's guard room
+The large engraving shows the map with each of the rooms labelled with
+the occupants.
 
-> 
+#### The Lord's guard room
 
 If the players try to go through this room, 6 skeletons will leave their
 sarcophagi to attack the players almost immediately.
 
 #### Giant spider's chamber
 
+Door is stiff to open.
+
+Room full of spider webs, sarcophagi are closed.
+
+When the players enter, the skeletons will try to get out of their
+sarcophagi - 3 successfully will do so, the characters can hear the
+other skeletons scraping to get out.
+
+After about 18 seconds, a giant spider will come to investigate.
+
+The spider and skeletons may attack each other.
+
 #### Tomb of *IMPRISONER*
+
+Raised sarcophagus in the middle of the room. Arch across the middle of
+the room. Can see some more sarcophagi past the arch.
+
+Players will feel a sense of uneasy sadness and unfulfillment as they
+walk into the room. The room feels a lot colder as well.
+
+Inscribed on the sarcophagus is, if the players can still read it:
+
+> *IMPRISONER* - vanquisher of *QUEST GIVER*
+
+If the players open the sarcophagus, they will find a skeleton with an
+amulet. If they take the amulet, the door will slam shut. A pale white
+figure will appear between the door and the players.
+
+> <q>That amulet must stay here,</q> it says sorrowfully. <q>I cannot
+> let you leave with it or knowledge of it. I'm sorry. I'm sorry.</q>
+
+After saying that to the players, it will start to move towards them
+with its sword out. If the players attack, the skeletons will join the
+*IMPRISONER*, although the ghost will step out of the fight at the
+start.
+
+The ghost, gone mad with time, is only focussed on preventing it from
+ever getting to *QUEST GIVER* and it will be very difficult to reason
+with it. If the players mention being sent or who they were sent by, the
+ghost will become violent and impossible to deal with.
+
+The ghost will not be convinced to let the players leave with the
+amulet and it can only be taken by force.
 
 #### *STORAGE* ?
 
+Room large enough to have a short rest in. Has a chest containing mostly
+rotted/decayed belongings that have turned to dust. There's 50gp and 2
+gems each worth 50gp each.
+
+The door can be shut and barred if the players wish to rest.
+
 #### Locked door
+
+This locked door requires a DC 22 Dexterity check to unlock it.
 
 #### Collapsed passageway
 
+The corridor has completely collapsed, rubble blocking it entirely.
+
 #### Hidden doorway
+
+A successful Perception (Wisdom) check of 20 DC will uncover a door.
 
 #### * Additional Tombs
 
 Each contains 3 skeletons that will attack the players almost
-immediately. In each of the tombs, the players will find 3d10 gold 
-
-## Characters
-
-### *QUEST GIVER*
-
-## Random encounters
+immediately. In each of the tombs, the players will find 3d10 gold.
 
 ## Background
 
