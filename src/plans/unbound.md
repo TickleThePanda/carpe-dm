@@ -60,10 +60,9 @@ Abjuration field in the
 
 Anybody who tries to work out which language it is and makes a
 successful DC 15 Intelligence (History) check discovers that the
-language is **LOST LANGUAGE**, a lost language. If the language can be
-understood, it reads: <q>Safe we keep her. Allow no will.</q> The
-original intent, however, was: <q>This keeps us safe from her, do not
-free her.</q>
+language is Carnian, a lost language. If the language can be understood,
+it reads: <q>Safe we keep her. Allow no will.</q> The original intent,
+however, was: <q>This keeps us safe from her, do not free her.</q>
 
 To enter, the characters must speak the word *unbind* or *free*.
 
@@ -103,7 +102,7 @@ The lamps are made with *Continual Flame*.
 > Noticing you arriving, she smiles towards you and stands, gesturing
 > you into the room towards the table.
 >  
-> <q>Ah! I see that you managed to solve my riddle. Please, come in.</q>
+> <q>Ah! I'm glad that you decided to join me. Please, come in.</q>
 
 Here, the woman introduces herself as Elidyr. She offers the characters
 food and drink, and if they accept, food will appear at the table.
@@ -111,7 +110,7 @@ food and drink, and if they accept, food will appear at the table.
 She will explain that her quest is to have her stolen amulet retrieved.
 She's chosen them because it was taken from her a long time ago and it's
 likely to be a perilous journey to retrieve it. The amulet is in the
-*Tomb of the last Rehani*, which is close to *the City of Renaura* which is a
+*Tomb of the Last Rehani*, which is close to *the City of Renaura* which is a
 2 day journey from here, across the moors. She doesn't know where the
 tomb is.
 
@@ -467,7 +466,7 @@ walk into the room. The room feels a lot colder as well.
 
 Inscribed on the sarcophagus is, if the players can still read it:
 
-> *IMPRISONER* - vanquisher of Elidyr
+> Faurin, Vanquisher of Elidyr
 
 If the players open the sarcophagus, they will find a skeleton with an
 amulet. If they take the amulet, the door will slam shut. A pale white
@@ -477,8 +476,8 @@ figure will appear between the door and the players.
 > let you leave with it or knowledge of it. I'm sorry. I'm sorry.</q>
 
 After saying that to the players, it will start to move towards them
-with its sword out. If the players attack, the skeletons will join the
-*IMPRISONER*, although the ghost will step out of the fight at the
+with its sword out. If the players attack, the skeletons will join
+Faurin, although the ghost will step out of the fight at the
 start.
 
 The ghost, gone mad with time, is only focussed on preventing it from
@@ -489,7 +488,7 @@ will become violent and impossible to deal with.
 The ghost will not be convinced to let the players leave with the amulet
 and it can only be taken by force.
 
-#### *STORAGE* ?
+#### *STORAGE*
 
 Room large enough to have a short rest in. Has a chest containing mostly
 rotted/decayed belongings that have turned to dust. There's 50gp and 2
