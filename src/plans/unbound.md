@@ -105,14 +105,13 @@ The lamps are made with *Continual Flame*.
 >  
 > <q>Ah! I see that you managed to solve my riddle. Please, come in.</q>
 
-Here, the woman introduces herself as *QUEST GIVER*. She offers the
-characters food and drink, and if they accept, food will appear at the
-table.
+Here, the woman introduces herself as Elidyr. She offers the characters
+food and drink, and if they accept, food will appear at the table.
 
 She will explain that her quest is to have her stolen amulet retrieved.
 She's chosen them because it was taken from her a long time ago and it's
 likely to be a perilous journey to retrieve it. The amulet is in the
-*Tomb of *TOMB NAME**, which is close to *the City of *CITY** which is a
+*Tomb of the last Rehani*, which is close to *the City of Renaura* which is a
 2 day journey from here, across the moors. She doesn't know where the
 tomb is.
 
@@ -130,7 +129,7 @@ The map looks as follows:
  ~    /   ^^^ ^
 ```
 
-### Travel to the City of *CITY*
+### Travel to the City of Renaura
 
 To see how quickly the adventurers get through the city to the, the
 characters can take a DC 20 Survival (Wisdom) check. On a:
@@ -145,7 +144,7 @@ General environment: Moor-wilderness → Road in the moors → Road through
 hilly-forest → Road through hilly-forest broken up by pastures
 (mountains and city in distance)
 
-### City of *CITY*
+### City of Renaura
 
 #### From a distance
 
@@ -185,18 +184,19 @@ The guards give the characters no trouble entering the city.
 
 Here the characters have a whole range of options for finding out where
 the tomb is:
- - merchants will point the characters towards *The Dragon's Claw* which
-   is <q>just up the road - the bar-keep there talks about mad things
-   like this</q>, if they're convinced by the characters
- - guards will point the characters towards the castle (and more
-   specifically the castle library), if they're convinced by the
+ - merchants will point the characters towards March, the inn-keep at
+   *The Dragon's Claw* which is <q>just up the road - the bar-keep there
+   talks about mad things like this</q>, if they're convinced by the
    characters
+ - guards will point the characters towards the scholar, Ret, who works
+   in the castle library, if they're convinced by the characters
  - priests will welcome the characters to join their procession to the
-   temple where the scholarly acolytes might know of such a place
+   Temple of Ilmater where the scholarly acolytes might know of such a
+   place
  - general populace will be relatively helpful, pointing the characters
-   straight to *The Dragon's Claw*
+   straight to March *The Dragon's Claw*
 
-#### Temple of *TEMPLE NAME*
+#### Temple of Ilmater
 
 > In the centre of the city's square, there's a large round building.
 > Outside, there's a statue of a bound man on his knees weeping. The
@@ -206,23 +206,21 @@ the tomb is:
 >> We welcome all to the house of Ilmater.
 
 At the temple, the characters will be encouraged by a greeter, who will
-introduce themselves as *GREETER NAME*, to pray.
+introduce themselves as Wurcon, to pray.
 
-The temple has a *TEMPLE SCHOLOR* scholar that knows of the local tombs.
-*GREETER NAME* will take the characters to the her in the "records" room
-further in the temple.
+The temple has a scholar that knows of the local tombs. Wurcon will take
+the characters to the her in the "records" room further in the temple.
 
-> *GREETER NAME* pushes a small door open that takes you into a small
-> room small room, only a few feet wide, lit by candles. The room has a
-> few bookcases in it, with scrolls and tomes on their shelves.
+> Wurcon pushes a small door open that takes you into a small room small
+> room, only a few feet wide, lit by candles. The room has a few
+> bookcases in it, with scrolls and tomes on their shelves.
 > 
 > Despite you entering the room rather loudly, a young woman who is
 > hunched at the desk, has not looked up from the scroll she was
 > reading. Next to her is a discarded plate of bread and cheese.
 >
-> "*TEMPLE SCHOLOR*. *TEMPLE SCHOLOR*? *TEMPLE SCHOLOR*! Hey! We have
-> some travellers looking for some information about a nearby Tomb and I
-> was hoping you could help them."
+> "Glanna. Glanna? Glanna! Hey! We have some travellers looking for some
+> information about a nearby Tomb and I was hoping you could help them."
 >
 > It seems to take her a little to return to the world from the text,
 > and she still glances back to it.
@@ -235,17 +233,16 @@ The scholar, sighing, will find a map and will point the characters to
 the correct place on a map. She knows a little of the history of the
 tombs.
 
-> This is to Tomb of *TOMB NAME* where the old Lords, *IMPRISONING
-> PARTY* buried, from before our current Lords, *CURRENT LORDS* came
-> here. Unfortunately - we those who worship Ilmater (the God of
-> Endurance) - we're not that good at keeping detailed records of
-> history.
+> This is to the Tomb of the Last Rehani where the old Lords are buried
+> - this is from before our current Lords, the Morcants came here.
+> Unfortunately - we those who worship Ilmater (the God of Endurance) -
+> we're not that good at keeping detailed records of history.
 >
 > From my study of our small collection of histories, I can tell you
 > that their rule was tumultuous. There were different powers at play
-> within the city leaders and part of that lead to their declining power
-> and, ultimately, their family relying on the support and marriage with
-> *CURRENT LORDS* to maintain any form of power.
+> within the city leaders. I think that lead to their declining power
+> and, ultimately, to the marriage of their daughter with the Morcant
+> family.
 >
 > I'm sorry I can't be any more helpful with the details here.
 >
@@ -263,11 +260,11 @@ tombs.
 >
 > Behind the bar a balding man with silver hair is cleaning tankards.
 
-At the inn, the bar-keep will very gladly welcome the characters to sit
-at the almost-empty bar and to have a drink. He will gladly tell mildly
-accurate stories about a nearby tomb.
+At the inn, the bar-keep, March, will very gladly welcome the characters
+to sit at the almost-empty bar and to have a drink. He will gladly tell
+mildly accurate stories about a nearby tomb.
 
-> I don't know of the Tomb of *TOMB NAME* but there is an old tomb
+> I don't know of the Tomb of the Last Rehani but there is an old tomb
 > outside the city. The old Lords of this city are buried there.
 >
 > Ooooohhh, there's lots of rumours about this place. Some people say
@@ -335,13 +332,13 @@ escorted.
 > He happily gasps as you walk in, smiling.
 
 He will explain to the players about the tomb's location and how to get
-there, although that they don't know much about it now - *NAME OF MAD
-LORD* a few generations ago demanded the burning of anything about the
-*IMPRISONING PARTY*. He will explain that one of his apprentices went
+there, although that they don't know much about it now - the mad Lord
+Bleiduid Morcant a few generations ago demanded the burning of anything
+about the Rehanis. He will explain that one of his apprentices went
 there a few weeks ago but never returned, which he sounds very sad
 about. He will ask them to see if they can find this apprentice.
 
-### Travelling to the Tomb of *TOMB NAME*
+### Travelling to the Tomb
 
 When they reach the path, depending on what information they know.
 
@@ -356,9 +353,10 @@ heading along the path.
 > ends where the mountain rises, a collapsed door in front of you.
 
 
-### Tomb of *TOMB NAME*
+### Tomb of the Last Rehani
 
-<img class="map" alt="A map of the Tomb of *TOMB NAME*" src="/images/maps/unbound_tomb.png">
+<img class="map" alt="A map of the Tomb of *TOMB NAME*"
+src="/images/maps/unbound_tomb.png">
 
 #### Entrance to the tomb
 
@@ -390,10 +388,10 @@ The rubble can also be climbed over with a successful Strength check of
 #### Grand corridor
 
 > There's grand corridor carved out of the stone. Torches of a similar
-> design from *QUEST GIVER*'s tower adorn the walls, fire flickering out
-> of them. The corridor is about 200ft long and about 10ft wide. You
-> can see 3 corridors off the left hand wall and 2 off the right hand
-> wall - these are built at odd intervals. The space in here is almost
+> design from Elidyr's tower adorn the walls, fire flickering out of
+> them. The corridor is about 200ft long and about 10ft wide. You can
+> see 3 corridors off the left hand wall and 2 off the right hand wall -
+> these are built at odd intervals. The space in here is almost
 > pristine, apart from dust. The grand doors that are at the end of the
 > corridor are open.
 
@@ -404,7 +402,7 @@ The smaller corridors as the characters go along:
  4. a short corridor on the left, and then a door
  5. a short corridor on the right, and then a door
 
-#### Tomb of Lord *LORD NAME*
+#### Tomb of Lord Lunit Rehani
 
 > Coming through the main doors, an expansive vaulted room is before
 > you. It's about 120ft long. In the centre of the room a large
@@ -461,7 +459,7 @@ After about 18 seconds, a giant spider will come to investigate.
 
 The spider and skeletons may attack each other.
 
-#### Tomb of *IMPRISONER*
+#### Tomb of the Vanquisher
 
 Raised sarcophagus in the middle of the room. Arch across the middle of
 the room. Can see some more sarcophagi past the arch.
@@ -471,7 +469,7 @@ walk into the room. The room feels a lot colder as well.
 
 Inscribed on the sarcophagus is, if the players can still read it:
 
-> *IMPRISONER* - vanquisher of *QUEST GIVER*
+> *IMPRISONER* - vanquisher of Elidyr
 
 If the players open the sarcophagus, they will find a skeleton with an
 amulet. If they take the amulet, the door will slam shut. A pale white
@@ -486,12 +484,12 @@ with its sword out. If the players attack, the skeletons will join the
 start.
 
 The ghost, gone mad with time, is only focussed on preventing it from
-ever getting to *QUEST GIVER* and it will be very difficult to reason
-with it. If the players mention being sent or who they were sent by, the
-ghost will become violent and impossible to deal with.
+ever getting to Elidyr and it will be very difficult to reason with it.
+If the players mention being sent or who they were sent by, the ghost
+will become violent and impossible to deal with.
 
-The ghost will not be convinced to let the players leave with the
-amulet and it can only be taken by force.
+The ghost will not be convinced to let the players leave with the amulet
+and it can only be taken by force.
 
 #### *STORAGE* ?
 
@@ -520,34 +518,33 @@ immediately. In each of the tombs, the players will find 3d10 gold.
 
 ## Background
 
-*QUEST GIVER* is an elven wizard that worked with *IMPRISONING PARTY*
+Elidyr is an elven wizard that worked with the government of the Renaura
 but became powerful and corrupt, controlling the government and removing
 anybody who got in her way.
 
-What was left of the *IMPRISONING PARTY* convinced *IMPRISONER* agreed
-to kill the *QUEST GIVER*. However, *IMPRISONER* was previously her
-lover and instead of killing her, he instead imprisoned her in a warded
-tower, taking her amulet, a family heirloom, as proof of killing her.
-The warded tower would only allow her to leave if the amulet was
-returned and the tower's doorway re-opened.
+Lord Lunit convinced Faurin to agreed to kill the Elidyr. However,
+Faurin was previously her lover and instead of killing her, he instead
+imprisoned her in a warded tower, taking her amulet, a family heirloom,
+as proof of killing her.  The warded tower would only allow her to leave
+if the amulet was returned and the tower's doorway re-opened.
 
-*IMPRISONER* had planned to later free *QUEST GIVER* from the tower,
-when he discovered a way to strip the *QUEST GIVER* of her powers.
+Faurin had planned to later free Elidyr from the tower, when he
+discovered a way to strip the Elidyr of her powers.
 
-After *IMPRISONER* returned to the *IMPRISONING PARTY* with the amulet,
-his victory celebrated. He spent the rest of his life in high regard
-with the *IMPRISONING PARTY* as their family scholar. He spent much time
-working in secret to find a way to free *QUEST GIVER* but to no avail.
-Over time, he became a frustrated and bitter man, eventually resorting
-to suicide. Still celebrated, he was buried with the family in the Tomb
-of *TOMB NAME*, the amulet buried with him.
+After Faurin returned to the Lord Lunit with the amulet, his victory
+celebrated. He spent the rest of his life in high regard with the Lord
+Lunit as their family scholar. He spent much time working in secret to
+find a way to free Elidyr but to no avail.  Over time, he became a
+frustrated and bitter man, eventually resorting to suicide. Still
+celebrated, he was buried with the family in the Tomb of the Last
+Rehani, the amulet buried with him.
 
-Despite his wish to leave the world, the *IMPRISONER*'s knowledge that
-there is no hope of stripping the *QUEST GIVER* of her powers bound him
-to the amulet to prevent anybody from ever returning it to her.
+Despite his wish to leave the world, the Faurin's knowledge that there
+is no hope of stripping the Elidyr of her powers bound him to the amulet
+to prevent anybody from ever returning it to her.
 
-The *QUEST GIVER* has spent the last 500 years finding weaknesses in the
-wards, using her powers to communicate to the outside world, planning
-her recovery of the amulet and to escape, taking her revenge over the
-descendants of the *IMPRISONING PARTY*.
+The Elidyr has spent the last 500 years finding weaknesses in the wards,
+using her powers to communicate to the outside world, planning her
+recovery of the amulet and to escape, taking her revenge over the
+descendants of the Rehani.
 
