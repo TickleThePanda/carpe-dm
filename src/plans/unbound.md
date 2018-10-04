@@ -18,8 +18,8 @@ title: Unbound
 >
 > You're brought to the base of the tower, where there's the outline of
 > a doorway carved in the stone of the building, facing the bottom of
-> the valley. It's here she speaks the final words to you <q>**LINE OF
-> RIDDLE**. There are two others. They will help. Meet them there.</q>
+> the valley. It's here she says to <q>Wait here until there are three
+> and then speak the password "Unbind".</q>
 >
 > The dreams end there.  Some of the specifics fade, but you can still
 > remember the way to the tower and women who helps you.
@@ -380,8 +380,6 @@ The rubble can also be climbed over with a successful Strength check of
  - Room has wooden structures that some goblins might hide behind
  - Goblins will try to ambush the players, if they know the players are
    there
-
----
 
  - Levers need to be in the right order to open the door. *HOW*
 
