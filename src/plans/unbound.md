@@ -36,7 +36,6 @@ title: Unbound
 > different times over the last few days, Nim, then Prince Aseir, then
 > Elmon. 
 
-
 Allow for character introductions here.
 
 ## Locations
@@ -373,14 +372,37 @@ The rubble can also be climbed over with a successful Strength check of
 
 #### Goblin hideout
 
- - Stench of goblins
- - If the goblins know the characters are there, then they're silent.
-   Otherwise, laughing and arguing can be heard.
- - Room has wooden structures that some goblins might hide behind
- - Goblins will try to ambush the players, if they know the players are
-   there
+> As you enter the corridor, the first thing that hits you is the stench
+> of goblins. Fragments of the walls and ceilings lie on the floor.
+> Further down the corridor, there's a small amount of light.
 
- - Levers need to be in the right order to open the door. *HOW*
+If the goblins know the characters are coming, then the corridor is
+silent; otherwise, laughter and arguing can be heard.
+
+> You can see a chamber ahead. At the opposite end of the chamber
+> there's a set of double stone doors. In the room there's crude tables
+> and chairs. A primitive wooden barricades is a couple of feet into the
+> room.
+
+If the goblins heard the characters coming, then the tables are empty
+(but torches are lit), the goblins hiding behind the barricade and
+walls; otherwise, goblins are at the tables and chairs, playing cards.
+
+After combat is finished:
+
+> Above the door is text that the players cannot understand. There are
+> six orbs, three on each side of the door. Above the door are six
+> lines, each with a dot at the end.
+
+```
+.          .
+ \   -.   /    \     /   .-
+                .   .
+```
+
+The orbs must be pressed in the right order. Pressing the wrong one
+resets it but the player who presses the orb, gets thrown back from the
+wall by 10 feet, taking 1d4 damage.
 
 #### Grand corridor
 
@@ -425,7 +447,7 @@ supplies:
  - 10 days of rations
  - a waterskin
  - 50ft of hempen rope
- - a scroll of *Comprehend Languages*
+ - a partially translated copy of the engraving.
 
 After two minutes in the room, the stone above the centre of the room
 flashes a bright blue. Nothing happens for a couple of seconds until the
@@ -434,8 +456,8 @@ sliding open. Skeletons begin to climb out.
 
 There are 11 skeletons.
 
-The large engraving shows the map with each of the rooms labelled with
-the occupants.
+The large engraving shows the map with each of the rooms labelled but in
+a language that the players don't understand.
 
 #### The Lord's guard room
 
@@ -446,7 +468,8 @@ sarcophagi to attack the players almost immediately.
 
 Door is stiff to open.
 
-Room full of spider webs, sarcophagi are closed.
+Room full of spider webs, some light filters down from a hole in the
+ceiling, sarcophagi are closed.
 
 When the players enter, the skeletons will try to get out of their
 sarcophagi - 3 successfully will do so, the characters can hear the
@@ -464,7 +487,8 @@ the room. Can see some more sarcophagi past the arch.
 Players will feel a sense of uneasy sadness and unfulfillment as they
 walk into the room. The room feels a lot colder as well.
 
-Inscribed on the sarcophagus is, if the players can still read it:
+The players will recognise the text as the same that's on the stone
+engraving, and now on their map:
 
 > Faurin, Vanquisher of Elidyr
 
