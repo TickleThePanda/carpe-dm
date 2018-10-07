@@ -4,6 +4,12 @@ layout: plan
 title: Unbound
 ---
 
+This adventure was planned as a single-session adventure (5-6 hours) for
+three level 4 players:
+ - Meriele, a half-elf rogue
+ - Elmon, an elf bard
+ - Prince Aseir, a human fighter
+
 ## The recurring dream
 
 > Meriele and Prince Aseir, you have been having recurring dreams
@@ -229,8 +235,8 @@ The scholar, sighing, will find a map and will point the characters to
 the correct place on a map. She knows a little of the history of the
 tombs.
 
-> This is to the Tomb of the Last Rehani where the old Lords are buried
-> - this is from before our current Lords, the Morcants came here.
+> This is to the Tomb of the Last Rehani where the old Lords are buried -
+> this is from before our current Lords, the Morcants came here.
 > Unfortunately - we those who worship Ilmater (the God of Endurance) -
 > we're not that good at keeping detailed records of history.
 >
