@@ -8,11 +8,14 @@ description:
     an old elven woman who has summoned the characters to her tower.
 ---
 
-This adventure was planned as a single-session adventure (5-6 hours) for
+This adventure was planned as a single–session adventure (5–6 hours) for
 three level 4 players:
- - Meriele, a half-elf rogue
+ - Meriele, a half–elf rogue
  - Elmon, an elf bard
  - Prince Aseir, a human fighter
+
+The main goal of the adventure is to find and retrieve an amulet for an
+old elven woman who has summoned the characters to her tower.
 
 ## The recurring dream
 
@@ -35,7 +38,7 @@ three level 4 players:
 > remember the way to the tower and women who helps you.
 >
 > Elmon, you received a letter from a friend, somebody who you trust,
-> that invites you to travel to this location - you have the letter with
+> that invites you to travel to this location — you have the letter with
 > you.
 >
 > Attracted by these, you've travelled to this location.
@@ -77,14 +80,14 @@ To enter, the characters must speak the word *unbind* or *free*.
 
 > The stones making up the doorway turn to a bright light. The light
 > fades, revealing a short passage into the tower. The passage leads to
-> a brightly lit landing; glass half-bowls filled with flame on the
+> a brightly lit landing; glass half–bowls filled with flame on the
 > walls.  From here, stairs spiral upwards, starting on your right.
 > Apart from this, the landing is empty.
 
 The passage stays open after everybody walks in.
 
 The stairway follows up and around, eventually reaching a landing with a
-door on the left - facing the centre of the tower.
+door on the left — facing the centre of the tower.
 
 The lamps are made with *Continual Flame*.
 
@@ -95,7 +98,7 @@ The lamps are made with *Continual Flame*.
 > spread around the room, although its style is unlike anything you've
 > seen before.
 >  
-> On the left wall, there's a four-poster-bed with a chest sitting at
+> On the left wall, there's a four–poster bed with a chest sitting at
 > the end, and large wardrobe to the side of the bed. On the opposite
 > side, a huge bookcase is crammed with scrolls and books. In the centre
 > of the room is a large table that's dressed with food. Closest to you
@@ -117,9 +120,9 @@ food and drink, and if they accept, food will appear at the table.
 She will explain that her quest is to have her stolen amulet retrieved.
 She's chosen them because it was taken from her a long time ago and it's
 likely to be a perilous journey to retrieve it. The amulet is in the
-*Tomb of the Last Rehani*, which is close to *the City of Renaura* which is a
-2 day journey from here, across the moors. She doesn't know where the
-tomb is.
+*Tomb of the Last Rehani*, which is close to *the City of Renaura* which
+is a 2 day journey from here, across the moors. She doesn't know where
+the tomb is.
 
 She will give the adventurers an very old map and some food supplies for
 3 days travel.
@@ -130,7 +133,7 @@ and the city in the surrounding area." />
 The map shows the tower and the moors with the surrounding area. The
 tower is in the west and the city in the east. The moors surround the
 tower for west half of the map. The city is against the mountains in the
-east. A road comes from the south-east to the centre of the map,
+east. A road comes from the south–east to the centre of the map,
 following on east to the city. To the south of the road is a small
 amount of forest before mountains, that continue east of the city. To
 the north west of the moors and to north of the road is a forest.
@@ -146,8 +149,8 @@ characters can take a DC 20 Survival (Wisdom) check. On a:
    day is spent being lost in the wilderness. The second day gets them
    to the road. The third day gets them to the city in the afternoon.
 
-General environment: Moor-wilderness → Road in the moors → Road through
-hilly-forest → Road through hilly-forest broken up by pastures
+General environment: Moor–wilderness → Road in the moors → Road through
+hilly–forest → Road through hilly–forest broken up by pastures
 (mountains and city in distance)
 
 ### City of Renaura
@@ -190,8 +193,8 @@ The guards give the characters no trouble entering the city.
 
 Here the characters have a whole range of options for finding out where
 the tomb is:
- - merchants will point the characters towards March, the inn-keep at
-   *The Dragon's Claw* which is <q>just up the road - the bar-keep there
+ - merchants will point the characters towards March, the bar–keep at
+   *The Dragon's Claw* which is <q>just up the road — the bar–keep there
    talks about mad things like this</q>, if they're convinced by the
    characters
  - guards will point the characters towards the scholar, Ret, who works
@@ -239,9 +242,9 @@ The scholar, sighing, will find a map and will point the characters to
 the correct place on a map. She knows a little of the history of the
 tombs.
 
-> This is to the Tomb of the Last Rehani where the old Lords are buried -
-> this is from before our current Lords, the Morcants came here.
-> Unfortunately - we those who worship Ilmater (the God of Endurance) -
+> This is to the Tomb of the Last Rehani where the old Lords are buried
+> — this is from before our current Lords, the Morcants came here.
+> Unfortunately — we those who worship Ilmater (the God of Endurance) —
 > we're not that good at keeping detailed records of history.
 >
 > From my study of our small collection of histories, I can tell you
@@ -266,8 +269,8 @@ tombs.
 >
 > Behind the bar a balding man with silver hair is cleaning tankards.
 
-At the inn, the bar-keep, March, will very gladly welcome the characters
-to sit at the almost-empty bar and to have a drink. He will gladly tell
+At the inn, the bar–keep, March, will very gladly welcome the characters
+to sit at the almost–empty bar and to have a drink. He will gladly tell
 mildly accurate stories about a nearby tomb.
 
 > I don't know of the Tomb of the Last Rehani but there is an old tomb
@@ -279,7 +282,7 @@ mildly accurate stories about a nearby tomb.
 > library went there recently never to return.
 >
 > I doubt it's *the dead* that got her, though. Much more likely that
-> it's the goblins that use the place as a hide-out. I know that's not a
+> it's the goblins that use the place as a hide–out. I know that's not a
 > rumour! They don't really cause a problem to the people in the city so
 > the Lord here hasn't done anything about them.
 
@@ -338,7 +341,7 @@ escorted.
 > He happily gasps as you walk in, smiling.
 
 He will explain to the players about the tomb's location and how to get
-there, although that they don't know much about it now - the mad Lord
+there, although that they don't know much about it now — the mad Lord
 Bleiduid Morcant a few generations ago demanded the burning of anything
 about the Rehanis. He will explain that one of his apprentices went
 there a few weeks ago but never returned, which he sounds very sad
@@ -348,7 +351,7 @@ about. He will ask them to see if they can find this apprentice.
 
 When they reach the path, depending on what information they know.
 
-> The old road is not easy to find - the forest reclaiming it. On each
+> The old road is not easy to find — the forest reclaiming it. On each
 > side of the path, a couple of stone sentinels are crumbling.
 > Undergrowth covers the path and bushes are growing between the stones.
 
@@ -417,7 +420,7 @@ wall by 10 feet, taking 1d4 damage.
 > There's grand corridor carved out of the stone. Torches of a similar
 > design from Elidyr's tower adorn the walls, fire flickering out of
 > them. The corridor is about 200ft long and about 10ft wide. You can
-> see 3 corridors off the left hand wall and 2 off the right hand wall -
+> see 3 corridors off the left hand wall and 2 off the right hand wall —
 > these are built at odd intervals. The space in here is almost
 > pristine, apart from dust. The grand doors that are at the end of the
 > corridor are open.
@@ -469,7 +472,7 @@ supplies:
  - 50ft of hempen rope
  - a partially translated copy of the engraving showing the "Lord's
    Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
-   Vanquisher" - the writing seems to have been interrupted.
+   Vanquisher" — the writing seems to have been interrupted.
 
 <img class="map" src="/images/unbound/tomb-engraving.jpg" alt="A rough
 partial translation of the engraving." >
@@ -487,7 +490,7 @@ Room full of spider webs, some light filters down from a hole in the
 ceiling, sarcophagi are closed.
 
 When the players enter, the skeletons will try to get out of their
-sarcophagi - 3 successfully will do so, the characters can hear the
+sarcophagi — 3 successfully will do so, the characters can hear the
 other skeletons scraping to get out.
 
 After about 18 seconds, a giant spider will come to investigate.
@@ -516,8 +519,7 @@ figure will appear between the door and the players.
 
 After saying that to the players, it will start to move towards them
 with its sword out. If the players attack, the skeletons will join
-Faurin, although the ghost will step out of the fight at the
-start.
+Faurin, although the ghost will step out of the fight at the start.
 
 The ghost, gone mad with time, is only focussed on preventing it from
 ever getting to Elidyr and it will be very difficult to reason with it.
@@ -562,7 +564,7 @@ Lord Lunit convinced Faurin to agreed to kill the Elidyr. However,
 Faurin was previously her lover and instead of killing her, he instead
 imprisoned her in a warded tower, taking her amulet, a family heirloom,
 as proof of killing her.  The warded tower would only allow her to leave
-if the amulet was returned and the tower's doorway re-opened.
+if the amulet was returned and the tower's doorway reopened.
 
 Faurin had planned to later free Elidyr from the tower, when he
 discovered a way to strip the Elidyr of her powers.
