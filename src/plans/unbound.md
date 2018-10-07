@@ -31,8 +31,8 @@ old elven woman who has summoned the characters to her tower.
 >
 > You're brought to the base of the tower, where there's the outline of
 > a doorway carved in the stone of the building, facing the bottom of
-> the valley. It's here she says to <q>Wait here until there are three
-> and then speak the password "Unbind".</q>
+> the valley. It's here she says to ‘Wait here until there are three
+> and then speak the password “Unbind”.’
 >
 > The dreams end there.  Some of the specifics fade, but you can still
 > remember the way to the tower and women who helps you.
@@ -71,8 +71,8 @@ The door faces towards the entrance of the valley and is easy to find.
 Anybody who tries to work out which language it is and makes a
 successful DC 15 Intelligence (History) check discovers that the
 language is Carnian, a lost language. If the language can be understood,
-it reads: <q>Safe we keep her. Allow no will.</q> The original intent,
-however, was: <q>This keeps us safe from her, do not free her.</q>
+it reads: ‘Safe we keep her. Allow no will.’ The original intent,
+however, was: ‘This keeps us safe from her, do not free her.’
 
 To enter, the characters must speak the word *unbind* or *free*.
 
@@ -112,7 +112,7 @@ The lamps are made with *Continual Flame*.
 > Noticing you arriving, she smiles towards you and stands, gesturing
 > you into the room towards the table.
 >  
-> <q>Ah! I'm glad that you decided to join me. Please, come in.</q>
+> ‘Ah! I'm glad that you decided to join me. Please, come in.’
 
 Here, the woman introduces herself as Elidyr. She offers the characters
 food and drink, and if they accept, food will appear at the table.
@@ -194,8 +194,8 @@ The guards give the characters no trouble entering the city.
 Here the characters have a whole range of options for finding out where
 the tomb is:
  - merchants will point the characters towards March, the bar–keep at
-   *The Dragon's Claw* which is <q>just up the road — the bar–keep there
-   talks about mad things like this</q>, if they're convinced by the
+   *The Dragon's Claw* which is ‘just up the road — the bar–keep there
+   talks about mad things like this’, if they're convinced by the
    characters
  - guards will point the characters towards the scholar, Ret, who works
    in the castle library, if they're convinced by the characters
@@ -514,8 +514,8 @@ If the players open the sarcophagus, they will find a skeleton with an
 amulet. If they take the amulet, the door will slam shut. A pale white
 figure will appear between the door and the players.
 
-> <q>That amulet must stay here,</q> it says sorrowfully. <q>I cannot
-> let you leave with it or knowledge of it. I'm sorry. I'm sorry.</q>
+> ‘That amulet must stay here,’ it says sorrowfully. ‘I cannot
+> let you leave with it or knowledge of it. I'm sorry. I'm sorry.’
 
 After saying that to the players, it will start to move towards them
 with its sword out. If the players attack, the skeletons will join
