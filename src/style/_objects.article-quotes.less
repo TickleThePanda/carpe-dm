@@ -1,0 +1,14 @@
+.article {
+  q {
+    quotes: "\2018" "\2019";
+   
+    &::before {
+      content: open-quote;
+    }
+
+    &::after {
+      content: close-quote;
+    }
+  }
+}
+

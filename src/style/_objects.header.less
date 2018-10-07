@@ -1,7 +1,7 @@
 @header-font-size: 15vw;
 @header-max-font-size: 8rem;
 
-header {
+.header {
   display: flex;
   height: calc(100vh - 2 * var(--content-margin));
   align-items: flex-end;
@@ -10,22 +10,22 @@ header {
   margin-bottom: var(--content-spacing);
 }
 
-h1 {
+.header__title {
   font-size: 8rem;
 }
 
 @media screen and (max-width: 700px) {
-  header {
+  .header {
     border-bottom-width: 0.1vw;
   }
 
-  h1 {
+  .header__title {
     font-size: 15vw;
   }
 }
 
 @media print {
-  header {
+  .header {
     height: calc(100vh - 1rem);
   }
 

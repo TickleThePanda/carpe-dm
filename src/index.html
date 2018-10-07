@@ -1,18 +1,19 @@
 ---
-  layout: default
-  title: Home
+  layout: home
+  title: When I've Been a Dungeon Master
 ---
 
-<h2>Plans</h2>
 <ul>
 {%- for plan in collections.plan -%}
   <li>
-    <p>
-      <a href="{{ plan.url }}">{{ plan.data.title }}</a>
-      {% if plan.data.description %}
-        — {{ plan.data.description }}
-      {% endif %}
-    </p>
+    <a href="{{ plan.url }}">
+      {{ plan.data.title }}
+      <p>
+        {% if plan.data.description %}
+          — {{ plan.data.description }}
+        {% endif %}
+      </p>
+    </a>
   </li>
 {%- endfor -%}
 </ul>
