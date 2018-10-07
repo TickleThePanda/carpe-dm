@@ -6,11 +6,11 @@ title: Unbound
 
 ## The recurring dream
 
-> Nim and Prince Aseir, you have been having recurring dreams recently;
-> not every night, but every few nights. The dreams always start with
-> you woken up suddenly by an ageing elven woman. With her help, you
-> flee a different horror or are drawn by the promise of reward to a
-> distant tower.
+> Meriele and Prince Aseir, you have been having recurring dreams
+> recently; not every night, but every few nights. The dreams always
+> start with you woken up suddenly by an ageing elven woman. With her
+> help, you flee a different horror or are drawn by the promise of
+> reward to a distant tower.
 >
 > Tall and alone, the unadorned tower stands in an almost barren valley.
 > Its stonework is slotted together; each stone taller than a human but
@@ -33,8 +33,8 @@ title: Unbound
 > You have all, making your own journeys, finally arrived. The cold,
 > drizzle, and blustery wind fight through your clothes, chilling you.
 > You can smell the musk of the heather and peat. You arrived at
-> different times over the last few days, Nim, then Prince Aseir, then
-> Elmon. 
+> different times over the last few days, Meriele, then Prince Aseir,
+> then Elmon. 
 
 Allow for character introductions here.
 
@@ -42,14 +42,12 @@ Allow for character introductions here.
 
 ### The tower
 
-The tower is as Nim and Prince Aseir saw in their dreams: tall, standing
-at around 130ft, it narrows slightly as it goes towards the top. There's
-no decoration and no windows. The unweathered stone is smooth to touch. 
+The tower is as Meriele and Prince Aseir saw in their dreams: tall,
+standing at around 130ft, it narrows slightly as it goes towards the
+top. There's no decoration and no windows. The unweathered stone is
+smooth to touch. 
 
 The door faces towards the entrance of the valley and is easy to find.
-
-If a character uses detect magic, they will discover that there is an
-Abjuration field in the 
 
 #### The door
 
