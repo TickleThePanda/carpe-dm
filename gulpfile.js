@@ -9,7 +9,7 @@ gulp.task('css', () => {
 });
 
 gulp.task('images', () => {
-  return gulp.src('src/images/**/*.png')
+  return gulp.src('src/images/**/*.{png,jpg,jpeg}')
           .pipe(gulp.dest('_site/images/'));
 })
 
@@ -27,6 +27,6 @@ gulp.task('watch', () => {
     gulp.series('generate-dev')
   );
   gulp.watch('src/style/**/*.less', gulp.series('css'));
-  gulp.watch('src/images/**/*.png', gulp.series('images'));
+  gulp.watch('src/images/**/*.{png,jpg,jpeg}', gulp.series('images'));
 });
 

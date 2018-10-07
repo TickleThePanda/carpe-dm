@@ -116,16 +116,16 @@ tomb is.
 She will give the adventurers an very old map and some food supplies for
 3 days travel.
 
-The map looks as follows: 
+<img class="map" src="/images/unbound/area-map.jpg" alt="A map of tower
+and the city in the surrounding area." />
 
-```
- ~  ~   @ @@@@@ ^ ^
-   x  ~  @@@@   ^^^ ^
-~  ~ ~   +-----O ^^
-  ~     / @@@ ^ ^  ^
-~      / ^ ^ ^ ^ ^
- ~    /   ^^^ ^
-```
+The map shows the tower and the moors with the surrounding area. The
+tower is in the west and the city in the east. The moors surround the
+tower for west half of the map. The city is against the mountains in the
+east. A road comes from the south-east to the centre of the map,
+following on east to the city. To the south of the road is a small
+amount of forest before mountains, that continue east of the city. To
+the north west of the moors and to north of the road is a forest.
 
 ### Travel to the City of Renaura
 
@@ -353,8 +353,8 @@ heading along the path.
 
 ### Tomb of the Last Rehani
 
-<img class="map" alt="A map of the Tomb of *TOMB NAME*"
-src="/images/maps/unbound_tomb.png">
+<img class="map" alt="A map of the Tomb of the Last Rehani"
+src="/images/unbound/tomb-reference.png">
 
 #### Entrance to the tomb
 
@@ -438,6 +438,18 @@ The smaller corridors as the characters go along:
 > robes. A backpack lies on the floor before the engraving, its contents
 > strewn.
 
+After two minutes in the room, the stone above the centre of the room
+flashes a bright blue. Nothing happens for a couple of seconds until the
+characters can hear the scraping of stone. The sarcophagus lids are
+sliding open. Skeletons begin to climb out. There are 11 skeletons.
+
+The large engraving shows a simple carved map with each of the rooms
+labelled; the engravings are in Carnian.
+
+<img class="map" src="/images/unbound/tomb-engraving.jpg" alt="The
+engraving showing the rooms labled in Carnian.">
+
+
 The backpack (and the area around the backpack) contains the following
 supplies:
  - a hammer
@@ -447,17 +459,12 @@ supplies:
  - 10 days of rations
  - a waterskin
  - 50ft of hempen rope
- - a partially translated copy of the engraving.
+ - a partially translated copy of the engraving showing the "Lord's
+   Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
+   Vanquisher" - the writing seems to have been interrupted.
 
-After two minutes in the room, the stone above the centre of the room
-flashes a bright blue. Nothing happens for a couple of seconds until the
-characters can hear the scraping of stone. The sarcophagus lids are
-sliding open. Skeletons begin to climb out.
-
-There are 11 skeletons.
-
-The large engraving shows the map with each of the rooms labelled but in
-a language that the players don't understand.
+<img class="map" src="/images/unbound/tomb-engraving.jpg" alt="A rough
+partial translation of the engraving." >
 
 #### The Lord's guard room
 
