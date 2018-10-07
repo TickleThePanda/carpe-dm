@@ -127,8 +127,8 @@ the tomb is.
 She will give the adventurers an very old map and some food supplies for
 3 days travel.
 
-<img class="map" src="/images/unbound/area-map.jpg" alt="A map of tower
-and the city in the surrounding area." />
+![ A map of tower and the city in the surrounding area.
+](/images/unbound/area-map.jpg)
 
 The map shows the tower and the moors with the surrounding area. The
 tower is in the west and the city in the east. The moors surround the
@@ -364,8 +364,8 @@ heading along the path.
 
 ### Tomb of the Last Rehani
 
-<img class="map" alt="A map of the Tomb of the Last Rehani"
-src="/images/unbound/tomb-reference.png">
+![A map of the Tomb of the Last Rehani.
+](/images/unbound/tomb-reference.png)
 
 #### Entrance to the tomb
 
@@ -457,8 +457,8 @@ sliding open. Skeletons begin to climb out. There are 11 skeletons.
 The large engraving shows a simple carved map with each of the rooms
 labelled; the engravings are in Carnian.
 
-<img class="map" src="/images/unbound/tomb-engraving.jpg" alt="The
-engraving showing the rooms labled in Carnian.">
+![The engraving showing the rooms labelled in Carnian.
+](/images/unbound/tomb-engraving.jpg)
 
 
 The backpack (and the area around the backpack) contains the following
@@ -474,8 +474,8 @@ supplies:
    Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
    Vanquisher" — the writing seems to have been interrupted.
 
-<img class="map" src="/images/unbound/tomb-engraving.jpg" alt="A rough
-partial translation of the engraving." >
+![A rough partial translation of the engraving.
+](/images/unbound/tomb-engraving.jpg)
 
 #### The Lord's guard room
 
