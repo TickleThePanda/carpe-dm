@@ -1,9 +1,25 @@
-ul {
+ul, ol {
   margin-left: 2rem;
-  li {
-    list-style: disc;
-  }
 
   margin-bottom: var(--content-spacing);
+}
+
+ul {
+  & > li {
+    list-style: disc;
+  }
+}
+
+ol {
+  counter-reset: oli;
+
+  li {
+    counter-increment: oli;
+  }
+
+  & > li::before {
+    font-weight: 700;
+    content: counter(oli) ". ";
+  }
 }
 
