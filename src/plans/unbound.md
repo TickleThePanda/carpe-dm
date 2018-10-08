@@ -475,7 +475,7 @@ supplies:
    Vanquisher" — the writing seems to have been interrupted.
 
 ![A rough partial translation of the engraving.
-](/images/unbound/tomb-engraving.jpg)
+](/images/unbound/tomb-translated.jpg)
 
 #### The Lord's guard room
 
