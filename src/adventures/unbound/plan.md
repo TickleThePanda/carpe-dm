@@ -6,8 +6,8 @@ type: "Plan"
 title: Unbound
 description:
     A single–session adventure (5–6 hours) for three level 4 characters.
-    The main goal of the adventure is to find and retrieve an amulet for
-    an old elven woman who has summoned the characters to her tower.
+    The adventurers are summoned by an elven woman to her tower and are
+    sent on a quest to find and retireve a stolen family heirloom.
 
 date: 2018-10-05
 
