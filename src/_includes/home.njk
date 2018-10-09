@@ -4,5 +4,6 @@
 
 {% extends 'default.njk' %}
 
-{{ content | safe }}
-
+{% block main %}
+  {{ content | safe }}
+{% endblock %}

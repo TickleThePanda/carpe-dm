@@ -21,7 +21,9 @@
       <h1 class="header__title">{{title}}</h1>
     </header>
     <main>
-      {{ content | safe }}
+      {% block main %}
+
+      {% endblock %}
     </main>
   </body>
 </html>

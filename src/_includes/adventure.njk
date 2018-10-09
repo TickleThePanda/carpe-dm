@@ -13,7 +13,10 @@
   {% endif %}
 {% endblock %}
 
-<article class="article">
-  {{ content | safe }}
-</article>
+
+{% block main %}
+  <article class="article">
+    {{ content | safe }}
+  </article>
+{% endblock %}
 
