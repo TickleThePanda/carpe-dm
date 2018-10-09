@@ -1,6 +1,8 @@
 ---
-tags: plan
-layout: plan
+tags: ['plan', 'adventure-unbound']
+
+id: adventure-unbound
+
 title: Unbound
 description:
     A single–session adventure (5–6 hours) for three level 4 characters.

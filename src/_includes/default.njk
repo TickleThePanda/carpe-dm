@@ -1,6 +1,3 @@
----
-
----
 <!doctype html>
 <html lang="en">
   <head>
@@ -13,8 +10,12 @@
   <body>
     <header class="header">
       {% if not home %}
-        <nav class="nav">
-          <a class="nav__item" href="/">Home</a>
+        <nav class="nav top-drop">
+          <a class="top-drop__group-item nav__link" href="/">Home</a>
+          <ul class="top-drop__group">
+            {% block nav %}
+            {% endblock %}
+          </ul>
         </nav>
       {% endif %}
       <h1 class="header__title">{{title}}</h1>
