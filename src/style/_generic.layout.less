@@ -2,11 +2,23 @@ body {
   margin: var(--content-margin);
 }
 
-main {
-  max-width: var(--content-width);
+/* IE width */
+.content {
+  display: block;
+
+  max-width: @content-width;
   margin: auto;
-  margin-top: var(--content-margin);
-  margin-bottom: 50vh;
+}
+
+@supports(max-width: var(--content-width)) {
+
+  .content {
+    max-width: var(--content-width);
+    margin: auto;
+    margin-top: var(--content-margin);
+    margin-bottom: 50vh;
+  }
+
 }
 
 @media print {
