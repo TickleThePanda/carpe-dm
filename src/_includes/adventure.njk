@@ -5,7 +5,8 @@
 
 {% block nav %}
   {% if collections[id].length > 1 %}
-    {%- for i in collections[id] -%}
+    {% set adventures = collections[id] %}
+    {%- for i in adventures -%}
       <li class="top-drop__item">
         <a class="nav__link nav__link--lesser {{ "nav__link--active" if i.url == page.url }}" href="{{ i.url }}">{{ i.data.type }}</a>
       </li>

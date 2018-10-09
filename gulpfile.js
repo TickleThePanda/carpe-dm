@@ -23,7 +23,7 @@ gulp.task('build', gulp.series('generate', 'assets'));
 
 gulp.task('watch', () => {
   gulp.watch(
-    ['.eleventy.js', 'src/**/*.{md,html,njk}'],
+    ['.eleventy.js', 'src/**/*.{md,html,njk,json}'],
     gulp.series('generate-dev')
   );
   gulp.watch('src/style/**/*.less', gulp.series('css'));
