@@ -6,12 +6,19 @@
   height: calc(100vh - 2 * var(--content-margin));
   align-items: flex-end;
   line-height: 1;
-  border-bottom: 0.2rem solid @palette-black;
   margin-bottom: var(--content-spacing);
 }
 
 .header__title {
   font-size: 8rem;
+  position: sticky;
+  bottom: var(--content-margin);
+}
+
+.header__title::after {
+  content: "";
+  display: block;
+  border-bottom: 0.2rem solid @palette-black;
 }
 
 @media screen and (max-width: 700px) {
