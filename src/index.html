@@ -6,13 +6,11 @@
 <ul>
 {%- for plan in collections.plan -%}
   <li>
-    <a href="{{ plan.url }}">
-      {{ plan.data.title }}
-      <p>
-        {% if plan.data.description %}
-          — {{ plan.data.description }}
-        {% endif %}
-      </p>
+    <a class="card card--link" href="{{ plan.url }}">
+      <h2 class="card__title">{{ plan.data.title }}</h2>
+      {% if plan.data.description %}
+        <p class="card__content">{{ plan.data.description }}</p>
+      {% endif %}
     </a>
   </li>
 {%- endfor -%}
