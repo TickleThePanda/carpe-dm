@@ -3,16 +3,24 @@
   title: When I'm a Dungeon Master
 ---
 
-<ul>
-{%- for plan in collections.plan -%}
-  <li>
-    <a class="card card--link" href="{{ plan.url }}">
-      <h2 class="card__title">{{ plan.data.title }}</h2>
-      {% if plan.data.description %}
-        <p class="card__content">{{ plan.data.description }}</p>
-      {% endif %}
-    </a>
-  </li>
-{%- endfor -%}
-</ul>
+<article class="article">
+  <p>
+    I'm web developer and a D&amp;D dungeon master and player. Naturally, I used
+    the web to help me write an adventure. Here you can find the plans for my
+    adventures and my experience running them.
+</article>
+<nav>
+  <ul>
+  {%- for plan in collections.plan -%}
+    <li>
+      <a class="card card--link" href="{{ plan.url }}">
+        <h2 class="card__title">{{ plan.data.title }}</h2>
+        {% if plan.data.description %}
+          <p class="card__content">{{ plan.data.description }}</p>
+        {% endif %}
+      </a>
+    </li>
+  {%- endfor -%}
+  </ul>
+</nav>
 
