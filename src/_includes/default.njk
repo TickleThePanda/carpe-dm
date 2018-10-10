@@ -12,10 +12,8 @@
       {% if not home %}
         <nav class="nav top-drop">
           <a class="top-drop__group-item nav__link" href="/">Home</a>
-          <ul class="top-drop__group">
-            {% block nav %}
-            {% endblock %}
-          </ul>
+          {% block nav %}
+          {% endblock %}
         </nav>
       {% endif %}
       <h1 class="header__title">{% block title %}{{title}}{% endblock %}</h1>

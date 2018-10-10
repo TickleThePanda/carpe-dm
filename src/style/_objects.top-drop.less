@@ -1,7 +1,5 @@
 .top-drop {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-column-gap: 1rem;
+  display: flex;
 
   position: absolute;
   top: 0;
@@ -12,11 +10,17 @@
 }
 
 .top-drop__group-item {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+
   border: solid 1px @palette-black;
   border-top: none;
 }
 
 .top-drop__group {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+
   display: flex;
 
   border: solid 1px @palette-black;
