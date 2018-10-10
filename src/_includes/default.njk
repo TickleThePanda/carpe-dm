@@ -22,9 +22,19 @@
     </header>
     <main class="content">
       {% block main %}
-
+        {{ content | safe }}
       {% endblock %}
     </main>
+    <footer class="license">
+      This site
+      <span class="license__work-title" xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+        <a href="https://dm.dnd.ticklethepanda.co.uk">When I'm a Dungeon Master</a>
+      </span>
+      is licensed under an
+      <a class="license_license-type" rel="license" href="/license/">
+        Open Gaming License, Verison 1.0a
+      </a>.
+    </footer>
   </body>
 </html>
 
