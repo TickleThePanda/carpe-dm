@@ -1,6 +1,8 @@
 
 module.exports = config => {
 
+  config.setDataDeepMerge(true);
+
   return {
     dir: {
       input: "src",
