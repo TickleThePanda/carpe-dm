@@ -1,5 +1,5 @@
 ---
-tags: ['plan', 'adventure-unbound']
+tags: ['plan']
 
 type: "Plan"
 

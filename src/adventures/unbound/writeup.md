@@ -1,5 +1,5 @@
 ---
-tags: ['writeup', 'adventure-unbound']
+tags: ['writeup']
 
 type: Writeup
 
