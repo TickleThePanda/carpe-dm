@@ -8,6 +8,11 @@ gulp.task('css', () => {
          .pipe(gulp.dest('_site/style/'));
 });
 
+gulp.task('fonts', () => {
+  return gulp.src('src/fonts/**/*.{otf,woff}')
+          .pipe(gulp.dest('_site/fonts/'));
+});
+
 gulp.task('images', () => {
   return gulp.src('src/images/**/*.{png,jpg,jpeg}')
           .pipe(gulp.dest('_site/images/'));
@@ -17,7 +22,7 @@ gulp.task('generate', shell.task('eleventy'));
 
 gulp.task('generate-dev', shell.task('eleventy', { ignoreErrors: true }));
 
-gulp.task('assets', gulp.parallel('css', 'images'));
+gulp.task('assets', gulp.parallel('css', 'images', 'fonts'));
 
 gulp.task('build', gulp.series('generate', 'assets'));
 
@@ -28,5 +33,6 @@ gulp.task('watch', () => {
   );
   gulp.watch('src/style/**/*.less', gulp.series('css'));
   gulp.watch('src/images/**/*.{png,jpg,jpeg}', gulp.series('images'));
+  gulp.watch('src/fonts/**/*.{otf,woff}', gulp.series('fonts'));
 });
 

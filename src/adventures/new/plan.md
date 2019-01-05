@@ -24,16 +24,21 @@ to stop the reprehensible events that are disturbing the city.
 
 ## The Letter
 
-> Meet at the Watcher's Tavern in Jairnt - just West of Renaura - on the
-> night of the next new moon. There's a matter to discuss that affects
-> many people's lives. I can provide you with a significant reward if
-> you agree to help.
->
-> Bring Elmon and Meriele.
+<blockquote class="letter">
 
-## Jairnt
+  Meet at the Watcher's Tavern in Jairnt on the night of the next new
+  moon. There's a matter to discuss that affects many people's lives. I
+  can provide you with a significant reward if you agree to help.
 
-> The small 
+  Bring Elmon and Meriele.
 
->
+</blockquote>
+
+## Watcher's Tavern in Jairnt
+
+## City of Renaura
+
+
+The city's previous leader, Lord Morcant, has been supplanted by
+Telnetar.
 
