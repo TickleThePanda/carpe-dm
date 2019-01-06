@@ -1,4 +1,5 @@
 {
   "id": "adventure-new",
-  "tags": ["adventure-new"]
+  "tags": ["adventure-new"],
+  "draft": true
 }
