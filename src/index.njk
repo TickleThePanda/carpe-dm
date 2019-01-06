@@ -11,6 +11,7 @@
 </article>
 <nav class="home-page-nav">
   <h2 class="home-page-nav__nav-section-title">Adventures</h2>
+  <p>These are adventures that I have either ran, or that are ready to be ran.
   <ul>
     {% for plan in collections.plan | reverse %}
       {% if not plan.draft %}
@@ -26,6 +27,7 @@
     {% endfor %}
   </ul>
   <h2 class="home-page-nav__nav-section-title">Draft Adventures</h2>
+  <p>These are adventures that I'm in the process of writing.
   <ul>
     {% for plan in collections.plan %}
       {% if plan.draft %}
