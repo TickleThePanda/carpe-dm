@@ -1,7 +1,7 @@
 .card {
 
-  border-left: 1px solid @palette-black;
-  border-right: 1px solid @palette-black;
+  background-color: @palette-black;
+  color: @palette-white;
 
   padding: 1rem;
   padding-top: 0.8rem;
@@ -15,11 +15,17 @@
 
   display: block;
 
-  color: @palette-black;
   text-decoration: none;
 
+  transition-property: background-color;
+  transition-duration: 0.2s;
+
   &:hover {
-    text-decoration: underline;
+    .card__title {
+      text-decoration: underline;
+    }
+
+    background-color: lighten(@palette-black, 20%, relative);
   }
 
 }
