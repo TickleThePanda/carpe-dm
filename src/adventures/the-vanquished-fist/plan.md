@@ -3,7 +3,7 @@ tags: ['plan']
 
 type: "Plan"
 
-title: New
+title: The Vanquished Fist
 description:
     A single–session adventure (9-11 hours) for three fith-level
     characters. The adventures receive an anonymous letter asking them
