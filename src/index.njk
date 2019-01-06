@@ -9,8 +9,8 @@
     the web to help me write an adventure. Here you can find the plans for my
     adventures and my experience running them.
 </article>
-<nav>
-  <h2>Adventures</h2>
+<nav class="home-page-nav">
+  <h2 class="home-page-nav__nav-section-title">Adventures</h2>
   <ul>
     {% for plan in collections.plan | reverse %}
       {% if not plan.draft %}
@@ -25,7 +25,7 @@
       {% endif %}
     {% endfor %}
   </ul>
-  <h2>Draft Adventures</h2>
+  <h2 class="home-page-nav__nav-section-title">Draft Adventures</h2>
   <ul>
     {% for plan in collections.plan %}
       {% if plan.draft %}
