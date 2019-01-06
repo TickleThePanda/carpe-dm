@@ -14,7 +14,7 @@
   <p>These are adventures that I have either ran, or that are ready to be ran.
   <ul>
     {% for plan in collections.plan | reverse %}
-      {% if not plan.draft %}
+      {% if not plan.data.draft %}
         <li>
           <a class="card card--link" href="{{ plan.url }}">
             <h3 class="card__title">{{ plan.data.title }}</h2>
@@ -30,7 +30,7 @@
   <p>These are adventures that I'm in the process of writing.
   <ul>
     {% for plan in collections.plan %}
-      {% if plan.draft %}
+      {% if plan.data.draft %}
         <li>
           <a class="card card--link" href="{{ plan.url }}">
             <h3 class="card__title">{{ plan.data.title }}</h2>
