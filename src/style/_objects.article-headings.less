@@ -2,6 +2,16 @@ body {
   counter-reset: h2i;
 }
 .article {
+  h2, h3, h4, h5, h6 {
+    display: flex;
+
+    line-height: 1.2;
+
+    &::before {
+      white-space: pre;
+    }
+  }
+
   h2 {
     counter-reset: h3i;
 
