@@ -1,4 +1,4 @@
-@header-font-size: 15vw;
+@header-font-size: 15vmin;
 @header-max-font-size: 8rem;
 
 .header {
@@ -23,7 +23,7 @@
 
   width: 100%;
 
-  font-size: 8rem;
+  font-size: @header-font-size;
   position: sticky;
   bottom: var(--content-margin);
 
@@ -38,17 +38,7 @@
 .header__title::after {
   content: "";
   display: block;
-  border-bottom: 0.2rem solid @palette-black;
-}
-
-@media screen and (max-width: 700px) {
-  .header {
-    border-bottom-width: 0.1vw;
-  }
-
-  .header__title {
-    font-size: 15vw;
-  }
+  border-bottom: 0.07em solid @palette-black;
 }
 
 @media print {
