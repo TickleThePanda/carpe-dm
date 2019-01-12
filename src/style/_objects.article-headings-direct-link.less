@@ -1,0 +1,22 @@
+.direct-link {
+  color: #ffffff;
+  text-decoration: none;
+
+  font-size: 0.8em;
+  font-weight: 400;
+  vertical-align: center;
+}
+
+:hover > .direct-link { 
+  color: @palette-dark-grey;
+}
+
+.direct-link:hover {
+  color: @palette-black;
+}
+
+@media print {
+  .direct-link {
+    display: none;
+  }
+}
