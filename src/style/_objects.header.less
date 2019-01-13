@@ -26,18 +26,25 @@
   font-family: @heading-font;
   font-size: @header-font-size;
   position: sticky;
-  bottom: var(--content-margin);
-}
+  margin-bottom: var(--content-margin);
 
-.header__title::after {
-  content: "";
-  display: block;
-  border-bottom: 0.07em solid @palette-black;
+  border-block-end: 0.07em solid @palette-black;
 }
 
 @media print {
   .header {
     height: calc(100vh - 1rem);
+  }
+}
+
+@media screen and (orientation: portrait) {
+
+  .header__title {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    display: flex;
+    align-items: flex-end;
   }
 
 }
