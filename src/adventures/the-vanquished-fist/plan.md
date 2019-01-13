@@ -33,26 +33,38 @@ realms.
 Since her escape using her amulet, Elidyr's has been planning to release
 great evil on the world as revenge for her prolonged imprisonment. The
 players will remember the symbol on her amulet as a rising sun behind a
-dagger <small>(this was not revealed to the players in
+dagger pointing down <small>(this was not revealed to the players in
 [Unbound](/adventures/unbound/plan/))</small>.
 
-Elidyr works in total secrecy, concealing her location with magic. She
-commands two loyal spellcasters known to her as the *Olinarelidyr*; a
-few know these as "The Vanquished Fist". The first of these is Qa'lir,
-the second is Qa'por. These spellcasters have been tasked with bringing
-Ternia under her control. Elidyr communicates with the Olinarelidyr
-using sending stones, each carved as a monogram of Elidyr's symbol and
-the spellcaster's symbols. 
+![Elidyr's symbol showing a rising sun behind a dagger pointing
+down](/images/elidyrs-symbol.svg)
 
-### Qa'lir
+Elidyr works in total secrecy, concealing her location with magic. She
+commands two loyal spellcasters *Qa'lir* and *Qa'por*, known to her as
+the *Olinarelidyr*. Qa'lir and Qa'por are twins. They are know to common
+folk as "The Vanquished Fist". The Olinarelidyr have been tasked with
+bringing Ternia under her control. Elidyr communicates with the
+Olinarelidyr using sending stones, each carved with Elidyr's
+symbol and their own. 
+
+### Qa'lir and Qa'por
 
 The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
 Lord Morcant and place a puppet in his place.
 
-### Qa'por
+Qa'lir's symbol is a rope burning in the middle. The symbol on the
+shared sending stone with Elydir is shown by a rope burning in the
+middle under Elidyr's symbol. 
 
-The second, Qa'por, travelled to bring armies of evil creatures to
-Elidyr's side.
+The second, Qa'por, is travelling to bring armies of evil creatures to
+Elidyr's side. It's unlikely that the characters will find Qa'por,
+though they will find information that will help them find Qa'por in the
+future.
+
+Qa'por's symbol is a shattered chain. The symbol on the shared sending
+stone with Elydir is shown by a shattered chain under Elidyr's symbol.
+
+Qa'lir and Qa'por share a sending stone, the symbol shows th 
 
 ### The City of Renaura
 

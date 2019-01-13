@@ -14,7 +14,7 @@ gulp.task('fonts', () => {
 });
 
 gulp.task('images', () => {
-  return gulp.src('src/images/**/*.{png,jpg,jpeg}')
+  return gulp.src('src/images/**/*.{png,jpg,jpeg,svg}')
           .pipe(gulp.dest('_site/images/'));
 })
 
@@ -32,7 +32,7 @@ gulp.task('watch', () => {
     gulp.series('generate-dev')
   );
   gulp.watch('src/style/**/*.less', gulp.series('css'));
-  gulp.watch('src/images/**/*.{png,jpg,jpeg}', gulp.series('images'));
+  gulp.watch('src/images/**/*.{png,jpg,jpeg,svg}', gulp.series('images'));
   gulp.watch('src/fonts/**/*.{otf,woff}', gulp.series('fonts'));
 });
 
