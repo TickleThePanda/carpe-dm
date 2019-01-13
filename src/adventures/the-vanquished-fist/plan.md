@@ -22,21 +22,42 @@ for three fifth-level players:
 The adventurers receive a letter begging for them to return to Renaura
 to stop the reprehensible events that are disturbing the city.
 
-## Background info
+## Background introduction
 
-Since her escape, Elidyr's has caused a fee major events in the area of
-Renaura. Though her whereabouts is unknown, she has a two loyal
-spellcasters known secretly as "Olinarelidyr". A few people know these
-as "The Vanquished's Fist".
+This campaign takes place in the region of Ternia in the areas
+surrounding the City of Renaura. Ternia exists somewhere the forgotten
+realms.
 
-These spellcasters have been tasked with a job, building an army to
-bring the whole of Ternia under her command.
+### Elidyr and the Olinarelidyr
+
+Since her escape using her amulet, Elidyr's has been planning to release
+great evil on the world as revenge for her prolonged imprisonment. The
+players will remember the symbol on her amulet as a rising sun behind a
+dagger <small>(this was not revealed to the players in
+[Unbound](/adventures/unbound/plan/))</small>.
+
+Elidyr works in total secrecy, concealing her location with magic. She
+commands two loyal spellcasters known to her as the *Olinarelidyr*; a
+few know these as "The Vanquished Fist". The first of these is Qa'lir,
+the second is Qa'por. These spellcasters have been tasked with bringing
+Ternia under her control. Elidyr communicates with the Olinarelidyr
+using sending stones, each carved as a monogram of Elidyr's symbol and
+the spellcaster's symbols. 
+
+### Qa'lir
 
 The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
 Lord Morcant and place a puppet in his place.
 
-The second of the Olinarelidyr, Qa'por, travelled to bring armies of
-evil creatures to Elidyr's side.
+### Qa'por
+
+The second, Qa'por, travelled to bring armies of evil creatures to
+Elidyr's side.
+
+### The City of Renaura
+
+The prosperity of Renaura has now passed. The influence of Qa'lir has
+spread corruption in almost all parts of the city.
 
 ### The Deposition of Lord Morcant
 
@@ -59,13 +80,61 @@ parlour, they immediately fought Lord Morcant's guards, attempting to
 kill the Lord. Dark magic was used during the fight and Lord Morcant,
 realising the threat, fled with his family.
 
+### Qa'lir's servants
+
+Qa'lir's servants are Wights
+
+### Qa'lir's spies
+
+Qa'lir has spies throughout all parts of the city, from beggars to
+servants in the remaining noble's houses. It only takes hours for
+displays of rebellion to reach the ears of Qa'lir. These spies have been
+bribed or threatened by Qa'lir's servants.
+
+### Captain of the Guards
+
+The Captain of the Guards is one of Qa'lir's servants, *Kexzor*.
+
+### Guards
+
+In general, the guards now live in fear of their new leader where before
+they were happy to serve. Severe disobedience usually leads to corporal
+or capital punishment. The guards are rarely used by the city government
+to prevent crime but instead are used to prevent the uprising of the
+people.
+
+Guards are rarely punished for villainy and some (roughly 3/10) are
+revelling in it.
+
+A rare few very good natured guards (roughly 1/10) will be willing to
+help the characters, especially if they see something that makes them
+realise the corruption. These guards will usually do it privately
+fearing the other guards. Most will be caught at some point.
+
+The remaining guards will follow most commands from their superiors out
+of fear.
+
+### Peasants 
+
+Between harassment from guards and the rising crime in the city,
+peasants are downtrodden and.
+
+### Merchants
+
+### Priests
+
+### Crime
+
+Crime is now rife in the city, though very little of it is organised.
+Qa'lir has killed or threatened most 
+
 ### The noble houses of Renaura
 
 There are four noble houses of Renaura. Each have held their family
 positions for a long time and have prospered under the rule of the
 Morcants.
 
-#### Telnetar
+### The noble house of Telnetar
 
 The family of Telnetar were some of the earlier supporters of the
 Morcant's and have maintained a very close relationship with the crown.
@@ -74,19 +143,19 @@ They were a rich merchant family, focussing on rich foods and drinks.
 The leader of the Telnetar, Meneri Telnetar is currently controlled by
 Qa'lir.
 
-#### Shenera
+### The noble house of Shenera
 
 The family of Shenera have close ties to the 
 
 The leader of the Sherena, Fernia Sherena, was recently executed for
 treason by Telnetar, the location of her family is unknown.
 
-#### Farnit
+### The noble house of Farnit
 
 The family of Farnit own multiple mines, ranging from economic metals to
 precious metals and stones.
 
-#### Perthana
+### The noble house of Perthana
 
 The family of Perthana own a large amount of the land.
 
@@ -159,11 +228,12 @@ The woman's petition to the character's:
 >
 > It's odd, because Telnetar, when he was a noble was good-hearted and
 > sociable. Now, he rarely leaves the castle and gives tyrannical and
-> harsh orders to quash any opposition to his rule.
+> harsh orders to quash any opposition to his rule. The people of the
+> city are living and acting out of fear.
 >
 > My request of you, adventurers, is that you find out what Telnetar is
-> doing and put a stop to it. You must do this discretely or I think it
-> is likely that you will fail.
+> doing and put a stop to it. You must stick together and be discrete or
+> I think it is likely that you will be doomed to fail.
 
 The petitioner is the daughter of Lord Morcant, well versed in the
 politics of the city, poised to be the next Lord of the city. She fled
@@ -192,8 +262,6 @@ She will give them 100gp for the troubles so far.
 > of snow covers the road. Most of the trees are bare.
 
 ## City of Renaura
-
-### From a distance
 
 > The forest clears after a few miles, showing the bare foothills
 > surrounding the City of Renaura which is a few miles away. Though most
@@ -241,7 +309,7 @@ the Temple of Ilmater is going to be executed in the morning of the next
 day. They will know that the temple's clerk is currently being held in
 the Sherrif's jail.
 
-### The Lying Loot
+### The Lying Lute
 
 This is another inn in the city 
 
@@ -259,8 +327,6 @@ know that Glanna realised something from their old records but he won't
 know what. She went looking for some more information but was arrested
 by guards.
 
-### 
-
 ### The public execution of Glanna in the city square
 
 This will occur on the morning of the second day that the characters are
@@ -269,13 +335,32 @@ in the city, if the characters haven't saved Glanna
 ### Telnetar's mansion
 
 There's a small guard presence outside the front gates of the mansion,
-preventing easy access.
+preventing easy access, these guards are under order from the new Lord
+to prevent civilians from entering the Lord's mansion. These guards
+don't know what's inside the mansion. The guards will react to loud
+noises inside the manor, worrying that they've failed at their job.
 
-In the mansion are constructs and undead.
+Iron fences, 10ft high, with hedges behind them surround the Lord
+Telnetar's mansion grounds. These are well kept 
+
+A few servants have survived by barricading themselves in the noble's
+chambers <SOME MAGIC ITEM?>.
+
+#### The grand entrance hall
+
+> The entrance hall is now falling into ruin. A grand staircase is
+> straight ahead, though half of it is collapsed. Large chunks of the
+> marble banister have fallen into the staircase.
+>
+> Suits of armour 
+
+The entrance of the mansion is guarded by the swords of the suits of
+armour. The servants have been reanimated as zombies.
 
 ### Shenera's mansion
 
-The mansion has been looted.
+The mansion now holds an army of Kenku, lead by a Cambion.
+
 
 ### Farnit's mansion (the rebellion's base)
 
@@ -322,20 +407,15 @@ instructions. It will only be signed with a symbol with wings and
 
 ### Assassination
 
-If the thugs fail, Qa'lir will send an assassin. The assassin will have
-a letter from Qa'lir with details of each of the characters and their
-recent whereabouts.
+If the thugs fail, Qa'lir will send an Invisible Stalker as an assassin.
+It will be under instruction to kill the players in a private place,
+probably their room in an inn or even a safe-house. When the players
+enter the 
 
 ### Guards
 
 If the assassin fails, Qa'lir will send guards to incarcerate the
-characters. If the characters haven't *actually* done anything wrong
-yet, the guards will let the characters go if persuaded or bribed.
-However, if the characters have notoriety, they will not
+characters (if their location is known) for *treason*. These guards
+will attempt to jail the players in the 
 
-### Elydir
-
-If all of the above fail, then Qa'lir will report to Elydir about the
-characters in the city. Elydir will appear to Prince Aesir in
-nightmares.
 
