@@ -23,16 +23,10 @@
 
   width: 100%;
 
+  font-family: @heading-font;
   font-size: @header-font-size;
   position: sticky;
   bottom: var(--content-margin);
-
-  @stroke-size: 0.015em;
-
-  text-shadow: -@stroke-size -@stroke-size 0 @palette-white,
-                @stroke-size -@stroke-size 0 @palette-white,
-               -@stroke-size  @stroke-size 0 @palette-white,
-                @stroke-size  @stroke-size 0 @palette-white;
 }
 
 .header__title::after {
