@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="536.81976"
@@ -18,29 +17,7 @@
    inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="elidyrs-symbol_inkscape.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4606">
-      <stop
-         style="stop-color:#faffff;stop-opacity:1;"
-         offset="0"
-         id="stop4602" />
-      <stop
-         style="stop-color:#faffff;stop-opacity:0;"
-         offset="1"
-         id="stop4604" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4606"
-       id="linearGradient4608"
-       x1="92.83638"
-       y1="189.61031"
-       x2="115.37599"
-       y2="189.61031"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -52,7 +29,7 @@
      inkscape:cx="253.79298"
      inkscape:cy="160.29363"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -83,9 +60,9 @@
      style="display:inline"
      transform="translate(-34.285094,-82.202336)">
     <path
-       style="fill:#550000;stroke:#ffffff;stroke-width:1.12778723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#550000;stroke:none;stroke-width:1.12778723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-y="5.3843257e-06"
-       d="m 90.39138,158.30264 -54.56984,-22.32577 57.47653,14.13837 -30.44171,-48.77186 37.81967,43.78389 5.31411,-56.588654 3.717,56.705364 39.04013,-42.79067 -31.80547,47.96746 57.85414,-12.64801 -55.17931,20.90754 c -29.22525,-0.37766 0,0 -29.22525,-0.37766 z"
+       d="m 90.39138,162.536 -54.56984,-22.32577 57.47653,14.13837 -30.44171,-48.77186 37.81967,43.78389 5.31411,-56.588678 3.717,56.705388 39.04013,-42.79067 -31.80547,47.96746 57.85414,-12.64801 -55.17931,20.90754 c -29.22525,-0.37766 0,0 -29.22525,-0.37766 z"
        id="path4560"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
@@ -97,10 +74,10 @@
      style="display:inline"
      transform="translate(-34.285094,-82.202336)">
     <path
-       style="fill:#550000;stroke:#ffffff;stroke-width:0.80233419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
+       style="fill:#550000;stroke:none;stroke-width:0.80233419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
        inkscape:transform-center-x="-0.42884971"
        inkscape:transform-center-y="-0.18944408"
-       d="m 55.335045,158.84572 40.44905,-3.3348 -31.04498,-27.13096 34.65172,21.94114 -9.75355,-40.83358 15.618605,38.8363 15.2634,-38.93917 -9.38025,40.89731 34.45025,-22.17128 -30.7962,27.33694 40.47829,3.06525"
+       d="m 55.335045,164.13742 40.44905,-3.3348 -31.04498,-27.13096 34.65172,21.94114 -9.75355,-40.83358 15.618605,38.8363 15.2634,-38.93917 -9.38025,40.89731 34.45025,-22.17128 -30.7962,27.33694 40.47829,3.06525"
        id="path4560-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
@@ -115,14 +92,14 @@
        style="fill:#550000;stroke:#ffffff;stroke-width:1.97908902;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14"
        sodipodi:type="arc"
-       sodipodi:cx="104.1933"
-       sodipodi:cy="-160.21376"
+       sodipodi:cx="104.13825"
+       sodipodi:cy="-168.15115"
        sodipodi:rx="34.011536"
        sodipodi:ry="34.242493"
        sodipodi:start="0"
        sodipodi:end="3.1260316"
        sodipodi:open="true"
-       d="m 138.20483,-160.21376 a 34.011536,34.242493 0 0 1 -33.74691,34.24146 34.011536,34.242493 0 0 1 -34.27204,-33.70863"
+       d="m 138.14979,-168.15115 a 34.011536,34.242493 0 0 1 -33.74691,34.24145 34.011536,34.242493 0 0 1 -34.272046,-33.70863"
        transform="matrix(0.9999753,-0.00702867,-0.00693417,-0.99997596,0,0)" />
   </g>
   <g
@@ -130,19 +107,18 @@
      id="layer5"
      inkscape:label="dagger"
      transform="translate(-34.285094,-82.202336)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.88074875px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#faffff;stroke-width:1.97298408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="82.497597"
-       y="155.11505"
-       id="text4597"
+    <g
+       aria-label="†"
+       transform="matrix(0.97905604,0,0,1.021392,0,-2.2324221)"
        inkscape:transform-center-x="0.25813364"
        inkscape:transform-center-y="4.8473887"
-       transform="scale(0.97905604,1.021392)"><tspan
-         sodipodi:role="line"
-         id="tspan4595"
-         x="82.497597"
-         y="155.11505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.22759247px;font-family:'Tinos for Powerline';-inkscape-font-specification:'Tinos for Powerline';fill:#000000;stroke:#faffff;stroke-width:1.97298408;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">†</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:20.88074875px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#faffff;stroke-width:1.97298408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4597">
+      <path
+         d="m 112.44842,116.94243 -3.76832,49.91804 h -2.25121 l -3.57256,-49.91804 3.08317,-7.83028 -20.35873,2.30015 v -7.63453 l 20.35873,2.10439 -2.10439,-20.309789 h 7.63453 l -2.30015,20.309789 20.35873,-2.10439 v 7.63453 l -20.35873,-2.30015 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.22759247px;font-family:'Tinos for Powerline';-inkscape-font-specification:'Tinos for Powerline';fill:#000000;stroke:#faffff;stroke-width:1.97298408;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4688"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
