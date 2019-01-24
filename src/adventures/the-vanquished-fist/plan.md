@@ -65,7 +65,8 @@ future.
 Qa'por's symbol is a shattered chain. The symbol on the shared sending
 stone with Elydir is shown by a shattered chain under Elidyr's symbol.
 
-Qa'lir and Qa'por share a sending stone, the symbol shows a 
+Qa'lir and Qa'por share a sending stone, the symbol shows a shattered
+chain and a burning rope in a circle, tied together.
 
 ### The City of Renaura
 
@@ -165,7 +166,9 @@ precious metals and stones.
 
 The family of Perthana own a large amount of the land.
 
-## The Letter
+## The Letter and Tavern in Jairnt
+
+### The Letter
 
 <blockquote class="letter">
 
@@ -180,8 +183,6 @@ The family of Perthana own a large amount of the land.
 
 > You've heard news and rumours or a recent deposition of Lord Morcant,
 > the old leader of the City of Renaura.
-
-## Watcher's Tavern in Jairnt
 
 ### Outside the tavern
 
@@ -225,7 +226,7 @@ can be served as well.
 The woman's petition to the character's:
 
 > The city's previous leader, Lord Morcant, has been supplanted by Lord
-> Telnetar. Telnetar was once the leader of one of the four great noble
+> Telnetar. Telnetar was once the leader of one of the three great noble
 > houses in Renaura. The two remaining major noble houses in Renaura
 > have stayed quiet and kept to their own business.
 >
@@ -269,13 +270,14 @@ bandits who demand more information from the characters.
 
 She will give them 100gp each for the troubles so far.
 
-## Journey to Renaura
+
+## City of Renaura
+
+### Journey to Renaura
 
 > You're following the road south towards the city, through the forest
 > in the foothills of the mountain. The ground is icy and a thin layer
 > of snow covers the road. Most of the trees are bare.
-
-## City of Renaura
 
 > The forest clears after a few miles, showing the bare foothills
 > surrounding the City of Renaura which is a few miles away. Though most
@@ -713,8 +715,6 @@ The castle's wall is guarded by eight guards.
 
 Inside the rest of the castle are various rooms with animated armour,
 fanatics and wights.
-
-## Sneaking into the castle
 
 ### Path to the secret entrance
 
