@@ -45,7 +45,6 @@ body {
     font-weight: 700;
 
     margin-top: var(--content-margin);
-    margin-bottom: var(--content-spacing);
 
     border-bottom: 1px solid @palette-dark-grey;
   }
@@ -53,8 +52,7 @@ body {
   h3 {
     font-size: 1.3rem;
     font-weight: 700;
-    margin-top: var(--content-spacing);
-    margin-bottom: var(--content-spacing);
+    margin-top: calc(var(--content-spacing) * 4);
 
   }
 
@@ -65,15 +63,11 @@ body {
     padding-top: 0.5rem;
 
     margin-top: var(--content-spacing);
-    margin-bottom: var(--content-spacing);
 
     h3 + & {
       padding-top: 0;
     }
   }
 
-  p + h3 {
-    margin-top: calc(var(--content-spacing) * 4);
-  }
 }
 
