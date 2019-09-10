@@ -162,7 +162,7 @@ Qa'lir.
 The family of Farnit own multiple mines, ranging from economic metals to
 precious metals and stones.
 
-#### The noble house of Perthana
+#### The noble house of Pertana
 
 The family of Perthana own a large amount of the land.
 
