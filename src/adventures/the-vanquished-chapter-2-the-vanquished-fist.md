@@ -1,5 +1,5 @@
 ---
-title: The Vanquished Fist
+title: "Chapter 2: The Vanquished Fist"
 description:
     A single–session adventure (9-11 hours) for three fith-level
     characters. The adventures receive an anonymous letter asking them
@@ -7,7 +7,7 @@ description:
 
 campaignId: the-vanquished
 
-date: 2019-01-01
+order: 2
 
 ---
 

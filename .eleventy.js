@@ -26,6 +26,12 @@ module.exports = config => {
 
   config.setDataDeepMerge(true);
 
+  config.addCollection("adventures", (collection) => {
+    return collection.getFilteredByTag('adventures').sort((a, b) => {
+      return a.data.order - b.data.order;
+    });
+  });
+
   return {
     dir: {
       input: "src",

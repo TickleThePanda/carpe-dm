@@ -1,12 +1,12 @@
 ---
-title: Untitled
+title: "Chapter 3: Untitled"
 description:
   This adventure was planned as a single–session adventure (9-11 hours)
   for three sixth-level characters.
 
 campaignId: the-vanquished
 
-date: 2019-08-25
+order: 3
 
 ---
 
