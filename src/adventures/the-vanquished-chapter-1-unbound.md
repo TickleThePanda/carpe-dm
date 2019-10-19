@@ -1,13 +1,11 @@
 ---
-tags: ['plan']
-
-type: "Plan"
-
 title: Unbound
 description:
     A single–session adventure (5–6 hours) for three level 4 characters.
     The adventurers are summoned by an elven woman to her tower and are
     sent on a quest to find and retireve a stolen family heirloom.
+
+campaignId: the-vanquished
 
 date: 2018-10-05
 

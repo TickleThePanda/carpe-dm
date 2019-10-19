@@ -9,37 +9,19 @@
     the web to help me write an adventure. Here you can find the plans for my
     adventures and my experience running them.
 </article>
-<nav class="home-page-nav">
-  <h2 class="home-page-nav__nav-section-title">Adventures</h2>
-  <p>These are adventures that I have either ran, or that are ready to be ran.
+<nav class="collection-nav">
+  <h2 class="collection-nav__nav-section-title">Campaigns</h2>
+  <p>These are campaigns that I have either ran, or that are ready to be ran.
   <ul>
-    {% for plan in collections.plan | reverse %}
-      {% if not plan.data.draft %}
-        <li>
-          <a class="card card--link" href="{{ plan.url }}">
-            <h3 class="card__title">{{ plan.data.title }}</h2>
-            {% if plan.data.description %}
-              <p class="card__content">{{ plan.data.description }}</p>
-            {% endif %}
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  <h2 class="home-page-nav__nav-section-title">Draft Adventures</h2>
-  <p>These are adventures that I'm in the process of writing.
-  <ul>
-    {% for plan in collections.plan %}
-      {% if plan.data.draft %}
-        <li>
-          <a class="card card--link" href="{{ plan.url }}">
-            <h3 class="card__title">{{ plan.data.title }}</h2>
-            {% if plan.data.description %}
-              <p class="card__content">{{ plan.data.description }}</p>
-            {% endif %}
-          </a>
-        </li>
-      {% endif %}
+    {% for campaign in collections.campaigns | reverse %}
+      <li>
+        <a class="card card--link" href="{{ campaign.url }}">
+          <h3 class="card__title">{{ campaign.data.title }}</h2>
+          {% if campaign.data.description %}
+            <p class="card__content">{{ campaign.data.description }}</p>
+          {% endif %}
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </nav>
