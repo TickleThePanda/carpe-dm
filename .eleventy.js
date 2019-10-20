@@ -1,6 +1,13 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
+const Hypher = require('hypher')
+const english = require('hyphenation.en-gb');
+
+const hypher = new Hypher(english);
+
+const { JSDOM } = require('jsdom');
+
 module.exports = config => {
 
   const markdownItOptions = {
@@ -30,6 +37,21 @@ module.exports = config => {
     return collection.getFilteredByTag('adventures').sort((a, b) => {
       return a.data.order - b.data.order;
     });
+  });
+
+  config.addTransform("hyphenation", (content, outputPath) => {
+
+    console.log(outputPath);
+    const dom = new JSDOM(content);
+    const document = dom.window.document;
+    const NodeFilter = dom.window.NodeFilter;
+
+    const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT); 
+
+    while (walk.nextNode()) {
+      walk.currentNode.nodeValue = hypher.hyphenateText(walk.currentNode.nodeValue);
+    }
+    return dom.serialize();
   });
 
   return {

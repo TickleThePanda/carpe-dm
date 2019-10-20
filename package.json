@@ -29,5 +29,9 @@
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "hyphenation.en-gb": "^0.2.1",
+    "hypher": "^0.2.5",
+    "jsdom": "^15.2.0"
+  }
 }

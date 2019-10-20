@@ -27,10 +27,8 @@ gulp.task('assets', gulp.parallel('css', 'images', 'fonts'));
 gulp.task('build', gulp.series('generate', 'assets'));
 
 gulp.task('watch', () => {
-  gulp.watch(
-    ['.eleventy.js', 'src/**/*.{md,html,njk,json}'],
-    gulp.series('generate-dev')
-  );
+  gulp.watch('.eleventy.js', gulp.series('generate-dev'));
+  gulp.watch('src/**/*.{md,html,njk,json}', gulp.series('generate-dev'));
   gulp.watch('src/style/**/*.less', gulp.series('css'));
   gulp.watch('src/images/**/*.{png,jpg,jpeg,svg}', gulp.series('images'));
   gulp.watch('src/fonts/**/*.{otf,woff}', gulp.series('fonts'));
