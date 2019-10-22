@@ -5,19 +5,41 @@
 
   ul {
     & > li {
-      list-style: disc;
+      position: relative;
+      list-style: none;
+    }
+
+    & > li::before {
+      position: absolute;
+      left: -0.5rem;
+      transform: translateX(-100%);
+
+      content: "•";
+      
+      font-size: 0.7rem;
+      line-height: 1.8;
     }
   }
 
   ol {
 
+    counter-reset: oli;
+
     & > li {
-      list-style: decimal;
+      position: relative;
+      list-style: none;
+
+      counter-increment: oli;
     }
 
-    & > li::marker {
-      font-weight: 700;
+    & > li::before {
+      position: absolute;
+      left: -0.5rem;
+      transform: translateX(-100%);
+
+      content: counter(oli) ".";
     }
+
   }
 }
 
