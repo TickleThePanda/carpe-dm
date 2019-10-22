@@ -36,15 +36,16 @@ Meeting with the Lord Regent Pertana. She explains that:
 It's been a week since the characters freed the city from Qa'lir's
 control. They've been paid a very good sum to help with the securing of
 the city. Earlier in the week, from the stone, the characters have heard
-a shrieking message, "For what you have done Meriele, Elmond, and Aseir,
-you will know only pain." This was overheard by others in the castle.
+a shrieking message,This was overheard by others in the castle.
 
 1. Find out about more information about the stone
 2. Investigate [[TODO: elven village]]
 3. Investigate the prophecy
 4. Find a way to Elysium
 5. Find Faurin in Elysium
-6. Escape Elysium
+7. Escape Elysium
+
+---
 
 1. Players speak to Lord Regent Pertana who asks the players to speak
    with the librarian, mentioning his knowledge of the symbol. Players
@@ -76,17 +77,35 @@ you will know only pain." This was overheard by others in the castle.
 > name Morcant]].
 >
 > Right now, you're in [[TODO: Pertana]]'s study discussing the progress
-> in protecting the city.
+> in protecting the city. Pertana is sitting at her desk. There are
+> papers piled and an empty glass of wine. Her eyes are bloodshot and  
 >
 > "We've been able to bring in some more of our guards from the
-> surrounding areas," Pertana says. "We've seen a big drop in the
-> number of bandits and goblins which is a great relief.
+> surrounding areas," Pertana says. "We've seen an abatement in the
+> reports of bandit and goblin attack which is a great relief.
 >
 > "I'm very grateful for the work that you've been putting in over the
 > past week. Without your help, I'm doubtful that the city will have
 > survived.
 >
-> "We've been able to gather that Qa'lir was planning the recreance 
+> "Since the attack, we've been able to gather from our prisoners that
+> Qa'lir was planning something call-"
+>
+> A piercing screech interrupts Pertana, emanating from Meriele. "For
+> what you have done - Meriele, Elmond, and Aseir - you will know *only*
+> pain."
+>
+> You each hear a whisper of a discordant melody and are wracked with a
+> terrible pain. The room spins and your vision blurs.
+
+At this point, ask the characters to make a Wisdom Saving Throw (DC 19).
+On a failed save, the characters take 5d6 psychic damage. On a
+successful save, the characters take half.
+
+> The melody subsides and you find Pertana standing and looking
+> concerned.
+>
+>
 
 
 ## The Prophecy
