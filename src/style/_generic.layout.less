@@ -23,12 +23,13 @@ body {
 
 @media print {
 
-  @page-margin: 5cm;
+  @total-page-margin: 5cm;
+  @content-margin: 2rem;
 
   @page {
     size: A4 portrait;
 
-    margin: @page-margin;
+    margin: calc(@total-page-margin - @content-margin);
   }
 
   html, body {
@@ -36,7 +37,7 @@ body {
   }
 
   body {
-    margin: 0;
+    margin: @content-margin;
   }
 
   h2 {

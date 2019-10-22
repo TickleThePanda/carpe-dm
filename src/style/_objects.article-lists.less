@@ -1,7 +1,5 @@
 .article {
   ul, ol {
-    margin-left: 2rem;
-
     margin-top: var(--content-spacing);
   }
 
@@ -12,15 +10,13 @@
   }
 
   ol {
-    counter-reset: oli;
 
-    li {
-      counter-increment: oli;
+    & > li {
+      list-style: decimal;
     }
 
-    & > li::before {
+    & > li::marker {
       font-weight: 700;
-      content: counter(oli) ". ";
     }
   }
 }
