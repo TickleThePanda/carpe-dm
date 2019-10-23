@@ -1,13 +1,18 @@
 .card {
 
+  @card-shadow-offset: 0.4rem;
+
   background-color: @palette-black;
   color: @palette-white;
 
   padding: 1rem;
   padding-top: 0.8rem;
 
+  margin-right: @card-shadow-offset;
   margin-top: 1rem;
   margin-bottom: 1rem;
+
+  box-shadow: @card-shadow-offset @card-shadow-offset @palette-primary-light;
 
 }
 
