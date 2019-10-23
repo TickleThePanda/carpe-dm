@@ -2,11 +2,15 @@ a {
   &:link, &:visited {
     font-family: @heading-font;
     font-weight: 700;
-    color: @palette-black;
+    color: @palette-primary-dark;
     text-decoration: none;
   }
 
   &:hover {
     color: @palette-dark-grey;
+  }
+
+  @media print {
+    color: #000;
   }
 }
