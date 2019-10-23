@@ -3,17 +3,23 @@
   font-size: 0.8rem;
   text-align: right;
 
-  max-width: 12rem;
+  max-width: 17rem;
+
+  margin-top: 30vh;
 
   right: var(--content-min-margin);
   padding-bottom: var(--content-min-margin);
 }
 
 .license__work-title {
-  font-style: italic;
+  a {
+    &:link, &:visited {
+      font-style: italic;
+      font-weight: 400;
+      font-feature-settings: 'swsh' 1;
+    }
+  }
 }
 
-.license__license-type {
-
-}
+.license__license-type {}
 
