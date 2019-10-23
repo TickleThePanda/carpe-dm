@@ -9,10 +9,10 @@
   </article>
   <nav class="collection-nav">
     <h2 class="collection-nav__nav-section-title">Adventures</h2>
-    <ul>
+    <ul class="collection-nav__list">
       {% for adventure in collections.adventures %}
         {% if adventure.data.campaignId == id %}
-          <li>
+          <li class="collection-nav__list-item">
             <a class="card card--link" href="{{ adventure.url }}">
               <h3 class="card__title">{{ adventure.data.title }}</h2>
               {% if adventure.data.description %}

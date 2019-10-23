@@ -12,9 +12,9 @@
 <nav class="collection-nav">
   <h2 class="collection-nav__nav-section-title">Campaigns</h2>
   <p>These are campaigns that I have either ran, or that are ready to be ran.
-  <ul>
+  <ul class="collection-nav__list">
     {% for campaign in collections.campaigns | reverse %}
-      <li>
+      <li class="collection-nav__list-item">
         <a class="card card--link" href="{{ campaign.url }}">
           <h3 class="card__title">{{ campaign.data.title }}</h2>
           {% if campaign.data.description %}

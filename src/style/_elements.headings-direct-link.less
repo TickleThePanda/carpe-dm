@@ -1,0 +1,26 @@
+.direct-link:link, .direct-link:visited {
+  color: #ffffff;
+  text-decoration: none;
+
+  font-size: 0.8em;
+  font-weight: 400;
+
+  float: right;
+  padding-top: 0.22em;
+  padding-left: 0.5em;
+}
+
+:hover > .direct-link { 
+  color: @palette-dark-grey;
+}
+
+.direct-link:hover {
+  color: @palette-black;
+}
+
+@media print {
+  .direct-link {
+    display: none;
+  }
+}
+
