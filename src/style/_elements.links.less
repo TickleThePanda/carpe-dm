@@ -11,6 +11,8 @@ a {
   }
 
   @media print {
-    color: #000;
+    &::after {
+      content: ' [' attr(href) '] '
+    }
   }
 }

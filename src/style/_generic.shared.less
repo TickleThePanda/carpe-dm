@@ -28,8 +28,13 @@ html, body {
 }
 
 @media print {
-  html, body {
-    color: #000000 !important;
+  * {
+    color: @print-black !important;
+    background-color: @print-white !important;
+
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-color: @print-black;
   }
 }
 
