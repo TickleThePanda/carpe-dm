@@ -18,7 +18,7 @@
       {% endif %}
       <h1 class="header__title">{% block title %}{{title}}{% endblock %}</h1>
     </header>
-    <main class="content">
+    <main class="content-wrapper">
       {% block main %}
         {{ content | safe }}
       {% endblock %}

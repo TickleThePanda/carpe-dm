@@ -2,20 +2,12 @@
 @header-max-font-size: 8rem;
 
 .header {
-  margin: @content-margin;
-  line-height: 1;
-}
+  margin: initial;
 
-@supports(height: calc(100vh - 2 * var(--content-margin))) {
-  .header {
-    margin: initial;
+  display: flex;
+  align-items: center;
 
-    display: flex;
-    align-items: center;
-
-    height: calc(100vh - 2 * var(--content-margin));
-  }
-
+  height: 100vh;
 }
 
 .header__title {
@@ -24,6 +16,8 @@
 
   font-family: @heading-font;
   font-size: @header-font-size;
+
+  padding: 2rem;
 
   font-style: italic;
   font-feature-settings: "swsh" 2;
@@ -47,6 +41,8 @@
     transform: rotate(180deg);
     display: flex;
     align-items: center;
+
+    padding-inline-end: 4.5rem;
   }
 
 }

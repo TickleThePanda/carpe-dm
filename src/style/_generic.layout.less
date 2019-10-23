@@ -1,24 +1,11 @@
-body {
-  margin: var(--content-margin);
+.content-wrapper {
+  margin-left: var(--content-min-margin);
+  margin-right: var(--content-min-margin);
 }
 
-/* IE width */
-.content {
-  display: block;
-
-  max-width: @content-width;
+.article {
+  max-width: var(--content-max-width);
   margin: auto;
-}
-
-@supports(max-width: var(--content-width)) {
-
-  .content {
-    max-width: var(--content-width);
-    margin: auto;
-    margin-top: var(--content-margin);
-    margin-bottom: 50vh;
-  }
-
 }
 
 @media print {
