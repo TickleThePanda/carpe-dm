@@ -216,7 +216,7 @@ can be served as well.
 > traveller's cloak approaches from one of the corners. The figure takes
 > a chair from a neighbouring table, and places it at yours, immediately
 > sitting. The figure, in a graceful voice, says, "Good evening, Prince
-> Aseir, Elmond, and Meriele. I'm glad to see that you've answered my
+> Aseir, Elmon, and Meriele. I'm glad to see that you've answered my
 > request to discuss a matter with you."
 >
 > From the voice, you can tell that this person is unmistakably a woman
@@ -305,7 +305,7 @@ the city but report them to Qa'lir.
 ### The beggar outside the Dragon's Claw
 
 The beggar, as the characters pass the Dragon's Claw, will say "If you
-Elmond, a little help for an old friend." It will require a DC 18
+Elmon, a little help for an old friend." It will require a DC 18
 Intelligence (Investigation) roll for him to recognise it's the
 librarian from the castle. In any case, in exchange for food and drink,
 he will promise the characters some information if they will speak in a
@@ -792,7 +792,7 @@ This wall will reveal the throne room.
 >
 > The figure laughs and with an elvish accent says, "Shut up old man."
 >
-> "Now, now, this *is* a surprise. I heard you were in the city, Elmond,
+> "Now, now, this *is* a surprise. I heard you were in the city, Elmon,
 > Meriele, and Aseir. Rumours of your destruction in the city over the
 > last few days have reached my ears. I wasn't expecting to find you
 > right in here, though!

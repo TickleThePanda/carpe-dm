@@ -18,12 +18,12 @@ for three sixth-level characters:
 
 ## What's happened so far
 
-> Meriele, Elmond, and Prince Aseir travelled to a wilderness tower.
-> Meriele and Aseir were brought by their dreams, Elmond invited by
+> Meriele, Elmon, and Prince Aseir travelled to a wilderness tower.
+> Meriele and Aseir were brought by their dreams, Elmon invited by
 > letter. The tower stood alone in a hilly moors with no windows or
 > doors, apart from the carved outline of a door.
 >
-> Meriele, Elmond, and Prince Aseir, spoke the password, *Unbind* to
+> Meriele, Elmon, and Prince Aseir, spoke the password, *Unbind* to
 > unlock the tower, and followed the staircase up to the top, where they
 > were welcomed by an elderly elf called Elydir, in a well furnished
 > office.
@@ -178,7 +178,7 @@ city.
 > Qa'lir was planning something call-"
 >
 > A piercing screech interrupts Pertana, "for what you have done -
-> Meriele, Elmond, and Aseir - you will know *only* pain."
+> Meriele, Elmon, and Aseir - you will know *only* pain."
 >
 > You each hear a whisper of a discordant melody and are wracked with a
 > terrible pain. The room spins and your vision blurs.
