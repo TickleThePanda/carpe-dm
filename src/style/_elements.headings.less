@@ -1,7 +1,5 @@
-body {
-  counter-reset: h2i;
-}
 h2, h3, h4, h5, h6 {
+
   display: flex;
 
   line-height: 1.1;
@@ -11,6 +9,63 @@ h2, h3, h4, h5, h6 {
 
   &::before {
     white-space: pre;
+  }
+}
+
+h2, h3 {
+  font-family: @heading-font;
+  font-variant-caps: small-caps;
+  font-weight: 400;
+
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  font-size: 1.4rem;
+
+  margin-top: var(--content-spacing-l);
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: calc(var(--content-spacing) * 4);
+
+}
+
+h4 {
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  margin-top: calc(var(--content-spacing) * 2);
+}
+
+/*
+ * Adjacent headers
+ */
+
+h2 + h3 {
+  margin-top: var(--content-spacing);
+}
+
+h3 + h4 {
+  margin-top: var(--content-spacing);
+}
+
+/*
+ * Counters
+ */
+
+body {
+  counter-reset: h2i;
+}
+
+h2,h3,h4 {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    transform: translateX(-100%);
+    letter-spacing: unset;
   }
 }
 
@@ -24,49 +79,9 @@ h2 {
 }
 
 h3 {
-  counter-reset: h4i;
-
   &::before {
     content: counter(h2i) "." counter(h3i) ". ";
     counter-increment: h3i;
   }
 
 }
-
-h4::before {
-  content: counter(h2i) "." counter(h3i) "." counter(h4i) ". ";
-  counter-increment: h4i;
-}
-
-h2, h3, h4 {
-  font-family: @heading-font;
-  font-variant-caps: small-caps;
-  font-weight: 600;
-}
-
-h2 {
-  font-size: 1.4rem;
-
-  margin-top: var(--content-spacing-l);
-
-  border-bottom: 1px solid @palette-dark-grey;
-}
-
-h3 {
-  font-size: 1.2rem;
-  margin-top: calc(var(--content-spacing) * 4);
-
-}
-
-h4 {
-  font-size: 1rem;
-
-  padding-top: 0.5rem;
-
-  margin-top: var(--content-spacing);
-
-  h3 + & {
-    padding-top: 0;
-  }
-}
-
