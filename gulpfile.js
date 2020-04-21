@@ -16,7 +16,12 @@ gulp.task('fonts', () => {
 gulp.task('images', () => {
   return gulp.src('src/images/**/*.{png,jpg,jpeg,svg}')
           .pipe(gulp.dest('_site/images/'));
-})
+});
+
+gulp.task('redirects', () => {
+  return gulp.src('src/_redirects')
+          .pipe(gulp.dest('_site'));
+});
 
 gulp.task('generate', shell.task('eleventy'));
 
@@ -24,7 +29,7 @@ gulp.task('generate-dev', shell.task('eleventy', { ignoreErrors: true }));
 
 gulp.task('assets', gulp.parallel('css', 'images', 'fonts'));
 
-gulp.task('build', gulp.series('generate', 'assets'));
+gulp.task('build', gulp.series('generate', 'assets', 'redirects'));
 
 gulp.task('watch', () => {
   gulp.watch('.eleventy.js', gulp.series('generate-dev'));
