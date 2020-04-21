@@ -1,0 +1,64 @@
+:root {
+  --content-min-margin: @content-min-margin;
+  --content-max-width: @content-max-width;
+
+  --content-spacing-l: 2rem;
+  --content-spacing: 0.7rem;
+  --section-spacing: 1.5rem;
+}
+
+:root {
+  --display-font: adobe-garamond-pro, serif;
+  --body-font: adobe-garamond-pro, serif;
+  --medieval-font: 'Pfeffer Mediaeval', cursive;
+  --monospace-font: monospace;
+}
+
+:root {
+
+  --base-font-size: ~"max(100%, 80% + 2vmin)";
+  --base-line-height: 1.25;
+
+  --title-font-size: ~"max(0.8rem + 13vmin, 1rem)";
+  --subtitle-font-size: ~"max(var(--title-font-size) * 0.35, 1rem)";
+
+  --font-size-xs: 0.8rem;
+  --font-size-s: 0.9rem;
+  --font-size-default: 1rem;
+  --font-size-l: 1.2rem;
+  --font-size-xl: 1.4rem;
+
+
+}
+
+:root {
+  font-size: var(--base-font-size);
+}
+
+body {
+  font-size: 100%;
+}
+
+html, body {
+  line-height: var(--base-line-height);
+
+  font-family: var(--body-font);
+
+  font-kerning: normal;
+  font-variant-numeric: oldstyle-nums;
+
+  color: @palette-black;
+
+  font-variant-ligatures: discretionary-ligatures;
+}
+
+@media print {
+  * {
+    color: @print-black !important;
+    background-color: @print-white !important;
+
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-color: @print-black;
+  }
+}
