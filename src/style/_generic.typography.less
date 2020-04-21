@@ -17,7 +17,6 @@
 :root {
 
   --base-font-size: ~"max(100%, 80% + 2vmin)";
-  --base-line-height: 1.25;
 
   --title-font-size: ~"max(0.8rem + 13vmin, 1rem)";
   --subtitle-font-size: ~"max(var(--title-font-size) * 0.35, 1rem)";
@@ -28,7 +27,24 @@
   --font-size-l: 1.2rem;
   --font-size-xl: 1.4rem;
 
+  @media print {
+    --base-font-size: 11pt;
 
+    --title-font-size: 30pt;
+    --subtitle-font-size: 15pt;
+
+    --font-size-xs: 10pt;
+    --font-size-s: 10pt;
+    --font-size-default: 1rem;
+    --font-size-l: 13pt;
+    --font-size-xl: 15pt;
+
+  }
+
+}
+
+:root {
+  --base-line-height: 1.25;
 }
 
 :root {
