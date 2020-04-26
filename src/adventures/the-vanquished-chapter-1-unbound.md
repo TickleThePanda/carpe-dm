@@ -557,35 +557,3 @@ A successful Perception (Wisdom) check of 20 DC will uncover a door.
 Each contains 3 skeletons that will attack the players almost
 immediately. In each of the tombs, the players will find 3d10 gold.
 
-## Background
-
-Elidyr is an elven wizard that worked with the government of the Renaura
-but became powerful and corrupt, controlling the government and removing
-anybody who got in her way.
-
-Lord Lunit convinced Faurin to agreed to kill the Elidyr. However,
-Faurin was previously her lover and instead of killing her, he instead
-imprisoned her in a warded tower, taking her amulet, a family heirloom,
-as proof of killing her.  The warded tower would only allow her to leave
-if the amulet was returned and the tower's doorway reopened.
-
-Faurin had planned to later free Elidyr from the tower, when he
-discovered a way to strip the Elidyr of her powers.
-
-After Faurin returned to the Lord Lunit with the amulet, his victory
-celebrated. He spent the rest of his life in high regard with the Lord
-Lunit as their family scholar. He spent much time working in secret to
-find a way to free Elidyr but to no avail.  Over time, he became a
-frustrated and bitter man, eventually resorting to suicide. Still
-celebrated, he was buried with the family in the Tomb of the Last
-Rehani, the amulet buried with him.
-
-Despite his wish to leave the world, the Faurin's knowledge that there
-is no hope of stripping the Elidyr of her powers bound him to the amulet
-to prevent anybody from ever returning it to her.
-
-The Elidyr has spent the last 500 years finding weaknesses in the wards,
-using her powers to communicate to the outside world, planning her
-recovery of the amulet and to escape, taking her revenge over the
-descendants of the Rehani.
-
