@@ -80,6 +80,9 @@
   padding: @header-padding;
 
   color: @palette-white;
+
+  font-variant-ligatures: discretionary-ligatures;
+  font-variant-caps: titling-caps;
 }
 
 .header__title {
@@ -110,6 +113,10 @@
   line-height: 1;
 
   text-align: end;
+
+  &::first-letter {
+    font-feature-settings: 'swsh';
+  }
 }
 
 @media screen and (orientation: portrait) {
