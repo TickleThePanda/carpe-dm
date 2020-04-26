@@ -10,8 +10,8 @@
   font-family: var(--display-font);
 
   font-weight: var(--font-weight-bold);
-  padding-left: 1.2rem;
-  padding-right: 1.2rem;
+  font-size: var(--font-size-s);
+  padding: 0.8em;
 
   display: flex;
   justify-content: center;
@@ -21,15 +21,15 @@
   text-decoration: none;
 
   &:link, &:visited {
-    color: @palette-white;
+    color: @palette-black;
 
-    background-color: @palette-black;
-    border-color: @palette-white;
-    border-width: 0.2em;
+    background-color: @palette-primary-light;
+    border-color: unset;
+    border-width: 0;
   }
 
   &:hover {
-    text-decoration: underline;
+    background-color: lighten(@palette-primary-light, 5%, relative);
   }
 }
 
