@@ -63,9 +63,11 @@ h2,h3,h4 {
   position: relative;
 
   &::before {
-    position: absolute;
-    transform: translateX(-100%);
-    letter-spacing: unset;
+    @media screen and (min-aspect-ratio: ~"7/5"), print {
+      position: absolute;
+      transform: translateX(-100%);
+      letter-spacing: unset;
+    }
   }
 }
 
