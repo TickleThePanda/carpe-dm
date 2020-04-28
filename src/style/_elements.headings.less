@@ -10,6 +10,10 @@ h2, h3, h4, h5, h6 {
   &::before {
     white-space: pre;
   }
+
+  break-after: avoid-page;
+  break-inside: avoid-page;
+
 }
 
 h2, h3 {
@@ -24,12 +28,13 @@ h2 {
   font-size: var(--font-size-xl);
 
   margin-top: var(--content-spacing-l);
+
+  break-before: page;
 }
 
 h3 {
   font-size: var(--font-size-l);
   margin-top: calc(var(--content-spacing) * 4);
-
 }
 
 h4 {
