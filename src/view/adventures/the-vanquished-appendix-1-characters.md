@@ -5,7 +5,7 @@ description: The characters involved in this campaign.
 
 campaignId: the-vanquished
 
-order: 4
+order: 101
 
 ---
 
