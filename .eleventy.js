@@ -4,6 +4,8 @@ const markdownItAnchor = require("markdown-it-anchor");
 const Hypher = require('hypher')
 const english = require('hyphenation.en-gb');
 
+const slugify = require('slugify');
+
 const hypher = new Hypher(english);
 
 const { JSDOM } = require('jsdom');
@@ -17,9 +19,9 @@ module.exports = config => {
 
   const markdownItAnchorOptions = {
     permalink: true,
-    slugify: function(s) {
-      return encodeURIComponent(String(s).replace(/New\ in\ v\d+\.\d+\.\d+/, '').trim().toLowerCase().replace(/\s+/g, '-'));
-    },
+    slugify: s => slugify(s, {
+      lower: true
+    }),
     permalinkClass: "direct-link",
     permalinkSymbol: "⁜",
     level: [1,2,3,4]
