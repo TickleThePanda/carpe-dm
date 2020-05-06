@@ -1,8 +1,10 @@
 ---
 
-title: "Appendix 2: Treasures"
+title: "Treasures"
+subtitle: "The Vanquished: Appendix 2"
 description: The treasures involved in this campaign.
 
+id: "the-vanquished-appendix-2-treasures"
 campaignId: the-vanquished
 
 order: 102

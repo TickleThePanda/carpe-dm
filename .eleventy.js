@@ -10,6 +10,8 @@ const hypher = new Hypher(english);
 
 const { JSDOM } = require('jsdom');
 
+const util = require('util');
+
 module.exports = config => {
 
   const markdownItOptions = {
@@ -43,7 +45,6 @@ module.exports = config => {
 
   config.addTransform("hyphenation", (content, outputPath) => {
 
-    console.log(outputPath);
     const dom = new JSDOM(content);
     const document = dom.window.document;
     const NodeFilter = dom.window.NodeFilter;
@@ -55,6 +56,16 @@ module.exports = config => {
     }
     return dom.serialize();
   });
+
+  config.addFilter("slug", s => 
+    s !== undefined ? 
+      slugify(s, { lower: true, strict: true }) :
+      "-"
+  );
+
+  config.addFilter("inspect", (s, d) =>
+    util.inspect(s, {depth: d === undefined ? 2 : d})
+  );
 
   return {
     dir: {

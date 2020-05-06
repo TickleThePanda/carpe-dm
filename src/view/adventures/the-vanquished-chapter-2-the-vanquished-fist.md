@@ -1,5 +1,7 @@
 ---
-title: "Chapter 2: The Vanquished Fist"
+title: "The Vanquished Fist"
+subtitle: "The Vanquished: Chapter 2"
+id: the-vanquished-chapter-2-the-vanquished-fist
 description:
     A single–session adventure (9-11 hours) for three fith-level
     characters. The adventures receive an anonymous letter asking them

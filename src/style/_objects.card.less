@@ -37,16 +37,29 @@
     background-color: lighten(@palette-black, 20%, relative);
   }
 
+  font-weight: var(--font-weight-normal);
+
+  display: flex;
+  flex-direction: column;
 }
 
 .card__title {
 
   &::before {
-    content: '';
+    content: unset;
   }
 
   margin-top: 0;
 
+  font-weight: var(--font-weight-normal);
+}
+
+.card__subtitle {
+
+  margin-top: 0;
+
+  font-size: var(--font-size-xs);
+  font-style: italic;
   font-weight: var(--font-weight-normal);
 }
 

@@ -1,5 +1,7 @@
 ---
-title: "Chapter 4"
+title: "The Lover's Soul"
+subtitle: "The Vanquished: Chapter 4"
+id: "the-vanquished-chapter-4"
 description:
   This adventure was planned as a single–session adventure for three
   sixth-level characters.

@@ -1,5 +1,7 @@
 ---
-title: "Chapter 3: Untitled"
+title: "Wandering Three"
+subtitle: "The Vanquished: Chapter 3"
+id: "the-vanquished-chapter-3"
 description:
   This adventure was planned as a single–session adventure (9-11 hours)
   for three sixth-level characters.

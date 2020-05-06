@@ -18,9 +18,9 @@
       {% for campaign in collections.campaigns | reverse %}
         <li class="collection-nav__list-item">
           <a class="card card--link" href="{{ campaign.url }}">
-            <h3 class="card__title">{{ campaign.data.title }}</h2>
-            {% if campaign.data.description %}
-              <p class="card__content">{{ campaign.data.description }}</p>
+            <h3 class="card__title">{{ campaign.data.campaign.title }}</h2>
+            {% if campaign.campaign.description %}
+              <p class="card__content">{{ campaign.data.campaign.description }}</p>
             {% endif %}
           </a>
         </li>

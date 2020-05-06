@@ -1,7 +1,8 @@
 ---
-permalink: "adventure/{{ id }}/"
-layout: default.njk
+permalink: "adventure/{{ linkedAdventureId }}/write-up/"
 ---
+
+{% extends 'default.njk' %}
 
 {% block nav %}
   {% if collections[id].length > 1 %}

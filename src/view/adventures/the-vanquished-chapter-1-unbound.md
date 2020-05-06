@@ -1,5 +1,7 @@
 ---
-title: "Chapter 1: Unbound"
+title: "Unbound"
+subtitle: "The Vanquished: Chapter 1"
+id: the-vanquished-chapter-1-unbound
 description:
     A single–session adventure (5–6 hours) for three level 4 characters.
     The adventurers are summoned by an elven woman to her tower and are

@@ -1,8 +1,10 @@
 ---
 
-title: "Appendix 1: Characters"
+title: "Characters"
+subtitle: "The Vanquished: Appendix 1"
 description: The characters involved in this campaign.
 
+id: the-vanquished-appendix-1-characters
 campaignId: the-vanquished
 
 order: 101

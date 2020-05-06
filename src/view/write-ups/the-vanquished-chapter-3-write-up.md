@@ -1,4 +1,6 @@
 ---
+title: "Chapter 3: Write-up"
+linkedAdventureId: "the-vanquished-chapter-3"
 ---
 
 The trio met with Pertana, after spending the last week killing the
