@@ -240,6 +240,17 @@ Lunia. Most of Lunia's trade moves through this city.
 If the players arrive here via one of the patrol ships, they will be
 escorted to the Hall of Salutation.
 
+### Streets of Hearts Faith
+
+> The streets are busy, mostly humans, elves, dwarves, and halflings
+> garbed in white. They walk quickly and orderly, politely moving aside
+> for others. They go in and out of the shrines, gardens, and houses.
+> Occasionally, a band of Hound Archons will pass by, or a Trumpet
+> Archon will fly overhead. A Deva, like the one seen at the top of the
+> mountain, is flying overhead. A few merchants and travellers are
+> dressed in more unusual clothes, walking towards or away from the port
+> and into Taverns.
+
 ### Hall of Salutation
 
 Any strangers caught by Archons who are not registered will be brought
