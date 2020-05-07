@@ -665,6 +665,9 @@ room must succeed on a DC 18 Constitution saving throw or be paralysed
 for 4 hours. If they all succumb, they will be taken to the central
 pillar gardens.
 
+This flower, the True Angel's Aconitum, if prepared correctly, can be
+used to create a Potion of Remove Curse.
+
 #### Abode 11, Jhaan Yelnan
 
 The door is closed. *Jhaan Yelnan* is engraved on a plaque in Celestial
