@@ -28,7 +28,7 @@ Source for [Archon stat blocks](https://www.gmbinder.com/share/-LkotFwjF2QPxOmF4
 > - an impossibly large mountain island with a sprawling shore of
 >   glowing warm lights and tall white buildings
 > - two distant tall-ships, one in the North West and one towards the
->   south
+>   south, well lit
 > - a small ornate ship with beautiful sails, only a few hundred feet
 >   away to the south west.
 >
@@ -75,7 +75,7 @@ This is a small pleasure cruise ship for people looking for
 enlightenment through finding beauty in the world.
 
 There are 6 elves aboard:
- - the ship's captain, Beiren To-kin
+ - the ship's captain, Beiren Ty-kin
  - the ship's crewmember, Dordan To'Il-kin
  - three Addan To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin
  - a disguised Arcalaloth, Mogthodoth, known as Banir Any-kin to the
@@ -88,7 +88,7 @@ There are 6 elves aboard:
 > quietly on a clutching a green travellers pack closely.
 >
 > The captain bows again, greeting you in the same way as before: "I,
-> Beiren To-kin, welcome you to my vessel, the Lunar Allure. This is
+> Beiren Ty-kin, welcome you to my vessel, the Lunar Allure. This is
 > Dordan To'Il-kin *(gesturing to the working elf)*, and these are Addan
 > To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin *(gesturing to
 > the other elves who bow)*. Over there *(gesturing to the sitting elf)*
@@ -97,7 +97,7 @@ There are 6 elves aboard:
 He will welcome the characters aboard. He will tell them that Banir is
 also a traveller.
 
-#### Beiren To-kin
+#### Beiren Ty-kin
 
 He seeks beauty in this world will to help him and others achieve
 goodness. The safety of his ship, its crew, and his passengers are the
@@ -115,7 +115,7 @@ but he will appear nervous because of his deal with Banir Any-kin.
 These are friendly elves who will talk about the beauty they have seen
 so far on their journeys.
 
-#### Banir Any-kin
+#### Banir Any-kin (Morcanloth)
 
 An Arcanaloth in disguised as a fair elf, Banir Any-kin, using the
 *Alter Self* spell. In his pack are dark tomes, spell scrolls, and dark
@@ -153,22 +153,53 @@ Once they're bored, they will fly to one of the larger patrol ships,
 
 ### The Moon's Gaze
 
-This is a large patrol ship crewed by Archons. The captain is a Warden
-Archon, the crew is Hound Archons. A Trumpet Archon is around in case a
-message needs to be taken to the city. A few Lantern Archons will fly
-around.
+This is a large patrol ship crewed by Archons. This ship is patrolling
+and watching for planar travellers so that they can be examined by the
+Planetar in Heart's Faith.
 
-This ship will approach the Lunar Allure if the Lantern Archons from the
-ship approach it and board the Lunar Allure, which *Beiren To'kin* will
-allow, though he seems a little nervous.
+The captain is a Warden Archon, Beornheard. He is stern and his
+concentration will always lie elsewhere, watching and giving orders.
 
-The Trumpet Archon will greet Beiren and ask that any newcomers to Mount
-Celestia are transferred to their custody. Beiren will be surprised
-about this as its abnormal. The conversation will go quiet and a few
-seconds later Beiren will nod.
+A Trumpet Archon, Sonaru, is around in case a message needs to be taken
+to the city. It speaks with an androgynous musical voice, clear and
+loud.
 
-He will ask the player characters if they are happy to be transferred
-across to the Moon's Gaze.
+A dozen Hound Archons will work hard crewing the ship but will be
+reluctant to the players, ignoring them if possible.
+
+Tens of Lantern Archons will flit around the ship, chattering away. They
+will be asked to leave the players alone if they're too distracting.
+
+This ship will approach the Lunar Allure if the Lantern Acheron's have
+warned them that there are planar travellers.
+
+> A larger ship approaches, your eyes are drawn to its figurehead - in
+> the shape of Tyr - a muscular man, pits where there should be eyes,
+> with a warhammer held forward. Behind this, larger masts and sails. It
+> turns and slows to move alongside the *Lunar Allure*.
+>
+> Standing at the captains wheel is an armoured bear-like humanoid
+> watching carefully. Floating beside this creature is a tall winged
+> pearlescent green creature, similar in features to an elf, holding a
+> large trumpet. A dozen hound-headed muscular human like creatures crew
+> this ship. Tens of the small balls of light flit around.
+>
+> When it comes to a stop, a couple of the small balls of light zoom
+> over chattering "friends, friends." *Beiren To'kin* fidgets and stand
+> nervously glancing around the ship.
+>
+> The winged creature flies across to the Lunar Allure, greeting Beiren
+> Ty'kin in the same fashion as Beiren did to you earlier, giving
+> **Sonaru** as its name. Sonaru says, "Our lights have warned us that
+> you have picked up planar travellers.  Please, allow them to come with
+> us so that they may have an audience with [[TODO: Planetar]]."
+>
+> Beiren takes a deep breath and shakily responds, "th-these three
+> arrived just moments ago."
+>
+> He looks like he's about to say something else but then he turns to
+> you to say, "My friends, will you travel with them?  I promise they
+> mean you no harm, this is rare matter of formality."
 
 ## City of Heart's Faith
 
