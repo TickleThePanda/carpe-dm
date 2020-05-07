@@ -22,7 +22,8 @@ module.exports = config => {
   const markdownItAnchorOptions = {
     permalink: true,
     slugify: s => slugify(s, {
-      lower: true
+      lower: true,
+      strict: true
     }),
     permalinkClass: "direct-link",
     permalinkSymbol: "⁜",
