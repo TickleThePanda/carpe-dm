@@ -14,6 +14,11 @@ order: 4
 
 Source for [Archon stat blocks](https://www.gmbinder.com/share/-LkotFwjF2QPxOmF4YyH).
 
+## Introduction
+
+On the second day, the players will receive a taunting message on the
+sending stone: "You are fools to leave at such a time."
+
 ## Silver Sea
 
 > You have just jumped through the shimmering portal atop Mount Renau. A
@@ -713,6 +718,27 @@ This is where the Ith has been kept safe.
  - Deep pass and a corrupted lanterns
  - Priest who will not let the characters pass due to not good/lawful
  - Nycanloth tracking the characters
+## Events in Renauria
+
+For every day that passes while the party is in Lunia, events continue
+to go on in Renauria. On day:
+1. \-
+2. \-
+3. Orcs move to take Carnelu
+4. \-
+5. Carnelu, a village east of the Renau mountains, is taken by the Orcs
+6. A band of rouges break into the City of Renaura and kidnap the elvish
+   children
+7. Elydir finds the Wizard who knows of the location of Yith
+8. \-
+9. Elydir sends an Orcish army to put Renaura under siege
+10. \-
+11. \-
+12. Renaura is under siege by the Orcish army
+13. \-
+14. Lady Pertana is assassinated
+15. Renaura is taken and is ruled under marshal law
+16. Elydir makes Renaura her capital
 
 [ith]: /adventures/the-vanquished-appendix-2-treasure/#ith-the-orb-of-empathy 
 [faurin]: /adventure/the-vanquished-appendix-1-characters/#faurin
