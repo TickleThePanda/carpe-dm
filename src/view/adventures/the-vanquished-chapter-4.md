@@ -160,7 +160,7 @@ Once they're bored, they will fly to one of the larger patrol ships,
 
 This is a large patrol ship crewed by Archons. This ship is patrolling
 and watching for planar travellers so that they can be examined by the
-Planetar in Heart's Faith.
+Planetar in Hearts Faith.
 
 The captain is a Warden Archon, Beornheard. He is stern and his
 concentration will always lie elsewhere, watching and giving orders.
@@ -206,7 +206,7 @@ warned them that there are planar travellers.
 > you to say, "My friends, will you travel with them?  I promise they
 > mean you no harm, this is rare matter of formality."
 
-## City of Heart's Faith
+## City of Hearts Faith
 
 This is the largest city in Mount Celestia. Ships that arrive here land
 at the Port of Wonders.
@@ -229,7 +229,7 @@ Hall of Salutation to be greeted.
 
 ### Port of Wonders
 
-This is the largest port in Heart's Faith and therefore in the whole of]
+This is the largest port in Hearts Faith and therefore in the whole of]
 Lunia. Most of Lunia's trade moves through this city.
 
 > Marble wharfs, small and large, strut out from a towering marble city.
