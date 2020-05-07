@@ -163,17 +163,13 @@ and watching for planar travellers so that they can be examined by the
 Planetar in Hearts Faith.
 
 The captain is a Warden Archon, Beornheard. He is stern and his
-concentration will always lie elsewhere, watching and giving orders.
-
-A Trumpet Archon, Sonaru, is around in case a message needs to be taken
-to the city. It speaks with an androgynous musical voice, clear and
-loud.
-
-A dozen Hound Archons will work hard crewing the ship but will be
-reluctant to the players, ignoring them if possible.
-
-Tens of Lantern Archons will flit around the ship, chattering away. They
-will be asked to leave the players alone if they're too distracting.
+concentration will always lie elsewhere, watching and giving orders. A
+Trumpet Archon, Sonaru, is around in case a message needs to be taken to
+the city. It speaks with an androgynous musical voice, clear and loud. A
+dozen Hound Archons will work hard crewing the ship but will be
+reluctant to the players, ignoring them if possible. Tens of Lantern
+Archons will flit around the ship, chattering away. They will be asked
+to leave the players alone if they're too distracting.
 
 This ship will approach the Lunar Allure if the Lantern Acheron's have
 warned them that there are planar travellers.
