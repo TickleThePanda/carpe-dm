@@ -136,6 +136,8 @@ He has taken a long and difficult journey to Lunia to find [Ith, the Orb
 of Empathy][ith] for Elydir, in exchange for access to the libraries. He
 knows that Faurin's location and that he has knowledge of where Ith is.
 
+He wears a *Ring of Mind Shielding*.
+
 Already exhausted, if the players speak to him, he will show a very
 brief flash of annoyance which any character who makes a successful
 check against a Wisdom (Insight) DC 19 will see. He will then politely
@@ -380,13 +382,25 @@ towards a shrine of Lathander, outside the city.
 
 There are lesser shrines throughout the city.
 
-## Hope's Ingress
+### Hope's Ingress
 
 This is where new souls enter Mount Celestia.
 
-The administrators here know Faurin's location and will warn the player
+> In the middle of a beautiful gardens, you reach a square of steps
+> leading down. In the centre of the square is a building.
+>
+> Near the building, a few dozen of Hound Archons stand, welcoming
+> people and talking, a Deva flies overhead.
+> 
+> Hundreds of people stand at the top of the stairs, all around. People
+> leave the building and walk up the steps. They sing and shout and
+> chant: "Sing in exultation, spirit, Mount Celestia welcomes you. Go,
+> live in peace, in the Triad's creation!"
+
+The Deva, Sariel, knows of Faurin's location but will warn the player
 characters that they will not be allowed entrance, as they have not died
-and are not in need of the Cavern of Starts.
+and are not in need of the Cavern of Starts. They will also mention that
+somebody else had been here recently and asked about this also.
 
 ## Shrine to Lathander
 
