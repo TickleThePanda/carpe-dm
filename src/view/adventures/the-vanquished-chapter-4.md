@@ -867,8 +867,9 @@ door.
 > still gaunt and sad, his hair is thicker and his eyes are no longer
 > bloodshot.
 
-This is where [Faurin][faurin] rests.  He knows about Elydir's old plans
-and her want to combine the pieces of the Staff of Skonarith.
+This is where [Faurin][faurin] rests. He knows about Elydir's old plans
+and her want to combine the pieces of the Staff of Skonarith. He knows
+the location through the hidden path, and the password to "unbind".
 
 #### Abode 4, Isadore of Gillhall
 
@@ -999,7 +1000,7 @@ the door.
 An elvish sorcerer, Asimina, who tried to avoid using her powers during
 her lifetime. In a moment of desperation, she accidentally destroyed her
 own village and herself in a surge of wild magic, trying to heal her
-mother.  She spends her time trying to perfect the spells to not have a
+mother. She spends her time trying to perfect the spells to not have a
 wild magic surge. She killed her whole family.
 
 If she is distracted, this will fail. She will have a look of terror
@@ -1013,15 +1014,120 @@ on the door.
 
 > The room contains a bed, an easel, and lots of unfinished paintings.
 
-An human artist, Almar Torrie, who failed to complete his work for the local church
-which was then destroyed in an unrelated lightning strike. He can
-usually be found in the gallery.
+An human artist, Almar Torrie, who failed to complete his work for the
+local church which was then destroyed in an unrelated lightning strike.
+He can usually be found in the gallery.
 
 ## Temple of Affinity
 
-This is also known as the Temple of the Corrupt Orb.
+This is also known as the Temple of the Corrupt Orb. This is where the
+Ith has been kept safe from the world, and the world safe from Ith.
+Inside the temple, the Orb can detect the thoughts and feelings of any
+creature. Additionally, it can speak to any creature telepathically.
 
-This is where the Ith has been kept safe.
+The temple is *Hallowed* cast at 8th level, excluding Celestials from
+the standard effects. The spell also has the additional effect, all
+humanoids in the area cannot be frightened.
+
+> You find the hidden passage that Faurin told you about. It leads you
+> into a deep gorge, though the stream has ran dry. The passage winds
+> back and forth until you reach an opening. The gorge widens and you
+> see the stars above. Ahead, a temple, its stone worn, built across the
+> gorge. Pillars decorate the front. The forest is creeping down into
+> the gorge but it has left the temple untouched.
+>
+> Above the door, celestial script is engraved.
+
+The celestial script says "Speak the Password to Free the Orb".
+
+### The Temple Entrance
+
+> The door opens. Inside, there's a small room, only 15ft wide and 10ft
+> along. The walls are cracked and the floor dusty. The air seems to
+> fizz with energy. Ahead of you are two doors, both closed.
+>
+> On the wall across the room, text is engraved on the wall. Though you
+> don't recognise the script but each of the players hears a voice
+> speak:
+> > Beware, those who enter here,
+> > Of what you seek.
+> > We know not if it is evil,
+> > Or strong or weak.
+> > It hears your thoughts and feeling,
+> > As if you speak.
+
+As the players what their characters are currently feeling as their
+primary emotion. The Orb will introduce itself to the players at this
+point, speaking to the players directly by the emotions that they're
+feeling. It will apologise for intruding on their thoughts. It will warn
+them that their friendship will be tested if they continue with three
+challenges ahead.
+
+### Challenge 1
+
+After a chance to speak. It will give the characters a choice.
+
+> Either dexter or sinister, a fight you will meet.
+> The sinister, arduous but rewarded.
+> The dexter, quick and
+
+#### C1.1: Option 1
+
+In this room, there are 4 animated armour and 3 flying swords.
+
+#### C1.2: Option 2
+
+In this room, there is a shield guardian.
+
+### Challenge 2
+
+It will give the option as below but it will do the opposite of what the
+characters voted for.
+
+#### C2.1: Option 1
+
+In this room, there's an earth elemental.
+
+#### C2.2: Option 2
+
+A puzzle, with only one chance.
+
+```
+ _____________________________
+/         |         |         \
+|  .      |  .      | x       |
+|    > .  |    > x  |   > . x |
+|  .      |  x      | x       |
+\_________|_________|_________/
+          |         |
+          | x . . . |
+          | x . x . |
+          \_________/
+
+
+     O           O           O
+ ____|____   ____|____   ____|____
+/         \ /         \ /         \
+| . x . . | | . . x x | | . x x . |
+\_________/ \_________/ \_________/
+```
+
+either a hard fight or a reward.
+
+### Challenge 3
+
+It will offer the choice between the following but only divulge certain
+information and will lie to the players.
+
+#### C3.1: Option 1
+
+Easier fight
+
+#### C3.2: Option 2
+
+Hard fight
+
+### Temple 
 
 ## Events in Renauria
 
