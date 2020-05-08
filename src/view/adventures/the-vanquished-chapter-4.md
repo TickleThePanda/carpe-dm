@@ -1020,7 +1020,7 @@ to go on in Renauria. On day:
 5. Carnelu, a village east of the Renau mountains, is taken by the Orcs
 6. A band of rouges break into the City of Renaura and kidnap the elvish
    children
-7. Elydir finds the Wizard who knows of the location of Yith
+7. Elydir finds the Wizard who knows of the location of Nar
 8. \-
 9. Elydir sends an Orcish army to put Renaura under siege
 10. \-
