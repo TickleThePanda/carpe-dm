@@ -53,7 +53,7 @@ message on the sending stone: "You are fools to leave at such a time!"
 > of your surroundings:
 > - an impossibly large mountain island with a sprawling shore of
 >   glowing warm lights and tall white buildings
-> - two distant tall-ships, one in the North West and one towards the
+> - two distant tall-ships, one in the north-west and one towards the
 >   south, well lit
 > - a small ornate ship with beautiful sails, only a few hundred feet
 >   away to the south west.
@@ -65,32 +65,30 @@ message on the sending stone: "You are fools to leave at such a time!"
 > salty.
 
 If the players make enough noise and movement, a whale will come along
-and help the players stay afloat, coming from below, and the nearby
-ornate ship with beautiful sails will also move to help them.
+and help the players stay afloat, coming from below. The nearby ornate
+ship with beautiful sails will also move to help them.
 
 As the ship approaches:
-> The small ornate ship is close by, approaching you slowly, its hull
-> and cabins are intricately carved, depicting the sea and oceanic
-> nature.  Its silken sails softly swell in the gentle breeze. Most of
-> the light on the deck comes from candles and lanterns but you also see
-> a couple of small balls of light zooming around above the ship. A
-> short inscription on the side of the ship but you can't understand it
-> *(unless a character can read celestial)*.
+> The small ornate ship approaches you slowly, its hull and cabins are
+> intricately carved, depicting the sea and its animals. Its silken
+> sails softly swell in the gentle breeze. Most of the light on the deck
+> pours from candles and lanterns. Though, a couple of small balls of
+> light zooming around above the ship. There's a short inscription on
+> the side of the ship *(unless a character can read celestial)*.
 > 
-> You can see five elves on the deck: two elf-women dressed in white and
-> gold embroidered trousers and shirts - the first, clearly the captain,
-> is standing at the ship's wheel giving calm orders to the other - the
-> second is carrying them out; the three other elves, two men and a
-> woman, are in white and gold robes, intently watching everything
-> that's going on.
+> You can see five elves on the deck. Two elf-women are dressed in white
+> and gold embroidered trousers and shirts. The first is standing at the
+> ship's wheel giving calm orders to the other; the second is carrying
+> them out. The three other elves, two men and a woman, are in white and
+> gold robes, intently watching everything that's going on.
 >
 > The captain waves over to you and gives another order. The ship slows,
-> most of the deck now eclipsed by the approaching side. The working elf
-> approaches the edge and throws down a rope ladder. The two balls of
-> lights appear behind her, flittering excitedly, melodically
-> chattering.
+> as most of the deck now eclipsed by the approaching side. The elf that
+> was carrying out orders approaches the edge and throws down a rope
+> ladder. The two balls of lights appear behind her, flittering
+> excitedly, melodically chattering.
 >
-> The captain approaches the edge - briefly bringing her index and
+> The captain approaches the edge, briefly bringing her index and
 > middle fingers up to each of her eyes, closing them, and bowing. "I
 > regret that I can't greet you properly. You are welcome aboard into
 > safety, Any-kin."
@@ -109,9 +107,9 @@ There are 6 elves aboard:
 
 > As you climb aboard, you see the well lit deck, clean, tidy, and well
 > ordered. The ship barely sways above the water. The two balls of light
-> flitter around you, continuing to chatter. You notice another elf,
-> hooded in blue and grey robes with orange ornate threading, sitting
-> quietly on a clutching a green travellers pack closely.
+> flitter around you, continuing to chatter. An elf that you didn't
+> notice before sits in hooded blue and grey robes with orange ornate
+> threading, quietly clutching a green travellers pack closely.
 >
 > The captain bows again, greeting you in the same way as before: "I,
 > Beiren Ty-kin, welcome you to my vessel, the Lunar Allure. This is
