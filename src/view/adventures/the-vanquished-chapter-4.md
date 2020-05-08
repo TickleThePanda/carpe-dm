@@ -12,12 +12,10 @@ order: 4
 
 ---
 
-Source for [Archon stat blocks](https://www.gmbinder.com/share/-LkotFwjF2QPxOmF4YyH).
-
 ## Introduction
 
 On the second day, the players will receive a taunting message on the
-sending stone: "You are fools to leave at such a time."
+sending stone: "You are fools to leave at such a time!"
 
 ## Silver Sea
 
@@ -1187,6 +1185,12 @@ to go on in Renauria. On day:
 14. Lady Pertana is assassinated
 15. Renaura is taken and is ruled under marshal law
 16. Elydir makes Renaura her capital
+
+## References
+
+1. Source for [Archon stat blocks][archon-stats]
+
+[archon-stats]: https://www.gmbinder.com/share/-LkotFwjF2QPxOmF4YyH
 
 [ith]: /adventures/the-vanquished-appendix-2-treasure/#ith-the-orb-of-empathy 
 [faurin]: /adventure/the-vanquished-appendix-1-characters/#faurin
