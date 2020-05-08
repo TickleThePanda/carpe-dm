@@ -199,6 +199,29 @@ Though it's night, the moon and starlight fills the sky. The trio can
 see boats near-ish on the silvery sea. The horse is panicking in the
 water.
 
+## Summary So Far
+
+> Drawn by dreams and stories, you visited a lonely tower deserted in
+> moorlands. You solved the password to the tower, travelled to the top,
+> and met an old elvish woman, Elydir. She asked you to go on a quest
+> for her - to find a family heirloom that was once stolen from her, in
+> a lost Tomb of Rehani.
+>
+> On the quest, you visited the city of Renaura, finding clues about the
+> location of the once lost Tomb. You split up and found clues:
+> - the barkeep March at the Tavern, *The Dragons Claw*
+> - from Glanna in the *Temple of Ilmater*
+> - from the castle librarian.
+>
+> With your newfound knowledge, you set off to find the lost Tomb of the
+> Last Rehani, fighting gnomes to get in and skeletons throughout the
+> tomb to find a recent translation of the maps pointing you to the tomb
+> of "Faurin, Vanquisher of Elydir".
+>
+> Finally, you arrive at the tomb.
+
+> The characters met with Pertana after spending a few weeks helping the
+> City of Renau
 
 ## DM lessons learnt
 
