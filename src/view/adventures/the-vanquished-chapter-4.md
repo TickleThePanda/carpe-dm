@@ -219,9 +219,8 @@ at the Port of Wonders.
 > pathways are lit by ornate lamps.
 
 Throughout the city, there are various Archons who may stop the
-characters and ask for their identification or details of their
-registration. If they haven't been registered, they will be taken to the
-Hall of Salutation to be greeted.
+characters and ask for a Mark of Mydaiel. If they don't have a Mark of
+Mydaiel, they will be taken to the Hall of Salutation to be greeted.
 
 ### Port of Wonders
 
@@ -253,10 +252,10 @@ escorted to the Hall of Salutation.
 
 ### Hall of Salutation
 
-Any strangers caught by Archons who are not registered will be brought
-here. They will be cared for carefully, in preparation to meet the
-Planetar, Mydaiel. This is one of the measures taken to prevent a demon
-invasion. The attendants are careful due recent invasions.
+Any strangers caught by Archons who do not have a Mark of Mydaiel will
+be brought here. They will be cared for carefully, in preparation to
+meet the Planetar, Mydaiel. This is one of the measures taken to prevent
+a demon invasion. The attendants are careful due recent invasions.
 
 > The Hall of Salutation is a lofty marble building shaped like an
 > obelisk, over 800ft tall. Around the building are balconies in an
@@ -337,6 +336,9 @@ original forms. He will question visitors about their intent in Lunia,
 using his *Divine Awareness* to tell if a creature is lying. He knows
 that the administrators at Hope's Ingress will know whether any creature
 has arrived here after dying and may know where they are.
+
+If the players are welcome, they will be given a Mark of Mydaiel to
+prove that they are safe here.
 ### Temple to Torm
 
 A large temple to Torm.
