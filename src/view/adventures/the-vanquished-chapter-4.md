@@ -339,13 +339,42 @@ has arrived here after dying and may know where they are.
 
 If the players are welcome, they will be given a Mark of Mydaiel to
 prove that they are safe here.
-### Temple to Torm
 
-A large temple to Torm.
+### Temple of the Triad
 
-### Temple to Tyr
+This is a temple devoted to the Triad. It's surrounded by a walled
+garden. The temple is in the shape of a cross. The main temple hall is
+devoted to the Triad, at the base of the cross. The other ends to the
+cross are shrines devoted to Tyr, Torm, and Ilmater.
 
-A large temple to Tyr.
+```
+     _____
+    /     \
+  __|__ __|__
+ /  |     |  \
+ |  |     |  |
+ |           | 
+ |  |     |  |
+ \__|     |__/
+    |     |
+    |     |
+    |     |
+    |     |
+    \__ __/
+```
+
+Within the walled garden is the temple, is the residency of the priests
+and acolytes, and a healers.
+
+A dwarf priest, Mandoun, will be available to speak to visitors and will
+agree to provide services, for example, helping to find Faurin, if the
+players find the [missing Lantern Archon,
+Zuriel](#trapped-lantern-archon).
+
+They will find Faurin using the spell *Divination*, speaking to Ilmater.
+
+The missing Lantern Archon is trapped. It was last seen travelling
+towards a shrine of Lathander, outside the city.
 
 ### Lesser shrines
 
