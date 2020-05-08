@@ -160,7 +160,7 @@ Once they're bored, they will fly to one of the larger patrol ships,
 
 This is a large patrol ship crewed by Archons. This ship is patrolling
 and watching for planar travellers so that they can be examined by the
-Planetar in Hearts Faith.
+Mydaiel the Planetar in Hearts Faith.
 
 The captain is a Warden Archon, Beornheard. He is stern and his
 concentration will always lie elsewhere, watching and giving orders. A
@@ -191,9 +191,9 @@ warned them that there are planar travellers.
 >
 > The winged creature flies across to the Lunar Allure, greeting Beiren
 > Ty'kin in the same fashion as Beiren did to you earlier, giving
-> **Sonaru** as its name. Sonaru says, "Our lights have warned us that
+> *Sonaru* as its name. Sonaru says, "Our lights have warned us that
 > you have picked up planar travellers.  Please, allow them to come with
-> us so that they may have an audience with [[TODO: Planetar]]."
+> us so that they may have an audience with Mydaiel."
 >
 > Beiren takes a deep breath and shakily responds, "th-these three
 > arrived just moments ago."
@@ -255,16 +255,88 @@ escorted to the Hall of Salutation.
 
 Any strangers caught by Archons who are not registered will be brought
 here. They will be cared for carefully, in preparation to meet the
-Planetar. This is one of the measures taken to prevent a demon invasion.
-The attendants are careful due recent invasions.
+Planetar, Mydaiel. This is one of the measures taken to prevent a demon
+invasion. The attendants are careful due recent invasions.
 
-The Planetar will check the player characters form to ensure that they
-are not humans.
+> The Hall of Salutation is a lofty marble building shaped like an
+> obelisk, over 800ft tall. Around the building are balconies in an
+> alternating pattern on each floor and open windows. Out of the
+> balconies and windows grow beautiful plants and flowers draping and
+> ivies growing up the walls. Near the top is a huge stained glass
+> window of the Triad.
+>
+> Hound Archons guard the entrance, a portico with an archway behind it.
+> A few merchants and travellers are entering here, escorted by other
+> Archons. A few merchants and travellers are exiting.
 
-### Temple to Ilmater
+If the characters are escorted here or seek an audience with Mydaiel,
+they will be taken through *The Entrance Hall and Staircases*, up to a
+*Lounge*. 
 
-A large temple to Ilmater.
+#### The Entrance Hall and Staircases
 
+> The entrance portico leads to a tunnel with rooms coming off either
+> side. Additional Hound Archons guard the entrance. Each room has many
+> Archons of different types working: studying, sparring, or conversing.
+> The tunnel ends in a large room in which a staircase spirals up centre
+> of the building.
+>
+> There are 44 floors. On every floor there are more tunnels and rooms,
+> though fewer guards.
+
+At the top of the staircase:
+> At the top of the staircase, there are rooms on all sides except the
+> south where there's a grand staircase. It has thick red carpets with
+> elaborate patterns up the middle. Rather than spiralling, this
+> staircase heads up from the centre and back on itself. In some of
+> these rooms that you can other travellers and merchants. An angelic
+> voice booms from above, the room vibrates and sings with it.
+
+#### Rooms
+
+For a room that the players enter, roll a d100 and consult the table
+below.
+
+Result | Type
+--- | ---
+1-5 | A kitchen, roll 1d4 for the number of Hound Archons
+6-10 | A watch room, a Warden Archon will be in here
+11-20 | A training room, roll 1d8+2 for the number of Hound Archons in this room
+20-50 | A study, roll 1d4 for the number of Hound Archons and 1d4 for the number of Trumpet Archons
+50-100 | A communication room, roll 1d8 for the number of Hound Archons and for the number of Trumpet Archons
+
+#### The Lounge
+
+> A table is set out with fine foods and drinks. There's an area to sit.
+> A large balcony towers looks out over the city and sea. Out of vast
+> pots, plants cascade over the side and ivies up the wall, their leaves
+> the size of dinner plates and branches as thick as arms.
+
+If brought to the lounge, they will be left alone asked to wait, which
+will be about 20 minutes.
+
+The balcony is 660ft in the air, there are 22 balconies below it, each
+30 ft apart.
+
+#### The Hall of Mydaiel the Patient
+
+> Up the final set of stairs, you are led into a grand hall, the ceiling
+> over 100ft tall. A huge stained glass window depicting the Triad
+> sparkles in the starry Lunia light. Sitting in a huge throne atop a
+> large set of stairs is a 9 foot tall, a handsome muscular winged
+> creature with opalescent emerald skin. A large sword, still in its
+> scabbard, leans against the throne.
+>
+> A Trumpet Archon floats aside and Hound Archons are positioned at the
+> bottom of the stairs and by the entrance you just entered through.
+
+Mydaiel the Patient is a *Planetar* who serves the Triad. He is there to
+make sure that those in Lunia are not fiends or elementals and don't
+mean any harm to the land. He will use his *truesight* to see creatures
+original forms. He will question visitors about their intent in Lunia,
+using his *Divine Awareness* to tell if a creature is lying. He knows
+that the administrators at Hope's Ingress will know whether any creature
+has arrived here after dying and may know where they are.
 ### Temple to Torm
 
 A large temple to Torm.
@@ -290,7 +362,7 @@ and are not in need of the Cavern of Starts.
 A tranquil monastery built into the mountain, into a cave of luminescent
 gems. Many of those, who still the many who mourn their lives or losses
 travel here to meditate in peace. Only those given permission by a
-Planetar can enter into the Cavern of Stars.
+Planetar, Mydaiel, can enter into the Cavern of Stars.
 
 It is staffed by Hound Archon's, who act as caretakers, guards, and
 administrators of the monastery. There are two guards, three caretakers,
