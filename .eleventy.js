@@ -26,7 +26,10 @@ module.exports = config => {
       strict: true
     }),
     permalinkClass: "direct-link",
-    permalinkSymbol: "⁜",
+    permalinkSymbol: "2",
+    permalinkAttrs: (slug, state) => ({
+      "aria-label": "Permalink: " + slug
+    }),
     level: [1,2,3,4]
   };
 
