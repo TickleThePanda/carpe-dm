@@ -11,8 +11,77 @@ order: 201
 
 ---
 
+This is the summary of what the players have done over the campaign.
+First, there's a brief summary and then a more detailed summary of each.
 
-## Session 1
+## Brief summary
+
+The trio met up at a wilderness tower, brought by visions in their
+dreams and, for Elmond, by letter. After unlocking the tower, they spoke
+to Elydir inside, who tasked them with finding a stolen family amulet
+buried in the Tomb of the Last Rehani. They travelled to the City of
+Renaura, found out more information about the tomb from the tavern, the
+temple, and the library, and found the tomb. In the tomb, they fought
+goblins, skeletons, and the ghost of a man, Faurin, to get to the
+amulet. They returned the amulet to Elydir and she disappeared, leaving
+the gold promised to them behind.
+
+---
+
+Months later, the trio received letters asking them to meet in a tavern
+in a town near Renaura. At the tavern, they met a hooded woman who asked
+them to take the throne back for Lord Morcant from a tyrannical
+supplanter, Lord Telnetar; they agree and travel to Renaura. Here, they:
+rescued Glanna and Telnetar's servants from Telnetar's mansion; met
+Pertana, leading a small rebellion; and saved a family from a warehouse.
+Throughout all of this, they fought sinister creatures and heard of the
+unusual and uncharacteristic circumstances under which Telnetar
+overthrew Morcant.
+
+The trio then travelled to the castle, using a secret entrance, to find
+Telnetar crying at the throne - controlled by a drow mage, Qa'lir. The
+symbol of Elydir was emblazoned on her robes, though with a broken chain
+below and a broken rope above. They defeated Qa'lir and took a sending
+stone from her body, with the same symbol.
+
+---
+
+After helping clean up the city, the characters received a screeching
+message from Qa'lir's sending stone, threatening them for what they had
+done. Speaking to the castle librarian, they found that the glyph
+(apart from the broken chain and rope) is the Glynlamin's family crest.
+They live in the elvish village of Aymeluma across the mountain path.
+
+Elmon, Meriele, and Aseir travelled across the mountain path to Aymeluma
+in hope of answers about the symbol but found the village mostly
+destroyed. In the village, they found the remains of a ruined prophecy
+inside a building with Elydir's symbol engraved on it. Nearby, they
+discovered an orc camp where elves were trapped in cages who they helped
+escape. Speaking to Pharom, an elf who resembled Elydir but younger,
+they found out that: the elves' kidnapper was Qa'por; Elydir was
+understood to be killed years ago after a grave betrayal; and the full
+prophecy text. While the elves travelled to Renaura in search of safety,
+the trio, hearing an explosion from the camp, returned to the camp in
+hopes of killing Qa'por but failed to reach her before she disappeared
+suddenly.
+
+The trio, following the prophecy, travelled to the Cloudpeak Monastery
+seeking out "divine slopes". Here, they met Xolbi, a silver dragon who
+wanted them to find a stolen crown in return for helping them understand
+the meaning of divine slopes in the prophecy. They agreed to help him
+and found the crown in Renaura. On returning to Renaura, Xolbi then
+explained that a portal will open that night, at the top of Mount Renau
+can lead them to Mount Celestia. They set off to immediately. On their
+journey up the mountain, they helped a monk reach the top. The monk then
+appeared to them as a Deva, and the portal, as silvery pool, opens. The
+trio jump into the pool.
+
+## Detailed summaries
+
+These are more detailed summaries of each session.
+
+### Session one: Finding Elydir's amulet
+<div class="subheading">5th October, 2018 — Chester</div>
 
 Meriele, Elmon, and Prince Aseir travelled to a wilderness tower.
 Meriele and Aseir were brought by their dreams, Elmon invited by
@@ -71,7 +140,8 @@ try to give the copy to Elidyir. She demands the proper amulet, and
 when it's given to her, disappears instantaneously from the room,
 leaving the reward behind.
 
-### Session 2
+### Session two: Overthrowing Lord Telnetar
+<div class="subheading">26th January, 2019 — Brockweir</div>
 
 The trio parts ways for a few months until an intriguing letter is
 sent to each of them, asking for them to meet in the Watchers Tavern
@@ -132,7 +202,8 @@ though with only Meriele standing, who deals the final blow.
 Meriele loots Qa'lir's body, taking diamonds and a stone engraved with
 Elydir's symbol, a broken chain also engraved underneath it.
 
-### Session 3
+### Session three: Finding the prophecy
+<div class="subheading">8th November, 2019 — Chester</div>
 
 After spending the last week killing the monster, constructs, and
 cultists which remained in the city, the characters met with Pertana.
@@ -211,5 +282,8 @@ characters for their help, before letting them pass into the portal.
 The characters, hand in hand, jumped into the pool together,
 apprehensive of what they might find on the other side.
 
-
+<!---
+### Session four: Finding Faurin
+<div class="subheading">9th May, 2020 — Zoom</small>
+--->
 

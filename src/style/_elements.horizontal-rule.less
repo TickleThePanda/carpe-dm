@@ -1,0 +1,40 @@
+hr {
+  border: none;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  
+  &::before {
+    content: "2";
+
+    display: block;
+    width: min-content;
+    margin: auto;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+
+    font-feature-settings: 'ornm';
+    line-height: 1;
+
+    text-align: center;
+
+    background-color: @palette-white;
+
+  }
+
+  &::after {
+    content:"";
+    
+    display: block;
+
+    max-width: 6rem;
+    margin: auto;
+
+    position: relative;
+    top: calc(-0.55em);
+    
+    border-top: 1px solid @palette-black;
+
+    z-index: -1; 
+  }
+}
+
