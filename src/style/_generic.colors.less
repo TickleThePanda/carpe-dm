@@ -1,36 +1,54 @@
 :root {
-  --palette-black: #444;
   --palette-white: #fff;
+  --palette-black: #000;
 
-  --palette-grey-300: #888;
-  --palette-grey-700: #f4f4f4;
+  --palette-gs-100: hsl(0, 0, 90%);
+  --palette-gs-200: hsl(0, 0, 80%);
+  --palette-gs-300: hsl(0, 0, 70%);
+  --palette-gs-400: hsl(0, 0, 60%);
+  --palette-gs-500: hsl(0, 0, 50%);
+  --palette-gs-600: hsl(0, 0, 40%);
+  --palette-gs-700: hsl(0, 0, 30%);
+  --palette-gs-800: hsl(0, 0, 20%);
+  --palette-gs-900: hsl(0, 0, 10%);
 
-  --palette-primary-300: #edb2b2;
-  --palette-primary: #ec8686;
+  --palette-primary-400: #edb2b2;
+  --palette-primary-500: #ec8686;
   --palette-primary-700: #d41515;
 }
 
 :root {
   --theme-background: var(--palette-white);
-  --theme-stroke: var(--palette-black);
-  --theme-primary: var(--palette-primary);
-  --theme-primary-300: var(--palette-primary-300);
+  --theme-background-lc: var(--palette-gs-100);
+  --theme-stroke: var(--palette-gs-800);
+  --theme-stroke-lc: var(--palette-gs-600);
+  --theme-primary: var(--palette-primary-500);
+  --theme-primary-300: var(--palette-primary-400);
   --theme-primary-700: var(--palette-primary-700);
-  --theme-gs-300: var(--palette-grey-300);
-  --theme-gs-700: var(--palette-grey-700);
 
-  --theme-alt-background: var(--palette-black);
+  --theme-alt-background: var(--palette-gs-800);
   --theme-alt-stroke: var(--palette-white);
-  --theme-alt-primary: var(--palette-primary);
+  --theme-alt-primary: var(--palette-primary-500);
   --theme-alt-primary-300: var(--palette-primary-700);
-  --theme-alt-primary-700: var(--palette-primary-300);
-  --theme-alt-grey-300: var(--palette-grey-700);
-  --theme-alt-grey-700: var(--palette-grey-300);
+  --theme-alt-primary-700: var(--palette-primary-400);
 }
 
-@media print {
+@media (prefers-color-scheme: dark) {
+
   :root {
-    --palette-black: #000;
-    --palette-white: #fff;
+    --theme-background: var(--palette-gs-900);
+    --theme-background-lc: var(--palette-gs-800);
+    --theme-stroke: var(--palette-gs-200);
+    --theme-stroke-lc: var(--palette-gs-300);
+    --theme-primary: var(--palette-primary-500);
+    --theme-primary-300: var(--palette-primary-400);
+    --theme-primary-700: var(--palette-primary-700);
+
+    --theme-alt-background: var(--palette-gs-800);
+    --theme-alt-stroke: var(--palette-white);
+    --theme-alt-primary: var(--palette-primary-500);
+    --theme-alt-primary-300: var(--palette-primary-700);
+    --theme-alt-primary-700: var(--palette-primary-400);
   }
+
 }
