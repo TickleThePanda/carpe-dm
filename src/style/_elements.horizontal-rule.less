@@ -33,8 +33,20 @@ hr {
     margin: auto;
 
     position: relative;
-    top: calc(-0.55em);
+    top: calc(-0.525em - 2.5px);
 
-    border-top: 1px solid var(--theme-stroke);
+    height: 5px;
+
+    border-left: 1px solid var(--theme-stroke);
+    border-right: 1px solid var(--theme-stroke);
+
+    background: linear-gradient(
+       var(--theme-background),
+       var(--theme-background) calc(50% - 0.5px),
+       var(--theme-stroke)     calc(50% - 0.5px),
+       var(--theme-stroke)     calc(50% + 0.5px),
+       var(--theme-background) calc(50% + 0.5px),
+       var(--theme-background)
+    );
   }
 }
