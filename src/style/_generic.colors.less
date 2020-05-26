@@ -10,11 +10,13 @@
   --palette-gs-600: hsl(0, 0, 40%);
   --palette-gs-700: hsl(0, 0, 30%);
   --palette-gs-800: hsl(0, 0, 20%);
+  --palette-gs-850: hsl(0, 0, 15%);
   --palette-gs-900: hsl(0, 0, 10%);
 
-  --palette-primary-400: #edb2b2;
-  --palette-primary-500: #ec8686;
-  --palette-primary-700: #d41515;
+  --palette-primary-400: hsl(0, 73%, 83%);
+  --palette-primary-500: hsl(0, 73%, 73%);
+  --palette-primary-700: hsl(0, 63%, 63%);
+  --palette-primary-900: hsl(0, 43%, 53%);
 }
 
 :root {
@@ -23,14 +25,14 @@
   --theme-stroke: var(--palette-gs-800);
   --theme-stroke-lc: var(--palette-gs-600);
   --theme-primary: var(--palette-primary-500);
-  --theme-primary-300: var(--palette-primary-400);
-  --theme-primary-700: var(--palette-primary-700);
+  --theme-primary-lc: var(--palette-primary-400);
+  --theme-primary-hc: var(--palette-primary-900);
 
   --theme-alt-background: var(--palette-gs-800);
   --theme-alt-stroke: var(--palette-white);
   --theme-alt-primary: var(--palette-primary-500);
-  --theme-alt-primary-300: var(--palette-primary-700);
-  --theme-alt-primary-700: var(--palette-primary-400);
+  --theme-alt-primary-lc: var(--palette-primary-400);
+  --theme-alt-primary-hc: var(--palette-primary-900);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,16 +41,16 @@
     --theme-background: var(--palette-gs-900);
     --theme-background-lc: var(--palette-gs-800);
     --theme-stroke: var(--palette-gs-200);
-    --theme-stroke-lc: var(--palette-gs-300);
+    --theme-stroke-lc: var(--palette-gs-400);
     --theme-primary: var(--palette-primary-500);
-    --theme-primary-300: var(--palette-primary-400);
-    --theme-primary-700: var(--palette-primary-700);
+    --theme-primary-lc: var(--palette-primary-900);
+    --theme-primary-hc: var(--palette-primary-700);
 
-    --theme-alt-background: var(--palette-gs-800);
+    --theme-alt-background: var(--palette-gs-850);
     --theme-alt-stroke: var(--palette-white);
-    --theme-alt-primary: var(--palette-primary-500);
-    --theme-alt-primary-300: var(--palette-primary-700);
-    --theme-alt-primary-700: var(--palette-primary-400);
+    --theme-alt-primary: var(--palette-primary-700);
+    --theme-alt-primary-lc: var(--palette-primary-400);
+    --theme-alt-primary-hc: var(--palette-primary-900);
   }
 
 }
