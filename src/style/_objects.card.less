@@ -2,8 +2,8 @@
 
   @card-shadow-offset: 0.4rem;
 
-  background-color: @palette-black;
-  color: @palette-white;
+  background-color: var(--theme-alt-background);
+  color: var(--theme-alt-stroke);
 
   padding: 1rem;
   padding-top: 0.8rem;
@@ -12,14 +12,14 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 
-  box-shadow: @card-shadow-offset @card-shadow-offset @palette-primary-light;
+  box-shadow: @card-shadow-offset @card-shadow-offset var(--theme-alt-primary);
 
 }
 
 .card--link {
 
   &:link, &:visited {
-    color: @palette-white;
+    color: var(--theme-alt-stroke);
   }
 
   display: block;
@@ -33,8 +33,7 @@
     .card__title {
       text-decoration: underline;
     }
-
-    background-color: lighten(@palette-black, 20%, relative);
+    opacity: 0.8;
   }
 
   font-weight: var(--font-weight-normal);

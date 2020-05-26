@@ -2,7 +2,7 @@ hr {
   border: none;
   margin-top: 2em;
   margin-bottom: 2em;
-  
+
   &::before {
     content: "2";
 
@@ -17,13 +17,13 @@ hr {
 
     text-align: center;
 
-    background-color: @palette-white;
+    background-color: var(--theme-background);
 
   }
 
   &::after {
     content:"";
-    
+
     display: block;
 
     max-width: 6rem;
@@ -31,10 +31,9 @@ hr {
 
     position: relative;
     top: calc(-0.55em);
-    
-    border-top: 1px solid @palette-black;
 
-    z-index: -1; 
+    border-top: 1px solid var(--theme-stroke);
+
+    z-index: -1;
   }
 }
-

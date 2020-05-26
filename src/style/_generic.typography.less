@@ -75,16 +75,16 @@ html, body {
   font-kerning: normal;
   font-variant-numeric: oldstyle-nums;
 
-  color: @palette-black;
+  color: var(--theme-stroke);
 }
 
 @media print {
   * {
-    color: @print-black !important;
-    background-color: @print-white !important;
+    color: var(--palette-black) !important;
+    background-color: var(--palette-white) !important;
 
     text-shadow: none !important;
     box-shadow: none !important;
-    border-color: @print-black;
+    border-color: var(--palette-black) !important;
   }
 }

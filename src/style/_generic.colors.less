@@ -1,0 +1,36 @@
+:root {
+  --palette-black: #444;
+  --palette-white: #fff;
+
+  --palette-grey-300: #888;
+  --palette-grey-700: #f4f4f4;
+
+  --palette-primary-300: #edb2b2;
+  --palette-primary: #ec8686;
+  --palette-primary-700: #d41515;
+}
+
+:root {
+  --theme-background: var(--palette-white);
+  --theme-stroke: var(--palette-black);
+  --theme-primary: var(--palette-primary);
+  --theme-primary-300: var(--palette-primary-300);
+  --theme-primary-700: var(--palette-primary-700);
+  --theme-gs-300: var(--palette-grey-300);
+  --theme-gs-700: var(--palette-grey-700);
+
+  --theme-alt-background: var(--palette-black);
+  --theme-alt-stroke: var(--palette-white);
+  --theme-alt-primary: var(--palette-primary);
+  --theme-alt-primary-300: var(--palette-primary-700);
+  --theme-alt-primary-700: var(--palette-primary-300);
+  --theme-alt-grey-300: var(--palette-grey-700);
+  --theme-alt-grey-700: var(--palette-grey-300);
+}
+
+@media print {
+  :root {
+    --palette-black: #000;
+    --palette-white: #fff;
+  }
+}

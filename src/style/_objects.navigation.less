@@ -26,10 +26,10 @@
     transition-duration: 0.2s;
     transition-timing-function: ease-in-out;
 
-    color: @palette-black;
+    color: var(--theme-stroke);
 
-    background-color: @palette-primary-light;
-    border-color: lighten(@palette-primary-light, 15%, relative);
+    background-color: var(--theme-primary);
+    border-color: var(--theme-primary-300);
     border-style: solid;
     border-width: 0.15em;
     border-top-width: 0;
@@ -44,10 +44,10 @@
 }
 
 .nav__link--active {
-  background-color: @palette-black;
+  background-color: var(--theme-stroke);
 
   &:link, &:visited {
-    color: @palette-white;
+    color: var(--theme-primary);
   }
 
 }
