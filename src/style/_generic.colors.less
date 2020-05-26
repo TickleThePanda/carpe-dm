@@ -13,10 +13,12 @@
   --palette-gs-850: hsl(0, 0, 15%);
   --palette-gs-900: hsl(0, 0, 10%);
 
-  --palette-primary-400: hsl(0, 73%, 83%);
-  --palette-primary-500: hsl(0, 73%, 73%);
-  --palette-primary-700: hsl(0, 63%, 63%);
-  --palette-primary-900: hsl(0, 43%, 53%);
+  --palette-primary-100: hsl(0, 73%, 83%);
+  --palette-primary-300: hsl(0, 73%, 73%);
+  --palette-primary-400: hsl(0, 63%, 63%);
+  --palette-primary-500: hsl(0, 90%, 60%);
+  --palette-primary-700: hsl(0, 63%, 50%);
+  --palette-primary-900: hsl(0, 43%, 40%);
 }
 
 :root {
@@ -25,14 +27,14 @@
   --theme-stroke: var(--palette-gs-800);
   --theme-stroke-lc: var(--palette-gs-600);
   --theme-primary: var(--palette-primary-500);
-  --theme-primary-lc: var(--palette-primary-400);
-  --theme-primary-hc: var(--palette-primary-900);
+  --theme-primary-lc: var(--palette-primary-300);
+  --theme-primary-hc: var(--palette-primary-700);
 
   --theme-alt-background: var(--palette-gs-800);
   --theme-alt-stroke: var(--palette-white);
-  --theme-alt-primary: var(--palette-primary-500);
-  --theme-alt-primary-lc: var(--palette-primary-400);
-  --theme-alt-primary-hc: var(--palette-primary-900);
+  --theme-alt-primary: var(--palette-primary-300);
+  --theme-alt-primary-lc: var(--palette-primary-100);
+  --theme-alt-primary-hc: var(--palette-primary-500);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,13 +45,13 @@
     --theme-stroke: var(--palette-gs-200);
     --theme-stroke-lc: var(--palette-gs-400);
     --theme-primary: var(--palette-primary-500);
-    --theme-primary-lc: var(--palette-primary-900);
+    --theme-primary-lc: var(--palette-primary-300);
     --theme-primary-hc: var(--palette-primary-700);
 
     --theme-alt-background: var(--palette-gs-850);
     --theme-alt-stroke: var(--palette-white);
-    --theme-alt-primary: var(--palette-primary-700);
-    --theme-alt-primary-lc: var(--palette-primary-400);
+    --theme-alt-primary: var(--palette-primary-400);
+    --theme-alt-primary-lc: var(--palette-primary-100);
     --theme-alt-primary-hc: var(--palette-primary-900);
   }
 
