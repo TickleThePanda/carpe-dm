@@ -11,74 +11,266 @@ order: 201
 
 ---
 
-This is the summary of what the players have done over the campaign.
-First, there's a brief summary and then a more detailed summary of each.
+There are two sections, [the adventure so far](#the-adventure-so-far)
+which contains a summary of the adventure and summaries about
+[characters](#characters), [locations](#locations), [items](#items), and
+[handouts](#handouts), and [the sessions](#the-sessions) which gives a
+more detailed account of what happened in each session.
 
-## Brief summary
+## The adventure so far
 
 The trio met up at a wilderness tower, brought by visions in their
 dreams and, for Elmond, by letter. After unlocking the tower, they spoke
 to Elydir inside, who tasked them with finding a stolen family amulet
 buried in the Tomb of the Last Rehani. They travelled to the City of
 Renaura, found out more information about the tomb from the tavern, the
-temple, and the library, and found the tomb. In the tomb, they fought
-goblins, skeletons, and the ghost of a man, Faurin, to get to the
-amulet. They returned the amulet to Elydir and she disappeared, leaving
-the gold promised to them behind.
+temple, and the library, and then travelled to find the tomb. In the
+tomb, they fought goblins, skeletons, and the ghost of a man, Faurin, to
+get to the amulet. They returned the amulet to Elydir and she
+disappeared, leaving the gold promised to them behind.
 
 ---
 
-Months later, the trio received letters asking them to meet in a tavern
-in a town near Renaura. At the tavern, they met a hooded woman who asked
-them to take the throne back for Lord Morcant from a tyrannical
-supplanter, Lord Telnetar; they agree and travel to Renaura. Here, they:
-rescued Glanna and Telnetar's servants from Telnetar's mansion; met
-Pertana, leading a small rebellion; and saved a family from a warehouse.
-Throughout all of this, they fought sinister creatures and heard of the
-unusual and uncharacteristic circumstances under which Telnetar
-overthrew Morcant.
-
-The trio then travelled to the castle, using a secret entrance, to find
-Telnetar crying at the throne - controlled by a drow mage, Qa'lir. The
-symbol of Elydir was emblazoned on her robes, though with a broken chain
-below and a broken rope above. They defeated Qa'lir and took a sending
-stone from her body, with the same symbol.
+Months later, the trio met a hooded woman who asked them to take the
+throne back for King Morcant from a tyrannical supplanter, Lord
+Telnetar; they agree and travel to Renaura. Here, they: rescued Glanna
+and Telnetar's servants from Telnetar's mansion; met Pertana, leading a
+small rebellion; and saved a family from a warehouse.  Throughout all of
+this, they fought sinister creatures and heard of the unusual and
+uncharacteristic circumstances under which Telnetar overthrew King
+Morcant. They sneaked to the castle to find Telnetar crying at the
+throne - controlled by a drow mage, Qa'lir. The symbol of Elydir was
+emblazoned on her robes, though with a broken chain below and a broken
+rope above. They defeated Qa'lir and took a sending stone from her body,
+with the same symbol.
 
 ---
 
-After helping clean up the city, the characters received a screeching
-message from Qa'lir's sending stone, threatening them for what they had
-done. Speaking to the castle librarian, they found that the glyph
-(apart from the broken chain and rope) is the Glynlamin's family crest.
-They live in the elvish village of Aymeluma across the mountain path.
-
-Elmon, Meriele, and Aseir travelled across the mountain path to Aymeluma
-in hope of answers about the symbol but found the village mostly
-destroyed. In the village, they found the remains of a ruined prophecy
-inside a building with Elydir's symbol engraved on it. Nearby, they
-discovered an orc camp where elves were trapped in cages who they helped
-escape. Speaking to Pharom, an elf who resembled Elydir but younger,
-they found out that: the elves' kidnapper was Qa'por; Elydir was
-understood to be killed years ago after a grave betrayal; and the full
-prophecy text. While the elves travelled to Renaura in search of safety,
-the trio, hearing an explosion from the camp, returned to the camp in
-hopes of killing Qa'por but failed to reach her before she disappeared
+While helping clean up the city, the trio received a screeching message
+from Qa'lir's sending stone, threatening them for what they had done.
+From the castle librarian, they found that the glyph is similar to an
+elvish family's crest who live in the village of Aymeluma across the
+mountain path. The trio travelled off to travel there, finding the
+village mostly destroyed. In the village, they discovered the remains of
+a ruined prophecy inside a building with Elydir's symbol engraved on it.
+Nearby, they discovered an orc camp where elves were trapped in cages
+who they helped escape. Speaking to an elf who resembled Elydir they
+found out that: the elves' kidnapper was Qa'por; Elydir was understood
+to be killed years ago after a grave betrayal; and the full prophecy
+text. While the elves travelled to Renaura in search of safety, the
+trio, hearing an explosion from the camp, returned to the camp in hopes
+of killing Qa'por but failed to reach her before she disappeared
 suddenly.
 
 The trio, following the prophecy, travelled to the Cloudpeak Monastery
-seeking out "divine slopes". Here, they met Xolbi, a silver dragon who
-wanted them to find a stolen crown in return for helping them understand
-the meaning of divine slopes in the prophecy. They agreed to help him
-and found the crown in Renaura. On returning to Renaura, Xolbi then
-explained that a portal will open that night, at the top of Mount Renau
-can lead them to Mount Celestia. They set off to immediately. On their
-journey up the mountain, they helped a monk reach the top. The monk then
-appeared to them as a Deva, and the portal, as silvery pool, opens. The
-trio jump into the pool.
+seeking out *divine slopes* to find the *soul of Elydir's lover*, who
+they guess is Faurin. Here, they met Xolbi, a silver dragon who wanted
+them to find a stolen crown in return for helping them understand the
+meaning of divine slopes in the prophecy. After helping him get the
+crown, Xolbi then explained that a portal will open that night, at the
+top of Mount Renau which can lead them to Mount Celestia. They set off
+to immediately and pass the moral test to be allowed past. The portal, a
+silvery pool, opens and the trio jump into the pool.
 
-## Detailed summaries
+---
 
-These are more detailed summaries of each session.
+Elmond, Meriele, and Aseir fell into the silvery sea in Lunia, at the
+bottom of the slopes of Mount Celestia. A leisure ship, the Lunar
+Allure, rescued the players and promised to take them to a nearby city,
+Heart's Faith. Before they could make it to the city, they were
+intercepted by a patrol ship which escorted them to the Hall of
+Salutation where the trio were questioned about why they were in Lunia.
+After showing that they were not a threat, the trio were free to travel
+around.
+
+They find out that Faurin is located at the Cavern of Stars and, after
+resting overnight and buying horses, they travelled there over the next
+few days. Outside the cavern they recognise an elf (though in a
+different form) from the Lunar Allure who the find out to called
+Morcanloth. He banished Meriele, and in return, asked them to find out
+the location of the Orb of Empathy from Faurin.
+
+The trio then travelled into the cavern via a secret entrance, told to
+them by Morcanloth. In the cavern, they evade capture by the guards
+inside, and speak to Faurin who gives them information about: his own
+and Elydir's history; the Staff of Skonarith and its parts, Sko, Nar,
+and Ith; Sko likely being in Elydir's hands; and the location of Ith in
+the Temple of the Corrupt Orb. They teleport to the temple, and fought
+their way through there, guided by a mysterious voice, eventually taking
+the orb from the animated statue within.
+
+### Characters
+
+#### Elydir
+
+The trio met Elydir, an elderly elf, in the wilderness tower where she
+asked them to find her amulet, a family heirloom. When the returned it,
+she disappeared into thin air. They find out that she was supposedly
+killed over 500 years ago by Faurin. They have seen her symbol worn by
+Qa'por, Qa'lir, and in the village of Aymeluma.
+
+Faurin tells the trio that he and Elydir were once lovers while she was
+married to the abusive Lord Lainot. Together, they had naive plans to
+take over which Elydir took more seriously than Faurin did. Elydir
+eventually killed Lord Lainot using dark magical powers and supplanted
+him, ruling tyrannically. Only by luck and wish, Faurin was able to
+confine her to the wilderness tower, with the amulet as a key, in hopes
+of ridding her of power.
+
+Faurin thinks that Elydir, now she has returned, is likely to have the
+Staff of Domination, Sko, as that was the last thing that she was
+planning on doing. He told the trio he thinks it's also likely that she
+is looking for the other parts of this staff.
+
+#### Qa'lir
+
+The trio met Qa'lir in the Renaura's Castle's throne room. Lord Telnetar
+was found weeping in the room obeying her commands.
+
+She wore the symbol of Elydir with an addition of a broken rope above
+and a broken chain below. She looks identical to Qa'por.
+
+Qa'lir was killed by the trio in a battle in the Renaura's Castle's
+throne room. On her body, they found a sending stone with the same
+symbol.
+
+#### Qa'por
+
+The trio saw Qa'por at the orcish camp in Renaura, her tent showing the
+symbol of Eldyir with an addition of a broken rope above and a broken
+chain below, like Qa'lir did. She looks identical to Qa'lir.
+
+#### Morcanloth
+
+The trio met Morcanloth disguised as an elf called Banir on the Lunar
+Allure. At the Cavern of Stars, he forces the characters to find out
+where the Orb of Empathy is from Faurin.
+
+The trio think he might be a demon as he was unable to enter the Cavern
+of Stars.
+
+#### Faurin
+
+Elmond, Meriele and Aseir fought and defeated Faruin's ghost in the Tomb
+of the Last Rehani. His grave was translated as *Vanquisher of Elydir*
+from the ancient language it was written in.
+
+They travelled to Mount Celestia where they found Faurin in the Cavern
+of Stars. He told them about his history with Elydir, how he locked her
+away in the wilderness tower, and how he had spent the rest of his life
+trying to find a way to stop her but failed to do so.
+
+#### King Morcant
+
+The ruler of Renaura. For a time, the throne had been taken from him by
+Lord Telnetar. The trio were told by his daughter, that he was returning
+from in hiding after being overthrown by Lord Telnetar.
+
+#### Lord Telnetar
+
+While enthralled by Qa'lir, Lord Telnetar overthrew the King Morcant and
+was a puppet ruler for Qa'lir.
+
+The trio heard from Pertana that he exiled himself from the city as he
+felt he was weak in fighting against Qa'lir.
+
+#### Lady Pertana
+
+Lady Pertana is ruling in stead of King Morcant, until he returns.
+During the time where the King Morcant was overthrown by the enthralled
+Lord Telnetar, Lady Pertana worked with Lord Farnit in rebellion as the
+Watchers.
+
+### Locations
+
+#### City of Renaura
+
+The city ruled by King Morcant. An ancient city, once prosperous, it has
+recently gone through tumultuous times as the king, King Morcant was
+overthrown by Lord Telnetar.
+
+Here there are lots of places the characters have visited:
+ - The Dragon's Claw
+ - Temple to Ilmater
+ - Lady Pertana's mansion
+ - Renaura's castle
+
+#### Village of Ameluma
+
+An elven village, destroyed by Qa'por. The inhabitants were saved by the
+trio, who fled to Renaura.
+
+A house here had Elydir's symbol decorating it.
+
+#### Mount Renau
+
+The tallest mountain in the Renaurian mountain range. The city of
+Renaura is in the foothills of the mountain.
+
+#### Cloudpeak Monastery
+
+A monastery, near the top of Mount Renau, lead by Xolbi.
+
+#### Lonely Tower
+
+The trio were brought to this tower by their dreams and first met Elydir
+here.
+
+#### Tomb of the Last Rehani
+
+A tomb of the ancient kings of Renau. The characters found Elydir's
+amulet here, in the tomb of _Faurin, Vanquisher of Elydir_.
+
+#### Lunia, Mount Celestia
+
+Lunia, in the plane of Mount Celestia (known as heaven to many), is a
+land of eternal twilight. The characters travelled here to find Faurin
+as the prophecy.
+
+### Items
+
+#### Elydir's amulet
+
+An amulet that the characters returned to Elydir, in the Lonely Tower,
+on her request. She disappeared when it was returned to her.
+
+#### Prophecy
+
+The prophecy, as it was found on the tapestry in the village of Ameluma.
+
+> <span class="invisible">When</span> she tricks <span class="invisible">the wandering</span> three to unbind,<br>
+> The shadow <span class="invisible"> of her</span> lover will fight but fail.<br>
+> When she <span class="invisible">brings</span> destruction to <span class="invisible">all of his</span> kind,<br>
+> <span class="invisible">The</span> soul of her <span class="invisible">lover her end</span> will detail.<br>
+> <span class="invisible">Now the</span> wandering three <span class="invisible">his</span> soul they <span class="invisible">must find</span><br>
+> On divine slopes <span class="invisible">her fate his soul</span> will unveil.
+
+The characters found out the full text from an elf that they saved from
+Ameluma.
+
+> When she tricks the wandering three to unbind,<br>
+> The shadow of her lover will fight but fail.<br>
+> When she brings destruction to all of his kind,<br>
+> The soul of her lover her end will detail.<br>
+> Now the wandering three his soul they must find,<br>
+> On divine slopes her fate his soul will unveil.
+
+
+#### Staff of Skonarith
+
+Faurin told the trio of the staff of Skonarith. It was created by a
+powerful magician and was split into three parts after he was defeated.
+
+_Sko_, the Staff of Domination. Faurin thinks that it is likely that
+Elydir has finally got Sko, as it was her goal to do so.
+
+_Nar_, the Braces of Independence. The location of this is currently
+unknown.
+
+_Ith_, the Orb of Empathy. The characters have found the Orb of
+Empathy.
+
+## The sessions
 
 ### Session one: Finding Elydir's amulet
 <div class="subheading">5th October, 2018 — Chester</div>
@@ -124,21 +316,19 @@ skeletons within and were attacked. Managing to fight these off, the
 escaped the great chamber.
 
 The character notice that a room on the map has been translated to say
-*Faurin, Vanquisher of Elydir*, and recognising choose to travel to
-this room.After some more exploration and fighting, they eventually
-find Faurin's tomb.
+*Faurin, Vanquisher of Elydir*, and recognising choose to travel to this
+room.After some more exploration and fighting, they eventually find
+Faurin's tomb.  In this room, the characters feel cold and a sense of
+uneasy sadness and unfulfillment. After opening the coffin and taking
+the amulet, the door to the tomb slams shut. A pale white figure appears
+between the characters and the door It said, sorrowfully, ‘That amulet
+must stay here. I cannot let you leave with it or knowledge of it. I’m
+sorry.  I’m sorry.’ The trio defeat this being and leave the tomb.
 
-In this room, the characters feel cold and a sense of uneasy sadness
-and unfulfillment. After opening the coffin and taking the amulet, the
-door to the tomb slams shut. A pale white figure appears between the
-characters and the door It said, sorrowfully, ‘That amulet must stay
-here. I cannot let you leave with it or knowledge of it. I’m sorry.
-I’m sorry.’ The trio defeat this being and leave the tomb.
-
-They return to Elydir's tower after making a copy of the amulet, and
-try to give the copy to Elidyir. She demands the proper amulet, and
-when it's given to her, disappears instantaneously from the room,
-leaving the reward behind.
+They return to Elydir's tower after making a copy of the amulet, and try
+to give the copy to Elidyir. She demands the proper amulet, and when
+it's given to her, disappears instantaneously from the room, leaving the
+reward behind.
 
 ### Session two: Overthrowing Lord Telnetar
 <div class="subheading">26th January, 2019 — Brockweir</div>
@@ -148,7 +338,7 @@ sent to each of them, asking for them to meet in the Watchers Tavern
 in Jairt, near Renaura.
 
 In this tavern, they meet a woman who talks to them about recent
-events in Renaura where Lord Telnetar has supplanted the previous Lord
+events in Renaura where Lord Telnetar has supplanted the previous King
 Morcant and has been tyrannically ruling the city since. She asks them
 to find out what Telnetar is doing and to put a stop to it, in
 exchange for a reward. The characters accept this and, once again, set
@@ -165,7 +355,7 @@ to happen, though it wasn't clear what that was.
 
 It's here that they find a small wooden box with an inscription on it,
 containing a small orb which was wrapped in a cloth map showing an
-alternative way into the castle. 
+alternative way into the castle.
 
 Glanna takes the trio to Pertana's mansion, a base for the small
 rebellion against Telnetar. She explains that, during one of the first
@@ -286,4 +476,3 @@ apprehensive of what they might find on the other side.
 ### Session four: Finding Faurin
 <div class="subheading">9th May, 2020 — Zoom</small>
 --->
-
