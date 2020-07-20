@@ -52,22 +52,20 @@ old elven woman who has summoned the characters to her tower.
 > drizzle, and blustery wind fight through your clothes, chilling you.
 > You can smell the musk of the heather and peat. You arrived at
 > different times over the last few days, Meriele, then Prince Aseir,
-> then Elmon. 
+> then Elmon.
 
 Allow for character introductions here.
 
-## Locations
-
-### The tower
+## The tower
 
 The tower is as Meriele and Prince Aseir saw in their dreams: tall,
 standing at around 130ft, it narrows slightly as it goes towards the
 top. There's no decoration and no windows. The unweathered stone is
-smooth to touch. 
+smooth to touch.
 
 The door faces towards the entrance of the valley and is easy to find.
 
-#### The door
+### The door
 
 > Although the rest of the tower lacks decoration, carved into the stone
 > is the shape of a huge door. Above the door, you can see runes making
@@ -81,7 +79,7 @@ however, was: ‘This keeps us safe from her, do not free her.’
 
 To enter, the characters must speak the word *unbind* or *free*.
 
-#### Entering the tower
+### Entering the tower
 
 > The stones making up the doorway turn to a bright light. The light
 > fades, revealing a short passage into the tower. The passage leads to
@@ -96,13 +94,13 @@ door on the left — facing the centre of the tower.
 
 The lamps are made with *Continual Flame*.
 
-#### Reaching the study
+### Reaching the study
 
 > After you open the door, you see a large circular room before you. The
 > same torches as before light it. Luxurious furniture is sparsely
 > spread around the room, although its style is unlike anything you've
 > seen before.
->  
+>
 > On the left wall, there's a four–poster bed with a chest sitting at
 > the end, and large wardrobe to the side of the bed. On the opposite
 > side, a huge bookcase is crammed with scrolls and books. In the centre
@@ -116,7 +114,7 @@ The lamps are made with *Continual Flame*.
 >
 > Noticing you arriving, she smiles towards you and stands, gesturing
 > you into the room towards the table.
->  
+>
 > ‘Ah! I'm glad that you decided to join me. Please, come in.’
 
 Here, the woman introduces herself as Elidyr. She offers the characters
@@ -132,8 +130,7 @@ the tomb is.
 She will give the adventurers an very old map and some food supplies for
 3 days travel.
 
-![ A map of tower and the city in the surrounding area.
-](/images/unbound/area-map.jpg)
+![ A map of tower and the city in the surrounding area.](/images/unbound/area-map.jpg)
 
 The map shows the tower and the moors with the surrounding area. The
 tower is in the west and the city in the east. The moors surround the
@@ -143,13 +140,13 @@ following on east to the city. To the south of the road is a small
 amount of forest before mountains, that continue east of the city. To
 the north west of the moors and to north of the road is a forest.
 
-### Travel to the City of Renaura
+## Travel to the City of Renaura
 
 To see how quickly the adventurers get through the city to the, the
 characters can take a DC 20 Survival (Wisdom) check. On a:
  - *success*, the journey takes 24 hours, with 1 night's rest. The first
    day gets them to the road. The second day gets them to the city in
-   the afternoon. 
+   the afternoon.
  - *failure*, the journey takes 48 hours, with 2 nights' rest. The first
    day is spent being lost in the wilderness. The second day gets them
    to the road. The third day gets them to the city in the afternoon.
@@ -158,9 +155,9 @@ General environment: Moor–wilderness → Road in the moors → Road through
 hilly–forest → Road through hilly–forest broken up by pastures
 (mountains and city in distance)
 
-### City of Renaura
+## City of Renaura
 
-#### From a distance
+### From a distance
 
 > Nestled in a steep valley is a small city: the valley's impassable
 > natural walls overshadowing the natural ones. There's a castle
@@ -168,7 +165,7 @@ hilly–forest → Road through hilly–forest broken up by pastures
 > closest. A single gatehouse guards the walls that span the bottom of
 > the steep valley.
 
-#### Approaching the city
+### Approaching the city
 
 > As you approach the city, you can see that the walls scarred and worn,
 > some newer stonework replaces sections.
@@ -184,12 +181,12 @@ royal family was forced into marriage into the new lords.
 
 The guards give the characters no trouble entering the city.
 
-#### Entering the gates
+### Entering the gates
 
 > You've passed through the city gates. A busy main street climbs up.
 > Behind the stone houses that are set against the mountainside, you can
 > see the tops of the castle's towers.
-> 
+>
 > The street, leading to the city's square, is lined with an assortment
 > of busy market stalls. Farmers and merchants are bartering. A
 > procession of robed figures part the crowd, walking away from you
@@ -210,7 +207,7 @@ the tomb is:
  - general populace will be relatively helpful, pointing the characters
    straight to March *The Dragon's Claw*
 
-#### Temple of Ilmater
+### Temple of Ilmater
 
 > In the centre of the city's square, there's a large round building.
 > Outside, there's a statue of a bound man on his knees weeping. The
@@ -228,7 +225,7 @@ the characters to the her in the "records" room further in the temple.
 > Wurcon pushes a small door open that takes you into a small room small
 > room, only a few feet wide, lit by candles. The room has a few
 > bookcases in it, with scrolls and tomes on their shelves.
-> 
+>
 > Despite you entering the room rather loudly, a young woman who is
 > hunched at the desk, has not looked up from the scroll she was
 > reading. Next to her is a discarded plate of bread and cheese.
@@ -247,8 +244,8 @@ The scholar, sighing, will find a map and will point the characters to
 the correct place on a map. She knows a little of the history of the
 tombs.
 
-> This is to the Tomb of the Last Rehani where the old Lords are buried
-> — this is from before our current Lords, the Morcants came here.
+> This is to the Tomb of the Last Rehani where the old Kings are buried
+> — this is from before our current rulers, the Morcants came here.
 > Unfortunately — we those who worship Ilmater (the God of Endurance) —
 > we're not that good at keeping detailed records of history.
 >
@@ -265,7 +262,7 @@ tombs.
 > choose to do so, I'd prefer for you to go elsewhere so as not to cause
 > any more distraction to me.
 
-#### The Dragon's Claw
+### The Dragon's Claw
 
 > Fighting away the cold, a roaring fire crackles. The funk of pipe weed
 > smoke and stale beer linger. There are a few people sitting around the
@@ -294,7 +291,7 @@ mildly accurate stories about a nearby tomb.
 He continues to ramble about the troubles that the goblins cause to the
 farmers.
 
-#### The castle's library
+### The castle's library
 
 > As your tiring journey takes you higher up the city, closer to the
 > castle, the  become closer together, making the city narrower. Closest
@@ -346,13 +343,13 @@ escorted.
 > He happily gasps as you walk in, smiling.
 
 He will explain to the players about the tomb's location and how to get
-there, although that they don't know much about it now — the mad Lord
+there, although that they don't know much about it now — the mad King
 Bleiduid Morcant a few generations ago demanded the burning of anything
 about the Rehanis. He will explain that one of his apprentices went
 there a few weeks ago but never returned, which he sounds very sad
 about. He will ask them to see if they can find this apprentice.
 
-### Travelling to the Tomb
+## Travelling to the Tomb
 
 When they reach the path, depending on what information they know.
 
@@ -367,12 +364,11 @@ heading along the path.
 > ends where the mountain rises, a collapsed door in front of you.
 
 
-### Tomb of the Last Rehani
+## Tomb of the Last Rehani
 
-![A map of the Tomb of the Last Rehani.
-](/images/unbound/tomb-reference.png)
+![A map of the Tomb of the Last Rehani.](/images/unbound/tomb-reference.png)
 
-#### Entrance to the tomb
+### Entrance to the tomb
 
 > At the foot of the mountain is the collapsed door.
 
@@ -386,7 +382,7 @@ and the goblins to be prepared
 The rubble can also be climbed over with a successful Strength check of
 15.
 
-#### Goblin hideout
+### Goblin hideout
 
 > As you enter the corridor, the first thing that hits you is the stench
 > of goblins. Fragments of the walls and ceilings lie on the floor.
@@ -420,7 +416,7 @@ The orbs must be pressed in the right order. Pressing the wrong one
 resets it but the player who presses the orb, gets thrown back from the
 wall by 10 feet, taking 1d4 damage.
 
-#### Grand corridor
+### Grand corridor
 
 > There's grand corridor carved out of the stone. Torches of a similar
 > design from Elidyr's tower adorn the walls, fire flickering out of
@@ -437,7 +433,7 @@ The smaller corridors as the characters go along:
  4. a short corridor on the left, and then a door
  5. a short corridor on the right, and then a door
 
-#### Tomb of Lord Lunit Rehani
+### Tomb of King Lunit Rehani
 
 > Coming through the main doors, an expansive vaulted room is before
 > you. It's about 120ft long. In the centre of the room a large
@@ -462,9 +458,7 @@ sliding open. Skeletons begin to climb out. There are 11 skeletons.
 The large engraving shows a simple carved map with each of the rooms
 labelled; the engravings are in Carnian.
 
-![The engraving showing the rooms labelled in Carnian.
-](/images/unbound/tomb-engraving.jpg)
-
+![The engraving showing the rooms labelled in Carnian.](/images/unbound/tomb-engraving.jpg)
 
 The backpack (and the area around the backpack) contains the following
 supplies:
@@ -482,12 +476,12 @@ supplies:
 ![A rough partial translation of the engraving.
 ](/images/unbound/tomb-translated.jpg)
 
-#### The Lord's guard room
+### The Lord's guard room
 
 If the players try to go through this room, 6 skeletons will leave their
 sarcophagi to attack the players almost immediately.
 
-#### Giant spider's chamber
+### Giant spider's chamber
 
 Door is stiff to open.
 
@@ -502,7 +496,7 @@ After about 18 seconds, a giant spider will come to investigate.
 
 The spider and skeletons may attack each other.
 
-#### Tomb of the Vanquisher
+### Tomb of the Vanquisher
 
 Raised sarcophagus in the middle of the room. Arch across the middle of
 the room. Can see some more sarcophagi past the arch.
@@ -534,7 +528,7 @@ will become violent and impossible to deal with.
 The ghost will not be convinced to let the players leave with the amulet
 and it can only be taken by force.
 
-#### *STORAGE*
+### *STORAGE*
 
 Room large enough to have a short rest in. Has a chest containing mostly
 rotted/decayed belongings that have turned to dust. There's 50gp and 2
@@ -542,20 +536,19 @@ gems each worth 50gp each.
 
 The door can be shut and barred if the players wish to rest.
 
-#### Locked door
+### Locked door
 
 This locked door requires a DC 22 Dexterity check to unlock it.
 
-#### Collapsed passageway
+### Collapsed passageway
 
 The corridor has completely collapsed, rubble blocking it entirely.
 
-#### Hidden doorway
+### Hidden doorway
 
 A successful Perception (Wisdom) check of 20 DC will uncover a door.
 
-#### * Additional Tombs
+### * Additional Tombs
 
 Each contains 3 skeletons that will attack the players almost
 immediately. In each of the tombs, the players will find 3d10 gold.
-

@@ -34,15 +34,15 @@ city.
 > It's been a week since you have freed the City of Renaura from
 > Qa'lir's control. Since then, you've been paid a 250gp each to help
 > secure the city from the creatures remaining here and the castle.
-> You've made good progress and are to meet with [[TODO: full name
-> Pertana]], who is still ruling the city in the place of [[TODO: full
-> name Morcant]]. During this time you've seen a lot of things:
+> You've made good progress and are to meet with Lady
+> Pertana, who is still ruling the city in the place of King
+> Morcant. During this time you've seen a lot of things:
 > constructs made by Qa'lir fight anything around them; stationed wights
 > murder innocents; and lots of fleeing cultists
 >
-> Right now, you're in [[TODO: Pertana]]'s study discussing the progress
+> Right now, you're in Lady Pertana's study discussing the progress
 > in protecting the city. Pertana is sitting at her desk. There are
-> papers piled and an empty glass of wine. Her eyes are bloodshot and  
+> papers piled and an empty glass of wine. Her eyes are bloodshot and
 >
 > "We've been able to bring in some more of our guards from the
 > surrounding areas," Pertana says. "We've seen an abatement in the
@@ -67,7 +67,7 @@ successful save, the characters take half.
 
 > The melody subsides. After reorientating yourselves, you realise that
 > the sound seemed to come from Meriele.
-> 
+>
 > Pertana is standing and looking shocked and concerned but looks
 > unharmed. She is pointing at Meriele and says "What *was* that! It
 > came from you!"
@@ -90,8 +90,8 @@ Things that the castle librarian knows:
    take less than a day; or the roads around the mountains that would
    take a week instead.
  - There's an ancient connection between the city and the elven village.
-   The eldest son of Lord Rehani was meant to marry an elf from there
-   but that was before the Rehanis were overthrown by the Morcants.
+   The eldest son of King Rehani was meant to marry an elf from there
+   but that was before the Morcant family took over rule from the Rehani.
 
 ### Ironwood Street hideout
 
@@ -120,7 +120,7 @@ This man is an assassin who will defend the stairwell.
 > There are two podiums in the room, one 5ft away from you, the other
 > 5ft away from the other wall. The closest podium has a glass orb on
 > it.
-> 
+>
 > At the other end of the room, there is a stone doorway but no handle
 > or keyhole.
 
@@ -353,7 +353,7 @@ When arriving at the village:
 > to east splitting the village in two. The small river flows serenely,
 > despite the terrible scenes in front of you. A small stone bridge
 > crosses the river. On the north side of the river, you can see a small
-> town square, dark click red patches cover the paved square. 
+> town square, dark click red patches cover the paved square.
 >
 > Most of the other buildings have collapsed, their contents smouldering
 > and their white husks blackened. Cracking stains of carmine are
@@ -370,7 +370,7 @@ Renaura, if they make a successful DC20 Wisdom (Perception) check to
 hear if anything is in the area, they will hear what sounds like distant
 shouting to the south.
 
-Investigation checks DC15 will show signs of dragged bodies to carts and 
+Investigation checks DC15 will show signs of dragged bodies to carts and
 
 ### The ruined residence of Shafina
 
@@ -399,7 +399,7 @@ Piled in the centre of the room is smouldering furniture and books.
 
 #### The prophecy
 
-On one of the walls, there's a partially damaged ornate 
+On one of the walls, there's a partially damaged ornate
 
 > <span class="invisible">When</span> she tricks <span class="invisible">the wandering</span> three to unbind,<br>
 > The shadow <span class="invisible"> of her</span> lover will fight but fail.<br>
@@ -427,7 +427,7 @@ About twenty-five elves are in cages. One of the elves looks like Elydir
 but younger.
 
 Ten large orcs are camping there.
- 
+
 A black ornate tent is next to the fire. The same symbol on the
 messenger stone is on the tent. Two orogs guard this tent.
 
@@ -447,4 +447,3 @@ ogres.
  3. Cave in at the old tomb
  4. Beast people have been sighted in the woods to the north west of
     Renaura
-

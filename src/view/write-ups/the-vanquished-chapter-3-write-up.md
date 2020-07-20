@@ -20,7 +20,7 @@ village Aymeluma. He gives them the location of this village and the
 quickest way to get there. He also gives them a bit of information about
 the city and the nearby elven village - that there was a marriage
 arranged between an elf and the previous royal family hundreds of years
-ago, though most of this information had been lost by the Mad Lord
+ago, though most of this information had been lost by the Mad King
 Morcant. He recommends they travel there to find out more information
 about this symbol, especially given the longevity of the elves, and
 that, if they're going via the mountains, to get some warmer clothes.
@@ -227,6 +227,4 @@ water.
 
  - Use better random encounter tables
  - give further description to surrounding area
- - giving more detailed descriptions for 
-
-
+ - giving more detailed descriptions for

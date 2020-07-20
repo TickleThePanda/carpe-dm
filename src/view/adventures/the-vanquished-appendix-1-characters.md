@@ -32,7 +32,7 @@ show the sun rays, and an iron cruciform is the sword.
 elven community Aymeluma. Born the daughter of the elvish Lord, she
 studied natural magic during the early years of her life. During the
 peace process of an ending war between Aymeluma and Renaura, she was
-promised to *Lainot*, son of *Lord Lunit Rehani*. When she was fifty,
+promised to *Lainot*, son of *King Lunit Rehani*. When she was fifty,
 still young by elvish standards, she was taken from Aymeluma and raised
 to be the lady consort of Lainot. Lainot was an abusive husband and
 later, after succeeding his father, was a weak leader. Through the
@@ -93,15 +93,15 @@ little younger if he is freed to Mount Celestia - his hair thicker and
 his eyes are no longer bloodshot. He is generally melancholic but, in
 his rare smiles, his face softens and shines sincerity and warmth.
 
-**Faurin's promise.** Bainot Rehani, brother of the murdered Lord Lainot
-Rehani, convinced Faurin to kill the Elidyr. However, in his love of her
+**Faurin's promise.** Prince Bainot Rehani, brother of the murdered
+King Lainot Rehani, convinced Faurin to kill the Elidyr. However, in his love of her
 he instead imprisoned her in a powerfully warded tower, taking her
 amulet as proof of killing her. In hope that he may eventually be able
 to save Elidyr by stripping her of her powers, the warded tower would
 only allow her to leave if the amulet was returned and the tower's
 doorway reopened.
 
-**Lost hope.** Faurin returned to Bainot Rehani with the amulet, his
+**Lost hope.** Faurin returned to the prince with the amulet, his
 victory celebrated. He spent the rest of his life in high regard with
 the lord. He spent much time working in secret to find a way to free
 Elidyr but to no avail but over time, he became a frustrated and bitter
@@ -119,4 +119,3 @@ protector. If freed, his soul will travel to Mount Celestia.
 
 **Flaw**: Though I will help others fight against Elydir, I will not let
 them kill her.
-

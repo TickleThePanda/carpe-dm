@@ -5,7 +5,7 @@ id: the-vanquished-chapter-2-the-vanquished-fist
 description:
     A single–session adventure (9-11 hours) for three fith-level
     characters. The adventures receive an anonymous letter asking them
-    to 
+    to
 
 campaignId: the-vanquished
 
@@ -46,12 +46,12 @@ the *Olinarelidyr*. Qa'lir and Qa'por are twins. They are know to common
 folk as "The Vanquished Fist". The Olinarelidyr have been tasked with
 bringing Ternia under her control. Elidyr communicates with the
 Olinarelidyr using sending stones, each carved with Elidyr's
-symbol and their own. 
+symbol and their own.
 
 ### Qa'lir and Qa'por
 
 The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
-Lord Morcant and place a puppet in his place.
+King Morcant and place a puppet in his place.
 
 Qa'lir's symbol is a rope burning in the middle. The symbol on the
 shared sending stone with Elidyr is shown by a rope burning in the
@@ -73,7 +73,7 @@ chain and a burning rope in a circle, tied together.
 The prosperity of Renaura has now passed. The influence of Qa'lir has
 spread corruption in almost all parts of the city.
 
-### The Deposition of Lord Morcant
+### The Deposition of King Morcant
 
 Qa'lir arrived in Renaura and quickly garnered respect as a rich
 merchant with the nobles. She quickly became close to Telnetar,
@@ -84,16 +84,16 @@ Qa'lir spent the next few weeks building a new guard force for Telnetar.
 Buying some of them, threatening some of them, and replacing some by
 apprentice spell casters. She personally replaced the old guard captain
 
-Lord Morcant had regular meetings with Telnetar, and Qa'lir used this to
+King Morcant had regular meetings with Telnetar, and Qa'lir used this to
 stage the coup. Telnetar, attending this meeting bringing his guards
 along, citing a recent attempt against his life, and was allowed to keep
 the guards with him.
 
 When the Telnetar and the guards arrived for the meeting in the castle's
-parlour, they immediately fought Lord Morcant's guards, attempting to
+parlour, they immediately fought King Morcant's guards, attempting to
 kill the Lord. Qa'lir and the replaced guards used dark magic during the
 fight. Telnetar, realising a flaw in the magic that was binding him to
-Qa'lir's magic, told Lord Morcant to flee during the fight. Lord
+Qa'lir's magic, told King Morcant to flee during the fight. King
 Morcant, realising the threat, fled with his family.
 
 ### The Kidnapping of Telnetar's Family
@@ -181,7 +181,7 @@ The family of Perthana own a large amount of the land.
 
 </blockquote>
 
-> You've heard news and rumours or a recent deposition of Lord Morcant,
+> You've heard news and rumours or a recent deposition of King Morcant,
 > the old leader of the City of Renaura.
 
 ### Outside the tavern
@@ -225,7 +225,7 @@ can be served as well.
 
 The woman's petition to the character's:
 
-> The city's previous leader, Lord Morcant, has been supplanted by Lord
+> The city's previous leader, King Morcant, has been supplanted by Lord
 > Telnetar. Telnetar was once the leader of one of the three great noble
 > houses in Renaura. The two remaining major noble houses in Renaura
 > have stayed quiet and kept to their own business.
@@ -239,7 +239,7 @@ The woman's petition to the character's:
 > doing and put a stop to it. You must stick together and be discrete or
 > I think it is likely that you will be doomed to fail.
 
-The petitioner is Juvia, the daughter of Lord Morcant, well versed in
+The petitioner is Juvia, the daughter of King Morcant, well versed in
 the politics of the city, poised to be the next Lord of the city. She
 fled with her father during Telnetar's violent coup, after they saw the
 power in their assailants.
@@ -257,13 +257,13 @@ The sort of information this person knows:
    out who she is, her family may be persecuted. She will explain to the
    characters that she's worried about the knowledge causing harm to
    others if pressed for an answer.
- - *reluctant*: the location of her father, Lord Morcant, and the rest
+ - *reluctant*: the location of her father, King Morcant, and the rest
    of his family.
  - *reluctant*: how she knows the characters, she met them when they
    visited the city and was awed by Prince Aseir's stories.
 
 The characters can identifier her if they succeed on a DC 16
-Investigation check, if they have previously met Lord Morcant in his
+Investigation check, if they have previously met King Morcant in his
 castle for a banquet. If the characters verbally identify her in a way
 that's heard, they will be assaulted on the way to Renaura by five
 bandits who demand more information from the characters.
@@ -316,7 +316,7 @@ they enter the Dragon's Claw, claiming to the barman that he's returning
 an item to the characters that they dropped outside.
 
 In the private place, he will help the will give the characters some
-information about the deposition of the old Lord Morcant where the Lord
+information about the deposition of the old King Morcant where the Lord
 and his daughter escaped.
 
 ### The Dragon's Claw
@@ -607,7 +607,7 @@ clothes of both lords and ladies scattered around the floor.
 
 The four servants in here managed to hide during the fight and then hid
 in this room. They hid under the food in the barrels, one of them hid
-the chest with them when they saw what was happening.       
+the chest with them when they saw what was happening.
 
 In the chest is:
  - a carved ivory statuette
@@ -853,13 +853,13 @@ instructions. It will only be signed with a symbol with wings and
 If the thugs fail, Qa'lir will send an Invisible Stalker as an assassin.
 It will be under instruction to kill the characters in a private place,
 probably their room in an inn or even a safe-house. When the characters
-enter the 
+enter the
 
 ### Guards
 
 If the assassin fails, Qa'lir will send guards to incarcerate the
 characters (if their location is known) for *treason*. These guards
-will attempt to jail the characters in the 
+will attempt to jail the characters in the
 
 ## After success
 
@@ -868,5 +868,4 @@ will attempt to jail the characters in the
  - Cultists will flee
  - Constructs will continue to fight but will fight the cultists
  - Telnetar will leave the castle and city
- - Pertana will rule until Morcant returns
-
+ - Pertana will rule until King Morcant returns
