@@ -4,3 +4,10 @@ p {
   text-align: justify;
 }
 
+h2 + p,
+h3 + p,
+h4 + p,
+.subheading + p {
+  margin-top: calc(var(--content-spacing) / 2);
+}
+
