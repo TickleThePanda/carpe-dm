@@ -1,23 +1,19 @@
 ---
 title: "The Vanquished Fist"
 subtitle: "The Vanquished: Chapter 2"
-id: the-vanquished-chapter-2-the-vanquished-fist
-description:
-    A single–session adventure (9-11 hours) for three fith-level
-    characters. The adventures receive an anonymous letter asking them
-    to
-
-campaignId: the-vanquished
+description: A single–session adventure (9-11 hours) for three fith-level
+  characters. The adventures receive an anonymous letter asking them
+  to
 
 order: 2
-
 ---
 
 This adventure was planned as a single–session adventure (9-11 hours)
 for three fifth-level characters:
- - Meriele, a half–elf rogue
- - Elmon, an elf bard
- - Prince Aseir, a human fighter
+
+- Meriele, a half–elf rogue
+- Elmon, an elf bard
+- Prince Aseir, a human fighter
 
 The adventurers receive a letter begging for them to return to Renaura
 to stop the reprehensible events that are disturbing the city.
@@ -41,8 +37,8 @@ it)</small>.
 down](/images/elidyrs-symbol.svg)
 
 Elidyr works in total secrecy, concealing her location with magic. She
-commands two loyal spellcasters *Qa'lir* and *Qa'por*, known to her as
-the *Olinarelidyr*. Qa'lir and Qa'por are twins. They are know to common
+commands two loyal spellcasters _Qa'lir_ and _Qa'por_, known to her as
+the _Olinarelidyr_. Qa'lir and Qa'por are twins. They are know to common
 folk as "The Vanquished Fist". The Olinarelidyr have been tasked with
 bringing Ternia under her control. Elidyr communicates with the
 Olinarelidyr using sending stones, each carved with Elidyr's
@@ -103,7 +99,7 @@ family to be kidnapped to ensure Telnetar's good behaviour.
 
 ### Qa'lir in Renaura
 
-Qa'lir's servants are *wights*.
+Qa'lir's servants are _wights_.
 
 Qa'lir has spies throughout all parts of the city, from beggars to
 servants in the remaining noble's houses. It only takes hours for
@@ -113,7 +109,7 @@ bribed or threatened by Qa'lir's servants.
 ### Guards
 
 One of Qa'lir's first director orders through Telnetar as a puppet was
-to replace the head of the guard with one of her *wight* servants,
+to replace the head of the guard with one of her _wight_ servants,
 Kexor. One of Kexor's first orders was to kidnap Telnetar's family.
 
 In general, the guards now live in fear of Lord Telnetar and Kexor where
@@ -172,12 +168,12 @@ The family of Perthana own a large amount of the land.
 
 <blockquote class="letter">
 
-  Meet at the Watcher's Tavern in Jairnt, North of Renaura, on the night
-  of the next new moon. There's a matter to discuss that affects many
-  people's lives. I can provide you with a significant reward if you
-  agree to help. Please be discrete.
+Meet at the Watcher's Tavern in Jairnt, North of Renaura, on the night
+of the next new moon. There's a matter to discuss that affects many
+people's lives. I can provide you with a significant reward if you
+agree to help. Please be discrete.
 
-  Bring Elmon and Meriele.
+Bring Elmon and Meriele.
 
 </blockquote>
 
@@ -200,7 +196,7 @@ The family of Perthana own a large amount of the land.
 > The moment you open the door, warm air floods out. The must of tobacco
 > smoke and spices fill the room, combining with the smoke and charred
 > meat. The many merry patrons chatting loudly amongst themselves hardly
-> look over, though one shouts, "Get in!  Quickly! You're letting the
+> look over, though one shouts, "Get in! Quickly! You're letting the
 > warmth out." A few people keep to the corners, alone and cloaked
 > but little attention is paid to them.
 >
@@ -249,18 +245,19 @@ She is a 5th-level School of Evocation Wizard. Her intelligence score is
 +6.
 
 The sort of information this person knows:
- - the locations of the nobles' mansions.
- - information about the current nobles and which ones are most likely
-   to help the characters.
- - the direction to the city.
- - *reluctant*: her own identity, she fears that, if the characters find
-   out who she is, her family may be persecuted. She will explain to the
-   characters that she's worried about the knowledge causing harm to
-   others if pressed for an answer.
- - *reluctant*: the location of her father, King Morcant, and the rest
-   of his family.
- - *reluctant*: how she knows the characters, she met them when they
-   visited the city and was awed by Prince Aseir's stories.
+
+- the locations of the nobles' mansions.
+- information about the current nobles and which ones are most likely
+  to help the characters.
+- the direction to the city.
+- _reluctant_: her own identity, she fears that, if the characters find
+  out who she is, her family may be persecuted. She will explain to the
+  characters that she's worried about the knowledge causing harm to
+  others if pressed for an answer.
+- _reluctant_: the location of her father, King Morcant, and the rest
+  of his family.
+- _reluctant_: how she knows the characters, she met them when they
+  visited the city and was awed by Prince Aseir's stories.
 
 The characters can identifier her if they succeed on a DC 16
 Investigation check, if they have previously met King Morcant in his
@@ -269,7 +266,6 @@ that's heard, they will be assaulted on the way to Renaura by five
 bandits who demand more information from the characters.
 
 She will give them 100gp each for the troubles so far.
-
 
 ## City of Renaura
 
@@ -465,11 +461,11 @@ secret entrance to the castle.
 > and a deep raspy laugh.
 
 If the characters approach either of the doors, the armour guarding that
-door will become animated. These are *Animated Armor* (see page 19 of
+door will become animated. These are _Animated Armor_ (see page 19 of
 the Monster Manual).
 
 If the characters approach the rotting body, the sword in the body will
-become animated. This is a *Flying Sword* (see page 20 of the Monster
+become animated. This is a _Flying Sword_ (see page 20 of the Monster
 Manual).
 
 If the characters attempt to climb over the rubble, they will need to
@@ -610,19 +606,20 @@ in this room. They hid under the food in the barrels, one of them hid
 the chest with them when they saw what was happening.
 
 In the chest is:
- - a carved ivory statuette
- - a silver and gold broach
- - a ceremonial electrum dagger with a black pearl in the pomel
- - a lute (Doss Lute)
- - a dagger (a Dagger of Venom)
- - a small carved wooden box with an inscription on it
+
+- a carved ivory statuette
+- a silver and gold broach
+- a ceremonial electrum dagger with a black pearl in the pomel
+- a lute (Doss Lute)
+- a dagger (a Dagger of Venom)
+- a small carved wooden box with an inscription on it
 
 On the small carved wooden box, the inscription says:
 
 <blockquote class="letter">
 
-  In your oath to me, you have bent your knee. Remember this oath, when
-  using this key.
+In your oath to me, you have bent your knee. Remember this oath, when
+using this key.
 
 </blockquote>
 
@@ -794,7 +791,7 @@ This wall will reveal the throne room.
 >
 > The figure laughs and with an elvish accent says, "Shut up old man."
 >
-> "Now, now, this *is* a surprise. I heard you were in the city, Elmon,
+> "Now, now, this _is_ a surprise. I heard you were in the city, Elmon,
 > Meriele, and Aseir. Rumours of your destruction in the city over the
 > last few days have reached my ears. I wasn't expecting to find you
 > right in here, though!
@@ -858,14 +855,14 @@ enter the
 ### Guards
 
 If the assassin fails, Qa'lir will send guards to incarcerate the
-characters (if their location is known) for *treason*. These guards
+characters (if their location is known) for _treason_. These guards
 will attempt to jail the characters in the
 
 ## After success
 
- - Remaining wights under Qa'lir's control will wreak havoc. Most of
-   them were stationed with the guards and will have been taken down
- - Cultists will flee
- - Constructs will continue to fight but will fight the cultists
- - Telnetar will leave the castle and city
- - Pertana will rule until King Morcant returns
+- Remaining wights under Qa'lir's control will wreak havoc. Most of
+  them were stationed with the guards and will have been taken down
+- Cultists will flee
+- Constructs will continue to fight but will fight the cultists
+- Telnetar will leave the castle and city
+- Pertana will rule until King Morcant returns

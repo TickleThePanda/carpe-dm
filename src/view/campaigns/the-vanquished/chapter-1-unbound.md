@@ -1,23 +1,20 @@
 ---
 title: "Unbound"
 subtitle: "The Vanquished: Chapter 1"
-id: the-vanquished-chapter-1-unbound
 description:
-    A single–session adventure (5–6 hours) for three level 4 characters.
-    The adventurers are summoned by an elven woman to her tower and are
-    sent on a quest to find and retireve a stolen family heirloom.
-
-campaignId: the-vanquished
+  A single–session adventure (5–6 hours) for three level 4 characters.
+  The adventurers are summoned by an elven woman to her tower and are
+  sent on a quest to find and retireve a stolen family heirloom.
 
 order: 1
-
 ---
 
 This adventure was planned as a single–session adventure (5–6 hours) for
 three level 4 players:
- - Meriele, a half–elf rogue
- - Elmon, an elf bard
- - Prince Aseir, a human fighter
+
+- Meriele, a half–elf rogue
+- Elmon, an elf bard
+- Prince Aseir, a human fighter
 
 The main goal of the adventure is to find and retrieve an amulet for an
 old elven woman who has summoned the characters to her tower.
@@ -39,7 +36,7 @@ old elven woman who has summoned the characters to her tower.
 > the valley. It's here she says to ‘Wait here until there are three
 > and then speak the password “Unbind”.’
 >
-> The dreams end there.  Some of the specifics fade, but you can still
+> The dreams end there. Some of the specifics fade, but you can still
 > remember the way to the tower and women who helps you.
 >
 > Elmon, you received a letter from a friend, somebody who you trust,
@@ -77,14 +74,14 @@ language is Carnian, a lost language. If the language can be understood,
 it reads: ‘Safe we keep her. Allow no will.’ The original intent,
 however, was: ‘This keeps us safe from her, do not free her.’
 
-To enter, the characters must speak the word *unbind* or *free*.
+To enter, the characters must speak the word _unbind_ or _free_.
 
 ### Entering the tower
 
 > The stones making up the doorway turn to a bright light. The light
 > fades, revealing a short passage into the tower. The passage leads to
 > a brightly lit landing; glass half–bowls filled with flame on the
-> walls.  From here, stairs spiral upwards, starting on your right.
+> walls. From here, stairs spiral upwards, starting on your right.
 > Apart from this, the landing is empty.
 
 The passage stays open after everybody walks in.
@@ -92,7 +89,7 @@ The passage stays open after everybody walks in.
 The stairway follows up and around, eventually reaching a landing with a
 door on the left — facing the centre of the tower.
 
-The lamps are made with *Continual Flame*.
+The lamps are made with _Continual Flame_.
 
 ### Reaching the study
 
@@ -123,7 +120,7 @@ food and drink, and if they accept, food will appear at the table.
 She will explain that her quest is to have her stolen amulet retrieved.
 She's chosen them because it was taken from her a long time ago and it's
 likely to be a perilous journey to retrieve it. The amulet is in the
-*Tomb of the Last Rehani*, which is close to *the City of Renaura* which
+_Tomb of the Last Rehani_, which is close to _the City of Renaura_ which
 is a 2 day journey from here, across the moors. She doesn't know where
 the tomb is.
 
@@ -144,12 +141,13 @@ the north west of the moors and to north of the road is a forest.
 
 To see how quickly the adventurers get through the city to the, the
 characters can take a DC 20 Survival (Wisdom) check. On a:
- - *success*, the journey takes 24 hours, with 1 night's rest. The first
-   day gets them to the road. The second day gets them to the city in
-   the afternoon.
- - *failure*, the journey takes 48 hours, with 2 nights' rest. The first
-   day is spent being lost in the wilderness. The second day gets them
-   to the road. The third day gets them to the city in the afternoon.
+
+- _success_, the journey takes 24 hours, with 1 night's rest. The first
+  day gets them to the road. The second day gets them to the city in
+  the afternoon.
+- _failure_, the journey takes 48 hours, with 2 nights' rest. The first
+  day is spent being lost in the wilderness. The second day gets them
+  to the road. The third day gets them to the city in the afternoon.
 
 General environment: Moor–wilderness → Road in the moors → Road through
 hilly–forest → Road through hilly–forest broken up by pastures
@@ -195,17 +193,18 @@ The guards give the characters no trouble entering the city.
 
 Here the characters have a whole range of options for finding out where
 the tomb is:
- - merchants will point the characters towards March, the bar–keep at
-   *The Dragon's Claw* which is ‘just up the road — the bar–keep there
-   talks about mad things like this’, if they're convinced by the
-   characters
- - guards will point the characters towards the scholar, Ret, who works
-   in the castle library, if they're convinced by the characters
- - priests will welcome the characters to join their procession to the
-   Temple of Ilmater where the scholarly acolytes might know of such a
-   place
- - general populace will be relatively helpful, pointing the characters
-   straight to March *The Dragon's Claw*
+
+- merchants will point the characters towards March, the bar–keep at
+  _The Dragon's Claw_ which is ‘just up the road — the bar–keep there
+  talks about mad things like this’, if they're convinced by the
+  characters
+- guards will point the characters towards the scholar, Ret, who works
+  in the castle library, if they're convinced by the characters
+- priests will welcome the characters to join their procession to the
+  Temple of Ilmater where the scholarly acolytes might know of such a
+  place
+- general populace will be relatively helpful, pointing the characters
+  straight to March _The Dragon's Claw_
 
 ### Temple of Ilmater
 
@@ -214,7 +213,7 @@ the tomb is:
 > figure is scarred and his limbs are at unsettling angles. On it, in
 > common, is inscribed:
 >
->> We welcome all to the house of Ilmater.
+> > We welcome all to the house of Ilmater.
 
 At the temple, the characters will be encouraged by a greeter, who will
 introduce themselves as Wurcon, to pray.
@@ -283,7 +282,7 @@ mildly accurate stories about a nearby tomb.
 > themselves walk the halls. I know that a scholar from the castle
 > library went there recently never to return.
 >
-> I doubt it's *the dead* that got her, though. Much more likely that
+> I doubt it's _the dead_ that got her, though. Much more likely that
 > it's the goblins that use the place as a hide–out. I know that's not a
 > rumour! They don't really cause a problem to the people in the city so
 > the Lord here hasn't done anything about them.
@@ -294,7 +293,7 @@ farmers.
 ### The castle's library
 
 > As your tiring journey takes you higher up the city, closer to the
-> castle, the  become closer together, making the city narrower. Closest
+> castle, the become closer together, making the city narrower. Closest
 > to the castle, the path follows the side of one of the valley walls
 > with large mansions on the other side.
 >
@@ -311,9 +310,10 @@ farmers.
 > characters and will not want to let them through the gate.
 
 They can be, amongst other things:
- - bribed for 20gp
- - intimidated DC 20
- - persuaded DC 25
+
+- bribed for 20gp
+- intimidated DC 20
+- persuaded DC 25
 
 The characters will be let into the castle on the condition of being
 escorted.
@@ -334,10 +334,10 @@ escorted.
 > library, just off a well decorated main corridor.
 >
 > The large room is filled with books and scrolls. Every accessible
-> *inch* of the room is taken up by shelves with the narrowest of spaces
+> _inch_ of the room is taken up by shelves with the narrowest of spaces
 > between them.
 >
-> A man dressed in robes is moving books to what somebody *might* call a
+> A man dressed in robes is moving books to what somebody _might_ call a
 > desk, although it could just be more storage.
 >
 > He happily gasps as you walk in, smiling.
@@ -363,7 +363,6 @@ heading along the path.
 > For about an hour, the path continues overgrown, getting steeper. It
 > ends where the mountain rises, a collapsed door in front of you.
 
-
 ## Tomb of the Last Rehani
 
 ![A map of the Tomb of the Last Rehani.](/images/unbound/tomb-reference.png)
@@ -379,8 +378,7 @@ Some of the rubble can be shifted instead, with a successful Strength
 check of 15 but it will cause some of the remaining rubble to collapse
 and the goblins to be prepared
 
-The rubble can also be climbed over with a successful Strength check of
-15.
+The rubble can also be climbed over with a successful Strength check of 15.
 
 ### Goblin hideout
 
@@ -427,11 +425,12 @@ wall by 10 feet, taking 1d4 damage.
 > corridor are open.
 
 The smaller corridors as the characters go along:
- 1. a corridor on the right, it's about 70ft long.
- 2. a corridor on the left, it's about 90ft long.
- 3. a short corridor on the right, and then a door
- 4. a short corridor on the left, and then a door
- 5. a short corridor on the right, and then a door
+
+1.  a corridor on the right, it's about 70ft long.
+2.  a corridor on the left, it's about 90ft long.
+3.  a short corridor on the right, and then a door
+4.  a short corridor on the left, and then a door
+5.  a short corridor on the right, and then a door
 
 ### Tomb of King Lunit Rehani
 
@@ -462,16 +461,17 @@ labelled; the engravings are in Carnian.
 
 The backpack (and the area around the backpack) contains the following
 supplies:
- - a hammer
- - 10 pitons
- - 10 torches
- - a tinderbox
- - 10 days of rations
- - a waterskin
- - 50ft of hempen rope
- - a partially translated copy of the engraving showing the "Lord's
-   Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
-   Vanquisher" — the writing seems to have been interrupted.
+
+- a hammer
+- 10 pitons
+- 10 torches
+- a tinderbox
+- 10 days of rations
+- a waterskin
+- 50ft of hempen rope
+- a partially translated copy of the engraving showing the "Lord's
+  Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
+  Vanquisher" — the writing seems to have been interrupted.
 
 ![A rough partial translation of the engraving.
 ](/images/unbound/tomb-translated.jpg)
@@ -528,7 +528,7 @@ will become violent and impossible to deal with.
 The ghost will not be convinced to let the players leave with the amulet
 and it can only be taken by force.
 
-### *STORAGE*
+### _STORAGE_
 
 Room large enough to have a short rest in. Has a chest containing mostly
 rotted/decayed belongings that have turned to dust. There's 50gp and 2
@@ -548,7 +548,7 @@ The corridor has completely collapsed, rubble blocking it entirely.
 
 A successful Perception (Wisdom) check of 20 DC will uncover a door.
 
-### * Additional Tombs
+### \* Additional Tombs
 
 Each contains 3 skeletons that will attack the players almost
 immediately. In each of the tombs, the players will find 3d10 gold.

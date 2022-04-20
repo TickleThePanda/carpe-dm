@@ -1,6 +1,5 @@
 ---
-title: "Chapter 3: Write-up"
-linkedAdventureId: "the-vanquished-chapter-3"
+title: "Session 3: Write-up"
 ---
 
 The trio met with Pertana, after spending the last week killing the
@@ -40,34 +39,40 @@ They set off before dawn the following day, making the most of the
 travelling time.
 
 Fight and defeat wolves
- - horse's involvement
+
+- horse's involvement
 
 Reach top of mountain with sign pointing towards the Cloud-peak
 Monastry or Aymeluma
- - Elmon tries to make skis
+
+- Elmon tries to make skis
 
 Back down the other side of the mountain
- - A few landmarks
+
+- A few landmarks
 
 See village in the distance, but smell smoke and blood
 
 Aseir rides ahead to the village to see what's going on, Meriele
 climbs a tree
- - heard distant shouting
- - heard the girl
- - saw the symbol of Elydir
- - asked Meriele to look for signs of distant shouting
+
+- heard distant shouting
+- heard the girl
+- saw the symbol of Elydir
+- asked Meriele to look for signs of distant shouting
 
 Aseir and Meriele tried to help the girl
- - she's scared of the monsters that took the family
- - wants her mother
- - convinced to come with on the horse
+
+- she's scared of the monsters that took the family
+- wants her mother
+- convinced to come with on the horse
 
 Elmon explored the building, found and shared the prophecy:
- - Faurin may be the lover
- - Elydir may be the person causing the destruction
- - Divine slopes may be the monastry that they saw the sign for,
-   concerned about what they might face there
+
+- Faurin may be the lover
+- Elydir may be the person causing the destruction
+- Divine slopes may be the monastry that they saw the sign for,
+  concerned about what they might face there
 
 Left the girl in the large building with the horse
 
@@ -77,10 +82,11 @@ Decide to leave the village in search for the distant shouting,
 sneaking out
 
 Manage to sneak to the encampment
- - 10 orcs around a campfire
- - 2 orogs guarding a tent, symbol of Elydir on it
- - cages to the right hand side of the tent filled with elves, one
-   of the elves looked similar to Elydir
+
+- 10 orcs around a campfire
+- 2 orogs guarding a tent, symbol of Elydir on it
+- cages to the right hand side of the tent filled with elves, one
+  of the elves looked similar to Elydir
 
 Elmon tricks most of the orcs away using minor illusion while
 
@@ -97,6 +103,7 @@ the village
 Aseir reunited the child with the mother
 
 Aseir spoke to the elf that looked similar to Elydir
+
 - enquired about what happened and who they were taken by, the elf
   gave Qa'por's name
 - spoke about Elydir, elf said she betrayed everybody but she was
@@ -209,8 +216,9 @@ water.
 >
 > On the quest, you visited the city of Renaura, finding clues about the
 > location of the once lost Tomb. You split up and found clues:
-> - the barkeep March at the Tavern, *The Dragons Claw*
-> - from Glanna in the *Temple of Ilmater*
+>
+> - the barkeep March at the Tavern, _The Dragons Claw_
+> - from Glanna in the _Temple of Ilmater_
 > - from the castle librarian.
 >
 > With your newfound knowledge, you set off to find the lost Tomb of the
@@ -225,6 +233,6 @@ water.
 
 ## DM lessons learnt
 
- - Use better random encounter tables
- - give further description to surrounding area
- - giving more detailed descriptions for
+- Use better random encounter tables
+- give further description to surrounding area
+- giving more detailed descriptions for

@@ -1,25 +1,21 @@
 ---
 title: "Wandering Three"
 subtitle: "The Vanquished: Chapter 3"
-id: "the-vanquished-chapter-3"
 description:
   This adventure was planned as a single–session adventure (9-11 hours)
   for three sixth-level characters.
 
-campaignId: the-vanquished
-
 order: 3
-
 ---
 
 This adventure was planned as a single–session adventure (9-11 hours)
 for three sixth-level characters:
- - Meriele, a half–elf rogue
- - Elmon, an elf bard
- - Prince Aseir, a human fighter
+
+- Meriele, a half–elf rogue
+- Elmon, an elf bard
+- Prince Aseir, a human fighter
 
 ## What's happened so far
-
 
 It's been a week since the characters freed the city from Qa'lir's
 control. They've been paid 250gp each to help with the securing of the
@@ -56,7 +52,7 @@ city.
 > Qa'lir was planning something call-"
 >
 > A piercing screech interrupts Pertana, "for what you have done -
-> Meriele, Elmon, and Aseir - you will know *only* pain."
+> Meriele, Elmon, and Aseir - you will know _only_ pain."
 >
 > You each hear a whisper of a discordant melody and are wracked with a
 > terrible pain. The room spins and your vision blurs.
@@ -69,7 +65,7 @@ successful save, the characters take half.
 > the sound seemed to come from Meriele.
 >
 > Pertana is standing and looking shocked and concerned but looks
-> unharmed. She is pointing at Meriele and says "What *was* that! It
+> unharmed. She is pointing at Meriele and says "What _was_ that! It
 > came from you!"
 
 ## Renaura
@@ -84,14 +80,15 @@ symbol that they show the. The symbol that he knows of doesn't include
 the chain.
 
 Things that the castle librarian knows:
- - Aymeluma is lead by the Glynlamin family.
- - The location of the village, on the other side of the mountains. The
-   options to get there: the mountain pass that gets there, which should
-   take less than a day; or the roads around the mountains that would
-   take a week instead.
- - There's an ancient connection between the city and the elven village.
-   The eldest son of King Rehani was meant to marry an elf from there
-   but that was before the Morcant family took over rule from the Rehani.
+
+- Aymeluma is lead by the Glynlamin family.
+- The location of the village, on the other side of the mountains. The
+  options to get there: the mountain pass that gets there, which should
+  take less than a day; or the roads around the mountains that would
+  take a week instead.
+- There's an ancient connection between the city and the elven village.
+  The eldest son of King Rehani was meant to marry an elf from there
+  but that was before the Morcant family took over rule from the Rehani.
 
 ### Ironwood Street hideout
 
@@ -143,18 +140,18 @@ the Rehani crown.
 Steep mountain path that winds up the wooded foothills of the mountains.
 As the path climbs the mountain, it will climb along the top of an icy
 ravine, with cliffs down to the right. This path climbs for about 10
-miles. Along the top of this ravine, it's *extremely cold* (p110 DMG).
+miles. Along the top of this ravine, it's _extremely cold_ (p110 DMG).
 
-About 7 miles up the mountain, there will be *strong winds* (p110 DMG)
-and is obscured by heavy snow (p110 DMG, heavy precipitation).  Players
+About 7 miles up the mountain, there will be _strong winds_ (p110 DMG)
+and is obscured by heavy snow (p110 DMG, heavy precipitation). Players
 will think they hear a howling on the wind. Around here, a DC 16
 perception check will show that there are animal tracks around. A
 successful DC 18 Wisdom (Survival) check will identify these as three
 wolves and two winter wolves which have travelled up the mountain.
 
-After another mile, the players will be set upon by two *winter wolves*
-(p340 MM) and *three wolves* (p341 MM). In the area there will be chunks
-of *slippery ice* (p110 DMG), tall cliffs and rocks to hide behind.
+After another mile, the players will be set upon by two _winter wolves_
+(p340 MM) and _three wolves_ (p341 MM). In the area there will be chunks
+of _slippery ice_ (p110 DMG), tall cliffs and rocks to hide behind.
 
 After another half mile, the ravine eventually disappears and the
 characters are now in a path between two mountains, still climbing.
@@ -182,8 +179,8 @@ Cloudpeak Monastry is the lair of a silver dragon, Xolbi who is in human
 form. This monastery is served by ten acolytes and a priest of Torm.
 
 The monastery is 12 miles from the split in the path, further up the
-mountain. Players need to be careful they don't get lost (*Becoming
-Lost* p111 DMG) following this path. In the distance, up the mountain,
+mountain. Players need to be careful they don't get lost (_Becoming
+Lost_ p111 DMG) following this path. In the distance, up the mountain,
 they can hear a bell ring every hour.
 
 After 11 miles of travel up this path (or further if they get lost), the
@@ -232,7 +229,7 @@ will come from it. It will pose them a question:
 > Answer me honestly, each of you, would you take this being's offer?
 
 No matter, the answer that the players, give, the door will let them in.
-Those who answer that they won't will be given the benefits of *Bless*
+Those who answer that they won't will be given the benefits of _Bless_
 spell for 24 hours.
 
 Once they are let in:
@@ -308,7 +305,7 @@ The session ends when the players jump in.
 
 ![image](/images/jairnt-map.svg)
 
-Small village with a tavern called *The Watchers Tavern*, the
+Small village with a tavern called _The Watchers Tavern_, the
 accommodation is modest.
 
 The players may hear about the rumours.
@@ -320,17 +317,18 @@ The players may hear about the rumours.
 Village of about 800 people.
 
 The village has two taverns:
- - *The Toad's Inn* - The inn is a single storey half-timbered building,
-   with dwarf-wrought iron tables and chairs. It is well lit by an iron
-   chandelier. Accomodations consist of several hammocks in the common
-   room. Very popular with the locals, has very poor accommodation and
-   food but cheap and plentiful beer. The innkeeper is a willowy female
-   human named Suse.
- - *The Grey Huntress* - The inn is a grand half-timbered building, with
-   carved wooden doors. Accomodations consist of several large rooms
-   with beds and woolen mattresses. The inn is locally known for the
-   variety of its meads and wines. The innkeeper is an old male human
-   named Altes.
+
+- _The Toad's Inn_ - The inn is a single storey half-timbered building,
+  with dwarf-wrought iron tables and chairs. It is well lit by an iron
+  chandelier. Accomodations consist of several hammocks in the common
+  room. Very popular with the locals, has very poor accommodation and
+  food but cheap and plentiful beer. The innkeeper is a willowy female
+  human named Suse.
+- _The Grey Huntress_ - The inn is a grand half-timbered building, with
+  carved wooden doors. Accomodations consist of several large rooms
+  with beds and woolen mattresses. The inn is locally known for the
+  variety of its meads and wines. The innkeeper is an old male human
+  named Altes.
 
 There's a small market which has general, easy to buy wares but there
 is no general trading store. There is a travelling merchant who will
@@ -340,7 +338,7 @@ sell finer wares.
 
 Approaching the village:
 
-> There's a stench on the wind. An oppressive, malignant smell.  Blood.
+> There's a stench on the wind. An oppressive, malignant smell. Blood.
 > Smoke.
 >
 > Through the trees, you can see glimpses of ornate stone buildings.
@@ -403,9 +401,7 @@ On one of the walls, there's a partially damaged ornate
 
 > <span class="invisible">When</span> she tricks <span class="invisible">the wandering</span> three to unbind,<br>
 > The shadow <span class="invisible"> of her</span> lover will fight but fail.<br>
-> When she <span class="invisible">brings</span> destruction to <span class="invisible">all of his</span> kind,<br>
-> <span class="invisible">The</span> soul of her <span class="invisible">lover her end</span> will detail.<br>
-> <span class="invisible">Now the</span> wandering three <span class="invisible">his</span> soul they <span class="invisible">must find</span><br>
+> When she <span class="invisible">brings</span> destruction to <span class="invisible">all of his</span> kind,<br> > <span class="invisible">The</span> soul of her <span class="invisible">lover her end</span> will detail.<br> > <span class="invisible">Now the</span> wandering three <span class="invisible">his</span> soul they <span class="invisible">must find</span><br>
 > On divine slopes <span class="invisible">her fate his soul</span> will unveil.
 
 Originally, this would have read the following:
@@ -441,9 +437,9 @@ ogres.
 
 ## Rumours
 
- 1. Attacks from unsavoury creatures in the area have decreased and
+1.  Attacks from unsavoury creatures in the area have decreased and
     there have been fewer sightings
- 2. Neighbouring lord in Limecall has recently passed away
- 3. Cave in at the old tomb
- 4. Beast people have been sighted in the woods to the north west of
+2.  Neighbouring lord in Limecall has recently passed away
+3.  Cave in at the old tomb
+4.  Beast people have been sighted in the woods to the north west of
     Renaura

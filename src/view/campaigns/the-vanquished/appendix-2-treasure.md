@@ -1,14 +1,9 @@
 ---
-
 title: "Treasures"
 subtitle: "The Vanquished: Appendix 2"
 description: The treasures involved in this campaign.
 
-id: "the-vanquished-appendix-2-treasures"
-campaignId: the-vanquished
-
 order: 102
-
 ---
 
 ## The Staff of Skonarith
@@ -27,7 +22,8 @@ If each of the elements is willing (or is forced), the staff can be
 reformed from its parts.
 
 ## Ith, the Orb of Empathy
-*Wonderous Item, Rare (requires attunement by a good creature)*
+
+_Wonderous Item, Rare (requires attunement by a good creature)_
 
 A dark red pearlescent orb, its contents swirling, was split from the
 Staff of Skonarith. It is kept safe in Lunia, Mount Celestia, out of
@@ -36,40 +32,40 @@ this can be recombined with the other parts
 [The Staff of Skonarith](#recombining-the-staff).
 
 The orb has 3 charges. While holding it, you can use an action and
-expend 1 charge to cast the *detect thoughts* spell (save DC 15) from it.
+expend 1 charge to cast the _detect thoughts_ spell (save DC 15) from it.
 The orb regains 1d3 expended charges daily at dawn.
 
-**Sentience.** *Ith* is a sentient neutral good wondrous item with an
+**Sentience.** _Ith_ is a sentient neutral good wondrous item with an
 Intelligence of 12, Charisma of 12, and Wisdom of 18. It can read,
 speak, and understand Celestial and Common. It can communicate
 telepathically with any creature within 60ft and with any character that
 is attuned to it. It has hearing and vision out for 30ft.
 
-**Personality.** When feeling a particularly strong emotion, *Ith* will
+**Personality.** When feeling a particularly strong emotion, _Ith_ will
 sometimes lose control of itself and telepathically broadcast this to
 other creatures nearby.
 
-*Ith* is the empathy of Skonarith, what little empathy there there was,
-but in separation from the rest, it has grown in power.*Ith* wants to
+_Ith_ is the empathy of Skonarith, what little empathy there there was,
+but in separation from the rest, it has grown in power._Ith_ wants to
 protect others from harm, especially oppression, though, it believes its
 own powers should only be used against those who dominate.
 
-The orb misses *Nar*, the Braces of Independence, and wishes to be
+The orb misses _Nar_, the Braces of Independence, and wishes to be
 reunited with the bracers.
 
 The orb is ashamed of its weakness and the hurt that caused to others
-and that it may end up being by *Sko* again. If it is asked to use the
+and that it may end up being by _Sko_ again. If it is asked to use the
 powers against those who do not deserve it, a conflict will arise
 between it and its wielder.
 
-
 ## Sko, the Staff of Domination
-*Wonderous Item, Legendary (requires attuenement)*
+
+_Wonderous Item, Legendary (requires attuenement)_
 
 It has the power to control others.
 
 ## Nar, the Braces of Independence
-*Wonderous Item, Legendary (requires attunement)*
+
+_Wonderous Item, Legendary (requires attunement)_
 
 It has the power to shield itself from domination.
-

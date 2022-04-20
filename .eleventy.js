@@ -1,82 +1,79 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
-const Hypher = require('hypher')
-const english = require('hyphenation.en-gb');
+const Hypher = require("hypher");
+const english = require("hyphenation.en-gb");
 
-const slugify = require('slugify');
+const slugify = require("slugify");
 
 const hypher = new Hypher(english);
 
-const { JSDOM } = require('jsdom');
+const { JSDOM } = require("jsdom");
 
-const util = require('util');
+const util = require("util");
 
-module.exports = config => {
-
+module.exports = (config) => {
   const markdownItOptions = {
     html: true,
-    typographer: true
+    typographer: true,
   };
 
   const markdownItAnchorOptions = {
     permalink: true,
-    slugify: s => slugify(s, {
-      lower: true,
-      strict: true
-    }),
+    slugify: (s) =>
+      slugify(s, {
+        lower: true,
+        strict: true,
+      }),
     permalinkClass: "direct-link",
     permalinkSymbol: "2",
     permalinkAttrs: (slug, state) => ({
-      "aria-label": "Permalink: " + slug
+      "aria-label": "Permalink: " + slug,
     }),
-    level: [1,2,3,4]
+    level: [1, 2, 3, 4],
   };
 
   config.setLibrary(
     "md",
-    markdownIt(markdownItOptions)
-      .use(markdownItAnchor, markdownItAnchorOptions)
+    markdownIt(markdownItOptions).use(markdownItAnchor, markdownItAnchorOptions)
   );
 
   config.setDataDeepMerge(true);
 
   config.addCollection("adventures", (collection) => {
-    return collection.getFilteredByTag('adventures').sort((a, b) => {
+    return collection.getFilteredByTag("adventures").sort((a, b) => {
       return a.data.order - b.data.order;
     });
   });
 
   config.addTransform("hyphenation", (content, outputPath) => {
-
     const dom = new JSDOM(content);
     const document = dom.window.document;
     const NodeFilter = dom.window.NodeFilter;
 
-    const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT); 
+    const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
 
     while (walk.nextNode()) {
-      walk.currentNode.nodeValue = hypher.hyphenateText(walk.currentNode.nodeValue);
+      walk.currentNode.nodeValue = hypher.hyphenateText(
+        walk.currentNode.nodeValue
+      );
     }
     return dom.serialize();
   });
 
-  config.addFilter("slug", s => 
-    s !== undefined ? 
-      slugify(s, { lower: true, strict: true }) :
-      "-"
+  config.addFilter("slug", (s) =>
+    s !== undefined ? slugify(s, { lower: true, strict: true }) : "-"
   );
 
   config.addFilter("inspect", (s, d) =>
-    util.inspect(s, {depth: d === undefined ? 2 : d})
+    util.inspect(s, { depth: d === undefined ? 2 : d })
   );
 
   return {
     dir: {
       input: "src/view/",
       output: "_site",
-      markdownTemplateEngine: "njk"
-    }
+      markdownTemplateEngine: "njk",
+    },
   };
-}
-
+};

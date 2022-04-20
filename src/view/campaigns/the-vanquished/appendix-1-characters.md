@@ -1,14 +1,9 @@
 ---
-
 title: "Characters"
 subtitle: "The Vanquished: Appendix 1"
-description: The characters involved in this campaign.
-
-id: the-vanquished-appendix-1-characters
-campaignId: the-vanquished
+description: The characters involved in thi
 
 order: 101
-
 ---
 
 This includes information about the major characters in this campaign.
@@ -32,17 +27,17 @@ show the sun rays, and an iron cruciform is the sword.
 elven community Aymeluma. Born the daughter of the elvish Lord, she
 studied natural magic during the early years of her life. During the
 peace process of an ending war between Aymeluma and Renaura, she was
-promised to *Lainot*, son of *King Lunit Rehani*. When she was fifty,
+promised to _Lainot_, son of _King Lunit Rehani_. When she was fifty,
 still young by elvish standards, she was taken from Aymeluma and raised
 to be the lady consort of Lainot. Lainot was an abusive husband and
 later, after succeeding his father, was a weak leader. Through the
 enduring abuse, Elydir became lachrymose and distrustful of humanity.
 
 **Right to Rule.** To distract herself from her husband's abuse, Elydir
-found solace in the study of magic. During her study she met *Faurin*, a
+found solace in the study of magic. During her study she met _Faurin_, a
 kind and generous man. His care lead to devotion and love and intimacy.
 Together, Elidyr and Faurin dreamed of naive grand plans to rule for the
-betterment of the realm.  Elidyr, already in a place of power, took
+betterment of the realm. Elidyr, already in a place of power, took
 these plans more seriously than Faurin. Over the next few years, she
 started putting plans into place. Her study also took a darker turn,
 delving into powers for the control of minds and unsavoury creatures. It

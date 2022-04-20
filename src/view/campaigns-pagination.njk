@@ -36,6 +36,25 @@ eleventyComputed:
       </ul>
     </nav>
 
+    <nav class="collection-nav">
+      <h2 class="collection-nav__nav-section-title">Write-ups</h2>
+      <ul class="collection-nav__list">
+        {% for writeup in collections.writeups %}
+          {% if writeup.data.campaignId == campaign.id %}
+            <li class="collection-nav__list-item">
+              <a class="card card--link" href="{{ writeup.url }}">
+                <h3 class="card__title">{{ writeup.data.title }}</h2>
+                <p class="card__subtitle">{{ writeup.data.subtitle }}</p>
+                {% if writeup.data.description %}
+                  <p class="card__content">{{ writeup.data.description }}</p>
+                {% endif %}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
   </article>
 {% endblock %}
 

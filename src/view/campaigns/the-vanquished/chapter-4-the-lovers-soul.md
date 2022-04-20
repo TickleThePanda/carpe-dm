@@ -1,15 +1,10 @@
 ---
 title: "The Lover's Soul"
 subtitle: "The Vanquished: Chapter 4"
-id: "the-vanquished-chapter-4"
-description:
-  This adventure was planned as a single–session adventure for three
+description: This adventure was planned as a single–session adventure for three
   sixth-level characters.
 
-campaignId: the-vanquished
-
 order: 4
-
 ---
 
 The characters have just jumped through the portal atop Mount Renau.
@@ -19,6 +14,7 @@ The characters have just jumped through the portal atop Mount Renau.
 While the players are in Mount Celestia, Elydir is still moving against
 them in their home plane. Consult the following list for the happenings
 on the numbered day:
+
 1. \-
 2. \-
 3. Orcs move to take Carnelu
@@ -51,6 +47,7 @@ message on the sending stone: "You are fools to leave at such a time!"
 >
 > In the few seconds that you have in the air, you catch a few glimpses
 > of your surroundings:
+>
 > - an impossibly large mountain island with a sprawling shore of
 >   glowing warm lights and tall white buildings
 > - two distant tall-ships, one in the north-west and one towards the
@@ -69,13 +66,14 @@ and help the players stay afloat, coming from below. The nearby ornate
 ship with beautiful sails will also move to help them.
 
 As the ship approaches:
+
 > The small ornate ship approaches you slowly, its hull and cabins are
 > intricately carved, depicting the sea and its animals. Its silken
 > sails softly swell in the gentle breeze. Most of the light on the deck
 > pours from candles and lanterns. Though, a couple of small balls of
 > light zooming around above the ship. There's a short inscription on
-> the side of the ship *(unless a character can read celestial)*.
-> 
+> the side of the ship _(unless a character can read celestial)_.
+>
 > You can see five elves on the deck. Two elf-women are dressed in white
 > and gold embroidered trousers and shirts. The first is standing at the
 > ship's wheel giving calm orders to the other; the second is carrying
@@ -99,11 +97,12 @@ This is a small pleasure cruise ship for people looking for
 enlightenment through finding beauty in the world.
 
 There are 6 elves aboard:
- - the ship's captain, Beiren Ty-kin
- - the ship's crewmember, Dordan To'Il-kin
- - three Addan To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin
- - a disguised Arcalaloth, Mogthodoth, known as Banir Any-kin to the
-   other elves aboard
+
+- the ship's captain, Beiren Ty-kin
+- the ship's crewmember, Dordan To'Il-kin
+- three Addan To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin
+- a disguised Arcalaloth, Mogthodoth, known as Banir Any-kin to the
+  other elves aboard
 
 > As you climb aboard, you see the well lit deck, clean, tidy, and well
 > ordered. The ship barely sways above the water. The two balls of light
@@ -113,9 +112,9 @@ There are 6 elves aboard:
 >
 > The captain bows again, greeting you in the same way as before: "I,
 > Beiren Ty-kin, welcome you to my vessel, the Lunar Allure. This is
-> Dordan To'Il-kin *(gesturing to the working elf)*, and these are Addan
-> To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin *(gesturing to
-> the other elves who bow)*. Over there *(gesturing to the sitting elf)*
+> Dordan To'Il-kin _(gesturing to the working elf)_, and these are Addan
+> To'Il'Ty-kin, Yellar To'Ty-kin, and Ianfir To'Lath-kin _(gesturing to
+> the other elves who bow)_. Over there _(gesturing to the sitting elf)_
 > is Banir Any-kin. What may I call you three travellers?"
 
 He will welcome the characters aboard. He will tell them that Banir is
@@ -142,8 +141,8 @@ so far on their journeys.
 #### Banir Any-kin (Morcanloth)
 
 An Arcanaloth in disguised as a fair elf, Banir Any-kin, using the
-*Alter Self* spell. In his pack are dark tomes, spell scrolls, and dark
-arcane components. 
+_Alter Self_ spell. In his pack are dark tomes, spell scrolls, and dark
+arcane components.
 
 He seeks knowledge and believes that it will lead him to power and self
 agency. During his travels, he has been in search of the Lost Book of
@@ -155,12 +154,12 @@ He has taken a long and difficult journey to Lunia to find [Ith, the Orb
 of Empathy][ith] for Elydir, in exchange for access to the libraries. He
 knows that Faurin's location and that he has knowledge of where Ith is.
 
-He wears a *Ring of Mind Shielding*.
+He wears a _Ring of Mind Shielding_.
 
 Already exhausted, if the players speak to him, he will show a very
 brief flash of annoyance which any character who makes a successful
 check against a Wisdom (Insight) DC 19 will see. He will then politely
-give the reason to being here is to trade with people in *Hearts Faith*.
+give the reason to being here is to trade with people in _Hearts Faith_.
 
 He has bribed the captain to hide him from any patrol ships that move
 nearby, paying him with an old copy of a common novel.
@@ -175,7 +174,7 @@ want to hear music from these outsiders. As the music
 plays, they will modulate their colours and flash along to it.
 
 Once they're bored, they will fly to one of the larger patrol ships,
-*The Moon's Gaze*, to share the news on newcomers. 
+_The Moon's Gaze_, to share the news on newcomers.
 
 ### The Moon's Gaze
 
@@ -198,7 +197,7 @@ warned them that there are planar travellers.
 > A larger ship approaches, your eyes are drawn to its figurehead - in
 > the shape of Tyr - a muscular man, pits where there should be eyes,
 > with a warhammer held forward. Behind this, larger masts and sails. It
-> turns and slows to move alongside the *Lunar Allure*.
+> turns and slows to move alongside the _Lunar Allure_.
 >
 > Standing at the captains wheel is an armoured bear-like humanoid
 > watching carefully. Floating beside this creature is a tall winged
@@ -207,20 +206,20 @@ warned them that there are planar travellers.
 > this ship. Tens of the small balls of light flit around.
 >
 > When it comes to a stop, a couple of the small balls of light zoom
-> over chattering "friends, friends." *Beiren To'kin* fidgets and stand
+> over chattering "friends, friends." _Beiren To'kin_ fidgets and stand
 > nervously glancing around the ship.
 >
 > The winged creature flies across to the Lunar Allure, greeting Beiren
 > Ty'kin in the same fashion as Beiren did to you earlier, giving
-> *Sonaru* as its name. Sonaru says, "Our lights have warned us that
-> you have picked up planar travellers.  Please, allow them to come with
+> _Sonaru_ as its name. Sonaru says, "Our lights have warned us that
+> you have picked up planar travellers. Please, allow them to come with
 > us so that they may have an audience with Mydaiel."
 >
 > Beiren takes a deep breath and shakily responds, "th-these three
 > arrived just moments ago."
 >
 > He looks like he's about to say something else but then he turns to
-> you to say, "My friends, will you travel with them?  I promise they
+> you to say, "My friends, will you travel with them? I promise they
 > mean you no harm, this is rare matter of formality."
 
 ## City of Hearts Faith
@@ -233,7 +232,7 @@ at the Port of Wonders.
 > giving an inviting warm glow. Beautiful gardens fill much of the space
 > in the city both in the depths of the city and on the peaks of the
 > towers.
-> 
+>
 > Yet, despite its size, the city is wholly dwarfed by the mountain
 > beyond. Its size incomprehensible. Its lowest slopes disappear into
 > the sky above. Between the lower hills, valleys and passes, stone
@@ -290,8 +289,8 @@ a demon invasion. The attendants are careful due recent invasions.
 > Archons. A few merchants and travellers are exiting.
 
 If the characters are escorted here or seek an audience with Mydaiel,
-they will be taken through *The Entrance Hall and Staircases*, up to a
-*Lounge*. 
+they will be taken through _The Entrance Hall and Staircases_, up to a
+_Lounge_.
 
 #### The Entrance Hall and Staircases
 
@@ -305,6 +304,7 @@ they will be taken through *The Entrance Hall and Staircases*, up to a
 > though fewer guards.
 
 At the top of the staircase:
+
 > At the top of the staircase, there are rooms on all sides except the
 > south where there's a grand staircase. It has thick red carpets with
 > elaborate patterns up the middle. Rather than spiralling, this
@@ -317,13 +317,13 @@ At the top of the staircase:
 For a room that the players enter, roll a d100 and consult the table
 below.
 
-Result | Type
---- | ---
-1-5 | A kitchen, roll 1d4 for the number of Hound Archons
-6-10 | A watch room, a Warden Archon will be in here
-11-20 | A training room, roll 1d8+2 for the number of Hound Archons in this room
-20-50 | A study, roll 1d4 for the number of Hound Archons and 1d4 for the number of Trumpet Archons
-50-100 | A communication room, roll 1d8 for the number of Hound Archons and for the number of Trumpet Archons
+| Result | Type                                                                                                 |
+| ------ | ---------------------------------------------------------------------------------------------------- |
+| 1-5    | A kitchen, roll 1d4 for the number of Hound Archons                                                  |
+| 6-10   | A watch room, a Warden Archon will be in here                                                        |
+| 11-20  | A training room, roll 1d8+2 for the number of Hound Archons in this room                             |
+| 20-50  | A study, roll 1d4 for the number of Hound Archons and 1d4 for the number of Trumpet Archons          |
+| 50-100 | A communication room, roll 1d8 for the number of Hound Archons and for the number of Trumpet Archons |
 
 #### The Lounge
 
@@ -350,11 +350,11 @@ The balcony is 660ft in the air, there are 22 balconies below it, each
 > A Trumpet Archon floats aside and Hound Archons are positioned at the
 > bottom of the stairs and by the entrance you just entered through.
 
-Mydaiel the Patient is a *Planetar* who serves the Triad. He is there to
+Mydaiel the Patient is a _Planetar_ who serves the Triad. He is there to
 make sure that those in Lunia are not fiends or elementals and don't
-mean any harm to the land. He will use his *truesight* to see creatures
+mean any harm to the land. He will use his _truesight_ to see creatures
 original forms. He will question visitors about their intent in Lunia,
-using his *Divine Awareness* to tell if a creature is lying. He knows
+using his _Divine Awareness_ to tell if a creature is lying. He knows
 that the administrators at Hope's Ingress will know whether any creature
 has arrived here after dying and may know where they are.
 
@@ -374,7 +374,7 @@ cross are shrines devoted to Tyr, Torm, and Ilmater.
   __|__ __|__
  /  |     |  \
  |  |     |  |
- |           | 
+ |           |
  |  |     |  |
  \__|     |__/
     |     |
@@ -392,7 +392,7 @@ agree to provide services, for example, helping to find Faurin, if the
 players find the [missing Lantern Archon,
 Zuriel](#trapped-lantern-archon).
 
-They will find Faurin using the spell *Divination*, speaking to Ilmater.
+They will find Faurin using the spell _Divination_, speaking to Ilmater.
 
 The missing Lantern Archon is trapped. It was last seen travelling
 towards a shrine of Lathander, outside the city.
@@ -410,7 +410,7 @@ This is where new souls enter Mount Celestia.
 >
 > Near the building, a few dozen of Hound Archons stand, welcoming
 > people and talking, a Deva flies overhead.
-> 
+>
 > Hundreds of people stand at the top of the stairs, all around. People
 > leave the building and walk up the steps. They sing and shout and
 > chant: "Sing in exultation, spirit, Mount Celestia welcomes you. Go,
@@ -443,14 +443,15 @@ While Lunia is generally a safe place, off the paths the players may
 encounter creatures who are trying to get into Lunia.
 
 Various travelling descriptions:
- - > The road uphill is tiring. Few people pass you on the way down, but
-   > you overtake many on the way up.
- - > A few people stop and ask if you need help or assistance on the
-   > journey and help point you in the right direction.
- - > You pass a large selection of shrines to all the god of good.
- - > Back down the hill, you travel through a village.
- - > The ashen trees sway in the breeze on either side of you. The
-   > beauty from this vantage point is breathtaking.
+
+- > The road uphill is tiring. Few people pass you on the way down, but
+  > you overtake many on the way up.
+- > A few people stop and ask if you need help or assistance on the
+  > journey and help point you in the right direction.
+- > You pass a large selection of shrines to all the god of good.
+- > Back down the hill, you travel through a village.
+- > The ashen trees sway in the breeze on either side of you. The
+  > beauty from this vantage point is breathtaking.
 
 ### Safer route encounters
 
@@ -470,7 +471,7 @@ will be asked to be escorted to the Hall of Salutation
 #### Stubborn Priest
 
 > You reach a bridge over a 20ft wide waterfall which drops down into a
-> pool 50 ft below.  A human, dressed in robes, holding a symbol of
+> pool 50 ft below. A human, dressed in robes, holding a symbol of
 > Ilmater stands in your way and shouts:
 >
 > "Travellers, you may not pass over this bridge unless you are worthy."
@@ -493,13 +494,13 @@ An alternative away around will add another 4 hours of journey.
 
 #### Invisible Stalker
 
-This is an attack from an *Invisible Stalker* sent by Morcanloth, if she
+This is an attack from an _Invisible Stalker_ sent by Morcanloth, if she
 knows who the players are. If he doesn't, then ignore this encounter.
 
 > A sharp wind blows across the tops of the trees to your right in a
 > line. It's quiet otherwise.
 
-Pick a random player to be attacked first by an *Invisible Stalker*.
+Pick a random player to be attacked first by an _Invisible Stalker_.
 
 ### Unsafe route encounters
 
@@ -511,13 +512,14 @@ a d8 for every 6 hours: on a 1-4, choose the event with the number
 rolled below. If you have rolled it already before, nothing happens.
 
 Various travelling descriptions:
- - > You walk through a deep forest, the trees ashen, the light from the
-   > stars light your path.
- - > You pass an dwarf who helps you for a short while in the right
-   direction.
- - > You pass a shrine to Eldath at the base of a waterfall. A few
-   > pilgrims are here.
- - > You carefully walk along a mountain cliff path.
+
+- > You walk through a deep forest, the trees ashen, the light from the
+  > stars light your path.
+- > You pass an dwarf who helps you for a short while in the right
+  > direction.
+- > You pass a shrine to Eldath at the base of a waterfall. A few
+  > pilgrims are here.
+- > You carefully walk along a mountain cliff path.
 
 #### Corrupted lantern
 
@@ -571,13 +573,15 @@ while she waits outside. If they become trapped, she will use this
 opportunity to attack them. If they're not here with Briglin, she will
 arrive a minute after the trap is set off.
 
-Inside the tunnel: 
+Inside the tunnel:
+
 > The entrance of the cave is a 15ft tunnel, leading into a wider room.
 > It is dark apart from a flickering shining light at the end of the
 > tunnel. Water drips down the walls. You hear a musical crying in the
 > distance.
 
 At the end of the tunnel:
+
 > The tunnel opens out into a darker room, 15ft square. In the centre of
 > the room is a small pile of treasure, on the top of which is a
 > lantern. The lantern is roughly made of a dark metal decorated with
@@ -588,10 +592,11 @@ The Lantern Archon, Zuriel, is trapped in this lantern. The lantern can
 be opened by anybody.
 
 The characters will find:
- - 150gp
- - 100sp
- - 500cp
- - a small golden statue of Lathander, worth 200gp
+
+- 150gp
+- 100sp
+- 500cp
+- a small golden statue of Lathander, worth 200gp
 
 #### Skree slope
 
@@ -626,7 +631,7 @@ Archons, though only the guards will show force, and even that will only
 be in the most dire of situations. The Hound Archons will alert
 superiors if anybody breaking the rules appears.
 
-The inside of the Cavern of Stars is *Hallowed*. Celestials are excluded
+The inside of the Cavern of Stars is _Hallowed_. Celestials are excluded
 from the normal effects. In addition, bright light fills the area.
 Magical darkness created by spells of a lower than level 8 can't
 extinguish the light.
@@ -635,6 +640,7 @@ extinguish the light.
 
 In the deeper interior, the corridors and rooms have the following
 description
+
 > The walls and floors are the same material as the outer cave but are
 > polished instead. Carvings with markings filled with gold, and painted
 > murals cover the walls depicting peaceful vistas and godly figures.
@@ -705,18 +711,20 @@ This doorway leads to the [Balcony of Joy](#balcony-of-joy).
 
 If the players are in sight of the door across the other side of the
 cavern:
+
 > Hidden behind the central pillar, you can now see an additional bridge
 > across to another door on the far North side.
 
 There are four entrances and exits:
- - the door to the west leads to the [West Residency
-   Entrance](#west-residency-entrance).
- - the door to the north leads to the [North Residency
-   Entrance](#north-residency-entrance).
- - the stairway down to the right leads to [Lower Cavern
-   East](#lower-cave-east).
- - the door immediately on the left leads to the [Administrator's
-   Room](#administrators-room).
+
+- the door to the west leads to the [West Residency
+  Entrance](#west-residency-entrance).
+- the door to the north leads to the [North Residency
+  Entrance](#north-residency-entrance).
+- the stairway down to the right leads to [Lower Cavern
+  East](#lower-cave-east).
+- the door immediately on the left leads to the [Administrator's
+  Room](#administrators-room).
 
 ### Administrator's Room
 
@@ -763,7 +771,7 @@ This also applies to the North Residency Entrance:
 
 > There are six doors here, three on each the left and the right. The
 > middle door on the right is open. Beside each of the doors is an
-> inscription *(in celestial)*. At the end of the corridor, an
+> inscription _(in celestial)_. At the end of the corridor, an
 > archway opens out into another room.
 
 ### North Residency Entrance
@@ -771,10 +779,11 @@ This also applies to the North Residency Entrance:
 See the description for [Cavern of Stars Interior](#cavern-of-stars-interior).
 
 There are three doors:
- - one to the left, to the kitchen, where the characters can smell food
-   being cooked
- - to the right is an open door to the storeroom
- - straight ahead is a closed door to the baths
+
+- one to the left, to the kitchen, where the characters can smell food
+  being cooked
+- to the right is an open door to the storeroom
+- straight ahead is a closed door to the baths
 
 The corridor also goes off to the left and to the right, just past the
 nearest doors.
@@ -807,7 +816,7 @@ The child, Kya, can usually be found eating here.
 > some light from the bathing area reflecting back. Steaming water
 > tumbles out of a hole in the east wall.
 >
-> A half-elf is bathing. 
+> A half-elf is bathing.
 
 The half-elf is JJhaan Yelnan.
 
@@ -833,10 +842,11 @@ Stars. Some have been here for months, others, for thousands of years.
 
 #### Abode 1, Ayas Virrin
 
-The door is closed. *Ayas Virrin* is engraved on a plaque in
+The door is closed. _Ayas Virrin_ is engraved on a plaque in
 Celestial on the door.
 
 Inside the room:
+
 > A broadsword sword hangs on the wall, ancient runes inscribed, the
 > blade melted. The interior is simple, a bed and a desk. A suit of
 > armour is on a stand, with a sword in hand. Most of the room is taken
@@ -849,17 +859,17 @@ young black dragon who stole her daughter. She is likely to be sparring
 with Grifo Hopesinger in the training area.
 
 The dragon statue will wake if they pick up the sword (and will sleep if
-they put down the sword). It's a **Young Black Dragon** *construct*. It
+they put down the sword). It's a **Young Black Dragon** _construct_. It
 has the additional damage immunities of poison, psychic; bludgeoning,
 piercing, and slashing from nonmagical attacks not made with adamantine
 weapons. It also has the condition immunities, charmed, exhaustion,
 frightened, paralysed, petrified, poisoned. It has the propoerty
-*Immutable Form*. It cannot use its Acid Breath attack.
+_Immutable Form_. It cannot use its Acid Breath attack.
 
 #### Abode 2, Anden Barrelback
 
 The door is locked. A successful DC 10 Dexterity Check to pick the lock,
-or a DC 18 Strength check to break the door down. *Anden Barrelback* is
+or a DC 18 Strength check to break the door down. _Anden Barrelback_ is
 engraved on a plaque in Celestial on the door.
 
 > The room's walls are full of images of plants and fungi. Plants are
@@ -873,7 +883,7 @@ pillar garden.
 
 #### Abode 3, Faurin
 
-The door is closed. *Faurin* is engraved on a plaque in Celestial on the
+The door is closed. _Faurin_ is engraved on a plaque in Celestial on the
 door.
 
 > His room is full of books and scrolls stacked neatly or on large
@@ -892,7 +902,7 @@ the location through the hidden path, and the password to "unbind".
 
 #### Abode 4, Isadore of Gillhall
 
-The door is closed. *Isadore of Gillhall* is engraved on a plaque in
+The door is closed. _Isadore of Gillhall_ is engraved on a plaque in
 Celestial on the door.
 
 > A man dressed in finery is painting a mural on the wall, tears
@@ -907,7 +917,7 @@ flood after warning a sign from the gods. He is usually in his room.
 
 #### Abode 5, Qia Qian
 
-The door is open. *Qia Qian* is engraved on a plaque in Celestial on the
+The door is open. _Qia Qian_ is engraved on a plaque in Celestial on the
 door.
 
 > Holy symbols of many symbols cover the room's walls.
@@ -921,7 +931,7 @@ Library.
 
 #### Abode 6, Menna Saz
 
-The door is closed. *Menna Saz* is engraved on a plaque in Celestial on
+The door is closed. _Menna Saz_ is engraved on a plaque in Celestial on
 the door.
 
 > In a simple room, a woman is leaning against a Hound Archon, weeping
@@ -932,7 +942,7 @@ in her room, mourning.
 
 #### Abode 7, Grifo Hopesinger
 
-The door is closed. *Grifo Hopesinger* is engraved on a plaque in
+The door is closed. _Grifo Hopesinger_ is engraved on a plaque in
 Celestial on the door.
 
 > A room full of statues of gods and angels, large weapons, and suits of
@@ -944,7 +954,7 @@ Virrin.
 
 #### Abode 8, Zat-Kor-Zor Zojivihd
 
-The door is closed. *Zat-Kor-Zor Zojivihd* is engraved on a plaque in
+The door is closed. _Zat-Kor-Zor Zojivihd_ is engraved on a plaque in
 Celestial on the door.
 
 > A very bare room, a simple mattress and a staff.
@@ -957,7 +967,7 @@ her room.
 
 #### Abode 9, Kya
 
-This door is ajar. *Kya* is engraved on a plaque in Celestial on the
+This door is ajar. _Kya_ is engraved on a plaque in Celestial on the
 door.
 
 > A room filled with toys and simple books. A small bed has a stuffed
@@ -972,7 +982,7 @@ her the most affection.
 #### Abode 10
 
 This door is locked. A successful DC 12 dexterity check, or a successful
-strength strength check of 18 will open the door. *Danger* is engraved
+strength strength check of 18 will open the door. _Danger_ is engraved
 on a plaque in Celestial on the door.
 
 > The room is empty apart from a single flower, dark silver, light
@@ -990,7 +1000,7 @@ used to create a Potion of Remove Curse.
 
 #### Abode 11, Jhaan Yelnan
 
-The door is closed. *Jhaan Yelnan* is engraved on a plaque in Celestial
+The door is closed. _Jhaan Yelnan_ is engraved on a plaque in Celestial
 on the door.
 
 > A room full of pottery, tapestries, and homely items. A fireplace is
@@ -1008,7 +1018,7 @@ The door is closed. Nothing is engraved on the plaque on the door.
 
 #### Abode 13, Asimina
 
-The door is closed. *Asimina* is engraved on a plaque in Celestial on
+The door is closed. _Asimina_ is engraved on a plaque in Celestial on
 the door.
 
 > Orbs and scrolls are in piles around the room.
@@ -1024,11 +1034,11 @@ wild magic surge. She killed her whole family.
 
 If she is distracted, this will fail. She will have a look of terror
 across her face and scream "nooo-". As a wild magic surge, she will cast
-*fireball* as a 3rd-level spell centred on herself.
+_fireball_ as a 3rd-level spell centred on herself.
 
 #### Abode 14, Almar Torrie
 
-The door is closed. *Almar Torrie* is engraved on a plaque in Celestial
+The door is closed. _Almar Torrie_ is engraved on a plaque in Celestial
 on the door.
 
 > The room contains a bed, an easel, and lots of unfinished paintings.
@@ -1044,7 +1054,7 @@ Ith has been kept safe from the world, and the world safe from Ith.
 Inside the temple, the Orb can detect the thoughts and feelings of any
 creature. Additionally, it can speak to any creature telepathically.
 
-The temple is *Hallowed* cast at 8th level, excluding Celestials from
+The temple is _Hallowed_ cast at 8th level, excluding Celestials from
 the standard effects. The spell also has the additional effect, all
 humanoids in the area cannot be frightened.
 
@@ -1069,6 +1079,7 @@ The celestial script says "Speak the Password to Free the Orb".
 > On the wall across the room, text is engraved on the wall. Though you
 > don't recognise the script but each of the players hears a voice
 > speak:
+>
 > > Beware, those who enter here,
 > > Of what you seek.
 > > We know not if it is evil,
@@ -1091,7 +1102,7 @@ After a chance to speak. Ith will give the characters a choice.
 > The sinister, arduous but rewarded.
 > The dexter, easy and untiring.
 >
-> When you're ready, each of you *think* your choice don't say it, and I
+> When you're ready, each of you _think_ your choice don't say it, and I
 > will open the door that you choose, though, it doesn't have to be
 > unanimous.
 
@@ -1153,21 +1164,22 @@ a success, 3 greater healing potions from a door on the left.
 
 It will offer the choice between the following but only divulge certain
 information and will lie to the players:
- - > The room on the left is an harder fight.
- - > The room on the right has a fight.
- - > The room on the right has a reward.
+
+- > The room on the left is an harder fight.
+- > The room on the right has a fight.
+- > The room on the right has a reward.
 
 He will then pick a player at random and say that to another that this
 player is lying.
 
 #### C3.1: Option 1 (Left)
 
- - 1x Helmed Horror
- - 2x Animated Armour
+- 1x Helmed Horror
+- 2x Animated Armour
 
 #### C3.2: Option 2 (Right)
 
- - 1x Helmed Horror
+- 1x Helmed Horror
 
 ### Temple Nexus
 
@@ -1181,7 +1193,7 @@ orb will leave its housing.
 If the players haven't worked in unity or are not working in unity at
 this point, it will fight them.
 
-It is a *Shield Guardian* with a bonus of +9 to hit instead because of
+It is a _Shield Guardian_ with a bonus of +9 to hit instead because of
 its ability to read thoughts. It will try to stay at the top of the
 pyramid and will push them down.
 
@@ -1190,6 +1202,5 @@ pyramid and will push them down.
 1. Source for [Archon stat blocks][archon-stats]
 
 [archon-stats]: https://www.gmbinder.com/share/-LkotFwjF2QPxOmF4YyH
-
-[ith]: /adventures/the-vanquished-appendix-2-treasure/#ith-the-orb-of-empathy 
+[ith]: /adventures/the-vanquished-appendix-2-treasure/#ith-the-orb-of-empathy
 [faurin]: /adventure/the-vanquished-appendix-1-characters/#faurin

@@ -1,14 +1,9 @@
 ---
-
 title: "Ongoing Summary"
 subtitle: "The Vanquished"
 description: A summary of the actions of the players updated after each session.
 
-id: "the-vanquished-appendix-3-ongoing-summary"
-campaignId: the-vanquished
-
 order: 201
-
 ---
 
 There are two sections, [the adventure so far](#the-adventure-so-far)
@@ -35,7 +30,7 @@ Months later, the trio met a hooded woman who asked them to take the
 throne back for King Morcant from a tyrannical supplanter, Lord
 Telnetar; they agree and travel to Renaura. Here, they: rescued Glanna
 and Telnetar's servants from Telnetar's mansion; met Pertana, leading a
-small rebellion; and saved a family from a warehouse.  Throughout all of
+small rebellion; and saved a family from a warehouse. Throughout all of
 this, they fought sinister creatures and heard of the unusual and
 uncharacteristic circumstances under which Telnetar overthrew King
 Morcant. They sneaked to the castle to find Telnetar crying at the
@@ -63,7 +58,7 @@ of killing Qa'por but failed to reach her before she disappeared
 suddenly.
 
 The trio, following the prophecy, travelled to the Cloudpeak Monastery
-seeking out *divine slopes* to find the *soul of Elydir's lover*, who
+seeking out _divine slopes_ to find the _soul of Elydir's lover_, who
 they guess is Faurin. Here, they met Xolbi, a silver dragon who wanted
 them to find a stolen crown in return for helping them understand the
 meaning of divine slopes in the prophecy. After helping him get the
@@ -152,7 +147,7 @@ of Stars.
 #### Faurin
 
 Elmond, Meriele and Aseir fought and defeated Faruin's ghost in the Tomb
-of the Last Rehani. His grave was translated as *Vanquisher of Elydir*
+of the Last Rehani. His grave was translated as _Vanquisher of Elydir_
 from the ancient language it was written in.
 
 They travelled to Mount Celestia where they found Faurin in the Cavern
@@ -190,10 +185,11 @@ recently gone through tumultuous times as the king, King Morcant was
 overthrown by Lord Telnetar.
 
 Here there are lots of places the characters have visited:
- - The Dragon's Claw
- - Temple to Ilmater
- - Lady Pertana's mansion
- - Renaura's castle
+
+- The Dragon's Claw
+- Temple to Ilmater
+- Lady Pertana's mansion
+- Renaura's castle
 
 #### Village of Ameluma
 
@@ -240,9 +236,7 @@ The prophecy, as it was found on the tapestry in the village of Ameluma.
 
 > <span class="invisible">When</span> she tricks <span class="invisible">the wandering</span> three to unbind,<br>
 > The shadow <span class="invisible"> of her</span> lover will fight but fail.<br>
-> When she <span class="invisible">brings</span> destruction to <span class="invisible">all of his</span> kind,<br>
-> <span class="invisible">The</span> soul of her <span class="invisible">lover her end</span> will detail.<br>
-> <span class="invisible">Now the</span> wandering three <span class="invisible">his</span> soul they <span class="invisible">must find</span><br>
+> When she <span class="invisible">brings</span> destruction to <span class="invisible">all of his</span> kind,<br> > <span class="invisible">The</span> soul of her <span class="invisible">lover her end</span> will detail.<br> > <span class="invisible">Now the</span> wandering three <span class="invisible">his</span> soul they <span class="invisible">must find</span><br>
 > On divine slopes <span class="invisible">her fate his soul</span> will unveil.
 
 The characters found out the full text from an elf that they saved from
@@ -254,7 +248,6 @@ Ameluma.
 > The soul of her lover her end will detail.<br>
 > Now the wandering three his soul they must find,<br>
 > On divine slopes her fate his soul will unveil.
-
 
 #### Staff of Skonarith
 
@@ -273,6 +266,7 @@ Empathy.
 ## The sessions
 
 ### Session one: Finding Elydir's amulet
+
 <div class="subheading">5th October, 2018 — Chester</div>
 
 Meriele, Elmon, and Prince Aseir travelled to a wilderness tower.
@@ -281,7 +275,7 @@ letter. The tower stood alone in a hilly moors with no windows or
 doors, apart from the carved outline of a door.
 
 Meriele, Elmon, and Prince Aseir, solved the puzzle the password.
-Shouting *Unbind* together unlocked the tower, and followed the
+Shouting _Unbind_ together unlocked the tower, and followed the
 staircase up to the top, where they were welcomed by an elderly elf
 called Elydir, in a well furnished office.
 
@@ -295,6 +289,7 @@ is but does know it's near Renaura.
 The characters set of to Renaura to see if they could find information
 about the tomb. At the city, the characters found clues for the
 whereabouts of the tomb:
+
 - the barkeep of The Dragon's Claw warned the trio about goblins that
   used the entrance as a hideout, and that a scholar had gone missing
   recently
@@ -316,14 +311,14 @@ skeletons within and were attacked. Managing to fight these off, the
 escaped the great chamber.
 
 The character notice that a room on the map has been translated to say
-*Faurin, Vanquisher of Elydir*, and recognising choose to travel to this
+_Faurin, Vanquisher of Elydir_, and recognising choose to travel to this
 room.After some more exploration and fighting, they eventually find
-Faurin's tomb.  In this room, the characters feel cold and a sense of
+Faurin's tomb. In this room, the characters feel cold and a sense of
 uneasy sadness and unfulfillment. After opening the coffin and taking
 the amulet, the door to the tomb slams shut. A pale white figure appears
 between the characters and the door It said, sorrowfully, ‘That amulet
 must stay here. I cannot let you leave with it or knowledge of it. I’m
-sorry.  I’m sorry.’ The trio defeat this being and leave the tomb.
+sorry. I’m sorry.’ The trio defeat this being and leave the tomb.
 
 They return to Elydir's tower after making a copy of the amulet, and try
 to give the copy to Elidyir. She demands the proper amulet, and when
@@ -331,6 +326,7 @@ it's given to her, disappears instantaneously from the room, leaving the
 reward behind.
 
 ### Session two: Overthrowing Lord Telnetar
+
 <div class="subheading">26th January, 2019 — Brockweir</div>
 
 The trio parts ways for a few months until an intriguing letter is
@@ -365,7 +361,7 @@ they were taken to a warehouse.
 
 Pertana convinced the characters to go to the mansion in an attempt to
 rescue the family, hoping they might be able to find out more
-information about what happened to the city. The *warehouse incident*
+information about what happened to the city. The _warehouse incident_
 happened.
 
 After this, the trio travelled to the castle, using the clifftop
@@ -393,6 +389,7 @@ Meriele loots Qa'lir's body, taking diamonds and a stone engraved with
 Elydir's symbol, a broken chain also engraved underneath it.
 
 ### Session three: Finding the prophecy
+
 <div class="subheading">8th November, 2019 — Chester</div>
 
 After spending the last week killing the monster, constructs, and
@@ -402,7 +399,7 @@ taken from Qa'lir's body which Meriele had kept secret until now -
 threating them for what they had done.
 
 Elmond suggests that they speak with the castle librarian, where they
-find that the stone is a *sending stone*. Additionally, he identifies
+find that the stone is a _sending stone_. Additionally, he identifies
 the main symbol on the stone as the symbol of the Glynlamin family and
 their historic relations between them and the Rehani. The elvish
 village of the Glynlamin is across the mountain pass.
