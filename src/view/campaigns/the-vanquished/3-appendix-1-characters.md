@@ -1,16 +1,13 @@
 ---
 title: "Characters"
 subtitle: "The Vanquished: Appendix 1"
-description: The characters involved in thi
 
 order: 101
 ---
 
 This includes information about the major characters in this campaign.
 
-## The Characters
-
-### Elidyr
+## Elidyr
 
 Elidyr is an ancient high-elf wizard. Her hair is grey and face
 wrinkled; pointed ears poke out under a circlet with a ruby gemstone
@@ -51,7 +48,7 @@ and imprisoned in a powerfully warded tower. Unable to leave, she spent
 years detecting means of influencing the outside world to become unbound
 from the Faurin's prison.
 
-#### Goals
+### Goals
 
 **Escape the Tower**
 
@@ -73,7 +70,7 @@ there will bow to my will.
 **Flaw**: I will use everything in my power to get my revenge on those
 who betrayed me.
 
-### Faurin
+## Faurin
 
 Faurin was a half-elf sworn to the Renauran Scholars - a school devoted
 to the Rehani. He was Elydir's closest friend and lover. While he
@@ -106,7 +103,7 @@ with him. Despite his wish to leave the world, Faurin's knowledge that
 there is no hope of stopping Elidyr if bound him to the amulet as a
 protector. If freed, his soul will travel to Mount Celestia.
 
-#### Faurin's Traits
+### Faurin's Traits
 
 **Ideal**: _Knowledge._ Through knowledge the world can be bettered.
 
@@ -114,3 +111,32 @@ protector. If freed, his soul will travel to Mount Celestia.
 
 **Flaw**: Though I will help others fight against Elydir, I will not let
 them kill her.
+
+## Banir Any-kin (Morcanloth)
+
+An Arcanaloth in disguised as a fair elf, Banir Any-kin, using the
+_Alter Self_ spell. In his pack are dark tomes, spell scrolls, and dark
+arcane components.
+
+He seeks knowledge and believes that it will lead him to power and self
+agency. During his travels, he has been in search of the Lost Book of
+Keeping that contains his name. When he sees something that is magical
+or full of knowledge, he can't think of anything else other than how to
+get it.
+
+He has taken a long and difficult journey to Lunia to find [Ith, the Orb
+of Empathy][ith] for Elydir, in exchange for access to the libraries. He
+knows that Faurin's location and that he has knowledge of where Ith is.
+
+He wears a _Ring of Mind Shielding_.
+
+Already exhausted, if the players speak to him, he will show a very
+brief flash of annoyance which any character who makes a successful
+check against a Wisdom (Insight) DC 19 will see. He will then politely
+give the reason to being here is to trade with people in _Hearts Faith_.
+
+He has bribed the captain to hide him from any patrol ships that move
+nearby, paying him with an old copy of a common novel.
+
+If he comes to learn who the characters are, he will try to use them and
+their knowledge to reach the weapon.

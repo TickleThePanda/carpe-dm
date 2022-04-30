@@ -1,9 +1,8 @@
 ---
 title: "Treasures"
-subtitle: "The Vanquished: Appendix 2"
-description: The treasures involved in this campaign.
+subtitle: "The Vanquished: Appendix 4"
 
-order: 102
+order: 104
 ---
 
 ## The Staff of Skonarith

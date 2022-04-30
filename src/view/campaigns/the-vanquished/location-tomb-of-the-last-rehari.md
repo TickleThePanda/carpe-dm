@@ -1,166 +1,212 @@
 ---
-title: "The Vanquished Fist"
-subtitle: "The Vanquished: Chapter 2"
-description: A single–session adventure (9-11 hours) for three fith-level
-  characters. The adventures receive an anonymous letter asking them
-  to
-
-order: 2
+title: "Location: Tomb of the Last Rehari"
 ---
 
-This adventure was planned as a single–session adventure (9-11 hours)
-for three fifth-level characters:
+## Tomb of the Last Rehani
 
-- Meriele, a half–elf rogue
-- Elmon, an elf bard
-- Prince Aseir, a human fighter
+![A map of the Tomb of the Last Rehani.](/images/unbound/tomb-reference.png)
 
-The adventurers receive a letter begging for them to return to Renaura
-to stop the reprehensible events that are disturbing the city.
+### Travelling to the Tomb
 
-## Background introduction
+When they reach the path, depending on what information they know.
 
-This campaign takes place in the region of Ternia in the areas
-surrounding the City of Renaura. Ternia exists somewhere the forgotten
-realms.
+> The old road is not easy to find — the forest reclaiming it. On each
+> side of the path, a couple of stone sentinels are crumbling.
+> Undergrowth covers the path and bushes are growing between the stones.
 
-### Elidyr and the Olinarelidyr
+Players with a passive perception above 13 will see goblin tracks
+heading along the path.
 
-Since her escape using her amulet, Elidyr's has been planning to release
-great evil on the world as revenge for her prolonged imprisonment. The
-characters will remember the symbol on her amulet as a rising sun behind
-a dagger pointing down <small>(this was not revealed to the players in
-[Unbound](/adventures/unbound/plan/) but the characters will recognise
-it)</small>.
+> For about an hour, the path continues overgrown, getting steeper. It
+> ends where the mountain rises, a collapsed door in front of you.
 
-![Elidyr's symbol showing a rising sun behind a dagger pointing
-down](/images/elidyrs-symbol.svg)
+### Entrance to the tomb
 
-Elidyr works in total secrecy, concealing her location with magic. She
-commands two loyal spellcasters _Qa'lir_ and _Qa'por_, known to her as
-the _Olinarelidyr_. Qa'lir and Qa'por are twins. They are know to common
-folk as "The Vanquished Fist". The Olinarelidyr have been tasked with
-bringing Ternia under her control. Elidyr communicates with the
-Olinarelidyr using sending stones, each carved with Elidyr's
-symbol and their own.
+> At the foot of the mountain is the collapsed door.
 
-### Qa'lir and Qa'por
+There's a gap large enough for small creatures at the bottom, or medium
+creatures with a successful Dexterity check of 15.
 
-The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
-King Morcant and place a puppet in his place.
+Some of the rubble can be shifted instead, with a successful Strength
+check of 15 but it will cause some of the remaining rubble to collapse
+and the goblins to be prepared
 
-Qa'lir's symbol is a rope burning in the middle. The symbol on the
-shared sending stone with Elidyr is shown by a rope burning in the
-middle under Elidyr's symbol.
+The rubble can also be climbed over with a successful Strength check of 15.
 
-The second, Qa'por, is travelling to bring armies of evil creatures to
-Elidyr's side. It's unlikely that the characters will find Qa'por,
-though they will find information that will help them find Qa'por in the
-future.
+### Goblin hideout
 
-Qa'por's symbol is a shattered chain. The symbol on the shared sending
-stone with Elidyr is shown by a shattered chain under Elidyr's symbol.
+> As you enter the corridor, the first thing that hits you is the stench
+> of goblins. Fragments of the walls and ceilings lie on the floor.
+> Further down the corridor, there's a small amount of light.
 
-Qa'lir and Qa'por share a sending stone, the symbol shows a shattered
-chain and a burning rope in a circle, tied together.
+If the goblins know the characters are coming, then the corridor is
+silent; otherwise, laughter and arguing can be heard.
 
-### The City of Renaura
+> You can see a chamber ahead. At the opposite end of the chamber
+> there's a set of double stone doors. In the room there's crude tables
+> and chairs. A primitive wooden barricades is a couple of feet into the
+> room.
 
-The prosperity of Renaura has now passed. The influence of Qa'lir has
-spread corruption in almost all parts of the city.
+If the goblins heard the characters coming, then the tables are empty
+(but torches are lit), the goblins hiding behind the barricade and
+walls; otherwise, goblins are at the tables and chairs, playing cards.
 
-### The Deposition of King Morcant
+After combat is finished:
 
-Qa'lir arrived in Renaura and quickly garnered respect as a rich
-merchant with the nobles. She quickly became close to Telnetar,
-eventually casting a spell to force Telnetar to do her bidding and
-threatening Telnetar's family.
+> Above the door is text that the players cannot understand. There are
+> six orbs, three on each side of the door. Above the door are six
+> lines, each with a dot at the end.
 
-Qa'lir spent the next few weeks building a new guard force for Telnetar.
-Buying some of them, threatening some of them, and replacing some by
-apprentice spell casters. She personally replaced the old guard captain
+```
+.          .
+ \   -.   /    \     /   .-
+                .   .
+```
 
-King Morcant had regular meetings with Telnetar, and Qa'lir used this to
-stage the coup. Telnetar, attending this meeting bringing his guards
-along, citing a recent attempt against his life, and was allowed to keep
-the guards with him.
+The orbs must be pressed in the right order. Pressing the wrong one
+resets it but the player who presses the orb, gets thrown back from the
+wall by 10 feet, taking 1d4 damage.
 
-When the Telnetar and the guards arrived for the meeting in the castle's
-parlour, they immediately fought King Morcant's guards, attempting to
-kill the Lord. Qa'lir and the replaced guards used dark magic during the
-fight. Telnetar, realising a flaw in the magic that was binding him to
-Qa'lir's magic, told King Morcant to flee during the fight. King
-Morcant, realising the threat, fled with his family.
+### Grand corridor
 
-### The Kidnapping of Telnetar's Family
+> There's grand corridor carved out of the stone. Torches of a similar
+> design from Elidyr's tower adorn the walls, fire flickering out of
+> them. The corridor is about 200ft long and about 10ft wide. You can
+> see 3 corridors off the left hand wall and 2 off the right hand wall —
+> these are built at odd intervals. The space in here is almost
+> pristine, apart from dust. The grand doors that are at the end of the
+> corridor are open.
 
-After Telnetar's disobedience to Qa'lir, Qa'lir ordered Telnetar's
-family to be kidnapped to ensure Telnetar's good behaviour.
+The smaller corridors as the characters go along:
 
-### Qa'lir in Renaura
+1.  a corridor on the right, it's about 70ft long.
+2.  a corridor on the left, it's about 90ft long.
+3.  a short corridor on the right, and then a door
+4.  a short corridor on the left, and then a door
+5.  a short corridor on the right, and then a door
 
-Qa'lir's servants are _wights_.
+### Tomb of King Lunit Rehani
 
-Qa'lir has spies throughout all parts of the city, from beggars to
-servants in the remaining noble's houses. It only takes hours for
-displays of rebellion to reach the ears of Qa'lir. These spies have been
-bribed or threatened by Qa'lir's servants.
+> Coming through the main doors, an expansive vaulted room is before
+> you. It's about 120ft long. In the centre of the room a large
+> sarcophagus is built onto a stone platform with steps running up to
+> it. A blue crystalline stone outcrop is right above the sarcophagus,
+> casting weird flickering light from the torches around the room.
+>
+> Between the centre and each corner are 4 pillars. Each of these 4
+> pillars intertwine to build up to the vaulted ceiling.
+>
+> There is a large engraving on the ground in front of you.
+>
+> Collapsed at one of the pillars is a slashed and bloodied body wearing
+> robes. A backpack lies on the floor before the engraving, its contents
+> strewn.
 
-### Guards
+After two minutes in the room, the stone above the centre of the room
+flashes a bright blue. Nothing happens for a couple of seconds until the
+characters can hear the scraping of stone. The sarcophagus lids are
+sliding open. Skeletons begin to climb out. There are 11 skeletons.
 
-One of Qa'lir's first director orders through Telnetar as a puppet was
-to replace the head of the guard with one of her _wight_ servants,
-Kexor. One of Kexor's first orders was to kidnap Telnetar's family.
+The large engraving shows a simple carved map with each of the rooms
+labelled; the engravings are in Carnian.
 
-In general, the guards now live in fear of Lord Telnetar and Kexor where
-before they were happy to serve. Severe disobedience usually leads to
-corporal or capital punishment. The guards are rarely used by the city
-government to prevent crime but instead are used to prevent the uprising
-of the people.
+![The engraving showing the rooms labelled in Carnian.](/images/unbound/tomb-engraving.jpg)
 
-Guards are rarely punished for villainy and some (roughly 3/10) are
-revelling in it.
+The backpack (and the area around the backpack) contains the following
+supplies:
 
-A rare few very good natured guards (roughly 1/10) will be willing to
-help the characters, especially if they see something that makes them
-realise the corruption. These guards will usually do it privately
-fearing the other guards. Most will be caught at some point.
+- a hammer
+- 10 pitons
+- 10 torches
+- a tinderbox
+- 10 days of rations
+- a waterskin
+- 50ft of hempen rope
+- a partially translated copy of the engraving showing the "Lord's
+  Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
+  Vanquisher" — the writing seems to have been interrupted.
 
-The remaining guards will follow most commands from their superiors out
-of fear.
+![A rough partial translation of the engraving.
+](/images/unbound/tomb-translated.jpg)
 
-### Civilians
+### The Lord's guard room
 
-Crime is now rife in the city, though very little of it is organised.
-Qa'lir has killed or threatened most of the gangs within the city.
+If the players try to go through this room, 6 skeletons will leave their
+sarcophagi to attack the players almost immediately.
 
-Between harassment from guards and the rising crime in the city, most of
-the civilians are downtrodden. A lot of civilians believe that Telnetar
-was just waiting to seize the opportunity to take the city.
+### Giant spider's chamber
 
-### The noble houses of Renaura
+Door is stiff to open.
 
-There are three noble houses of Renaura. Each have held their family
-positions for a long time and have prospered under the rule of the
-Morcants.
+Room full of spider webs, some light filters down from a hole in the
+ceiling, sarcophagi are closed.
 
-#### The noble house of Telnetar
+When the players enter, the skeletons will try to get out of their
+sarcophagi — 3 successfully will do so, the characters can hear the
+other skeletons scraping to get out.
 
-The family of Telnetar were some of the earlier supporters of the
-Morcant's and have maintained a very close relationship with the crown.
-They were a rich merchant family, focussing on rich foods and drinks.
+After about 18 seconds, a giant spider will come to investigate.
 
-The leader of the Telnetar, Meneri Telnetar is currently controlled by
-Qa'lir.
+The spider and skeletons may attack each other.
 
-#### The noble house of Farnit
+### Tomb of the Vanquisher
 
-The family of Farnit own multiple mines, ranging from economic metals to
-precious metals and stones.
+Raised sarcophagus in the middle of the room. Arch across the middle of
+the room. Can see some more sarcophagi past the arch.
 
-#### The noble house of Pertana
+Players will feel a sense of uneasy sadness and unfulfillment as they
+walk into the room. The room feels a lot colder as well.
 
-The family of Perthana own a large amount of the land.
+The players will recognise the text as the same that's on the stone
+engraving, and now on their map:
+
+> Faurin, Vanquisher of Elidyr
+
+If the players open the sarcophagus, they will find a skeleton with an
+amulet. If they take the amulet, the door will slam shut. A pale white
+figure will appear between the door and the players.
+
+> ‘That amulet must stay here,’ it says sorrowfully. ‘I cannot
+> let you leave with it or knowledge of it. I'm sorry. I'm sorry.’
+
+After saying that to the players, it will start to move towards them
+with its sword out. If the players attack, the skeletons will join
+Faurin, although the ghost will step out of the fight at the start.
+
+The ghost, gone mad with time, is only focussed on preventing it from
+ever getting to Elidyr and it will be very difficult to reason with it.
+If the players mention being sent or who they were sent by, the ghost
+will become violent and impossible to deal with.
+
+The ghost will not be convinced to let the players leave with the amulet
+and it can only be taken by force.
+
+### _STORAGE_
+
+Room large enough to have a short rest in. Has a chest containing mostly
+rotted/decayed belongings that have turned to dust. There's 50gp and 2
+gems each worth 50gp each.
+
+The door can be shut and barred if the players wish to rest.
+
+### Locked door
+
+This locked door requires a DC 22 Dexterity check to unlock it.
+
+### Collapsed passageway
+
+The corridor has completely collapsed, rubble blocking it entirely.
+
+### Hidden doorway
+
+A successful Perception (Wisdom) check of 20 DC will uncover a door.
+
+### \* Additional Tombs
+
+Each contains 3 skeletons that will attack the players almost
+immediately. In each of the tombs, the players will find 3d10 gold.
+
+---
 
 ## The Letter and Tavern in Jairnt
 
@@ -705,126 +751,6 @@ in the city, if the characters haven't saved Glanna.
 
 Her last words will be "From the scripture of Ilmater, 'go to the
 Swift's old nest to find the way to the new nest.'"
-
-## The Castle
-
-The castle's wall is guarded by eight guards.
-
-Inside the rest of the castle are various rooms with animated armour,
-fanatics and wights.
-
-### Path to the secret entrance
-
-This cave entrance can be seen with a telescope or similar object from
-distance.
-
-The characters will have to find a way to get up to the cave entrance
-which is 150ft up the cliff or 50ft across the cliff.
-
-If they have the appropriate gear, they will be able to do it without
-any checks.
-
-### Cave entrance
-
-> The cave is damp and slippery. It looks like it's been hewn from the
-> rock. There is no light and the you can't see the end.
-
-At the end of the passage, the characters can see it open out into the
-bridge across the chasm.
-
-### Bridge across the chasm
-
-> From earlier in the passage, you could have mistakenly think this
-> opened into a room. It is, however, a huge chasm. On both your side
-> and the other side there's a balcony about 50 feet across, with
-> balustrades on the sides. Across the middle is a bridge that's 10 feet
-> across and about 40 feet long. The bridge doesn't have any railing.
->
-> To the left and right of the bridge on both balconies, statues look
-> ahead with swords held out.
->
-> At the far end is a door, in front of which is a small obelisk.
-
-The statues will wake (Animated Armour) unless the characters bow to
-them. If the characters bow to them after they wake, they will return to
-their guarding positions.
-
-When the players reach the obelisk:
-
-> The obelisk has a small rounded indent at the top.
-
-The key (the small orb) must be placed on the top of the obelisk for the
-door to open. The characters will hear a click when they put it on top
-of the obelisk.
-
-Behind the door is a spiral staircase that leads upwards.
-
-### Up to the castle
-
-A spiral staircase takes the characters upwards. When the reach the top
-of the spiral staircase, they will reach a wall with a lever. The wall
-will have small eye holes that the characters can see through which they
-will see by the light coming out of them. They will be able to hear a
-man weeping.
-
-The characters will be able to see through the holes in the wall a
-throne room, with torches on the wall. A man is on a throne, weeping.
-
-Pulling the lever will cause the wall to slide open, causing a loud
-scraping sound.
-
-This wall will reveal the throne room.
-
-### The throne room
-
-> The throne room is set up for dining, full of tables and chairs. There
-> is nobody else in the room apart from the weeping man. At the far end
-> of the room is a set of double doors.
->
-> The scraping noise of the wall opening will cause the man to jump up
-> in surprise. He will shout "You shouldn't be here. Leave! Run!"
->
-> The moment he shouts that, you hear a loud crack and a cloaked figure
-> appears, pushing the man back into his throne. She has a chiseled face
-> is obsidian with dark blue streaks and she has white hair. She has a
-> symbol of a sun emblazoned on her cloak with a dagger in front of it.
->
-> The figure laughs and with an elvish accent says, "Shut up old man."
->
-> "Now, now, this _is_ a surprise. I heard you were in the city, Elmon,
-> Meriele, and Aseir. Rumours of your destruction in the city over the
-> last few days have reached my ears. I wasn't expecting to find you
-> right in here, though!
->
-> "Let me introduce myself, I am Qa'lir Olinarelidyr." She bows. "I am
-> glad to be finally meeting you. You see, I am in great debt to you,
-> it's through your actions that I can be here today.
->
-> "Please! Sit! I'll call the servants in and they can bring us some
-> food."
-
-If the characters don't sit, she will start walking towards them the
-torches in the room will flicker, she will raise her hand towards them
-and shout "I will enjoy destroying you. Hahahahahaha!"
-
-If the characters do sit:
-
-> She claps and two wights come in through the doors at the end of the
-> throne room.
->
-> "It's my honour to represent Elidyr in this city. She sent me here to
-> take the city. The destruction that I've been able to cause."
->
-> She smirks and laughs.
->
-> "With you here now, I would like to make you an offer. I've seen what
-> havoc you can wreak.
->
-> "Join me, swear allegiance to Elidyr. We can cause so much
-> devastation."
-
-If the players refuse to join her, she will cast cloudkill on where the
-players are and misty step away.
 
 ## Qa'lir's interference
 
