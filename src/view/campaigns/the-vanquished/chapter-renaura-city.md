@@ -1,6 +1,7 @@
 ---
 title: "Renaura city"
 type: "Chapter"
+index: 2
 ---
 
 ## City of Renaura

@@ -1,6 +1,7 @@
 ---
 title: "Aymeluma"
 type: "Chapter"
+index: 3
 ---
 
 ## After invasion

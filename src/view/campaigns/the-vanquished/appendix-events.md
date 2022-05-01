@@ -1,6 +1,7 @@
 ---
 title: "Events"
 type: "Appendix"
+index: "C"
 ---
 
 ## Events in Renauria after

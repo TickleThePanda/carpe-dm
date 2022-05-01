@@ -26,7 +26,11 @@ eleventyComputed:
               <a class="card card--link" href="{{ adventure.url }}">
                 <h3 class="card__title">
                   {% if adventure.data.type != adventure.data.title %}
-                    {{ adventure.data.type }}: {{ adventure.data.title }}
+                    {% if adventure.data.index %}
+                      {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
+                    {% else %}
+                      {{ adventure.data.type }}: {{ adventure.data.title }}
+                    {% endif %}
                   {% else %}
                     {{ adventure.data.title }}
                   {% endif %}

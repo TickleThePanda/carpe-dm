@@ -1,6 +1,7 @@
 ---
 title: "Treasures"
 type: "Appendix"
+index: "B"
 ---
 
 ## The Staff of Skonarith

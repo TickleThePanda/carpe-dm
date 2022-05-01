@@ -1,5 +1,5 @@
 ---
-title: "Lower Renau Mountains"
+title: "Renau Mountains"
 type: "Chapter"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Renau Cloudpeak Monastry"
+title: "Cloudpeak Monastry"
 type: "Chapter"
 ---
 

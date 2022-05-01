@@ -1,6 +1,7 @@
 ---
 title: "Characters"
 type: "Appendix"
+index: "A"
 ---
 
 This includes information about the major characters in this campaign.

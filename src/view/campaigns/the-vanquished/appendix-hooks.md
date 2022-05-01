@@ -1,6 +1,7 @@
 ---
 title: "Hooks"
 type: "Appendix"
+index: "D"
 ---
 
 > It's been a week since you have freed the City of Renaura from
