@@ -1,8 +1,6 @@
 ---
 title: "Treasures"
-subtitle: "The Vanquished: Appendix 4"
-
-order: 104
+type: "Appendix"
 ---
 
 ## The Staff of Skonarith

@@ -1,14 +1,11 @@
 ---
 title: "Introduction"
-
-order: 0
+type: "Introduction"
+index: 1
 ---
 
-## Background introduction
-
 This campaign takes place in the region of Ternia in the areas
-surrounding the City of Renaura. Ternia exists somewhere the forgotten
-realms.
+surrounding the City of Renaura.
 
 ### Elidyr and the Olinarelidyr
 
@@ -25,30 +22,14 @@ down](/images/elidyrs-symbol.svg)
 Elidyr works in total secrecy, concealing her location with magic. She
 commands two loyal spellcasters _Qa'lir_ and _Qa'por_, known to her as
 the _Olinarelidyr_. Qa'lir and Qa'por are twins. They are know to common
-folk as "The Vanquished Fist". The Olinarelidyr have been tasked with
+folk as "The Vanquished Fist".
+
+### Olinarelidyr
+
+The Olinarelidyr have been tasked with
 bringing Ternia under her control. Elidyr communicates with the
 Olinarelidyr using sending stones, each carved with Elidyr's
 symbol and their own.
-
-### Qa'lir and Qa'por
-
-The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
-King Morcant and place a puppet in his place.
-
-Qa'lir's symbol is a rope burning in the middle. The symbol on the
-shared sending stone with Elidyr is shown by a rope burning in the
-middle under Elidyr's symbol.
-
-The second, Qa'por, is travelling to bring armies of evil creatures to
-Elidyr's side. It's unlikely that the characters will find Qa'por,
-though they will find information that will help them find Qa'por in the
-future.
-
-Qa'por's symbol is a shattered chain. The symbol on the shared sending
-stone with Elidyr is shown by a shattered chain under Elidyr's symbol.
-
-Qa'lir and Qa'por share a sending stone, the symbol shows a shattered
-chain and a burning rope in a circle, tied together.
 
 ### The City of Renaura
 
@@ -123,61 +104,3 @@ Qa'lir has killed or threatened most of the gangs within the city.
 Between harassment from guards and the rising crime in the city, most of
 the civilians are downtrodden. A lot of civilians believe that Telnetar
 was just waiting to seize the opportunity to take the city.
-
-### The noble houses of Renaura
-
-There are three noble houses of Renaura. Each have held their family
-positions for a long time and have prospered under the rule of the
-Morcants.
-
-#### The noble house of Telnetar
-
-The family of Telnetar were some of the earlier supporters of the
-Morcant's and have maintained a very close relationship with the crown.
-They were a rich merchant family, focussing on rich foods and drinks.
-
-The leader of the Telnetar, Meneri Telnetar is currently controlled by
-Qa'lir.
-
-#### The noble house of Farnit
-
-The family of Farnit own multiple mines, ranging from economic metals to
-precious metals and stones.
-
-#### The noble house of Pertana
-
-The family of Perthana own a large amount of the land.
-
-## The recurring dream
-
-> Meriele and Prince Aseir, you have been having recurring dreams
-> recently; not every night, but every few nights. The dreams always
-> start with you woken up suddenly by an ageing elven woman. With her
-> help, you flee a different horror or are drawn by the promise of
-> reward to a distant tower.
->
-> Tall and alone, the unadorned tower stands in an almost barren valley.
-> Its stonework is slotted together; each stone taller than a human but
-> placed no further apart than a fingernail.
->
-> You're brought to the base of the tower, where there's the outline of
-> a doorway carved in the stone of the building, facing the bottom of
-> the valley. It's here she says to ‘Wait here until there are three
-> and then speak the password “Unbind”.’
->
-> The dreams end there. Some of the specifics fade, but you can still
-> remember the way to the tower and women who helps you.
->
-> Elmon, you received a letter from a friend, somebody who you trust,
-> that invites you to travel to this location — you have the letter with
-> you.
->
-> Attracted by these, you've travelled to this location.
->
-> You have all, making your own journeys, finally arrived. The cold,
-> drizzle, and blustery wind fight through your clothes, chilling you.
-> You can smell the musk of the heather and peat. You arrived at
-> different times over the last few days, Meriele, then Prince Aseir,
-> then Elmon.
-
-Allow for character introductions here.

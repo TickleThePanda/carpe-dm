@@ -1,9 +1,6 @@
 ---
-title: "Appendix: Hooks"
-
-subtitle: "The Vanquished: Appendix 3"
-
-order: 103
+title: "Hooks"
+type: "Appendix"
 ---
 
 > It's been a week since you have freed the City of Renaura from

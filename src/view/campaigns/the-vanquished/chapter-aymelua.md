@@ -1,6 +1,6 @@
 ---
-title: "Location: Aymeluma"
-order: 1
+title: "Aymeluma"
+type: "Chapter"
 ---
 
 ## After invasion

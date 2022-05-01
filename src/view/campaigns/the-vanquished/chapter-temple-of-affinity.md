@@ -1,5 +1,6 @@
 ---
-title: "Location: Temple of Affinity"
+title: "Temple of Affinity"
+type: "Chapter"
 ---
 
 This is also known as the Temple of the Corrupt Orb. This is where the

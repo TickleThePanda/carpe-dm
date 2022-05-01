@@ -1,4 +1,5 @@
 {
   "campaignId": "the-vanquished",
-  "order": 0
+  "campaignName": "The Vanquished",
+  "tags": ["the-vanquished"]
 }

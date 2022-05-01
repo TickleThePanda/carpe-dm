@@ -1,5 +1,6 @@
 ---
-title: "Location: Cavern of Stars"
+title: "Cavern of Stars"
+type: "Chapter"
 ---
 
 ## Cavern of Stars

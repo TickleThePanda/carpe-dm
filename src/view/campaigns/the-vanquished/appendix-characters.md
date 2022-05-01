@@ -1,8 +1,6 @@
 ---
 title: "Characters"
-subtitle: "The Vanquished: Appendix 1"
-
-order: 101
+type: "Appendix"
 ---
 
 This includes information about the major characters in this campaign.
@@ -140,3 +138,23 @@ nearby, paying him with an old copy of a common novel.
 
 If he comes to learn who the characters are, he will try to use them and
 their knowledge to reach the weapon.
+
+## Qa'lir and Qa'por
+
+The first of the Olinarelidyr, Qa'lir, travelled to Renaura to overthrow
+King Morcant and place a puppet in his place.
+
+Qa'lir's symbol is a rope burning in the middle. The symbol on the
+shared sending stone with Elidyr is shown by a rope burning in the
+middle under Elidyr's symbol.
+
+The second, Qa'por, is travelling to bring armies of evil creatures to
+Elidyr's side. It's unlikely that the characters will find Qa'por,
+though they will find information that will help them find Qa'por in the
+future.
+
+Qa'por's symbol is a shattered chain. The symbol on the shared sending
+stone with Elidyr is shown by a shattered chain under Elidyr's symbol.
+
+Qa'lir and Qa'por share a sending stone, the symbol shows a shattered
+chain and a burning rope in a circle, tied together.

@@ -1,57 +1,7 @@
 ---
-title: "Location: Lower Renau Mountains"
+title: "Renau Cloudpeak Monastry"
+type: "Chapter"
 ---
-
-## What's happened so far
-
-It's been a week since the characters freed the city from Qa'lir's
-control. They've been paid 250gp each to help with the securing of the
-city.
-
-## Introduction (Pertana's mansion)
-
-## Renaura
-
-Renaura is recovering slowly from its recent ordeal, but the people and
-guards are exhausted.
-
-## The Renau Mountain path
-
-Steep mountain path that winds up the wooded foothills of the mountains.
-As the path climbs the mountain, it will climb along the top of an icy
-ravine, with cliffs down to the right. This path climbs for about 10
-miles. Along the top of this ravine, it's _extremely cold_ (p110 DMG).
-
-About 7 miles up the mountain, there will be _strong winds_ (p110 DMG)
-and is obscured by heavy snow (p110 DMG, heavy precipitation). Players
-will think they hear a howling on the wind. Around here, a DC 16
-perception check will show that there are animal tracks around. A
-successful DC 18 Wisdom (Survival) check will identify these as three
-wolves and two winter wolves which have travelled up the mountain.
-
-After another mile, the players will be set upon by two _winter wolves_
-(p340 MM) and _three wolves_ (p341 MM). In the area there will be chunks
-of _slippery ice_ (p110 DMG), tall cliffs and rocks to hide behind.
-
-After another half mile, the ravine eventually disappears and the
-characters are now in a path between two mountains, still climbing.
-
-At the top of path following up the ravine, the path splits: to the
-north, further up the mountain; and to the east, down the mountain. A
-mostly covered signpost shows that the [[mountain monastry]] is up the
-mountain, and Aymeluma is down the mountain.
-
-Coming back down the mountain on east side, the players will follow a
-river that joins from the east of the mountain.
-
-### Random encounters
-
-Use the [random mountain encounters](https://drive.google.com/file/d/0B_vatXlRE-gvVGJfV2FLaHBpNTg/view)
-for every quarter day of travel (apart from the first day). Use 1d6 to
-determine whether the characters find a location, landmark, or feature.
-
-During night, use the [long rest events](http://dndspeak.com/2017/12/100-long-rest-events/)
-table.
 
 ## Renau Cloudpeak Monastry
 
@@ -155,37 +105,3 @@ help the characters by keeping the weather calm until they get there.
 
 When the characters depart, Xolbi will say "I wish goodwill on you and
 to those who you may meet on your journey."
-
-## Mount Renau Peak
-
-The path winds further up the mountain towards the peak.
-
-On the way up the peak, the characters will be given the option to save
-a lost monk. The lost monk is a Deva in disguise.
-
-The wind howls at the top of the peak but the sky is clear. At night,
-the moon can be seen rising up. Once it's at its peak, the wind will
-calm and a summers warmth will fill the characters. A silver pool will
-appear, and the monk that they met on the way up the mountain along with
-it. After he appears, large white wings sprout from his back and armour
-and a large swords appear. If they did not save him, he will try to
-prevent the characters from reaching the pool, otherwise he will let
-them past.
-
-The silvery pool is opaque but if the players are well footed, they can
-put their heads through. On the other side, the characters can see that
-the portal is 20ft in the air above a silvery sea. If they look around
-they can see a few small boats. To the north, they can see land.
-
-The air feels summery the sea is calm.
-
-The session ends when the players jump in.
-
-## Rumours
-
-1.  Attacks from unsavoury creatures in the area have decreased and
-    there have been fewer sightings
-2.  Neighbouring lord in Limecall has recently passed away
-3.  Cave in at the old tomb
-4.  Beast people have been sighted in the woods to the north west of
-    Renaura

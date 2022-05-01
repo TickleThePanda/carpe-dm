@@ -1,28 +1,33 @@
 ---
-title: "Location: Renaura city"
+title: "Renaura city"
+type: "Chapter"
 ---
 
-## Renauria region
-
-![A tiled map of the Renauria region](/images/renauria-region-map.png)
-
-### Travel to the City of Renaura
-
-To see how quickly the adventurers get through the city to the, the
-characters can take a DC 20 Survival (Wisdom) check. On a:
-
-- _success_, the journey takes 24 hours, with 1 night's rest. The first
-  day gets them to the road. The second day gets them to the city in
-  the afternoon.
-- _failure_, the journey takes 48 hours, with 2 nights' rest. The first
-  day is spent being lost in the wilderness. The second day gets them
-  to the road. The third day gets them to the city in the afternoon.
-
-General environment: Moor–wilderness → Road in the moors → Road through
-hilly–forest → Road through hilly–forest broken up by pastures
-(mountains and city in distance)
-
 ## City of Renaura
+
+### The noble houses of Renaura
+
+There are three noble houses of Renaura. Each have held their family
+positions for a long time and have prospered under the rule of the
+Morcants.
+
+#### The noble house of Telnetar
+
+The family of Telnetar were some of the earlier supporters of the
+Morcant's and have maintained a very close relationship with the crown.
+They were a rich merchant family, focussing on rich foods and drinks.
+
+The leader of the Telnetar, Meneri Telnetar is currently controlled by
+Qa'lir.
+
+#### The noble house of Farnit
+
+The family of Farnit own multiple mines, ranging from economic metals to
+precious metals and stones.
+
+#### The noble house of Pertana
+
+The family of Perthana own a large amount of the land.
 
 ### From a distance
 

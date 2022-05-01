@@ -1,5 +1,6 @@
 ---
-title: "Location: Tower"
+title: "Tower"
+type: "Chapter"
 ---
 
 ## The tower

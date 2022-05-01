@@ -1,5 +1,6 @@
 ---
-title: "Location: The Haunt of the Lonely Dagger"
+title: "The Haunt of the Lonely Dagger"
+type: "Chapter"
 ---
 
 ## The Haunt of the Lonely Dagger

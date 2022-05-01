@@ -1,5 +1,6 @@
 ---
-title: "Location: Tomb of the Last Rehari"
+title: "Tomb of the Last Rehari"
+type: "Chapter"
 ---
 
 ## Tomb of the Last Rehani

@@ -1,5 +1,6 @@
 ---
-title: "Location: Jairnt"
+title: "Jairnt"
+type: "Chapter"
 ---
 
 ## Jairnt

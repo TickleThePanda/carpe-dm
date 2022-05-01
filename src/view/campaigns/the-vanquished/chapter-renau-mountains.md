@@ -1,77 +1,32 @@
 ---
-title: "Location: Upper Renau Mountains"
+title: "Lower Renau Mountains"
+type: "Chapter"
 ---
 
-## The Hall of Mydaiel the Patient
+## Mount Renau Peak
 
-> Up the final set of stairs, you are led into a grand hall, the ceiling
-> over 100ft tall. A huge stained glass window depicting the Triad
-> sparkles in the starry Lunia light. Sitting in a huge throne atop a
-> large set of stairs is a 9 foot tall, a handsome muscular winged
-> creature with opalescent emerald skin. A large sword, still in its
-> scabbard, leans against the throne.
->
-> A Trumpet Archon floats aside and Hound Archons are positioned at the
-> bottom of the stairs and by the entrance you just entered through.
+The path winds further up the mountain towards the peak.
 
-Mydaiel the Patient is a _Planetar_ who serves the Triad. He is there to
-make sure that those in Lunia are not fiends or elementals and don't
-mean any harm to the land. He will use his _truesight_ to see creatures
-original forms. He will question visitors about their intent in Lunia,
-using his _Divine Awareness_ to tell if a creature is lying. He knows
-that the administrators at Hope's Ingress will know whether any creature
-has arrived here after dying and may know where they are.
+On the way up the peak, the characters will be given the option to save
+a lost monk. The lost monk is a Deva in disguise.
 
-If the players are welcome, they will be given a Mark of Mydaiel to
-prove that they are safe here.
+The wind howls at the top of the peak but the sky is clear. At night,
+the moon can be seen rising up. Once it's at its peak, the wind will
+calm and a summers warmth will fill the characters. A silver pool will
+appear, and the monk that they met on the way up the mountain along with
+it. After he appears, large white wings sprout from his back and armour
+and a large swords appear. If they did not save him, he will try to
+prevent the characters from reaching the pool, otherwise he will let
+them past.
 
-## Temple of the Triad
+The silvery pool is opaque but if the players are well footed, they can
+put their heads through. On the other side, the characters can see that
+the portal is 20ft in the air above a silvery sea. If they look around
+they can see a few small boats. To the north, they can see land.
 
-This is a temple devoted to the Triad. It's surrounded by a walled
-garden. The temple is in the shape of a cross. The main temple hall is
-devoted to the Triad, at the base of the cross. The other ends to the
-cross are shrines devoted to Tyr, Torm, and Ilmater.
+The air feels summery the sea is calm.
 
-```
-     _____
-    /     \
-  __|__ __|__
- /  |     |  \
- |  |     |  |
- |           |
- |  |     |  |
- \__|     |__/
-    |     |
-    |     |
-    |     |
-    |     |
-    \__ __/
-```
-
-Within the walled garden is the temple, is the residency of the priests
-and acolytes, and a healers.
-
-A dwarf priest, Mandoun, will be available to speak to visitors and will
-agree to provide services, for example, helping to find Faurin, if the
-players find the [missing Lantern Archon,
-Zuriel](#trapped-lantern-archon).
-
-They will find Faurin using the spell _Divination_, speaking to Ilmater.
-
-The missing Lantern Archon is trapped. It was last seen travelling
-towards a shrine of Lathander, outside the city.
-
-## Shrine to Lathander
-
-Nearby, along a path up the mountain, there's a shrine to Lathander,
-off the path into some woods. There's a statue of a man holding a baby.
-
-Here, a halfling woman Caramella, a Succubus (Briglin) in disguise will
-let the players know that she saw the Lantern Archon fly off into the
-woods "looking for a cave" (see [Trapped Lantern
-Archon](#trapped-lantern-archon) encounter). A successful Wisdom
-(Insight) check of 20 will see that this is a lie. She will offer to go
-with them as she knows the woods well.
+The session ends when the players jump in.
 
 ## Travelling Around Lunia
 
