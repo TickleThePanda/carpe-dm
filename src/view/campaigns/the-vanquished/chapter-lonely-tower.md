@@ -1,14 +1,14 @@
 ---
-title: "Tower"
+title: "The Lonely Tower"
 type: "Chapter"
 ---
 
-## The tower
-
-The tower is as Meriele and Prince Aseir saw in their dreams: tall,
-standing at around 130ft, it narrows slightly as it goes towards the
+The tower stands tall, around 130ft, it narrows slightly towards the
 top. There's no decoration and no windows. The unweathered stone is
 smooth to touch.
+
+A prison for Elydir, she is bound here until the Dawnsword Amulet is
+returned to her.
 
 The door faces towards the entrance of the valley and is easy to find.
 
@@ -64,7 +64,7 @@ The lamps are made with _Continual Flame_.
 >
 > ‘Ah! I'm glad that you decided to join me. Please, come in.’
 
-Here, the woman introduces herself as Elidyr. She offers the characters
+Here, the woman introduces herself as Elydir. She offers the characters
 food and drink, and if they accept, food will appear at the table.
 
 She will explain that her quest is to have her stolen amulet retrieved.

@@ -4,7 +4,17 @@ type: "Appendix"
 index: "B"
 ---
 
-## The Staff of Skonarith
+## A. Dawnsword Amulet
+
+Elydir's amulet used to bind her to the tower. If this is returned to
+her, she will be freed from her prison.
+
+This is protected by a ward that prevents those who intend to free
+Elydir from finding it.
+
+This cannot be destroyed by natural means.
+
+## B. Fulcrum. The Staff of Skonarith
 
 Skonarith was a tyrant who dominated the world through his magic. When
 he was defeated, his soul was trapped his ornamental staff so that his
@@ -19,7 +29,7 @@ abilities: [Ith](#ith-the-orb-of-empathy), the Orb of Emapthy;
 If each of the elements is willing (or is forced), the staff can be
 reformed from its parts.
 
-## Ith, the Orb of Empathy
+### Ith, the Orb of Empathy
 
 _Wonderous Item, Rare (requires attunement by a good creature)_
 

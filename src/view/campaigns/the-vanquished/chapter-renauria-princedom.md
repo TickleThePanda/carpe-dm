@@ -1,7 +1,7 @@
 ---
 title: "The Region of Renauria"
 type: "Chapter"
-index: 1
+index: 2
 ---
 
 ![A tiled map of the Renauria region](/images/renauria-region-map.png)

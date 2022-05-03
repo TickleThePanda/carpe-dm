@@ -4,16 +4,36 @@ type: "Chapter"
 index: 3
 ---
 
-## After invasion
+![image](/images/aymeluma-map.svg)
 
-Approaching the village:
+Nestled within a valley, the famed hot springs of Aymelumian valley
+gives a chance for life to flourish, or at least to give respite from
+the harsh mountainous lands of Renauria. In the ancient elvish village
+of Aymelumia, people live simple lives, isolated from the rest of
+Renauria. Good soils and warm air gift the elves with prosperous
+farming and many Aymelumians sing to Chauntea for this blessing.
+
+Lady Alymir Glynlamin, like her ancestors before her, leads Aymeluma's
+people. Alymir's father  She believes that
+
+## Approaching the village
+
+### After invasion
+
+The village has been attacked.
 
 > There's a stench on the wind. An oppressive, malignant smell. Blood.
 > Smoke.
 >
 > Through the trees, you can see glimpses of ornate stone buildings.
 
-When arriving at the village:
+## Areas of the village
+
+### Village square
+
+#### After invasion
+
+When the characters arrive in the village square:
 
 > The stench of destruction is overpowering here.
 >
@@ -33,27 +53,17 @@ When arriving at the village:
 > others, and you can see that the ceiling has collapsed in a few
 > places.
 
-If the characters have got to this village within a day of leaving
+If the characters have got to this village within a day of the attack
 Renaura, if they make a successful DC20 Wisdom (Perception) check to
 hear if anything is in the area, they will hear what sounds like distant
 shouting to the south.
 
 Investigation checks DC15 will show signs of dragged bodies to carts and
-
-### The ruined residence of Shafina
-
-If the players have made it to the village within two days of leaving
-Renaura, they will find a young elven girl, Shyrrik Shafina trapped in
-one of the ruined buildings. She will shout for the players if she sees
-or hears them.
-
-She will want her mother, Pharom Shafina, who she saw being dragged away
-by orcs. She will remember seeing a cloaked figure with the orcs.
-
-If they fail to make it within a day, they will find Shyrrik Shafina's
-body instead.
+tracks to the south.
 
 ### The Glynlamin residence
+
+#### After invasion
 
 This is the larger building in the town, the walls are blackened like
 most of the others and some of the ceiling has collapsed on parts but
@@ -63,9 +73,7 @@ The doors outside the building show the symbol of Elydir, on them.
 
 Piled in the centre of the room is smouldering furniture and books.
 
-![image](/images/aymeluma-map.svg)
-
-#### The prophecy
+##### The prophecy
 
 On one of the walls, there's a partially damaged ornate
 
@@ -83,19 +91,40 @@ Originally, this would have read the following:
 > Now the wandering three his soul they must find,<br>
 > On divine slopes her fate his soul will unveil.
 
-## Nearby enemy encampment
+### Shafina residence
 
-If the players get to the enemy encampment within 2 days of leaving
-Renaura then they will find the following. Otherwise, they will find
-evidence of the following.
+#### Roleplaying Pharom Safina
 
-About twenty-five elves are in cages. One of the elves looks like Elydir
-but younger.
+#### Roleplaying Shyrrik Shafina
 
-Ten large orcs are camping there.
+#### After invasion
+
+If the players have made it to the village within two days of the attack,
+they will find a young elven girl, Shyrrik Shafina trapped in
+one of the ruined buildings. She will shout for the players if she sees
+or hears them.
+
+She will want her mother, Pharom Shafina, who she saw being dragged away
+by orcs. She will remember seeing a cloaked figure with the orcs.
+
+If they fail to make it within a day, they will find Shyrrik Shafina's
+body instead.
+
+### Forest clearing
+
+To the south of the village is a large clearing in the forest. This is
+often used for village festivals.
+
+#### After invasion
+
+If the players get to the enemy encampment within 2 days of the attack
+then they will find an orc encamptment.
+
+Within this encaptment, there are about twenty-five elves are in cages;
+one of the elves looks like Elydir but younger. There are ten large orcs
+are camping.
 
 A black ornate tent is next to the fire. The same symbol on the
-messenger stone is on the tent. Two orogs guard this tent.
-
-Inside the tent, is Qa'por. If she sees the players, she will try to
-attack them and subdue them, to capture them for torture.
+messenger stone is on the tent. Two orogs guard this tent. Inside the
+tent, is Qa'por. If she sees the players, she will try to attack them
+and subdue them, to capture them for torture.
