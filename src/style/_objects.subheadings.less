@@ -1,6 +1,13 @@
 .subheading {
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size);
   font-family: var(--display-font);
   font-variant: small-caps;
   color: var(--theme-stroke-lc);
+  margin-top: 0;
+  line-height: 1;
+  text-align: center;
+}
+
+.subheading + :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 1rem;
 }

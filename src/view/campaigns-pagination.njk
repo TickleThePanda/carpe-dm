@@ -19,6 +19,12 @@ eleventyComputed:
 
     <nav class="collection-nav">
       <h2 class="collection-nav__nav-section-title">Adventures</h2>
+
+      {% if draft %}
+        <p><strong>This campaign is currently incomplete and is subject to change.</p>
+      {% endif %}
+
+      <p>Each chapter is available below, or, open the whole <a href="./combined/">campaign</a>.
       <ul class="collection-nav__list">
         {% set campaign = collections[campaign.id] | sortByOrder %}
         {% for adventure in campaign %}

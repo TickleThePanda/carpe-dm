@@ -18,18 +18,21 @@ eleventyComputed:
 
     {% set campaign = collections[campaign.id] | sortByOrder %}
     {% for adventure in campaign %}
+      {% if not loop.first %}
+        <hr>
+      {% endif %}
       <section>
-        <h1>
-          {% if adventure.data.type != adventure.data.title %}
+        <h1>{{ adventure.data.title }}</h1>
+
+        {% if adventure.data.type != adventure.data.title %}
+          <p class="subheading">
             {% if adventure.data.index %}
-              {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
+              {{ adventure.data.type }} {{ adventure.data.index }}
             {% else %}
-              {{ adventure.data.type }}: {{ adventure.data.title }}
+              {{ adventure.data.type }}
             {% endif %}
-          {% else %}
-            {{ adventure.data.title }}
-          {% endif %}
-        </h1>
+          </p>
+        {% endif %}
         {{ adventure.templateContent | safe }}
       </section>
     {% endfor %}

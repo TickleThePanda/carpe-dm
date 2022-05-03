@@ -36,6 +36,7 @@ h1 {
   margin-top: var(--content-spacing-l);
 
   break-before: page;
+  text-align: center;
 }
 
 h2 {
@@ -48,62 +49,28 @@ h2 {
 
 h3 {
   font-size: var(--font-size);
-  margin-top: calc(var(--content-spacing) * 4);
+  margin-top: calc(var(--content-spacing) * 2);
 }
 
 h4 {
   font-size: var(--font-size-s);
   font-weight: var(--font-weight-x-bold);
 
-  margin-top: calc(var(--content-spacing) * 2);
+  margin-top: calc(var(--content-spacing));
+}
+
+/*
+ * First children.
+ */
+
+:is(h1, h2, h3, h4, h5, h6):first-child {
+  margin-top: 0;
 }
 
 /*
  * Adjacent headers
  */
 
-h2 + h3 {
+:is(h1, h2, h3, h4, h5, h6) + :is(h1, h2, h3, h4, h5, h6) {
   margin-top: var(--content-spacing);
-}
-
-h3 + h4 {
-  margin-top: var(--content-spacing);
-}
-
-/*
- * Counters
- */
-
-body {
-  counter-reset: h2i;
-}
-
-h2,
-h3,
-h4 {
-  position: relative;
-
-  &::before {
-    @media screen and (min-aspect-ratio: ~"7/5"), print {
-      position: absolute;
-      transform: translateX(-100%);
-      letter-spacing: unset;
-    }
-  }
-}
-
-h2 {
-  counter-reset: h3i;
-
-  &::before {
-    content: counter(h2i) ". ";
-    counter-increment: h2i;
-  }
-}
-
-h3 {
-  &::before {
-    content: counter(h2i) "." counter(h3i) ". ";
-    counter-increment: h3i;
-  }
 }
