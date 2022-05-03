@@ -73,6 +73,14 @@ module.exports = (config) => {
     util.inspect(s, { depth: d === undefined ? 2 : d })
   );
 
+  config.addFilter("sortByOrder", (v) => {
+    const nv = [...v];
+    nv.sort((a, b) => {
+      return a.data.order - b.data.order;
+    });
+    return nv;
+  });
+
   return {
     dir: {
       input: "src/view/",

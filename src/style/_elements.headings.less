@@ -1,5 +1,9 @@
-h2, h3, h4, h5, h6 {
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   display: block;
 
   line-height: 1.1;
@@ -13,15 +17,25 @@ h2, h3, h4, h5, h6 {
 
   break-after: avoid-page;
   break-inside: avoid-page;
-
 }
 
-h2, h3 {
+h1,
+h2,
+h3 {
   font-family: var(--display-font);
   font-variant-caps: small-caps;
   font-weight: var(--font-weight-normal);
 
   letter-spacing: 0.05em;
+}
+
+h1 {
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+
+  margin-top: var(--content-spacing-l);
+
+  break-before: page;
 }
 
 h2 {
@@ -64,7 +78,9 @@ body {
   counter-reset: h2i;
 }
 
-h2,h3,h4 {
+h2,
+h3,
+h4 {
   position: relative;
 
   &::before {
@@ -90,5 +106,4 @@ h3 {
     content: counter(h2i) "." counter(h3i) ". ";
     counter-increment: h3i;
   }
-
 }

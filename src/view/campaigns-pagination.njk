@@ -20,28 +20,27 @@ eleventyComputed:
     <nav class="collection-nav">
       <h2 class="collection-nav__nav-section-title">Adventures</h2>
       <ul class="collection-nav__list">
-        {% for adventure in collections.adventures %}
-          {% if adventure.data.campaignId == campaign.id %}
-            <li class="collection-nav__list-item">
-              <a class="card card--link" href="{{ adventure.url }}">
-                <h3 class="card__title">
-                  {% if adventure.data.type != adventure.data.title %}
-                    {% if adventure.data.index %}
-                      {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
-                    {% else %}
-                      {{ adventure.data.type }}: {{ adventure.data.title }}
-                    {% endif %}
+        {% set campaign = collections[campaign.id] | sortByOrder %}
+        {% for adventure in campaign %}
+          <li class="collection-nav__list-item">
+            <a class="card card--link" href="{{ adventure.url }}">
+              <h3 class="card__title">
+                {% if adventure.data.type != adventure.data.title %}
+                  {% if adventure.data.index %}
+                    {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
                   {% else %}
-                    {{ adventure.data.title }}
+                    {{ adventure.data.type }}: {{ adventure.data.title }}
                   {% endif %}
-                </h3>
-                <p class="card__subtitle">{{ adventure.data.subtitle }}</p>
-                {% if adventure.data.description %}
-                  <p class="card__content">{{ adventure.data.description }}</p>
+                {% else %}
+                  {{ adventure.data.title }}
                 {% endif %}
-              </a>
-            </li>
-          {% endif %}
+              </h3>
+              <p class="card__subtitle">{{ adventure.data.subtitle }}</p>
+              {% if adventure.data.description %}
+                <p class="card__content">{{ adventure.data.description }}</p>
+              {% endif %}
+            </a>
+          </li>
         {% endfor %}
       </ul>
     </nav>

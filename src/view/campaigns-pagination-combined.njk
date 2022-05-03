@@ -1,0 +1,38 @@
+---
+pagination:
+    data: campaigns
+    size: 1
+    alias: campaign
+    addAllPagesToCollections: true
+permalink: "campaigns/{{ campaign.title | slug }}/combined/"
+layout: default.njk
+eleventyComputed:
+    title: "{{ campaign.title }}"
+    subtitle: "{{ campaign.subtitle }}"
+    description: "{{ campaign.description }}"
+---
+
+{% block main %}
+  <article class="article">
+    {{ content | safe }}
+
+    {% set campaign = collections[campaign.id] | sortByOrder %}
+    {% for adventure in campaign %}
+      <section>
+        <h1>
+          {% if adventure.data.type != adventure.data.title %}
+            {% if adventure.data.index %}
+              {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
+            {% else %}
+              {{ adventure.data.type }}: {{ adventure.data.title }}
+            {% endif %}
+          {% else %}
+            {{ adventure.data.title }}
+          {% endif %}
+        </h1>
+        {{ adventure.templateContent | safe }}
+      </section>
+    {% endfor %}
+
+  </article>
+{% endblock %}

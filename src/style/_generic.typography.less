@@ -13,16 +13,15 @@
 :root {
   --display-font: adobe-garamond-pro, serif;
   --body-font: adobe-garamond-pro, serif;
-  --medieval-font: 'Pfeffer Mediaeval', cursive;
+  --medieval-font: "Pfeffer Mediaeval", cursive;
   --monospace-font: monospace;
 }
 
 /* Font sizes */
 :root {
-
   --base-font-size: ~"max(100%, 80% + 2vmin)";
 
-  --title-font-size: ~"max(0.8rem + 13vmin, 1rem)";
+  --title-font-size: ~"max(0.8rem + 10vmin, 1rem)";
   --subtitle-font-size: ~"max(var(--title-font-size) * 0.35, 1rem)";
 
   --font-size-xs: 0.8rem;
@@ -42,9 +41,7 @@
     --font-size-default: 1rem;
     --font-size-l: 13pt;
     --font-size-xl: 15pt;
-
   }
-
 }
 
 /* Line height */
@@ -68,7 +65,8 @@ body {
   font-size: 100%;
 }
 
-html, body {
+html,
+body {
   line-height: var(--base-line-height);
 
   font-family: var(--body-font);
