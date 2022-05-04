@@ -1,6 +1,6 @@
 const gulp = require("gulp");
 const less = require("gulp-less");
-const shell = require("gulp-shell");
+const Eleventy = require("@11ty/eleventy");
 
 gulp.task("css", () => {
   return gulp
@@ -23,9 +23,19 @@ gulp.task("redirects", () => {
   return gulp.src("src/_redirects").pipe(gulp.dest("_site"));
 });
 
-gulp.task("generate", shell.task("eleventy"));
+gulp.task("generate", async () => {
+  const elev = new Eleventy();
+  await elev.write();
+});
 
-gulp.task("generate-dev", shell.task("eleventy", { ignoreErrors: true }));
+gulp.task("generate-dev", async () => {
+  const elev = new Eleventy();
+  try {
+    await elev.write();
+  } catch (e) {
+    console.log("Failed to write elevent", e);
+  }
+});
 
 gulp.task("assets", gulp.parallel("css", "images", "fonts"));
 
