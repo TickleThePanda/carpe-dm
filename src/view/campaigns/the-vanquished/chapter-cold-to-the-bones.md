@@ -7,7 +7,7 @@ index: 1
 The Princedom of Renauria is cold. The ice and snow chills the bones of
 the inhabitants. This chapter gives you information you need to prepare
 for the adventurers' journey into the region. This chapter outlines the
-history and goals of Elydir the Vanquised so that you're prepared for
+history and goals of Elydir the Vanquished so that you're prepared for
 what awaits the characters.
 
 ## Elydir, the Vanquished
@@ -62,16 +62,16 @@ Elydir has the following goals in the adventure.
 
 #### Escape the Tower
 
-Trapped in the solice of her prison tower, Elydir has become master of
+Trapped in the solace of her prison tower, Elydir has become master of
 illusion and divination. To escape, she needs the Dawnsword Amulet.
 Using her powers the elf-wizard has watched from afar. She has
-manipulated history through apparations and dreams, causing turmoil and
+manipulated history through apparitions and dreams, causing turmoil and
 trouble, and attracted followers.
 
 The wards protecting the amulet have frustrated Elydir's plan to use
 her followers to recover it. She has discovered that the amulet can only
 be found by those who do not aim to free Elydir. This failure has lead
-to her plan to decieve adventurers into returning this amulet to her
+to her plan to deceive adventurers into returning this amulet to her
 and has been doing so by bringing misfortune to Aymeluma.
 
 Once she has escaped the tower, she will forget about the adventurers as
@@ -80,13 +80,37 @@ that is, until they next interfere with her plans.
 
 #### Rule Renauria
 
-#### Pubish the Aymelumans
+#### Punish the Aymelumans
 
 #### Find the Shards of the Fulcrum
 
-### Roleplaying Elydir
+### Role-playing Elydir
 
-### When Elydir manipulates
+Elydir believes she has the right to rule and she has the will to
+dominate. She believes that she will create a better, fairer world. One
+without abuse but one ruled with might and power. If the characters ask
+why she has the right to rule, she tells them it is because she was
+taken from her safe world into their treacherous one.
+
+There are very few things she wouldn't do to achieve domination but she
+will avoid hurting the innocent, especially children. In spite of this,
+it tales very little to be judged guilty and she is merciless to those
+who are guilty - as all Aymelumans are.
+
+Before her imprisonment, Elydir was impulsive and fiery. Over the four
+centuries in the Lonely Tower, she has become calm and calculating but
+she seeks an unfeeling vengeance. She cares little for the freedom of
+those that she would rule. While she has become detached, she
+fears being controlled, as she was by Lainot, or betrayed, as she was by
+Faurin.
+
+Elydir is patient. Her plans may take years to unfold and she is
+unlikely to be deterred by failure. Through her scheming, she will
+exploit others but will discard them when they are no longer useful.
+Using her powers of divination and persuasion, she will investigate
+those who oppose her ends and use their failings to her advantages.
+
+Elydir's paranoia leads to her to rule
 
 ### When Elydir attacks
 
