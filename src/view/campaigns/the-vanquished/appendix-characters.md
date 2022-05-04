@@ -87,7 +87,7 @@ their knowledge to reach the weapon.
 
 ## Qa'lir and Qa'por
 
-The first of the OlinarElydir, Qa'lir, travelled to Renaura to overthrow
+The first of the Olinar-Elydir, Qa'lir, travelled to Renaura to overthrow
 King Morcant and place a puppet in his place.
 
 Qa'lir's symbol is a rope burning in the middle. The symbol on the

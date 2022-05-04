@@ -45,7 +45,7 @@ characters are now in a path between two mountains, still climbing.
 
 At the top of path following up the ravine, the path splits: to the
 north, further up the mountain; and to the east, down the mountain. A
-mostly covered signpost shows that the [[mountain monastry]] is up the
+mostly covered signpost shows that the [[mountain monastery]] is up the
 mountain, and Aymeluma is down the mountain.
 
 Coming back down the mountain on east side, the players will follow a

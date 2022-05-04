@@ -9,7 +9,7 @@ years of change.
 
 ## Nobles
 
-### Morcants
+### Morcant
 
 The Princes of Renauria
 
@@ -47,7 +47,7 @@ The family of Perthana own a large amount of the land.
 > A few look to be entirely abandoned.
 
 > Nestled in a steep valley is a small city: the valley's impassable
-> natural walls overshadowing the stonecrafted ones. There's a castle
+> natural walls overshadowing the stone-crafted ones. There's a castle
 > burrowed into the top reaches where the surrounding mountains draw
 > closest. A single gatehouse guards the walls that span the bottom of
 > the steep valley.
@@ -131,7 +131,7 @@ the correct place on a map. She knows a little of the history of the
 tombs.
 
 > This is to the Tomb of the Last Rehani where the old Kings are buried
-> — this is from before our current rulers, the Morcants came here.
+> — this is from before our current rulers, the Morcant family came here.
 > Unfortunately — we those who worship Ilmater (the God of Endurance) —
 > we're not that good at keeping detailed records of history.
 >
@@ -203,7 +203,7 @@ The castle's wall is guarded by eight guards.
 > on the wall.
 
 The guards will only allow the players to pass under the condition of
-being accomponied by a guard if:
+being accompanied by a guard if:
 
 - The characters can show a right of passage document signed by a Lord
   or Lady.
@@ -484,7 +484,7 @@ priest that the characters will recognise as Wurcon.
 > him to the ground and says, "Do not threaten us, there is nothing we
 > can do."
 
-Wuron, if helped by the characters, will take the characters to a side
+Wurcon, if helped by the characters, will take the characters to a side
 room to explain the recent events regarding their clerk, Glanna. He will
 know that Glanna left, saying that she had some temple business at the
 Telnetar mansion, though he now thinks that she was up to something.
@@ -604,7 +604,7 @@ secret entrance to the castle.
 > and a deep raspy laugh.
 
 If the characters approach either of the doors, the armour guarding that
-door will become animated. These are _Animated Armor_ (see page 19 of
+door will become animated. These are _Animated Armour_ (see page 19 of
 the Monster Manual).
 
 If the characters approach the rotting body, the sword in the body will

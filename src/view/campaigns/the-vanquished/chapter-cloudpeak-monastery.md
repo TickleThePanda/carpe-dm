@@ -1,11 +1,11 @@
 ---
-title: "Cloudpeak Monastry"
+title: "Cloudpeak Monastery"
 type: "Chapter"
 ---
 
-## Renau Cloudpeak Monastry
+## Renau Cloudpeak Monastery
 
-Cloudpeak Monastry is the lair of a silver dragon, Xolbi who is in human
+Cloudpeak Monastery is the lair of a silver dragon, Xolbi who is in human
 form. This monastery is served by ten acolytes and a priest of Torm.
 
 The monastery is 12 miles from the split in the path, further up the

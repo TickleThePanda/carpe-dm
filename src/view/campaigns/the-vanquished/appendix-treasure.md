@@ -20,7 +20,7 @@ Skonarith was a tyrant who dominated the world through his magic. When
 he was defeated, his soul was trapped his ornamental staff so that his
 powers could be harnessed by the usurper. When the usurper became
 possessed by the staff, it was split into three parts, splitting its
-abilities: [Ith](#ith-the-orb-of-empathy), the Orb of Emapthy;
+abilities: [Ith](#ith-the-orb-of-empathy), the Orb of Empathy;
 [Sko](#sko-the-staff-of-domination), the Staff of Domination; and
 [Nar](#nar-the-braces-of-independence), the Braces of Independence.
 
@@ -31,7 +31,7 @@ reformed from its parts.
 
 ### Ith, the Orb of Empathy
 
-_Wonderous Item, Rare (requires attunement by a good creature)_
+_Wondrous Item, Rare (requires attunement by a good creature)_
 
 A dark red pearlescent orb, its contents swirling, was split from the
 Staff of Skonarith. It is kept safe in Lunia, Mount Celestia, out of
@@ -68,12 +68,12 @@ between it and its wielder.
 
 ## Sko, the Staff of Domination
 
-_Wonderous Item, Legendary (requires attuenement)_
+_Wondrous Item, Legendary (requires attunement)_
 
 It has the power to control others.
 
 ## Nar, the Braces of Independence
 
-_Wonderous Item, Legendary (requires attunement)_
+_Wondrous Item, Legendary (requires attunement)_
 
 It has the power to shield itself from domination.

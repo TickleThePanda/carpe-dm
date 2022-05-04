@@ -6,12 +6,12 @@ index: 3
 
 ![image](/images/aymeluma-map.svg)
 
-Nestled within a valley, the famed hot springs of Aymelumian valley
+Nestled within a valley, the famed hot springs of Aymeluman valley
 gives a chance for life to flourish, or at least to give respite from
 the harsh mountainous lands of Renauria. In the ancient elvish village
-of Aymelumia, people live simple lives, isolated from the rest of
+of Aymeluma, people live simple lives, isolated from the rest of
 Renauria. Good soils and warm air gift the elves with prosperous
-farming and many Aymelumians sing to Chauntea for this blessing.
+farming and many Aymelumans sing to Chauntea for this blessing.
 
 Lady Alymir Glynlamin, like her ancestors before her, leads Aymeluma's
 people. Alymir's father  She believes that
@@ -93,7 +93,7 @@ Originally, this would have read the following:
 
 ### Shafina residence
 
-#### Roleplaying Pharom Safina
+#### Roleplaying Pharom Shafina
 
 #### Roleplaying Shyrrik Shafina
 
@@ -118,9 +118,9 @@ often used for village festivals.
 #### After invasion
 
 If the players get to the enemy encampment within 2 days of the attack
-then they will find an orc encamptment.
+then they will find an orc encampment.
 
-Within this encaptment, there are about twenty-five elves are in cages;
+Within this encampment, there are about twenty-five elves are in cages;
 one of the elves looks like Elydir but younger. There are ten large orcs
 are camping.
 
