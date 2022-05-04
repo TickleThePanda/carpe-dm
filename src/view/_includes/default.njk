@@ -10,7 +10,7 @@
   <body>
     <header class="header">
       <div class="header__decor-wrapper">
-        {% include assets/wave.njk %}
+        {% include "assets/wave.njk" %}
       </div>
       {% if not home %}
         <nav class="nav top-drop">
@@ -21,7 +21,7 @@
       {% endif %}
 
       <div class="header__hand-wrapper">
-        {% include assets/hand.njk %}
+        {% include "assets/hand.njk" %}
       </div>
 
       <div class="header__titling">
@@ -30,7 +30,7 @@
       </div>
     </header>
     <div class="header__decor-wrapper header__decor-wrapper--after">
-      {% include assets/wave-after.njk %}
+      {% include "assets/wave-after.njk" %}
     </div>
     <main class="content-wrapper">
       {% block main %}
