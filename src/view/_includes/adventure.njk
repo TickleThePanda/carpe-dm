@@ -13,6 +13,22 @@
 
 {% block main %}
   <article class="article">
+    <nav class="sibling-nav">
+      {% set previousPost = collections[campaignId] | sortByOrder | getPreviousCollectionItem(page) %}
+      {% set nextPost = collections[campaignId] | sortByOrder | getNextCollectionItem(page) %}
+
+      {% if previousPost %}
+        <div class="prev">
+          Previous: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+        </div>
+      {% endif %}
+
+      {% if nextPost %}
+        <div class="next">
+          Next: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+        </div>
+      {% endif %}
+    </nav>
     {% set toc = content | excludeBySelector('.direct-link') | toc | safe %}
 
     <h2 class="toc-header">Table of contents</h2>
