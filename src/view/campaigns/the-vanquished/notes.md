@@ -7,8 +7,7 @@ type: "Other"
 
 ### Attacks on a farm
 
-- Owlbear
-- Troll/Ogre/Giant
+Wolves attacking farm
 
 ### Hot springs dying
 

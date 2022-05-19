@@ -1,5 +1,5 @@
 ---
-title: "Tomb of the Last Rehari"
+title: "Tomb of the Last Rehani"
 type: "Chapter"
 ---
 
@@ -9,19 +9,20 @@ type: "Chapter"
 
 ### Travelling to the Tomb
 
-When they reach the path, depending on what information they know.
+When they reach the path, read out the following description.
 
-> The old road is not easy to find — the forest reclaiming it. On each
-> side of the path, a couple of stone sentinels are crumbling.
-> Undergrowth covers the path and bushes are growing between the stones.
+> The old road was not easy to find — the forest reclaiming it. Plants
+> climb over crumbling sentinels, guarding each side of the road. Plant
+> litter covers the floor and bushes and trees grow from the cracks in
+> the stone.
 
-Players with a passive perception above 13 will see goblin tracks
-heading along the path.
+A successful DC 16 Wisdom check will allow a character to see goblin
+tracks heading along the path.
 
 > For about an hour, the path continues overgrown, getting steeper. It
 > ends where the mountain rises, a collapsed door in front of you.
 
-### Entrance to the tomb
+### 1. Entrance to the tomb
 
 > At the foot of the mountain is the collapsed door.
 
@@ -34,7 +35,7 @@ and the goblins to be prepared
 
 The rubble can also be climbed over with a successful Strength check of 15.
 
-### Goblin hideout
+### 2. Goblin hideout
 
 > As you enter the corridor, the first thing that hits you is the stench
 > of goblins. Fragments of the walls and ceilings lie on the floor.
@@ -68,25 +69,7 @@ The orbs must be pressed in the right order. Pressing the wrong one
 resets it but the player who presses the orb, gets thrown back from the
 wall by 10 feet, taking 1d4 damage.
 
-### Grand corridor
-
-> There's grand corridor carved out of the stone. Torches of a similar
-> design from Elydir's tower adorn the walls, fire flickering out of
-> them. The corridor is about 200ft long and about 10ft wide. You can
-> see 3 corridors off the left hand wall and 2 off the right hand wall —
-> these are built at odd intervals. The space in here is almost
-> pristine, apart from dust. The grand doors that are at the end of the
-> corridor are open.
-
-The smaller corridors as the characters go along:
-
-1.  a corridor on the right, it's about 70ft long.
-2.  a corridor on the left, it's about 90ft long.
-3.  a short corridor on the right, and then a door
-4.  a short corridor on the left, and then a door
-5.  a short corridor on the right, and then a door
-
-### Tomb of King Lunit Rehani
+### 3. Tomb of King Lunit Rehani
 
 > Coming through the main doors, an expansive vaulted room is before
 > you. It's about 120ft long. In the centre of the room a large
@@ -123,14 +106,34 @@ supplies:
 - 10 days of rations
 - a waterskin
 - 50ft of hempen rope
-- a partially translated copy of the engraving showing the "Lord's
-  Tomb", the "Lord's guard tomb", a storage room and "The Tomb of the
-  Vanquisher" — the writing seems to have been interrupted.
+- a partially translated copy of the engraving showing:
+  - the "Lord's Tomb"
+  - the "Lord's guard tomb"
+  - a storage room
+  - "The Tomb of the Vanquisher" — the writing seems to have been interrupted.
 
 ![A rough partial translation of the engraving.
 ](/images/unbound/tomb-translated.jpg)
 
-### The Lord's guard room
+### 4. Grand corridor
+
+> There's grand corridor carved out of the stone. Torches of a similar
+> design from Elydir's tower adorn the walls, fire flickering out of
+> them. The corridor is about 200ft long and about 10ft wide. You can
+> see 3 corridors off the left hand wall and 2 off the right hand wall —
+> these are built at odd intervals. The space in here is almost
+> pristine, apart from dust. The grand doors that are at the end of the
+> corridor are open.
+
+The smaller corridors as the characters go along:
+
+1.  a corridor on the right, it's about 70ft long.
+2.  a corridor on the left, it's about 90ft long.
+3.  a short corridor on the right, and then a door
+4.  a short corridor on the left, and then a door
+5.  a short corridor on the right, and then a door
+
+### 5. 4The Lord's guard room
 
 If the players try to go through this room, 6 skeletons will leave their
 sarcophagi to attack the players almost immediately.

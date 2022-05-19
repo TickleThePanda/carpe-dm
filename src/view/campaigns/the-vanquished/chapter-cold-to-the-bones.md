@@ -88,30 +88,54 @@ that is, until they next interfere with her plans.
 
 Elydir believes she has the right to rule and she has the will to
 dominate. She believes that she will create a better, fairer world. One
-without abuse but one ruled with might and power. If the characters ask
-why she has the right to rule, she tells them it is because she was
-taken from her safe world into their treacherous one.
+without abuse ruled through might and power. If the characters ask
+why she should rule, she tells them it is because she was
+taken from her safe world into their treacherous one and no others in
+their world have the will to fix it.
 
-There are very few things she wouldn't do to achieve domination but she
+There are very few things Elydir wouldn't do to achieve domination but she
 will avoid hurting the innocent, especially children. In spite of this,
-it tales very little to be judged guilty and she is merciless to those
-who are guilty - as all Aymelumans are.
+it tales very little for the innocent to be judged as guilty and she is
+merciless to those who are guilty - as all Aymelumans are.
 
 Before her imprisonment, Elydir was impulsive and fiery. Over the four
 centuries in the Lonely Tower, she has become calm and calculating but
-she seeks an unfeeling vengeance. She cares little for the freedom of
-those that she would rule. While she has become detached, she
-fears being controlled, as she was by Lainot, or betrayed, as she was by
-Faurin.
+she seeks an unfeeling and cold vengeance. She cares little for the
+freedom and livelihoods of those that she would rule. While she has
+become detached in most ways, she fears being controlled, as she was by
+Lainot, or betrayed, as she was by Faurin.
 
-Elydir is patient. Her plans may take years to unfold and she is
+Elydir is patient. Her plans take years to unfold, she and she is
 unlikely to be deterred by failure. Through her scheming, she will
 exploit others but will discard them when they are no longer useful.
 Using her powers of divination and persuasion, she will investigate
 those who oppose her ends and use their failings to her advantages.
 
-Elydir's paranoia leads to her to rule
+Paranoia forces Elydir to rule from afar. She influences her own forces
+and other factions through carefully selected few intermediaries
+preferring deception and anonymity. Even with her intermediaries, Elydir
+is cautious and will use her powers of projection to conceal her true
+location.
 
-### When Elydir attacks
+### Elydir's interference
+
+Elydir will meet the adventurers early in the campaign out of necessity.
+Unless they are a clear threat, she will forget about them. However,
+it's unlikely to take long before she recognises their threat if they
+oppose her. When she is free, she will aim to be unknown to the world.
+She will avoid direct confrontation but the characters will face those
+who follow her or those who are manipulated by her.
+
+Using her powers of divination, Elydir will spy on the characters and
+their allies. In this way, she finds the adventurers useful and will
+want to keep them alive unless they become too much of a threat. She
+will accept strategic losses and allow the characters to have short term
+success to gain the upper hand. Limited resources and grand goals stand
+in the way of Elydir focusing directly on the adventurers but she will
+use her resources to weaken.
+
+Elydir relies on others and her magic items for her immense power. Alone
+and separated, she is still a force to be reckoned with - using
+manipulation and enchantment to control others.
 
 [lonely tower]: ../chapter-lonely-tower/

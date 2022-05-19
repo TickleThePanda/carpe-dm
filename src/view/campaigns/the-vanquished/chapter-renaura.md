@@ -1,7 +1,6 @@
 ---
 title: "Renaura"
 type: "Chapter"
-index: 5
 ---
 
 Renaura is a prosperous ancient city which has survived thousands of

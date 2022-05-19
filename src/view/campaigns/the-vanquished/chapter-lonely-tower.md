@@ -86,3 +86,10 @@ east. A road comes from the south–east to the centre of the map,
 following on east to the city. To the south of the road is a small
 amount of forest before mountains, that continue east of the city. To
 the north west of the moors and to north of the road is a forest.
+
+#### Chest
+
+Inside the chest:
+
+- Silvanus robes and broach
+- 100 gold pieces
