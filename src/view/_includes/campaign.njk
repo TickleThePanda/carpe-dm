@@ -2,3 +2,13 @@
 ---
 
 {% extends 'default.njk' %}
+
+{% block main %}
+  <article class="article">
+    <h2 class="toc-header">Table of contents</h2>
+    <aside>
+      {{ content | excludeBySelector('.direct-link') | toc('{"tags":["h1", "h2"]}') | safe }}
+    </aside>
+    {{ content | safe }}
+  </article>
+{% endblock %}

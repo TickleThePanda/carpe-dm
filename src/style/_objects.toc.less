@@ -1,0 +1,45 @@
+.toc ol {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+.toc li {
+  a:link,
+  a:visited {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  &::before {
+    content: none;
+  }
+}
+
+.toc > ol {
+  margin-left: 0;
+  & > li {
+    margin-top: 0.5rem;
+    &:first-child {
+      margin-top: 0rem;
+    }
+    & > a:link,
+    & > a:visited {
+      font-variant-caps: small-caps;
+      font-weight: 700;
+      font-size: 1.1rem;
+      font-family: var(--display-font);
+    }
+  }
+}
+
+.toc a:link,
+.toc a:visited {
+  color: var(--theme-primary-lc);
+}
+
+.toc a:hover {
+  color: var(--theme-primary-hc);
+}
+
+.toc-header {
+  margin-top: 1rem;
+}

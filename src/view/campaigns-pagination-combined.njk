@@ -5,7 +5,7 @@ pagination:
     alias: campaign
     addAllPagesToCollections: true
 permalink: "campaigns/{{ campaign.title | slug }}/combined/"
-layout: default.njk
+layout: campaign.njk
 eleventyComputed:
     title: "{{ campaign.title }}"
     subtitle: "{{ campaign.subtitle }}"
@@ -22,7 +22,7 @@ eleventyComputed:
         <hr>
       {% endif %}
       <section>
-        <h1>{{ adventure.data.title }}</h1>
+        <h1 id="{{ adventure.data.title | slug }}">{{ adventure.data.title }}</h1>
 
         {% if adventure.data.type != adventure.data.title %}
           <p class="subheading">

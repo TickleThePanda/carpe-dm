@@ -12,7 +12,17 @@ const { JSDOM } = require("jsdom");
 
 const util = require("util");
 
+const pluginTOC = require("eleventy-plugin-toc");
+
 module.exports = (config) => {
+  config.addPlugin(pluginTOC, {
+    tags: ["h2", "h3"],
+    wrapper: "nav",
+    wrapperClass: "toc",
+    ul: false,
+    flat: false,
+  });
+
   const markdownItOptions = {
     html: true,
     typographer: true,
@@ -79,6 +89,17 @@ module.exports = (config) => {
       return a.data.order - b.data.order;
     });
     return nv;
+  });
+
+  config.addFilter("excludeBySelector", (content, selector) => {
+    const dom = new JSDOM(content);
+    const document = dom.window.document;
+    const elements = document.querySelectorAll(selector);
+
+    for (const element of elements) {
+      element.remove();
+    }
+    return dom.serialize();
   });
 
   return {

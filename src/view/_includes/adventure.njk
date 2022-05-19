@@ -13,6 +13,14 @@
 
 {% block main %}
   <article class="article">
+    {% set toc = content | excludeBySelector('.direct-link') | toc | safe %}
+
+    <h2 class="toc-header">Table of contents</h2>
+    {% if toc.length > 0 %}
+      <aside>
+        {{ toc }}
+      </aside>
+    {% endif %}
     {{ content | safe }}
   </article>
 {% endblock %}
