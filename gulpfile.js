@@ -28,23 +28,15 @@ gulp.task("generate", async () => {
   await elev.write();
 });
 
-gulp.task("generate-dev", async () => {
-  const elev = new Eleventy();
-  try {
-    await elev.write();
-  } catch (e) {
-    console.log("Failed to write elevent", e);
-  }
-});
-
 gulp.task("assets", gulp.parallel("css", "images", "fonts"));
 
 gulp.task("build", gulp.series("generate", "assets", "redirects"));
 
 gulp.task("watch", () => {
-  gulp.watch(".eleventy.js", gulp.series("generate-dev"));
-  gulp.watch("src/view/**/*", gulp.series("generate-dev"));
   gulp.watch("src/style/**/*.less", gulp.series("css"));
   gulp.watch("src/images/**/*.{png,jpg,jpeg,svg}", gulp.series("images"));
   gulp.watch("src/fonts/**/*.{otf,woff}", gulp.series("fonts"));
+
+  const elev = new Eleventy();
+  elev.watch();
 });
