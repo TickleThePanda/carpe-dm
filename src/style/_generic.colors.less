@@ -2,6 +2,7 @@
   --palette-white: #fff;
   --palette-black: #000;
 
+  --palette-gs-050: hsl(0, 0, 95%);
   --palette-gs-100: hsl(0, 0, 90%);
   --palette-gs-200: hsl(0, 0, 80%);
   --palette-gs-300: hsl(0, 0, 70%);
@@ -9,6 +10,7 @@
   --palette-gs-500: hsl(0, 0, 50%);
   --palette-gs-600: hsl(0, 0, 40%);
   --palette-gs-700: hsl(0, 0, 30%);
+  --palette-gs-750: hsl(0, 0, 25%);
   --palette-gs-800: hsl(0, 0, 20%);
   --palette-gs-850: hsl(0, 0, 15%);
   --palette-gs-900: hsl(0, 0, 10%);
@@ -16,13 +18,14 @@
   --palette-primary-100: hsl(0, 73%, 83%);
   --palette-primary-300: hsl(0, 73%, 73%);
   --palette-primary-400: hsl(0, 63%, 63%);
-  --palette-primary-500: hsl(0, 90%, 60%);
-  --palette-primary-700: hsl(0, 63%, 50%);
-  --palette-primary-900: hsl(0, 43%, 40%);
+  --palette-primary-500: hsl(0, 90%, 50%);
+  --palette-primary-700: hsl(0, 63%, 40%);
+  --palette-primary-900: hsl(0, 43%, 15%);
 }
 
 :root {
   --theme-background: var(--palette-white);
+  --theme-background-mc: var(--palette-gs-050);
   --theme-background-lc: var(--palette-gs-100);
   --theme-stroke: var(--palette-gs-800);
   --theme-stroke-lc: var(--palette-gs-600);
@@ -38,9 +41,9 @@
 }
 
 @media (prefers-color-scheme: dark) {
-
   :root {
     --theme-background: var(--palette-gs-900);
+    --theme-background-mc: var(--palette-gs-850);
     --theme-background-lc: var(--palette-gs-800);
     --theme-stroke: var(--palette-gs-200);
     --theme-stroke-lc: var(--palette-gs-400);
@@ -54,5 +57,4 @@
     --theme-alt-primary-lc: var(--palette-primary-100);
     --theme-alt-primary-hc: var(--palette-primary-900);
   }
-
 }
