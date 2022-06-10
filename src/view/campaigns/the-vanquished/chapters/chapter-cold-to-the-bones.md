@@ -4,11 +4,11 @@ type: "Chapter"
 index: 1
 ---
 
-The Princedom of Renauria is cold. The ice and snow chills the bones of
-the inhabitants. This chapter gives you information you need to prepare
-for the adventurers' journey into the region. This chapter outlines the
-history and goals of Elydir the Vanquished so that you're prepared for
-what awaits the characters.
+Ice and snow chills the bones of those who suffer a life in Renau. This
+chapter gives you information you need to prepare for the adventurers'
+journey into the region. This chapter outlines the history and goals of
+Elydir the Vanquished so that you're prepared for what awaits the
+characters.
 
 ## Elydir, the Vanquished
 
@@ -52,13 +52,18 @@ people. Yet, for Elydir, despite the power she had amassed, her greed
 was unfulfilled and her desire for power continued to grow.
 
 It was only by Faurin's wish that Elydir was captured and imprisoned in
-a powerfully warded tower. Unable to leave, she spent years detecting
-means of influencing the outside world to become unbound from the
-Faurin's prison.
+a powerfully warded tower. Elydir's last act, before she was imprisoned,
+was to curse on those of Renau in revenge. Through a portal to an ice
+plane, she brought a raw and bitter life to those who fought against
+her.
+
+Unable to leave her prison, she spent years dedicating herself to means
+of influencing the outside. To one day again be free and to take back
+her right to rule.
 
 ### Goals
 
-Elydir has the following goals in the adventure.
+Elydir has the following goals in the campaign.
 
 #### Escape the Tower
 

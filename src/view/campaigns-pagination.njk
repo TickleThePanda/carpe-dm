@@ -18,7 +18,7 @@ eleventyComputed:
     {{ content | safe }}
 
     <nav class="collection-nav">
-      <h2 class="collection-nav__nav-section-title">Adventures</h2>
+      <h2 class="collection-nav__nav-section-title">Campaign</h2>
 
       {% if draft %}
         <p><strong>This campaign is currently incomplete and is subject to change.</p>
@@ -26,24 +26,43 @@ eleventyComputed:
 
       <p>Each chapter is available below, or, open the whole <a href="./combined/">campaign</a>.
       <ul class="collection-nav__list">
-        {% set campaign = collections[campaign.id] | sortByOrder %}
-        {% for adventure in campaign %}
+        {% set chaptersId = [campaign.id, "-chapters"] | join %}
+        {% set chapters = collections[chaptersId] | sortByOrder %}
+        {% for chapter in chapters %}
           <li class="collection-nav__list-item">
-            <a class="card card--link" href="{{ adventure.url }}">
+            <a class="card card--link" href="{{ chapter.url }}">
               <h3 class="card__title">
-                {% if adventure.data.type != adventure.data.title %}
-                  {% if adventure.data.index %}
-                    {{ adventure.data.type }} {{ adventure.data.index }}: {{ adventure.data.title }}
+                {% if chapter.data.type != chapter.data.title %}
+                  {% if chapter.data.index %}
+                    {{ chapter.data.type }} {{ chapter.data.index }}: {{ chapter.data.title }}
                   {% else %}
-                    {{ adventure.data.type }}: {{ adventure.data.title }}
+                    {{ chapter.data.type }}: {{ chapter.data.title }}
                   {% endif %}
                 {% else %}
-                  {{ adventure.data.title }}
+                  {{ chapter.data.title }}
                 {% endif %}
               </h3>
-              <p class="card__subtitle">{{ adventure.data.subtitle }}</p>
-              {% if adventure.data.description %}
-                <p class="card__content">{{ adventure.data.description }}</p>
+              <p class="card__subtitle">{{ chapter.data.subtitle }}</p>
+              {% if chapter.data.description %}
+                <p class="card__content">{{ chapter.data.description }}</p>
+              {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <nav class="collection-nav">
+      <h2 class="collection-nav__nav-section-title">Notes</h2>
+      <ul class="collection-nav__list">
+        {% set notesId = [campaign.id, "-notes"] | join %}
+        {% for notes in collections[notesId] %}
+          <li class="collection-nav__list-item">
+            <a class="card card--link" href="{{ notes.url }}">
+              <h3 class="card__title">{{ notes.data.title }}</h2>
+              <p class="card__subtitle">{{ notes.data.subtitle }}</p>
+              {% if notes.data.description %}
+                <p class="card__content">{{ notes.data.description }}</p>
               {% endif %}
             </a>
           </li>
@@ -54,21 +73,21 @@ eleventyComputed:
     <nav class="collection-nav">
       <h2 class="collection-nav__nav-section-title">Write-ups</h2>
       <ul class="collection-nav__list">
-        {% for writeup in collections.writeups %}
-          {% if writeup.data.campaignId == campaign.id %}
-            <li class="collection-nav__list-item">
-              <a class="card card--link" href="{{ writeup.url }}">
-                <h3 class="card__title">{{ writeup.data.title }}</h2>
-                <p class="card__subtitle">{{ writeup.data.subtitle }}</p>
-                {% if writeup.data.description %}
-                  <p class="card__content">{{ writeup.data.description }}</p>
-                {% endif %}
-              </a>
-            </li>
-          {% endif %}
+        {% set writeupId = [campaign.id, "-writeups"] | join %}
+        {% for writeup in collections[writeupId] %}
+          <li class="collection-nav__list-item">
+            <a class="card card--link" href="{{ writeup.url }}">
+              <h3 class="card__title">{{ writeup.data.title }}</h2>
+              <p class="card__subtitle">{{ writeup.data.subtitle }}</p>
+              {% if writeup.data.description %}
+                <p class="card__content">{{ writeup.data.description }}</p>
+              {% endif %}
+            </a>
+          </li>
         {% endfor %}
       </ul>
     </nav>
+
 
   </article>
 {% endblock %}

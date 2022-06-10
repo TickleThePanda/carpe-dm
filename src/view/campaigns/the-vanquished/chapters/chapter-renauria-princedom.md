@@ -4,6 +4,9 @@ type: "Chapter"
 index: 2
 ---
 
+Renaua was once a land once protected by the harshest of weather and
+the people thrived on fertile volcanic lands before Elydir's curse.
+
 ![A tiled map of the Renauria region](/images/renauria-region-map.png)
 
 ### Tower road

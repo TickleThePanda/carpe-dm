@@ -187,7 +187,7 @@ folk as "The Vanquished Fist".
 ### OlinarElydir
 
 The OlinarElydir have been tasked with
-bringing Ternia under her control. Elydir communicates with the
+bringing Renau under her control. Elydir communicates with the
 OlinarElydir using sending stones, each carved with Elydir's
 symbol and their own.
 

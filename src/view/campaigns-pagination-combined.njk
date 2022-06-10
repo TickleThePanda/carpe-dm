@@ -16,7 +16,8 @@ eleventyComputed:
   <article class="article">
     {{ content | safe }}
 
-    {% set campaign = collections[campaign.id] | sortByOrder %}
+    {% set chaptersId = [campaign.id, "-chapters"] | join %}
+    {% set campaign = collections[chaptersId] | sortByOrder %}
     {% for adventure in campaign %}
       {% if not loop.first %}
         <hr>

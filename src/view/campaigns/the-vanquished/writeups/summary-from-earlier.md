@@ -1,7 +1,5 @@
 ---
-title: "Ongoing Summary"
-subtitle: "The Vanquished"
-description: A summary of the actions of the players updated after each session.
+title: "Summary of an earlier version"
 
 order: 201
 ---
@@ -468,8 +466,3 @@ characters for their help, before letting them pass into the portal.
 
 The characters, hand in hand, jumped into the pool together,
 apprehensive of what they might find on the other side.
-
-<!---
-### Session four: Finding Faurin
-<div class="subheading">9th May, 2020 — Zoom</small>
---->
