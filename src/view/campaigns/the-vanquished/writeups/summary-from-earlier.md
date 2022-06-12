@@ -16,7 +16,7 @@ The trio met up at a wilderness tower, brought by visions in their
 dreams and, for Elmond, by letter. After unlocking the tower, they spoke
 to Elydir inside, who tasked them with finding a stolen family amulet
 buried in the Tomb of the Last Rehani. They travelled to the City of
-Renaura, found out more information about the tomb from the tavern, the
+Denaura, found out more information about the tomb from the tavern, the
 temple, and the library, and then travelled to find the tomb. In the
 tomb, they fought goblins, skeletons, and the ghost of a man, Faurin, to
 get to the amulet. They returned the amulet to Elydir and she
@@ -26,7 +26,7 @@ disappeared, leaving the gold promised to them behind.
 
 Months later, the trio met a hooded woman who asked them to take the
 throne back for King Morcant from a tyrannical supplanter, Lord
-Telnetar; they agree and travel to Renaura. Here, they: rescued Glanna
+Telnetar; they agree and travel to Denaura. Here, they: rescued Glanna
 and Telnetar's servants from Telnetar's mansion; met Pertana, leading a
 small rebellion; and saved a family from a warehouse. Throughout all of
 this, they fought sinister creatures and heard of the unusual and
@@ -50,7 +50,7 @@ Nearby, they discovered an orc camp where elves were trapped in cages
 who they helped escape. Speaking to an elf who resembled Elydir they
 found out that: the elves' kidnapper was Qa'por; Elydir was understood
 to be killed years ago after a grave betrayal; and the full prophecy
-text. While the elves travelled to Renaura in search of safety, the
+text. While the elves travelled to Denaura in search of safety, the
 trio, hearing an explosion from the camp, returned to the camp in hopes
 of killing Qa'por but failed to reach her before she disappeared
 suddenly.
@@ -61,7 +61,7 @@ they guess is Faurin. Here, they met Xolbi, a silver dragon who wanted
 them to find a stolen crown in return for helping them understand the
 meaning of divine slopes in the prophecy. After helping him get the
 crown, Xolbi then explained that a portal will open that night, at the
-top of Mount Renau which can lead them to Mount Celestia. They set off
+top of Mount Denau which can lead them to Mount Celestia. They set off
 to immediately and pass the moral test to be allowed past. The portal, a
 silvery pool, opens and the trio jump into the pool.
 
@@ -117,19 +117,19 @@ is looking for the other parts of this staff.
 
 #### Qa'lir
 
-The trio met Qa'lir in the Renaura's Castle's throne room. Lord Telnetar
+The trio met Qa'lir in the Denaura's Castle's throne room. Lord Telnetar
 was found weeping in the room obeying her commands.
 
 She wore the symbol of Elydir with an addition of a broken rope above
 and a broken chain below. She looks identical to Qa'por.
 
-Qa'lir was killed by the trio in a battle in the Renaura's Castle's
+Qa'lir was killed by the trio in a battle in the Denaura's Castle's
 throne room. On her body, they found a sending stone with the same
 symbol.
 
 #### Qa'por
 
-The trio saw Qa'por at the orcish camp in Renaura, her tent showing the
+The trio saw Qa'por at the orcish camp in Denaura, her tent showing the
 symbol of Eldyir with an addition of a broken rope above and a broken
 chain below, like Qa'lir did. She looks identical to Qa'lir.
 
@@ -155,7 +155,7 @@ trying to find a way to stop her but failed to do so.
 
 #### King Morcant
 
-The ruler of Renaura. For a time, the throne had been taken from him by
+The ruler of Denaura. For a time, the throne had been taken from him by
 Lord Telnetar. The trio were told by his daughter, that he was returning
 from in hiding after being overthrown by Lord Telnetar.
 
@@ -176,7 +176,7 @@ Watchers.
 
 ### Locations
 
-#### City of Renaura
+#### City of Denaura
 
 The city ruled by King Morcant. An ancient city, once prosperous, it has
 recently gone through tumultuous times as the king, King Morcant was
@@ -187,23 +187,23 @@ Here there are lots of places the characters have visited:
 - The Dragon's Claw
 - Temple to Ilmater
 - Lady Pertana's mansion
-- Renaura's castle
+- Denaura's castle
 
 #### Village of Ameluma
 
 An elven village, destroyed by Qa'por. The inhabitants were saved by the
-trio, who fled to Renaura.
+trio, who fled to Denaura.
 
 A house here had Elydir's symbol decorating it.
 
-#### Mount Renau
+#### Mount Denau
 
-The tallest mountain in the Renaurian mountain range. The city of
-Renaura is in the foothills of the mountain.
+The tallest mountain in the Denaurian mountain range. The city of
+Denaura is in the foothills of the mountain.
 
 #### Cloudpeak Monastery
 
-A monastery, near the top of Mount Renau, lead by Xolbi.
+A monastery, near the top of Mount Denau, lead by Xolbi.
 
 #### Lonely Tower
 
@@ -212,7 +212,7 @@ here.
 
 #### Tomb of the Last Rehani
 
-A tomb of the ancient kings of Renau. The characters found Elydir's
+A tomb of the ancient kings of Denau. The characters found Elydir's
 amulet here, in the tomb of _Faurin, Vanquisher of Elydir_.
 
 #### Lunia, Mount Celestia
@@ -282,9 +282,9 @@ her. She knew it was in the Tomb of the Last Rehani. She explains that
 the amulet has a symbol of the sun setting on it with a dagger facing
 down to the horizon. This is in exchange for a reward of 500gp of
 treasure and precious stones. She doesn't know exactly where the tomb
-is but does know it's near Renaura.
+is but does know it's near Denaura.
 
-The characters set of to Renaura to see if they could find information
+The characters set of to Denaura to see if they could find information
 about the tomb. At the city, the characters found clues for the
 whereabouts of the tomb:
 
@@ -329,14 +329,14 @@ reward behind.
 
 The trio parts ways for a few months until an intriguing letter is
 sent to each of them, asking for them to meet in the Watchers Tavern
-in Jairt, near Renaura.
+in Jairt, near Denaura.
 
 In this tavern, they meet a woman who talks to them about recent
-events in Renaura where Lord Telnetar has supplanted the previous King
+events in Denaura where Lord Telnetar has supplanted the previous King
 Morcant and has been tyrannically ruling the city since. She asks them
 to find out what Telnetar is doing and to put a stop to it, in
 exchange for a reward. The characters accept this and, once again, set
-of to Renaura.
+of to Denaura.
 
 They head to the temple and find that Wurcon, the priest, is arguing
 with some guards about Glanna being arrested, hearing that she has
@@ -426,7 +426,7 @@ tents behind. Meriele looked into the tent but didn't find out much
 information, and then returned to the village with the others.
 
 The party organised an escape for the elves from their village to
-Renaura. Speaking to the elf that looked like Elydir, the characters
+Denaura. Speaking to the elf that looked like Elydir, the characters
 find out that Elydir was understood to be killed years ago after a grave
 betrayal. The elf gave the party the full prophecy of which they had
 found a part. They find out the name of their kidnapper - Qa'por.
@@ -446,14 +446,14 @@ appearing derelict. They meet Xolbi and find out he is a silver dragon.
 He understands the meaning of "divine slopes" in the prophecy, but will
 only help them if they first find a stolen crown.
 
-The characters are teleported back to Renarua by Xolbi, also providing
+The characters are teleported back to Denarua by Xolbi, also providing
 the glyphs to return. With the help of Meriele, the characters found the
 thieves who stole the crown and return to the Cloudpeak Monastery,
 teleported by Wurcon - though not before Aseir was rejected by Glanna,
 yet again.
 
 Returning the crown to Xolbi, he let them know that a portal will open
-that night to Mount Celestia, at the top of Mount Renau. He keeps the
+that night to Mount Celestia, at the top of Mount Denau. He keeps the
 weather calm to help them travel up the mountain.
 
 On the way up, they met a monk who had fallen while on his pilgrimage to

@@ -16,7 +16,7 @@ This includes information about the major characters in this campaign.
 
 ## Faurin
 
-Faurin was a half-elf sworn to the Renauran Scholars - a school devoted
+Faurin was a half-elf sworn to the Denauran Scholars - a school devoted
 to the Rehani. He was Elydir's closest friend and lover. While he
 generally supported Elydir's vision of the future, he disagreed with the
 destruction she caused trying to achieve it. His ghost inhabits the Tomb
@@ -87,7 +87,7 @@ their knowledge to reach the weapon.
 
 ## Qa'lir and Qa'por
 
-The first of the Olinar-Elydir, Qa'lir, travelled to Renaura to overthrow
+The first of the Olinar-Elydir, Qa'lir, travelled to Denaura to overthrow
 King Morcant and place a puppet in his place.
 
 Qa'lir's symbol is a rope burning in the middle. The symbol on the

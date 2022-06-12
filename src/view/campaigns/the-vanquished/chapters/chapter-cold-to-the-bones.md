@@ -4,7 +4,7 @@ type: "Chapter"
 index: 1
 ---
 
-Ice and snow chills the bones of those who suffer a life in Renau. This
+Ice and snow chills the bones of those who suffer a life in Denau. This
 chapter gives you information you need to prepare for the adventurers'
 journey into the region. This chapter outlines the history and goals of
 Elydir the Vanquished so that you're prepared for what awaits the
@@ -33,7 +33,7 @@ Aymeluma, the daughter of the elvish Lord Ikanyr Glynlamin. She studied
 natural magic during the early years of her life.
 
 Promised to the prince _Prince Lainot of Rehani_ to end a enduring war
-between Aymeluma and Renaura, the young Une was taken from Aymeluma and
+between Aymeluma and Denaura, the young Une was taken from Aymeluma and
 raised to be the lady consort of Lainot. Lainot was an abusive husband
 and, after succeeding his father, a feeble violent leader. Through the
 enduring abuse, Elydir became forlorn and distrustful of humans.
@@ -47,13 +47,13 @@ power, took these plans more seriously than Faurin. Over the next few
 years, she started putting plans into place. Her study also took a
 darker turn, delving into powers for the control of minds and unsavoury
 creatures. It was then, over 500 years ago, Elydir used these skills to
-kill Lainot, overthrow government of the Renaura and take control of its
+kill Lainot, overthrow government of the Denaura and take control of its
 people. Yet, for Elydir, despite the power she had amassed, her greed
 was unfulfilled and her desire for power continued to grow.
 
 It was only by Faurin's wish that Elydir was captured and imprisoned in
 a powerfully warded tower. Elydir's last act, before she was imprisoned,
-was to curse on those of Renau in revenge. Through a portal to an ice
+was to curse on those of Denau in revenge. Through a portal to an ice
 plane, she brought a raw and bitter life to those who fought against
 her.
 
@@ -83,7 +83,7 @@ Once she has escaped the tower, she will forget about the adventurers as
 they have finished their use, to focus on her other goals. At least,
 that is, until they next interfere with her plans.
 
-#### Rule Renauria
+#### Rule Denau
 
 #### Punish the Aymelumans
 
@@ -142,5 +142,12 @@ use her resources to weaken.
 Elydir relies on others and her magic items for her immense power. Alone
 and separated, she is still a force to be reckoned with - using
 manipulation and enchantment to control others.
+
+## Adventure hook
+
+The characters start their adventure awaiting a meeting with . They start in the elven village of
+Aymeluma.
+
+> You have been invited to
 
 [lonely tower]: ../chapter-lonely-tower/

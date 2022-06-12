@@ -1,9 +1,9 @@
 ---
-title: "Renau Mountains"
+title: "Denau Mountains"
 type: "Chapter"
 ---
 
-## Mount Renau Peak
+## Mount Denau Peak
 
 The path winds further up the mountain towards the peak.
 

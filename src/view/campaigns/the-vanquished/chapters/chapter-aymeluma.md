@@ -4,25 +4,72 @@ type: "Chapter"
 index: 4
 ---
 
-![image](/images/aymeluma-map.svg)
+Nestled within a valley, the famed hot springs of Aymeluman give life a
+chance to flourish, or at least to give respite from the harsh
+mountainous lands of Denau. In the ancient elvish village of Aymeluma,
+people live simple lives. Good soils and warm air gift the elves with
+prosperous farming and many Aymelumans sing to Chauntea for this
+blessing.
 
-Nestled within a valley, the famed hot springs of Aymeluman valley
-gives a chance for life to flourish, or at least to give respite from
-the harsh mountainous lands of Renauria. In the ancient elvish village
-of Aymeluma, people live simple lives, isolated from the rest of
-Renauria. Good soils and warm air gift the elves with prosperous
-farming and many Aymelumans sing to Chauntea for this blessing.
+Over the recent months, life hasn't been as easy as this for the
+Aymelumans. There have been wolf attacks from the Forest of Beasts to
+the North East and the springs have been running cold. Lady Alymir
+Glynlamin, like her ancestors before her, leads Aymeluma, but the
+village doesn't have the power to defend itself. She hopes her call for
+help to neighbouring villages and other lands will bring safety back to
+her village.
 
-Lady Alymir Glynlamin, like her ancestors before her, leads Aymeluma's
-people.
+Only the Council of Elders know the terrible secret of Elydir's
+heritage, that she was one of them and they will take this secret to the
+grave. The oldest of the elves swore to never let this happen again.
+When each elf reaches the age of 13, they make a vow never to use magic.
+Born after the reign of Elydir, Glynlamin is unaware of her relation to
+the village.
 
-Oral tradition.
+## Aymeluman lore
+
+In addition to the information known to all Denians, Aymelumans know the
+following lore:
+
+- The villagers are ashamed of their natural magical powers. When they
+  reach the age of 13, each of them makes a vow never to use them.
+- Attacks are usually rare from the Forest of Beasts but
+- It's dangerous to go hunting in the Forest of Beasts, especially
+  at night, and it is difficult to track things in there. The villagers
+  will avoid doing so.
+- The springs are running cold. The village's prayers to Chauntea have
+  failed.
 
 ## Areas of the village
 
+![Map of Aymeluma](/images/aymeluma-map.svg)
+
 ### Village square
 
-### The Glynlamin residence
+When the characters first enter the village square, read the following
+description:
+
+> Marble buildings surround the village square. Two grand buildings,
+> one to the east and the west stand taller than the others.
+>
+> In the centre of the village square is a statue of woman sewing seeds.
+> In front of it, five elves sing in beautiful harmony, offering fresh
+> fruit and dried to the statue.
+>
+> Through the square, you can hear the river Ayme rush under a small
+> marble bridge, adding to the harmony of the elves.
+
+#### Market
+
+The market runs on every seventh day of each tenday. Available at the
+market are: a baker, fresh goods, dried goods, a fletcher, a clothier,
+a blacksmith, and a carpenter. The fresh goods are limited due to the
+springs running cold. The craftspeople will have a small number of
+common goods and will accept commissions for twice the price.
+
+### Glynlamin residence
+
+#### Roleplaying Lady Alymir Glynlamin
 
 #### Hidden prophecy
 
@@ -36,60 +83,103 @@ unknown to Alymir and its origin is unknown.
 > The caster's end to search and find,\
 > Her fighter tells his ancient tales.
 
+### Council of Elders
+
 ### Shafina residence
 
 #### Roleplaying Pharom Shafina
 
 #### Roleplaying Shyrrik Shafina
 
-### Market
-
-The market runs every 7th day.
-
-**Fletcher**
-
-**Baker**
-
-**Fresh goods**
-
-**Dried goods**
-
-**Clothier**
-
-**Fletcher**
-
-**Carpenter**
-
 ### Fires of the Spring - Smithy
 
 ### The Easing Water - Inn
+
+### Grainsheaf Farm
+
+![Map of Grainsheaf Farm](/images/grainsheaf-farm.png)
+
+> A marble single story farmhouse faces out to the north to large wheat
+> fields. Wind flows across the tall wheat, which looks limp and pale.
+>
+> Beyond, a dark pine forest looms.
+
+The farm owned by Kendel and Toross Umelee, two married male elves. The
+farm has been suffering from the failing springs and their crops are
+weakened because of it.
+
+#### Roleplaying the Umelee family
+
+**Kendel Umelee**. Broader than most other elves, Kendel (NG male
+elf commoner) is fiercely protective of Toross and the farm. He has
+heard of the recent wolf attacks to the other farms and has carried. He
+carries a scythe to defend his family and a horn to warn the rest of
+the village. While he is an expert farmer, Kendel has no experience
+fighting with the scythe.
+
+He believes that the wolves aren't after food but are controlled by
+something evil as they have only been attacking people.
+
+**Toross Umelee**. Sceptical of the Kendel's ideas about the wolves,
+Toross (N male elf commoner) is worried about Kendel's plans to defend
+the farm.
+
+#### 1. Boot room
+
+> The smell of mud and dirt fills the air. Dirty boots and smaller
+> farming equipment is stored on the right. There is one wooden door
+> opposite you and one to the left.
+
+#### 2. Dining room
+
+> The furniture is delicately but simply crafted. A table and chairs in
+> the centre of the room, and a cabinet against the wall. There is a
+> door to the left.
+
+#### 3. Kitchen and store
+
+The door to this room is locked.
+
+>
+
+#### 4. Parlour
+
+#### 5. Bedroom
+
+#### 6. Barn
 
 ### Forest clearing
 
 To the south of the village is a large clearing in the forest. This is
 often used for village festivals.
 
-#### After invasion
-
 ## Special events
 
 ### Wolf attack
 
-It's rare that the villagers of Aymelua go into the Forest of Beasts.
+This event happens when the characters first arrive at the village. To
+the north of Grainsheaf farm, wolves begin to attack. Immediately, the
+Kendel Umelee of the farm will sound a horn.
 
-The village lore about the Forest of Beasts:
+Four wolves are attacking the elves at the farm, aiming to attack the
+people and not any livestock or other animals. These wolves can't be
+frightened off but will flee when two of the wolves have been killed.
 
-### Night of Souls and Stories
+Add the following description to the [Grainsheaf farm](#grainsheaf-farm):
+
+> Almost hidden by the wheat, you see an elf (Kendel) swinging a scythe
+> at two wolves who are approaching him. Another wolf jumps out from the
+> wheat at him.
+
+### Swornnight
 
 Night to honour the dead and tell stories about them.
 
 Fire and music.
 
-Mystical voice will appear.
-
 ### Invasion
 
-As part of getting vengeance on the
+As part of getting vengeance on the...
 
 #### Approaching the village
 
@@ -110,11 +200,9 @@ When the characters arrive in the village square:
 
 > The stench of destruction is overpowering here.
 >
-> You can see around 12 limestone buildings, a river flowing from west
-> to east splitting the village in two. The small river flows serenely,
-> despite the terrible scenes in front of you. A small stone bridge
-> crosses the river. On the north side of the river, you can see a small
-> town square, dark click red patches cover the paved square.
+> The small river flows serenely, despite the terrible scenes in front
+> of you. On the north side of the river, you can see a small town
+> square, dark click red patches cover the paved square.
 >
 > Most of the other buildings have collapsed, their contents smouldering
 > and their white husks blackened. Cracking stains of carmine are
@@ -127,7 +215,7 @@ When the characters arrive in the village square:
 > places.
 
 If the characters have got to this village within a day of the attack
-Renaura, if they make a successful DC20 Wisdom (Perception) check to
+Denaura, if they make a successful DC20 Wisdom (Perception) check to
 hear if anything is in the area, they will hear what sounds like distant
 shouting to the south.
 

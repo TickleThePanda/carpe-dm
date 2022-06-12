@@ -281,12 +281,12 @@ The door is closed. _Faurin_ is engraved on a plaque in Celestial on the
 door.
 
 > His room is full of books and scrolls stacked neatly or on large
-> shelves. A map of Renaura is on one of the walls. A simple bed is in
+> shelves. A map of Denaura is on one of the walls. A simple bed is in
 > one corner, a large desk in another. A fireplace and a small armchair
 > closer to the entrance.
 >
 > A human sits quietly at the desk, you recognise him as Faurin, the
-> ghost that you once fought in the Tomb of the Lost Renhari. Though
+> ghost that you once fought in the Tomb of the Lost Denhari. Though
 > still gaunt and sad, his hair is thicker and his eyes are no longer
 > bloodshot.
 

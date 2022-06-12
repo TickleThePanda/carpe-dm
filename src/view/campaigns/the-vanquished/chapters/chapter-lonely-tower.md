@@ -70,7 +70,7 @@ food and drink, and if they accept, food will appear at the table.
 She will explain that her quest is to have her stolen amulet retrieved.
 She's chosen them because it was taken from her a long time ago and it's
 likely to be a perilous journey to retrieve it. The amulet is in the
-_Tomb of the Last Rehani_, which is close to _the City of Renaura_ which
+_Tomb of the Last Rehani_, which is close to _the City of Denaura_ which
 is a 2 day journey from here, across the moors. She doesn't know where
 the tomb is.
 

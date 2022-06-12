@@ -3,7 +3,7 @@ title: "Cloudpeak Monastery"
 type: "Chapter"
 ---
 
-## Renau Cloudpeak Monastery
+## Denau Cloudpeak Monastery
 
 Cloudpeak Monastery is the lair of a silver dragon, Xolbi who is in human
 form. This monastery is served by ten acolytes and a priest of Torm.
@@ -91,14 +91,14 @@ The item is the ancient crown of Rehani that had been recovered from the
 old tomb a very long time ago. This crown will boost a character's
 Charisma by 2 up to a maximum of 20.
 
-They know that it's been taken by a Drow thief who is now in Renaura,
+They know that it's been taken by a Drow thief who is now in Denaura,
 taking advantage of the recent chaos to try to sell it recently. They
 know that the item is hidden in a cache, hidden in an old magician's
 vault in the warehouse district, around Ironwood Street. They show the
 characters a small glyph which the thief uses.
 
 Once the characters have returned the crown to Xolbi, Xolbi will point
-the characters to travel to the top of Mount Renau during the next full
+the characters to travel to the top of Mount Denau during the next full
 moon (the following evening) at midnight. It's there that they can find
 how to get to Lunia, the first layer of Mount Celestia. Xolbi will also
 help the characters by keeping the weather calm until they get there.

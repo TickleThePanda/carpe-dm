@@ -14,5 +14,5 @@ index: 1
 
 ### Character levels
 
-This campaign takes place in the region of Renau in the areas
-surrounding the City of Renaura.
+This campaign takes place in the region of Denau in the areas
+surrounding the City of Denaura.

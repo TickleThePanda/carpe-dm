@@ -1,13 +1,13 @@
 ---
-title: "The Region of Renauria"
+title: "The Region of Denau"
 type: "Chapter"
 index: 2
 ---
 
-Renaua was once a land once protected by the harshest of weather and
+Denau was once a land once protected by the harshest of weather and
 the people thrived on fertile volcanic lands before Elydir's curse.
 
-![A tiled map of the Renauria region](/images/renauria-region-map.png)
+![A tiled map of the Denau region](/images/renau-region-map.png)
 
 ### Tower road
 
@@ -25,7 +25,7 @@ General environment: Moor–wilderness → Road in the moors → Road through
 hilly–forest → Road through hilly–forest broken up by pastures
 (mountains and city in distance)
 
-## The Renau Mountain path
+## The Denau Mountain path
 
 Steep mountain path that winds up the wooded foothills of the mountains.
 As the path climbs the mountain, it will climb along the top of an icy

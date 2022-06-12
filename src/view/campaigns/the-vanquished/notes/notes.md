@@ -3,6 +3,9 @@ title: "Notes"
 type: "Other"
 ---
 
+## Session 0
+
+
 ## Early encounters
 
 ### Attacks on a farm

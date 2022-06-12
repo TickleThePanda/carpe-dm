@@ -4,7 +4,7 @@ type: "Chapter"
 index: 3
 ---
 
-## Events in Renauria after
+## Events in Denau after
 
 While the players are in Mount Celestia, Elydir is still moving against
 them in their home plane. Consult the following list for the happenings
@@ -14,19 +14,19 @@ on the numbered day:
 2. \-
 3. Orcs move to take Carnelu
 4. \-
-5. Carnelu, a village east of the Renau mountains, is taken by the Orcs
-6. A band of rouges break into the City of Renaura and kidnap the elvish
+5. Carnelu, a village east of the Denau mountains, is taken by the Orcs
+6. A band of rouges break into the City of Denaura and kidnap the elvish
    children
 7. Elydir finds the Wizard who knows of the location of Nar
 8. \-
-9. Elydir sends an Orcish army to put Renaura under siege
+9. Elydir sends an Orcish army to put Denaura under siege
 10. \-
 11. \-
-12. Renaura is under siege by the Orcish army
+12. Denaura is under siege by the Orcish army
 13. \-
 14. Lady Pertana is assassinated
-15. Renaura is taken and is ruled under marshal law
-16. Elydir makes Renaura her capital
+15. Denaura is taken and is ruled under marshal law
+16. Elydir makes Denaura her capital
 
 Additionally, **on the second day**, the players will receive a taunting
 message on the sending stone: "You are fools to leave at such a time!"
@@ -47,11 +47,11 @@ table.
 2.  Neighbouring lord in Limecall has recently passed away
 3.  Cave in at the old tomb
 4.  Beast people have been sighted in the woods to the north west of
-    Renaura
+    Denaura
 
 ---
 
-> It's been a week since you have freed the City of Renaura from
+> It's been a week since you have freed the City of Denaura from
 > Qa'lir's control. Since then, you've been paid a 250gp each to help
 > secure the city from the creatures remaining here and the castle.
 > You've made good progress and are to meet with Lady
@@ -96,7 +96,7 @@ successful save, the characters take half.
 
 <blockquote class="letter">
 
-Meet at the Watcher's Tavern in Jairnt, North of Renaura, on the night
+Meet at the Watcher's Tavern in Jairnt, North of Denaura, on the night
 of the next new moon. There's a matter to discuss that affects many
 people's lives. I can provide you with a significant reward if you
 agree to help. Please be discrete.
@@ -106,7 +106,7 @@ Bring Elmon and Meriele.
 </blockquote>
 
 > You've heard news and rumours or a recent deposition of King Morcant,
-> the old leader of the City of Renaura.
+> the old leader of the City of Denaura.
 
 #### The petitioner
 
@@ -123,7 +123,7 @@ The woman's petition to the character's:
 
 > The city's previous leader, King Morcant, has been supplanted by Lord
 > Telnetar. Telnetar was once the leader of one of the three great noble
-> houses in Renaura. The two remaining major noble houses in Renaura
+> houses in Denaura. The two remaining major noble houses in Denaura
 > have stayed quiet and kept to their own business.
 >
 > It's odd, because Telnetar, when he was a noble was good-hearted and
@@ -162,7 +162,7 @@ The sort of information this person knows:
 The characters can identifier her if they succeed on a DC 16
 Investigation check, if they have previously met King Morcant in his
 castle for a banquet. If the characters verbally identify her in a way
-that's heard, they will be assaulted on the way to Renaura by five
+that's heard, they will be assaulted on the way to Denaura by five
 bandits who demand more information from the characters.
 
 She will give them 100gp each for the troubles so far.
@@ -187,18 +187,18 @@ folk as "The Vanquished Fist".
 ### OlinarElydir
 
 The OlinarElydir have been tasked with
-bringing Renau under her control. Elydir communicates with the
+bringing Denau under her control. Elydir communicates with the
 OlinarElydir using sending stones, each carved with Elydir's
 symbol and their own.
 
-### The City of Renaura
+### The City of Denaura
 
-The prosperity of Renaura has now passed. The influence of Qa'lir has
+The prosperity of Denaura has now passed. The influence of Qa'lir has
 spread corruption in almost all parts of the city.
 
 ### The Deposition of King Morcant
 
-Qa'lir arrived in Renaura and quickly garnered respect as a rich
+Qa'lir arrived in Denaura and quickly garnered respect as a rich
 merchant with the nobles. She quickly became close to Telnetar,
 eventually casting a spell to force Telnetar to do her bidding and
 threatening Telnetar's family.
@@ -224,7 +224,7 @@ Morcant, realising the threat, fled with his family.
 After Telnetar's disobedience to Qa'lir, Qa'lir ordered Telnetar's
 family to be kidnapped to ensure Telnetar's good behaviour.
 
-### Qa'lir in Renaura
+### Qa'lir in Denaura
 
 Qa'lir's servants are _wights_.
 

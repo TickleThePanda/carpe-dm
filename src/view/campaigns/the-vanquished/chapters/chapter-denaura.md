@@ -1,16 +1,16 @@
 ---
-title: "Renaura"
+title: "Denaura"
 type: "Chapter"
 ---
 
-Renaura is a prosperous ancient city which has survived thousands of
+Denaura is a prosperous ancient city which has survived thousands of
 years of change.
 
 ## Nobles
 
 ### Morcant
 
-The Princes of Renauria
+The Princes of Denau
 
 ### Telnetar
 
@@ -30,14 +30,14 @@ precious metals and stones.
 
 The family of Perthana own a large amount of the land.
 
-## Approaching Renaura
+## Approaching Denaura
 
 > You're following the road south towards the city, through the forest
 > in the foothills of the mountain. The ground is icy and a thin layer
 > of snow covers the road. Most of the trees are bare.
 
 > The forest clears after a few miles, showing the bare foothills
-> surrounding the City of Renaura which is a few miles away. Though most
+> surrounding the City of Denaura which is a few miles away. Though most
 > of the city is hidden from you by the surrounding valley, you can see
 > the familiar sight of the scarred city walls and a few of the taller
 > buildings that are in the lower parts of the city. The city gate is
@@ -420,9 +420,9 @@ the Rehani crown.
 
 ---
 
-## City of Renaura
+## City of Denaura
 
-### Journey to Renaura
+### Journey to Denaura
 
 ### Approaching the city
 
