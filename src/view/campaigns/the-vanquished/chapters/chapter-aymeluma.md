@@ -39,6 +39,9 @@ following lore:
   will avoid doing so.
 - The springs are running cold. The village's prayers to Chauntea have
   failed.
+- Some Aymelumans believe that the village has been cursed.
+- Lady Glynlamin has been missing during the wolf attacks and, after the
+  attacks she appears to be ill.
 
 ## Areas of the village
 
@@ -69,7 +72,32 @@ common goods and will accept commissions for twice the price.
 
 ### Glynlamin residence
 
+> This clean polished marble building looks like grown than carved. The
+> walls gently curve and there's barely a crack between the stones. A
+> small garden has overgrown.
+
 #### Roleplaying Lady Alymir Glynlamin
+
+The leader of the Aymeluma, Lady Alymir Glynlamin (NG female elf noble),
+does not place herself above the rest of the elves in the village. She
+has lead the village for 100 years and over that time she has come to
+believe in their tradition of support through community.
+
+However, Lady Glynlamin is at odds with the Council of Elders and
+doesn't trust them as much as she wants to. She knows they hide a secret
+about the past of the village but has failed to get any useful
+information about them. She will only admit this to those that she
+trusts and she will swear them to secrecy.
+
+From the war against Elydir that Lady Glynlamin lived through childhood
+(though she didn't know the cause), she has a fear of violent conflict
+and will avoid it at all cost. Because of this, the village barely has a
+militia. During the wolf attacks
+
+Recently, Lady Glynlamin has had the hard task of leading Aymeluma
+through disaster after disaster. While the villagers has worked hard
+to support one, she has realised that. She will welcome whatever support
+from outside the village.
 
 #### Hidden prophecy
 
@@ -87,9 +115,7 @@ unknown to Alymir and its origin is unknown.
 
 ### Shafina residence
 
-#### Roleplaying Pharom Shafina
-
-#### Roleplaying Shyrrik Shafina
+#### Roleplaying the Shafina family
 
 ### Fires of the Spring - Smithy
 
@@ -140,13 +166,17 @@ the farm.
 
 The door to this room is locked.
 
->
-
 #### 4. Parlour
+
+Simple, well loved furniture. Painting of Kendel and Toross.
 
 #### 5. Bedroom
 
+Single double bed.
+
 #### 6. Barn
+
+Horse and equipment in barn.
 
 ### Forest clearing
 
@@ -159,7 +189,12 @@ often used for village festivals.
 
 This event happens when the characters first arrive at the village. To
 the north of Grainsheaf farm, wolves begin to attack. Immediately, the
-Kendel Umelee of the farm will sound a horn.
+Kendel Umelee of the farm will sound a horn and then Toross will run to
+the village.
+
+> You hear a long horn blast to the north. A few seconds later you hear
+> a man shouting "the wolves are attacking our farm, they're getting my
+> husband."
 
 Four wolves are attacking the elves at the farm, aiming to attack the
 people and not any livestock or other animals. These wolves can't be
@@ -170,6 +205,11 @@ Add the following description to the [Grainsheaf farm](#grainsheaf-farm):
 > Almost hidden by the wheat, you see an elf (Kendel) swinging a scythe
 > at two wolves who are approaching him. Another wolf jumps out from the
 > wheat at him.
+
+Once the wolves have been killed or driven off, the characters will be
+urged to seek Lady Aymeluma by most bystanders. Lady Aymeluma will be
+shaken by the attack. She will offer 50gp to the party for finding the
+source of the attacks and another 50gp for stopping them.
 
 ### Swornnight
 

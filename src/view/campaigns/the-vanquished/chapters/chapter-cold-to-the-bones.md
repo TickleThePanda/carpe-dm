@@ -145,9 +145,14 @@ manipulation and enchantment to control others.
 
 ## Adventure hook
 
-The characters start their adventure awaiting a meeting with . They start in the elven village of
-Aymeluma.
+The characters start their adventure awaiting a meeting with Lady
+Alymir Glynlamin. The party will start in the elven village of Aymeluma.
 
-> You have been invited to
+> You have been invited to meet Lady Alymir Glynlamin who is concerned
+> about recent wolf attacks in her village of Aymeluma. You have each
+> travelled there. It's one hour before the meeting is planned.
+
+Start the [wolf attack event].
 
 [lonely tower]: ../chapter-lonely-tower/
+[wolf attack event]: ../chapter-aymeluma/#wolf-attack
