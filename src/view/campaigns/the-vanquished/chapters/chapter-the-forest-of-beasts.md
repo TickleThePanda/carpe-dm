@@ -22,7 +22,8 @@ Elydir.
 The wolf trail is 6 miles long through the forest. The forest is
 difficult terrain. A character must succeed on a Wisdom (Survival) DC 15
 check to follow the trail. On a success, the characters successfully
-follow the trail. On a failure, it takes 1 hour to find the trail again.
+follow the trail - for every half an hour of travel, they go half a
+mile. On a failure, it takes 1 hour to find the trail again.
 
 Each day that passes, the add 3 to the Wisdom (Survival) DC to follow
 the trail.
