@@ -19,11 +19,11 @@ Recap for the characters:
 > successfully killed the wolves attacking the farm - though in the
 > process, Lael's father, Kendel, got hurt.
 >
-> You took Kendel into the village where a crowd of elves - eager to
-> help after the fight. The healer helped Kendel and Lael.
+> You took Kendel into the village where a crowd of elves were gathered,
+> eager to help after the fight. The healer helped Kendel and Lael.
 >
 > Lael's other father, Toross, was knocking on the door to Lady
-> Glynlamin's house - asking for her help and leadership. When she
+> Glynlamin's house, asking for her help and leadership. When she
 > exited her house, she looked ill and shaken.
 >
 > She invited you in and asked if you would find the source of the
@@ -41,4 +41,3 @@ Recap for the characters:
 > Which way do you go to continue the journey?
 
 So far, they have travelled 2.5 miles to their destination.
-

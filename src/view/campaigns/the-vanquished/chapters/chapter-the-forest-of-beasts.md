@@ -28,16 +28,50 @@ mile. On a failure, it takes 1 hour to find the trail again.
 Each day that passes, the add 3 to the Wisdom (Survival) DC to follow
 the trail.
 
-Check for a random encounter after each 30 minutes of travel. An
-encounter occurs if a result of 15 or higher is rolled. Don't check if
-the characters have already had three random encounters outdoors in the
-past 12 hours. After each encounter, the characters must make another
-survival check to follow the trail.
+### Encounters
+
+**Random encounters**. Check for a random encounter after each 30
+minutes of travel. An encounter occurs if a result of 15 or higher is
+rolled. Don't check if the characters have already had three random
+encounters outdoors in the past 12 hours. After each encounter, the
+characters must make another survival check to follow the trail.
+
+**Fixed encounters**. The river encounter will be found after the 4th
+mile.
+
+### River
+
+The characters can only encounter this once.
+
+> You can hear water rushing ahead of you. A river flows quickly, it's
+> 4 feet deep and 15 feet across. The wolf tracks lead into the water.
+> To your left, a waterfall crashes down a 20 foot cliff onto rocky
+> outcrops. Tall trees and mossy boulders line the waters edge. Slime
+> covered stones peek out of the water.
+
+Using the stones, a character who makes a successful DC 13 Dexterity
+(Acrobatics) check will successfully cross the river. On a failure, the
+character must make a DC 13 Strength save to avoid being dragged over
+the waterfall edge.
+
+Wading across the water, a successful DC 13 Strength (Athletics) check.
+On a failure, the character is swept away with the current over the
+waterfall edge.
+
+A character who is swept away with the current over the waterfall edge
+will take 2d6 bludgeoning damage from the fall.
+
+To climb up or down the cliff, a character will need to succeed on a DC
+15 Dexterity (Acrobatics) check. On a failure, they will fall and take
+1d6 bludgeoning damage.
+
+The characters have a disadvantage on the check to follow the wolf
+trail.
 
 | d6 + d4 | Encounter                           |
 | ------- | ----------------------------------- |
 | 2       | [Deer corpse](#deer-corpse)         |
-| 3       | [River](#river)                     |
+| 3       | [Binding roots](#binding roots)     |
 | 4       | [Distant howling](#distant-howling) |
 | 5       | [False trail](#false-trail)         |
 | 6       | [Hidden bundle](#hidden-bundle)     |
@@ -72,34 +106,25 @@ around. A character who succeeds on a successful DC 10 Intelligence
 and a trail of bloody wolf paw-prints giving an advantage to the next
 check to follow the trail.
 
-### River
+### Binding roots
 
-The characters can only encounter this once.
+> The path descends into a gorge, you can't see the end through the
+> trees. You can see the bare roots of trees covering the floor.
 
-> You can hear water rushing ahead of you. A river flows quickly, it's
-> 4 feet deep and 15 feet across. The wolf tracks lead into the water.
-> To your left, a waterfall crashes down a 20 foot cliff onto rocky
-> outcrops. Tall trees and mossy boulders line the waters edge. Slime
-> covered stones peek out of the water.
+The gorge is 100 foot long and covered in roots. Once a character
+reaches 50 feet into the gorge, the roots start grasping at the
+characters.
 
-Using the stones, a character who makes a successful DC 13 Dexterity
-(Acrobatics) check will successfully cross the river. On a failure, the
-character must make a DC 13 Strength save to avoid being dragged over
-the waterfall edge.
+If a character succeeds on a DC 15 Wisdom (Perception) they will notice
+the roots moving. While in the area, and the roots are grasping, a
+character must succeed on a DC 11 Strength saving throw or be
+restrained. While restrained, they take 1d4 bludgeoning damage.
 
-Wading across the water, a successful DC 13 Strength (Athletics) check.
-On a failure, the character is swept away with the current over the
-waterfall edge.
+Each 5 foot square of roots has an AC of 12 and 4 HP. They have
+vulnerability to fire.
 
-A character who is swept away with the current over the waterfall edge
-will take 2d6 bludgeoning damage from the fall.
-
-To climb up or down the cliff, a character will need to succeed on a DC
-15 Dexterity (Acrobatics) check. On a failure, they will fall and take
-1d6 bludgeoning damage.
-
-The characters have a disadvantage on the check to follow the wolf
-trail.
+Climbing up the walls of the gorge takes a DC 13 acrobatics check to
+escape.
 
 ### Distant howling
 
