@@ -41,3 +41,32 @@ Recap for the characters:
 > Which way do you go to continue the journey?
 
 So far, they have travelled 2.5 miles to their destination.
+
+### Session 2 - 22th June 2022
+
+Recap for the characters:
+
+> You followed the path in each direction and found traps. Thankfully,
+> the keen eyed Merlin saw the holes before you fell in them.
+>
+> Lael led you in the wrong direction but the others managed to
+> get you back on track.
+>
+> Some bandits were in your way and you quickly dispatched them.
+>
+> You crossed a river using a rope you fired across to support
+> yourselves - thankfully nobody fell down the waterfall.
+>
+> The sun was setting as you came across a large crater with a
+> giant oak tree in it. You managed to fight most of the wolves off from
+> a distance. The ones who got closer took out Thio who incredibly
+> managed to get back up and Lael who was healed after the fight.
+>
+> Inside the oak tree, you heard two women arguing, one begging for
+> protection, and the other coldly refusing it. After entering, you
+> quickly fought the druid woman who was protecting wolves - with Merlin
+> throwing a huge orb of thunder at the woman. While the remaining
+> wolves managed to knock Lael and Thio unconscious, you killed them
+> and made the tree safe.
+>
+> What do you do now?
