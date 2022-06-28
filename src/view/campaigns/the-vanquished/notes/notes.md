@@ -3,22 +3,22 @@ title: "Notes"
 type: "Other"
 ---
 
-## Session 0
+### Level 2 -> level 3 - The Druids of Silvanus
 
+- Glynlamin's house was attacked in the night
 
-## Early encounters
+Clues that :
 
-### Attacks on a farm
+Clues for:
 
-Wolves attacking farm
+### Level 3 -> level 4 - Spring goes cold
 
-### Hot springs dying
-
-- Animal?
+- Ice mephits
+- Attacking ancient magic source under the village
 -
+
+### Level
 
 ### Recovery of old book
 
 Ruined house of old prince?
-
-## Elydir weaknesses

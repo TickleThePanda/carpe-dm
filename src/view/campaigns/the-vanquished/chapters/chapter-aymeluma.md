@@ -33,7 +33,8 @@ following lore:
 
 - The villagers are ashamed of their natural magical powers. When they
   reach the age of 13, each of them makes a vow never to use them.
-- Attacks are usually rare from the Forest of Beasts but
+- Attacks are usually rare from the Forest of Beasts but recently
+  there's been wolf attacks.
 - It's dangerous to go hunting in the Forest of Beasts, especially
   at night, and it is difficult to track things in there. The villagers
   will avoid doing so.
@@ -72,16 +73,16 @@ common goods and will accept commissions for twice the price.
 
 ### Glynlamin residence
 
-> This clean polished marble building looks like grown than carved. The
-> walls gently curve and there's barely a crack between the stones. A
-> small garden has overgrown.
+> This building, to the east of the square, is clean polished marble
+> which looks more grown than. The walls gently curve and there's barely
+> a crack between the stones. A small garden has overgrown.
 
 #### Roleplaying Lady Alymir Glynlamin
 
-The leader of the Aymeluma, Lady Alymir Glynlamin (NG female elf noble),
-does not place herself above the rest of the elves in the village. She
-has lead the village for 100 years and over that time she has come to
-believe in their tradition of support through community.
+The leader of the Aymeluma, **Lady Alymir Glynlamin** (NG elf noble
+woman), does not place herself above the rest of the elves in the
+village. She has lead the village for 100 years and over that time she
+has come to believe in their tradition of support through community.
 
 However, Lady Glynlamin is at odds with the Council of Elders and
 doesn't trust them as much as she wants to. She knows they hide a secret
@@ -92,12 +93,20 @@ trusts and she will swear them to secrecy.
 From the war against Elydir that Lady Glynlamin lived through childhood
 (though she didn't know the cause), she has a fear of violent conflict
 and will avoid it at all cost. Because of this, the village barely has a
-militia. During the wolf attacks
+militia. During conflict, she will hide. She is ashamed of this and
+wishes she could face her fears.
 
 Recently, Lady Glynlamin has had the hard task of leading Aymeluma
 through disaster after disaster. While the villagers has worked hard
 to support one, she has realised that. She will welcome whatever support
 from outside the village.
+
+#### Roleplaying Aien, the house-servant
+
+**Aien** (CN elf commoner man) is lazy, sarcastic, and often insulting.
+Since the disasters in the village, he has been shirking his evening job
+of watching the house to drink at the Easing Water. He will blatantly
+lie about this.
 
 #### Hidden prophecy
 
@@ -112,6 +121,45 @@ unknown to Alymir and its origin is unknown.
 > Her fighter tells his ancient tales.
 
 ### Council of Elders
+
+> An ornate building with large wooden doors
+
+The Council of Elders each lived through Elydir's.
+
+#### Council lore
+
+In addition to the information known to the Aymelumans, the council
+members know the following lore:
+
+- The precise location of the Silvanus Druids.
+- Lady Glynlamin suffered violent conflict in her childhood and
+  is unable to defend the village from conflict.
+- They think lady Glynlamin does not trust them and is up to something.
+- The world was warm before Elydir.
+- Their families final act of magic was to create the hot springs that
+  keep their areas safe.
+- Lady Glynlamin's father followed Sylvanus.
+
+#### Roleplaying the Council of Elders
+
+The council of elders have agreed to never discuss Eldyir with the
+village - that the secret will die with them.
+
+**Elder Ilphas** (LN elf noble man) believes in the law. He is a very
+serious man, with little humour. Through fear of magic, following
+Elydir's wrath, he created and officiates the Swornight ceremony. He is
+unforgiving for any who break those rules, no matter the circumstances,
+though he will not use force. Many of the village follow his thoughts on
+this.
+
+**Elder Maiele** (NE elf noble woman) is Elydir's older sister and
+secretly worked with her when she was in power, out of anger for how the
+village sold her. She knows that Elydir is still alive. She works in two
+ways against the village: use the tradition of no magic to weaken them,
+and to frame Lady Glynlamin for the disasters happening to the village.
+She believes that this revenge will bring peace.
+
+**Elder Alasse** (NG elf noble woman) is
 
 ### Shafina residence
 
@@ -211,11 +259,49 @@ urged to seek Lady Aymeluma by most bystanders. Lady Aymeluma will be
 shaken by the attack. She will offer 50gp to the party for finding the
 source of the attacks and another 50gp for stopping them.
 
-### Swornnight
+### Attack in the night
 
-Night to honour the dead and tell stories about them.
+This event happens when the characters return from fighting the wolves.
 
-Fire and music.
+Lady Glynlamin has been attacked by Elder Maiele during the night using
+_Vicious Mockery_, using it to mock her cowardice. Elder Maiele entered
+through the door left unlocked as Aien was drinking at the Easing Water.
+Before the attack, she placed a golden leaf in her office. While there
+are no physical wounds, Lady Glynlamin will be feverish and inconsolable
+about her cowardice.
+
+Read the following description when the characters arrive in the
+village:
+
+> The village looks empty, you don't see anybody around. You can hear
+> noise coming from the village square.
+
+Read the following description if the characters reach the square:
+
+> The noise comes from the tall building to the west.
+
+Read the following descriptions if the characters enter the Council of
+Elders:
+
+> Inside the main room, a restless crowd is gathered. Three of the
+> ancient elves stand in front of the crowd, two women and a man. Many
+> of those in the crowd turn to look at you.
+>
+> After a few minutes, as the noise quietens, the man says "Lady
+> Glynlamin was attacked during the night. She survived and is
+> recovering. We will find investigate what happened."
+>
+> The crowd will then disperse.
+
+The council will greet the party. They will ask what they found out
+about in the forest so far - they will give the reward promised by
+Lady Glynlamin.
+
+They will explain that Lady Glynlamin says she was attacked in her
+house at night, though she shows no wounds. The council will ask them to
+investigate what happened. If the characters talk of the involvement
+of the wolf attacks with Sylvanus, the council will say that Lady
+Glynlamin's father was a follower.
 
 ### Invasion
 
