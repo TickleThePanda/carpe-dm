@@ -80,22 +80,72 @@ common goods and will accept commissions for twice the price.
 #### Entrance hall
 
 > The grand entrance hall's stairs are fashioned after oak trees. The stairs
-> begin to climb up opposite to the entrance and split off back, to a hidden
-> balcony above. Before the stairs split, a grand tapestry showing a woman
-> sowing seeds, trees around them, and the sun rising behind. There's a door
-> to the left and right
+> begin to climb up opposite to the entrance, to the east, and split off back,
+> to a hidden balcony above. Before the stairs split, a grand tapestry showing
+> a woman sowing seeds, trees around them, and the sun rising behind. Scattered
+> on the floor are leaves and other debris. There's a door to the south and
+> north.
+
+The door to the south leads to the south corridor. The door to the north leads
+to the north corridor.
+
+If a character succeeds on a DC 18 Wisdom (Perception) check, they will notice
+a darker patch on the tapestry. On the back of the main tapestry, there is a
+passage, scrawled in common. Nobody in the village knows of the origin and Lady
+Glynlamin is unaware it is there.
+
+> The liar tricks them to unbind.\
+> Her lover fights again and fails.\
+> The raider strikes at all their kind.\
+> Her captor flees to mountain trails.\
+> The caster's end to search and find,\
+> Her fighter tells his ancient tales.
 
 When the characters reach the balcony:
 > The balcony looks down onto the stairs inside, and a window looks out to
-> the village square. There's a door to the left and to the right
+> the village square. There's a door to the north and to the south.
+
+On the balcony, the door to the south leads to Glynlamin's bedroom. The door
+to the north leads to a guest bedroom.
 
 #### South corridor
 
+> Candles light the walls and patterned rug follows the corridor's curve to
+> the east - over half of them are unlit.
+
+The door to the west leads to the library, the door to the east leads to the
+parlour.
+
+When the chracters reach the curve, read the following description:
+> The rug continues and there's a door at the end of the corridor.
+
+The door at the end leads to the drawing room.
+
 #### Library
 
-#### Sitting room
+The library door is locked when not in use.
+
+> Books and scrolls line the walls. The shelves are untidy. A window
+> provides light to the table where books are strewn.
+
+The library contains books about the history of Aymeluma and its
+relation to other areas. Content about Elydir was destroyed by the
+Council of Elders out of shame.
+
+If a character succeeds on a DC 13 Intelligence (Investigation) check,
+and spend an hour researching, they will find out that the relations
+with the followers of Silvanus in the Forest of Beasts have always
+been positive and respectful. If a character succeeds on a DC 17
+Intelligence (Investigation) check, they will realise that there are
+references to books and history that is missng from 500 years ago.
+
+#### Parlour
+
+> 
 
 #### Drawing room
+
+> 
 
 #### Dining room
 
@@ -109,7 +159,9 @@ When the characters reach the balcony:
 
 #### Pantry
 
-#### 
+#### Lady Glynlamin's room
+
+#### Guest bedroom
 
 #### Roleplaying Lady Alymir Glynlamin
 
@@ -140,19 +192,14 @@ from outside the village.
 **Aien** (CN elf commoner man) is lazy, sarcastic, and often insulting.
 Since the disasters in the village, he has been shirking his evening job
 of watching the house to drink at the Easing Water. He will blatantly
-lie about this.
+lie about this, even if caught.
 
-#### Hidden prophecy
-
-There is a prophecy hidden on the back of the main tapestry - it is
-unknown to Alymir and its origin is unknown.
-
-> The liar tricks them to unbind.\
-> Her lover fights again and fails.\
-> The raider strikes at all their kind.\
-> Her captor flees to mountain trails.\
-> The caster's end to search and find,\
-> Her fighter tells his ancient tales.
+Aien has some information that might be useful to the party, though he
+will want a price (10gp) to be paid for it:
+ - He has been keeping Lady Glynlamin's cowardice a secret, hoping to
+   make the most out of it.
+ - There is a tension between Lady Glynlamin and the Council. Aien has
+   heard an argument about the Council hiding something from Glynlamin.
 
 ### Council of Elders
 
@@ -300,9 +347,15 @@ This event happens when the characters return from fighting the wolves.
 Lady Glynlamin has been attacked by Elder Maiele during the night using
 _Vicious Mockery_, using it to mock her cowardice. Elder Maiele entered
 through the door left unlocked as Aien was drinking at the Easing Water.
-Before the attack, she placed a golden leaf in her office. While there
-are no physical wounds, Lady Glynlamin will be feverish and inconsolable
-about her cowardice.
+Before the attack, she placed a golden leaf in her office.
+
+While there are no physical wounds, Lady Glynlamin will be feverish and
+inconsolable about her cowardice. She will share the following
+information:
+ - The attacker shouldn't have been able to get in past Aien.
+ - The attacker spoke unfamilar words and then cursed her for her
+   cowardice.
+ - She couldn't recognise the attacker's voice.
 
 Read the following description when the characters arrive in the
 village:
