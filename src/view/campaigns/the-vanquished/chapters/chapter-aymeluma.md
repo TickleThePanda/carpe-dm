@@ -74,8 +74,42 @@ common goods and will accept commissions for twice the price.
 ### Glynlamin residence
 
 > This building, to the east of the square, is clean polished marble
-> which looks more grown than. The walls gently curve and there's barely
+> which looks more grown than built. The walls gently curve and there's barely
 > a crack between the stones. A small garden has overgrown.
+
+#### Entrance hall
+
+> The grand entrance hall's stairs are fashioned after oak trees. The stairs
+> begin to climb up opposite to the entrance and split off back, to a hidden
+> balcony above. Before the stairs split, a grand tapestry showing a woman
+> sowing seeds, trees around them, and the sun rising behind. There's a door
+> to the left and right
+
+When the characters reach the balcony:
+> The balcony looks down onto the stairs inside, and a window looks out to
+> the village square. There's a door to the left and to the right
+
+#### South corridor
+
+#### Library
+
+#### Sitting room
+
+#### Drawing room
+
+#### Dining room
+
+#### North corridor
+
+#### Servant corridor
+
+#### Servant room
+
+#### Kitchen
+
+#### Pantry
+
+#### 
 
 #### Roleplaying Lady Alymir Glynlamin
 
