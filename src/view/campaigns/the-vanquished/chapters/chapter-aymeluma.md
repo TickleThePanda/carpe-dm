@@ -43,6 +43,7 @@ following lore:
 - Some Aymelumans believe that the village has been cursed.
 - Lady Glynlamin has been missing during the wolf attacks and, after the
   attacks she appears to be ill.
+- Relations with the followers of Silvanus are good.
 
 ## Areas of the village
 
@@ -94,12 +95,12 @@ a darker patch on the tapestry. On the back of the main tapestry, there is a
 passage, scrawled in common. Nobody in the village knows of the origin and Lady
 Glynlamin is unaware it is there.
 
-> The liar tricks them to unbind.\
-> Her lover fights again and fails.\
-> The raider strikes at all their kind.\
-> Her captor flees to mountain trails.\
-> The caster's end to search and find,\
-> Her fighter tells his ancient tales.
+> The liar tricks to be unbound.\
+> The lover fights again and fails.\
+> The raider strikes at all his kind,\
+> The captor flees to mountain trails.\
+> The caster persues an end combined,\
+> The fighter tells his ancient tales.
 
 When the characters reach the balcony:
 > The balcony looks down onto the stairs inside, and a window looks out to
@@ -123,10 +124,13 @@ The door at the end leads to the drawing room.
 
 #### Library
 
-The library door is locked when not in use.
+The library door is locked when not in use. On a DC 10 Strength
+(Athletics) check, a character can break the door down. On a DC 14
+Dexterity check, a character can unlock the door with thieves tools.
 
 > Books and scrolls line the walls. The shelves are untidy. A window
-> provides light to the table where books are strewn.
+> provides light to the desk where books are strewn. A few unfinished
+> letters to other villages are scattered across the desk
 
 The library contains books about the history of Aymeluma and its
 relation to other areas. Content about Elydir was destroyed by the
@@ -137,11 +141,15 @@ and spend an hour researching, they will find out that the relations
 with the followers of Silvanus in the Forest of Beasts have always
 been positive and respectful. If a character succeeds on a DC 17
 Intelligence (Investigation) check, they will realise that there are
-references to books and history that is missng from 500 years ago.
+references to books and history that is missing from 500 years ago.
 
 #### Parlour
 
-> 
+> The warm autumn colours and fabric tapestries that adorn the walls don't
+> stop the cold from seeping in. At the far end, a grand fireplace is empty,
+> apart from charred remains and ash. Above, a large portrait, with an old
+> elf man, wearing robes of Silvanus and a gold leaf. The room is filled
+> with comfortable padded chairs and benches, and dusty tables and cabinets.
 
 #### Drawing room
 
@@ -206,6 +214,18 @@ will want a price (10gp) to be paid for it:
 > An ornate building with large wooden doors
 
 The Council of Elders each lived through Elydir's.
+
+#### Council chambers
+
+#### Ilphas's room
+
+#### Maiele's room
+
+Book about Silvanus
+
+#### Alasse's room
+
+#### 
 
 #### Council lore
 
@@ -312,6 +332,16 @@ Horse and equipment in barn.
 To the south of the village is a large clearing in the forest. This is
 often used for village festivals.
 
+### Silvanus Shrine
+
+> The shrine is well kept
+
+Tracks to Council of Elders
+
+Letter to Silvanus apparently written from Lady Glynlamin.
+
+Encounter
+
 ## Special events
 
 ### Wolf attack
@@ -347,7 +377,10 @@ This event happens when the characters return from fighting the wolves.
 Lady Glynlamin has been attacked by Elder Maiele during the night using
 _Vicious Mockery_, using it to mock her cowardice. Elder Maiele entered
 through the door left unlocked as Aien was drinking at the Easing Water.
-Before the attack, she placed a golden leaf in her office.
+Before the attack, she placed a golden leaf in her office. Elder Maiele
+has suggested, to the council, that Lady Glynlamin has fabricated this
+event to deflect from her recent failings - which the council agree
+could be a possibility.
 
 While there are no physical wounds, Lady Glynlamin will be feverish and
 inconsolable about her cowardice. She will share the following
@@ -388,7 +421,8 @@ They will explain that Lady Glynlamin says she was attacked in her
 house at night, though she shows no wounds. The council will ask them to
 investigate what happened. If the characters talk of the involvement
 of the wolf attacks with Sylvanus, the council will say that Lady
-Glynlamin's father was a follower.
+Glynlamin's father was a follower. The council will suggest that they
+are concerned that the attack could be fabricated. 
 
 ### Invasion
 
