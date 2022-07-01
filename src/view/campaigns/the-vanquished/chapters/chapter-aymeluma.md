@@ -93,7 +93,7 @@ Glynlamin is unaware it is there.
 > The lover fights again and fails.\
 > The raider strikes at all his kind,\
 > The captor flees to mountain trails.\
-> The caster persues an end combined,\
+> The caster pursues an end combined,\
 > The fighter tells his ancient tales.
 
 When the characters reach the balcony:
@@ -112,7 +112,7 @@ the north leads to a guest bedroom.
 The door to the west leads to the library, the door to the east leads to the
 parlour.
 
-When the chracters reach the curve, read the following description:
+When the characters reach the curve, read the following description:
 
 > The rug continues and there's a door at the end of the corridor.
 
@@ -237,7 +237,7 @@ the following lore:
 
 #### Roleplaying the Council of Elders
 
-The council of elders have agreed to never discuss Eldyir with the village -
+The council of elders have agreed to never discuss Elydir with the village -
 that the secret will die with them.
 
 **Elder Ilphas** (LN elf noble man) believes in the law. He is a very serious
