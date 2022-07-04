@@ -1,0 +1,22 @@
+figcaption {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  font-style: italic;
+  text-align: center;
+
+  border-bottom: 1px solid;
+  border-color: var(--theme-stroke-lc);
+  background-color: var(--theme-background-lc);
+}
+
+figure {
+  margin-top: 1em;
+}
+
+figure:first-child {
+  margin-top: 0;
+}
+
+figcaption::before {
+  content: "Figure: ";
+}

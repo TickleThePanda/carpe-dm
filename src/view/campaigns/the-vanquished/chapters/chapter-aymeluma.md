@@ -31,14 +31,16 @@ following lore:
 - The villagers are ashamed of their natural magical powers. When they reach the
   age of 13, each of them makes a vow never to use them.
 - Attacks are usually rare from the Forest of Beasts but recently there's been
-  wolf attacks.
-- It's dangerous to go hunting in the Forest of Beasts, especially at night, and
-  it is difficult to track things in there. The villagers will avoid doing so.
-- The springs are running cold. The village's prayers to Chauntea have failed.
-- Some Aymelumans believe that the village has been cursed.
+  wolf attacks. It's dangerous to go hunting in the Forest of Beasts, especially
+  at night, and it is difficult to track things in there. The villagers will
+  avoid doing so.
 - Lady Glynlamin has been missing during the wolf attacks and, after the attacks
   she appears to be ill.
-- Relations with the followers of Silvanus are good.
+- The springs are running cold. The village's prayers to Chauntea have failed.
+- Some Aymelumans believe that the village has been cursed.
+- Relations with the followers of Silvanus, at Silvat, are good. They live to
+  north west of Aymeluma a path. Occasionally, the Silvatans come here to trade
+  for gold.
 
 ## Areas of the village
 
@@ -69,11 +71,28 @@ commissions for twice the price.
 
 ### Glynlamin residence
 
+<figure>
+
+![Glynlamin residence floor 1](/images/glynlamin-residence-floor-1.png)
+
+<figcaption>Ground floor</figcaption>
+</figure>
+
+<figure>
+
+![Glynlamin residence floor 2](/images/glynlamin-residence-floor-2.png)
+
+<figcaption>First floor</figcaption>
+</figure>
+
+When the characters first arrive at the building, read the following
+description:
+
 > This building, to the east of the square, is clean polished marble which looks
 > more grown than built. The walls gently curve and there's barely a crack
 > between the stones. A small garden has overgrown.
 
-#### Entrance hall
+#### 1. Entrance hall
 
 > The grand entrance hall's stairs are fashioned after oak trees. The stairs
 > begin to climb up opposite to the entrance, to the east, and split off back,
@@ -104,7 +123,7 @@ When the characters reach the balcony:
 On the balcony, the door to the south leads to Glynlamin's bedroom. The door to
 the north leads to a guest bedroom.
 
-#### South corridor
+#### 2. South corridor
 
 > Candles light the walls and patterned rug follows the corridor's curve to the
 > east - over half of them are unlit.
@@ -118,7 +137,7 @@ When the characters reach the curve, read the following description:
 
 The door at the end leads to the drawing room.
 
-#### Library
+#### 3. Library
 
 The library door is locked when not in use. On a DC 10 Strength (Athletics)
 check, a character can break the door down. On a DC 14 Dexterity check, a
@@ -139,33 +158,40 @@ character succeeds on a DC 17 Intelligence (Investigation) check, they will
 realise that there are references to books and history that is missing from 500
 years ago.
 
-#### Parlour
+#### 4. Parlour
 
 > The warm autumn colours and fabric tapestries that adorn the walls don't stop
 > the cold from seeping in. At the far end, a grand fireplace is empty, apart
 > from charred remains and ash. Above, a large portrait, with an old elf man,
-> wearing robes of Silvanus and a gold leaf. The room is filled with comfortable
-> padded chairs and benches, and dusty tables and cabinets.
+> wearing robes of Silvanus and a gold leaf. On the mantelpiece is an empty
+> decorative bell jar. The room is filled with comfortable padded chairs and
+> benches, and dusty tables and cabinets.
 
-#### Drawing room
+The gold leaf in the portrait looks similar to the [golden oak amulet]. A
+character who succeeds on a DC 13 Investigation check will notice that number of
+engraved veins is the same on both.
+
+#### 5. Drawing room
 
 >
 
-#### Dining room
+#### 6. North corridor
 
-#### North corridor
+#### 7. Dining room
 
-#### Servant corridor
+#### 8. Servant corridor
 
-#### Servant room
+#### 9. Servant room
 
-#### Kitchen
+#### 10. Kitchen
 
-#### Pantry
+#### 11. Pantry
 
-#### Lady Glynlamin's room
+#### 12. Balcony
 
-#### Guest bedroom
+#### 13. Lady Glynlamin's room
+
+#### 14. Guest bedroom
 
 #### Roleplaying Lady Alymir Glynlamin
 
@@ -187,6 +213,9 @@ she will hide. She is ashamed of this and wishes she could face her fears.
 Recently, Lady Glynlamin has had the hard task of leading Aymeluma through
 disaster after disaster. While the villagers has worked hard to support one, she
 has realised that. She will welcome whatever support from outside the village.
+
+If questioned about the gold amulet, she will say it was stolen from her years
+ago but they never found out who it was.
 
 #### Roleplaying Aien, the house-servant
 
@@ -219,21 +248,22 @@ Book about Silvanus
 
 #### Alasse's room
 
-####
+#### Servants room
+
+Bed,
 
 #### Council lore
 
 In addition to the information known to the Aymelumans, the council members know
 the following lore:
 
-- The precise location of the Silvanus Druids.
 - Lady Glynlamin suffered violent conflict in her childhood and is unable to
   defend the village from conflict.
 - They think lady Glynlamin does not trust them and is up to something.
 - The world was warm before Elydir.
 - Their families final act of magic was to create the hot springs that keep
   their areas safe.
-- Lady Glynlamin's father followed Sylvanus.
+- Lady Glynlamin's father followed Silvanus.
 
 #### Roleplaying the Council of Elders
 
@@ -254,6 +284,8 @@ Glynlamin for the disasters happening to the village. She believes that this
 revenge will bring peace.
 
 **Elder Alasse** (NG elf noble woman) is
+
+**Servant Orihil** (LE elf common man) is
 
 ### Shafina residence
 
@@ -362,8 +394,8 @@ and another 50gp for stopping them.
 
 This event happens when the characters return from fighting the wolves.
 
-Lady Glynlamin has been attacked by Elder Maiele during the night using _Vicious
-Mockery_, using it to mock her cowardice. Elder Maiele entered through the door
+Lady Glynlamin has been attacked by Elder Maiele during the night using
+\_Vicious Mockery_to mock her cowardice. Elder Maiele entered through the door
 left unlocked as Aien was drinking at the Easing Water. Before the attack, she
 placed a golden leaf in her office. Elder Maiele has suggested, to the council,
 that Lady Glynlamin has fabricated this event to deflect from her recent
@@ -404,8 +436,8 @@ They will explain that Lady Glynlamin says she was attacked in her house at
 night, though she shows no wounds. The council will ask them to investigate what
 happened. If the characters talk of the involvement of the wolf attacks with
 Sylvanus, the council will say that Lady Glynlamin's father was a follower. The
-council will suggest that they are concerned that the attack could be
-fabricated.
+council will suggest that they are concerned that the attack could be fabricated
+to distract from her failings.
 
 ### Invasion
 
@@ -491,3 +523,5 @@ A black ornate tent is next to the fire. The same symbol on the messenger stone
 is on the tent. Two orogs guard this tent. Inside the tent, is Qa'por. If she
 sees the players, she will try to attack them and subdue them, to capture them
 for torture.
+
+[golden oak amulet]: ../appendix-treasure/#glynlamin-gold-amulet
