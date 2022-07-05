@@ -38,9 +38,9 @@ following lore:
   she appears to be ill.
 - The springs are running cold. The village's prayers to Chauntea have failed.
 - Some Aymelumans believe that the village has been cursed.
-- Relations with the followers of Silvanus, at Silvat, are good. They live to
-  north west of Aymeluma a path. Occasionally, the Silvatans come here to trade
-  for gold.
+- Relations with the followers of Silvanus, at Silvat, are good - the Silvatans
+  occasionally trade with them and there's been no history of conflict. They
+  live to north west of Aymeluma a path.
 
 ## Areas of the village
 
@@ -94,14 +94,13 @@ description:
 
 #### 1. Entrance hall
 
-> The grand entrance hall's stairs are fashioned after oak trees. The stairs
-> begin to climb up opposite to the entrance, to the east, and split off back,
-> to a hidden balcony above. Before the stairs split, a grand tapestry showing a
-> woman sowing seeds, trees around them, and the sun rising behind. Scattered on
-> the floor are leaves and other debris. There's a door to the south and north.
+> The grand entrance hall's stairs are fashioned after oak trees. The stairs to
+> climb up opposite to the entrance, to the east, and split off back to a
+> balcony above. Before the stairs split, a grand tapestry showing a woman
+> sowing seeds, trees around them, and the sun rising behind. Scattered on the
+> floor are leaves and other debris.
 
-The door to the south leads to the south corridor. The door to the north leads
-to the north corridor.
+The stairs lead to area 12.
 
 If a character succeeds on a DC 18 Wisdom (Perception) check, they will notice a
 darker patch on the tapestry. On the back of the main tapestry, there is a
@@ -115,41 +114,26 @@ Glynlamin is unaware it is there.
 > The caster pursues an end combined,\
 > The fighter tells his ancient tales.
 
-When the characters reach the balcony:
-
-> The balcony looks down onto the stairs inside, and a window looks out to the
-> village square. There's a door to the north and to the south.
-
-On the balcony, the door to the south leads to Glynlamin's bedroom. The door to
-the north leads to a guest bedroom.
-
 #### 2. South corridor
 
-> Candles light the walls and patterned rug follows the corridor's curve to the
-> east - over half of them are unlit.
-
-The door to the west leads to the library, the door to the east leads to the
-parlour.
-
-When the characters reach the curve, read the following description:
-
-> The rug continues and there's a door at the end of the corridor.
-
-The door at the end leads to the drawing room.
+> Candles, half of which are unlit, dingily light the walls. A dusty but
+> otherwise well maintained patterned rug follows the corridor path, including
+> the curve in the middle from east to south.
 
 #### 3. Library
 
-The library door is locked when not in use. On a DC 10 Strength (Athletics)
-check, a character can break the door down. On a DC 14 Dexterity check, a
-character can unlock the door with thieves tools.
+The library door is locked when not in use by Lady Aymeluma, which it frequently
+is. On a DC 15 Strength (Athletics) check, a character can break the door down.
+On a DC 12 Dexterity check, a character can unlock the door with thieves tools.
 
-> Books and scrolls line the walls. The shelves are untidy. A window provides
-> light to the desk where books are strewn. A few unfinished letters to other
-> villages are scattered across the desk
+> Books and scrolls line the walls and the shelves are untidy. A window provides
+> light to the desk where books are strewn. A few unfinished letters are
+> scattered across the desk.
 
 The library contains books about the history of Aymeluma and its relation to
 other areas. Content about Elydir was destroyed by the Council of Elders out of
-shame.
+shame. The letters are to other villages with advice on matters, none of which
+seems relevant to the _attack in the night_.
 
 If a character succeeds on a DC 13 Intelligence (Investigation) check, and spend
 an hour researching, they will find out that the relations with the followers of
@@ -163,9 +147,8 @@ years ago.
 > The warm autumn colours and fabric tapestries that adorn the walls don't stop
 > the cold from seeping in. At the far end, a grand fireplace is empty, apart
 > from charred remains and ash. Above, a large portrait, with an old elf man,
-> wearing robes of Silvanus and a gold leaf. On the mantelpiece is an empty
-> decorative bell jar. The room is filled with comfortable padded chairs and
-> benches, and dusty tables and cabinets.
+> wearing robes of Silvanus and a gold leaf, he wears an oak leaf signet ring on
+> his hand. On the mantelpiece is an empty decorative bell jar.
 
 The gold leaf in the portrait looks similar to the [golden oak amulet]. A
 character who succeeds on a DC 13 Investigation check will notice that number of
@@ -173,25 +156,83 @@ engraved veins is the same on both.
 
 #### 5. Drawing room
 
->
+> The dark room is filled with comfortable padded chairs and benches, and dusty
+> tables and cabinets. The curtains are unopened.
+
+There is nothing of interest in this room.
 
 #### 6. North corridor
 
+> The short corridor, with a patterned rug following the curve from east to
+> north.
+
 #### 7. Dining room
+
+> A large table fills this dining room and it's covered in dirty plates on a
+> stained tablecloth.
+
+There is nothing of interest in this room.
 
 #### 8. Servant corridor
 
+> This corridor is short with no furnishings and is lit by a single candle.
+
 #### 9. Servant room
+
+> On one side of this room is a small clean and tidy bedroom. On the other side,
+> a messy storage area with tables and chairs.
+
+Often, Aien can be found hungover in this room.
 
 #### 10. Kitchen
 
+> The kitchen has plates and bowls piled in the sink and flour and dust over the
+> surfaces.
+
+If this is in the day after the _attack in the night_, then read the following
+description:
+
+> On the floor is a smashed glass and a puddle of wine.
+
+The glass was smashed by Maiele when she was rushing to leave. Aien was too
+drunk to clean it up the previous night when he returned from the inn, and too
+hungover in the morning to tidy it up.
+
+If a character succeeds on an DC 12 Intelligence (Investigation) check, they
+will notice that there is a streak of wine that points towards the pantry.
+
 #### 11. Pantry
+
+The back door is usually locked. If a character succeeds on a DC 17 Strength
+check, they can break down the door. If a character succeeds on a DC 13
+Dexterity check, they can unlock the door with thieves tools.
+
+> This pantry is lined with barrels and jars, smelling fresh, though it is a
+> little dusty.
+
+If a character succeeds on a DC 15 Intelligence (Investigation) check, they will
+notice that there is a patch of dried red wine on the door frame.
 
 #### 12. Balcony
 
+> The balcony looks down onto the stairs inside, and a window looks out to the
+> village square. There's a door to the north and to the south.
+
+On the balcony, the door to the south leads to Glynlamin's bedroom. The door to
+the north leads to a guest bedroom.
+
 #### 13. Lady Glynlamin's room
 
+> A large bedroom with a grand bed and meditation area. The room is clean.
+
+In the days after the attack on the night, Lady Glynlamin will rest in here. She
+will be wearing her oak signet ring.
+
 #### 14. Guest bedroom
+
+> An empty bedroom, with the bed unmade and curtains closed.
+
+There is nothing of interest in this room.
 
 #### Roleplaying Lady Alymir Glynlamin
 
@@ -215,14 +256,15 @@ disaster after disaster. While the villagers has worked hard to support one, she
 has realised that. She will welcome whatever support from outside the village.
 
 If questioned about the gold amulet, she will say it was stolen from her years
-ago but they never found out who it was.
+ago but they never found out who it was. She is reluctant to let people into her
+library and study as there is sensitive information about the villages in there.
 
 #### Roleplaying Aien, the house-servant
 
 **Aien** (CN elf commoner man) is lazy, sarcastic, and often insulting. Since
 the disasters in the village, he has been shirking his evening job of watching
 the house to drink at the Easing Water. He will blatantly lie about this, even
-if caught.
+if caught. He is usually hungover.
 
 Aien has some information that might be useful to the party, though he will want
 a price (10gp) to be paid for it:
@@ -232,25 +274,116 @@ a price (10gp) to be paid for it:
 - There is a tension between Lady Glynlamin and the Council. Aien has heard an
   argument about the Council hiding something from Glynlamin.
 
+For an extra 10gp and a promise that the party won't tell Lady Glynlamin, he
+will tell them that he lost the main set of keys to the house when he was drunk
+and so he's been using the spare set.
+
 ### Council of Elders
 
-> An ornate building with large wooden doors
+![Council of Elders map](/images/council-of-elders.png)
 
-The Council of Elders each lived through Elydir's.
+> An ornate stone building with large wooden doors. Two decorative pillars show
+> rising suns. Outside the building are three large well maintained bushes,
+> growth creeping out under them.
 
-#### Council chambers
+There are three vine blights, each hiding under the large well maintained
+bushes. These are controlled by Maiele. She will only use them if she feels
+threatened by the characters.
 
-#### Ilphas's room
+#### 1. Public chambers
 
-#### Maiele's room
+> There's a small stage at the far end of the room with a reading plinth.
 
-Book about Silvanus
+The doors to the other rooms are labelled with the inhabitants or purpose in
+elvish. Each of the doors to the personal rooms, apart from the private chambers
+are locked. A character who succeeds on a DC 16 Dexterity check will be able to
+unlock the doors.
 
-#### Alasse's room
+#### 2. Private chambers
 
-#### Servants room
+> There's a large table in the centre of the room with three chairs around it.
+> One cabinet is stocked with papers, the other is stocked with tableware.
+> Opposite the main entrance is a well stocked fire, keeping the room warm.
 
-Bed,
+The cabinet contains papers relating to the laws of the village.
+
+The council will usually meet in here between noon and dusk, for business and
+for dinner.
+
+#### 3. Kitchen and pantry
+
+> The kitchen smells of bread and fruit. The pantry is well stocked.
+
+There is nothing of interest in this room.
+
+#### 4. Records room
+
+> Shelving of books and scrolls fill this room.
+
+It's easy to find the treaties with neighbouring areas, including the pact with
+the Silvatans, not to expand into each others land. It's easy to see that this
+has been followed.
+
+The text is to do with the history of the village and its inhabitants. If
+characters investigate for a day and succeed on a DC 18 Intelligence
+(Investigation) check, they will find that there is a lack of history from
+around 500 years ago in here through missing references.
+
+#### 5. Servant Orihil's room
+
+While the door to this room from the public chambers is locked, the door to the
+kitchen is unlocked.
+
+> A set of keys are on the desk.
+>
+> A large wash tub filled with water has a purple cloak draped over it.
+
+The keys will open the doors to the council members rooms.
+
+The purple cloak is Maiele's with a wine stain -
+
+#### 6. Elder Ilphas's room
+
+> Bookcases surround the walls of this room. A bed is pushed up against the
+> bookcases on one wall. A desk up against the wall opposite the door.
+
+The table has draft law about the import on magical items, like potions of
+healing. The library is mostly books about law from places near and far.
+
+#### 7. Elder Maiele's room
+
+> This room is very tidy and empty. On the left hand side is a bed and
+> meditation area. In the centre is an empty desk. On the other side is a
+> wardrobe.
+
+If the characters open the wardrobe, read the following description:
+
+> The wardrobe is partly full, with many items. There is a chest at the bottom.
+
+The chest in the wardrobe is locked. The chest is trapped and if it's opened
+without pressing the buttons on either side, it will trigger a cloud of
+**Malice** poison gas within 10 ft of the chest. A character who succeeds on a
+DC 12 check will notice the buttons on the side. If a character succeeds on a DC
+17 Dexterity check, they can unlock the chest with thieves tools. If a
+characters succeeds on a DC 14 Strength check, they can break the chest open -
+this will trigger the gas.
+
+Inside the box is the following:
+
+- A signet ring with oak leaf. This is a forgery created by Maiele to create the
+  fake letter from Lady Aymeluma.
+- A book about Silvanus (stolen from Lady Glynlamin's library)
+
+#### 8. Elder Alasse's room
+
+> This bedroom room is filled of small trinkets and items. A writing desk is
+> covered with papers and a small library overflows with books.
+
+This is Alasse's room.
+
+If searched, the characters will find there are a few books on the ethics of
+magic. Her journal will be filled with thoughts about whether or not the
+Swornight is effective.
 
 #### Council lore
 
@@ -267,33 +400,91 @@ the following lore:
 
 #### Roleplaying the Council of Elders
 
-The council of elders have agreed to never discuss Elydir with the village -
-that the secret will die with them.
+The Council of Elders each lived through Elydir's reign and destruction of their
+people. They have agreed to never discuss Elydir with the village - that the
+secret will die with them.
 
 **Elder Ilphas** (LN elf noble man) believes in the law. He is a very serious
 man, with little humour. Through fear of magic, following Elydir's wrath, he
 created and officiates the Swornight ceremony. He is unforgiving for any who
-break those rules, no matter the circumstances, though he will not use force.
-Many of the village follow his thoughts on this.
+break those rules, no matter the circumstances, though he will not use force or
+violence but will instead seek to isolate the rule breaker. Many of the village
+follow his thoughts on this.
 
 **Elder Maiele** (NE elf noble woman) is Elydir's older sister and secretly
 worked with her when she was in power, out of anger for how the village sold
 her. She knows that Elydir is still alive. She works in two ways against the
 village: use the tradition of no magic to weaken them, and to frame Lady
 Glynlamin for the disasters happening to the village. She believes that this
-revenge will bring peace.
+revenge will bring peace. Maiele has the keys to Lady Glynlamin's house on her
+person.
 
-**Elder Alasse** (NG elf noble woman) is
+**Elder Alasse** (NG elf noble woman) believes the village should take a softer
+approach the restriction of magic through education to prevent it from being
+used again. However, she does not have the will to go against Ilphas and Maiele.
+She hopes to outlive Ilphas and Maiele and bring around a positive change for
+the village.
 
-**Servant Orihil** (LE elf common man) is
+**Servant Orihil** (LE elf common man) works closely with Maiele, being
+corrupted with riches and power. He spies on the other Elders for Maiele which
+helps her know their secrets. He will decline to speak to anybody but the
+Elders, as his job keeps him so busy - though he is efficient at it.
 
 ### Shafina residence
 
+**TODO**
+
 #### Roleplaying the Shafina family
+
+**TODO**
 
 ### Fires of the Spring - Smithy
 
+> A warm light flickers from the door of this building and smoke billows from
+> the chimney. A sign hangs with elvish text on it and a steaming river.
+
+The elvish text says _Fires of the Spring_.
+
+> The smithy fire burns hot in the centre of the room. Gold, silver and iron
+> bars are stacked on one side. Agricultural and builders equipment is stacked
+> on the other. A single sword is hung up on the opposite wall to the entrance.
+
+The blacksmith, Ena Magphine the Strong (CG elf commoner woman), is a burly
+woman who is well mannered and smart. While she works in a smithy, she believes
+you need to be in touch with nature and take good care of yourself. She believes
+you should just try to get along rather than control one another.
+
+Ena has traded with the Silvatans before, with gold, and they have always been
+friendly. She knows that their past relations have been good, with agreements to
+keep to their own lands. She saw a figure cloaked in purple enter the Elders
+very late last night, while she was locking up. She will be will be reluctant to
+speak badly about the Elders and will appear nervous when questioned.
+
 ### The Easing Water - Inn
+
+> A sign hangs from the inn, with a painting of a steaming pool with a bare
+> chested man relaxing in it, text in elvish below it. The outside is decorated
+> with swirling patterns like steam and flowing water.
+
+Inside the inn:
+
+> The inn is small and decorated blue and white. A large fireplace keeps the
+> room warm. A small bar with bottles of wine and wine glasses fill the shelves
+> on the back wall.
+
+The text in elvish reads _The Easing Water_.
+
+The innkeeper, Uldreiyn Caigeiros (TN elf innkeeper man) is very perceptive. He
+believes it is important to do what feels good and likes to chat about rumours
+and things he's seen.
+
+If the characters stay to have a drink, he will be willing to talk to them about
+the goings on of the town. In addition to the general lore, he also knows that
+Aien is often drinking at the pub in the evenings when he's meant to be working
+and that he was even that drunk once that Elder Maiele had to take him home. He
+was at the inn last night during the attack.
+
+The bar sells only the grape wine grown locally for 1sp per glass.
 
 ### Grainsheaf Farm
 
@@ -357,13 +548,34 @@ used for village festivals.
 
 ### Silvanus Shrine
 
-> The shrine is well kept
+The shrine is to the north west of the village, just off the path to Silvat.
 
-Tracks to Council of Elders
+> In a small clearing just beyond a small, a carved wooden statue of a
+> semi-draped man holds out an oak branch. Its legs appear to grow out from the
+> stone plinth. The stone plinth has an oak leaf carved into it. The area is
+> kept clean, though a few dead shrubs rustle in the wind around it.
 
-Letter to Silvanus apparently written from Lady Glynlamin.
+Below the statue is a hidden box. Inside the box is a sealed with an oak leaf
+signet, which has been planted by Elder Maiele. The letter says the following:
 
-Encounter
+> B. Attack the remaining farm tomorrow. Kill the inhabitants. AG
+
+If a character succeeds on a DC 12 Wisdom (Perception) check, they will notice a
+stone gap built into the base of the statue. If the golden oak amulet is placed
+into the stone plinth, it will unlock. If a character succeeds on a DC 17
+Strength check to move the base, they will break the stone apart the stone base.
+If they succeed on a DC 13 Strength check, they can break the legs of the statue
+and get into the stone plinth from above.
+
+If the handwriting or seal is compared to a real Lady Glynlamin's character
+succeeds on an DC 15 Intelligence (Investigation check), they will notice
+inconsistencies.
+
+If a character succeeds on a DC 18 Intelligence (Investigation) check, they will
+find tracks leading to the Council of Elders.
+
+When the characters try to leave the shrine, 12 **Twig Blights**, created by
+Elder Maiele will attack the characters.
 
 ## Special events
 
@@ -386,7 +598,7 @@ Add the following description to the [Grainsheaf farm](#grainsheaf-farm):
 > wolves who are approaching him. Another wolf jumps out from the wheat at him.
 
 Once the wolves have been killed or driven off, the characters will be urged to
-seek Lady Aymeluma by most bystanders. Lady Aymeluma will be shaken by the
+seek Lady Glynlamin by most bystanders. Lady Glynlamin will be shaken by the
 attack. She will offer 50gp to the party for finding the source of the attacks
 and another 50gp for stopping them.
 
@@ -402,10 +614,15 @@ that Lady Glynlamin has fabricated this event to deflect from her recent
 failings - which the council agree could be a possibility.
 
 While there are no physical wounds, Lady Glynlamin will be feverish and
-inconsolable about her cowardice. She will share the following information:
+inconsolable about her cowardice and will be reluctant to talk about what
+happened to her. If a character succeeds on a DC 15 Charisma (Persuasion) check
+to get information, she will tell them the following:
 
+- She was attacked during the night.
 - The attacker shouldn't have been able to get in past Aien.
 - The attacker spoke unfamiliar words and then cursed her for her cowardice.
+- The attacker fled after hearing a noise downstairs, but said she would be back
+  to finish the job tomorrow.
 - She couldn't recognise the attacker's voice.
 
 Read the following description when the characters arrive in the village:
@@ -417,7 +634,9 @@ Read the following description if the characters reach the square:
 
 > The noise comes from the tall building to the west.
 
-Read the following descriptions if the characters enter the Council of Elders:
+Read the following descriptions if the characters enter the Council of Elders,
+if it is the characters first time visiting the Council of Elders, read the
+description of the bulding:
 
 > Inside the main room, a restless crowd is gathered. Three of the ancient elves
 > stand in front of the crowd, two women and a man. Many of those in the crowd
@@ -438,6 +657,10 @@ happened. If the characters talk of the involvement of the wolf attacks with
 Sylvanus, the council will say that Lady Glynlamin's father was a follower. The
 council will suggest that they are concerned that the attack could be fabricated
 to distract from her failings.
+
+During the characters investigation, Elder Maiele will send 3 vine blights to
+attack the characters. She will attempt to use this to banish the characters
+from the village due to their trouble making.
 
 ### Invasion
 
