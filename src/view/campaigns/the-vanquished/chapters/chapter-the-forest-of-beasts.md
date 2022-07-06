@@ -459,7 +459,8 @@ trusting, showing too much compassion and mercy to those who oppose him. In
 addition to the information that the Silvatans know, Yorhorn met an elf woman
 from Aymeluma who traded a gold leaf for some magic. Yorhorn gave the gold leaf
 to Briid, who was a child at the time. He can't remember what the trader looked
-like, other than she wore a purple cloak with gold embroidery.
+like, other than she was an older woman who wore a purple cloak with gold
+embroidery.
 
 **Endi** (NG half-elf woman) is very popular and always has a sympathetic ear.
 She believes it is important to achieve your goals and protect Silvat. She

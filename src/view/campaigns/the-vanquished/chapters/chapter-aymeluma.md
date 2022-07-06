@@ -137,10 +137,11 @@ seems relevant to the _attack in the night_.
 
 If a character succeeds on a DC 13 Intelligence (Investigation) check, and spend
 an hour researching, they will find out that the relations with the followers of
-Silvanus in the Forest of Beasts have always been positive and respectful. If a
-character succeeds on a DC 17 Intelligence (Investigation) check, they will
-realise that there are references to books and history that is missing from 500
-years ago.
+Silvanus in the Forest of Beasts have always been positive and respectful. They
+will also find that, while there are books about the gods in here, the book
+about Silvanus is missing. If a character succeeds on a DC 17 Intelligence
+(Investigation) check, they will realise that there are references to books and
+history that is missing from 500 years ago.
 
 #### 4. Parlour
 
@@ -151,8 +152,8 @@ years ago.
 > his hand. On the mantelpiece is an empty decorative bell jar.
 
 The gold leaf in the portrait looks similar to the [golden oak amulet]. A
-character who succeeds on a DC 13 Investigation check will notice that number of
-engraved veins is the same on both.
+character who succeeds on a DC 13 Intelligence (Investigation) check will notice
+that number of engraved veins is the same on both.
 
 #### 5. Drawing room
 
@@ -194,9 +195,8 @@ description:
 
 > On the floor is a smashed glass and a puddle of wine.
 
-The glass was smashed by Maiele when she was rushing to leave. Aien was too
-drunk to clean it up the previous night when he returned from the inn, and too
-hungover in the morning to tidy it up.
+The glass was smashed by Maiele when she was rushing to leave, after Aien
+arrived back early.
 
 If a character succeeds on an DC 12 Intelligence (Investigation) check, they
 will notice that there is a streak of wine that points towards the pantry.
@@ -226,7 +226,8 @@ the north leads to a guest bedroom.
 > A large bedroom with a grand bed and meditation area. The room is clean.
 
 In the days after the attack on the night, Lady Glynlamin will rest in here. She
-will be wearing her oak signet ring.
+will be wearing her oak signet ring. This ring will not match the pattern of the
+signet on the wax seal on the fake letter.
 
 #### 14. Guest bedroom
 
@@ -255,9 +256,12 @@ Recently, Lady Glynlamin has had the hard task of leading Aymeluma through
 disaster after disaster. While the villagers has worked hard to support one, she
 has realised that. She will welcome whatever support from outside the village.
 
-If questioned about the gold amulet, she will say it was stolen from her years
-ago but they never found out who it was. She is reluctant to let people into her
-library and study as there is sensitive information about the villages in there.
+If questioned about the gold oak leaf amulet, she will say it was stolen from
+her years ago, along with a book about Silvanus, but they never found out who it
+was. She can confirm that the gold oak leaf amulet is hers.
+
+She is reluctant to let people into her study as there is sensitive information
+about the Aymelumans in there.
 
 #### Roleplaying Aien, the house-servant
 
@@ -273,10 +277,11 @@ a price (10gp) to be paid for it:
   most out of it.
 - There is a tension between Lady Glynlamin and the Council. Aien has heard an
   argument about the Council hiding something from Glynlamin.
+- The main set of keys to the house are missing, though he won't give that he
+  was drunk when they went missing.
 
-For an extra 10gp and a promise that the party won't tell Lady Glynlamin, he
-will tell them that he lost the main set of keys to the house when he was drunk
-and so he's been using the spare set.
+If asked about the golden amulet, he will talk about how it was stolen a few
+years ago, along with a book about Silvanus from the library.
 
 ### Council of Elders
 
@@ -334,13 +339,14 @@ around 500 years ago in here through missing references.
 While the door to this room from the public chambers is locked, the door to the
 kitchen is unlocked.
 
-> A set of keys are on the desk.
->
-> A large wash tub filled with water has a purple cloak draped over it.
+> This tidy room is for both work and rest. There's a narrow bed on one side. A
+> window provides a little light to the room. A small desk has a set of keys on
+> it. A large wash tub filled with pinkish water has a purple cloak draped over
+> the side.
 
-The keys will open the doors to the council members rooms.
+The keys on the desk will open the doors to the council members rooms.
 
-The purple cloak is Maiele's with a wine stain -
+The purple cloak is Maiele's with a wine stain - the stain is barely out of it.
 
 #### 6. Elder Ilphas's room
 
@@ -353,8 +359,8 @@ healing. The library is mostly books about law from places near and far.
 #### 7. Elder Maiele's room
 
 > This room is very tidy and empty. On the left hand side is a bed and
-> meditation area. In the centre is an empty desk. On the other side is a
-> wardrobe.
+> meditation area. In the centre is an empty desk, apart from a single key. On
+> the other side is a wardrobe.
 
 If the characters open the wardrobe, read the following description:
 
@@ -372,7 +378,7 @@ Inside the box is the following:
 
 - A signet ring with oak leaf. This is a forgery created by Maiele to create the
   fake letter from Lady Aymeluma.
-- A book about Silvanus (stolen from Lady Glynlamin's library)
+- A book about Silvanus (stolen from Lady Glynlamin's library).
 
 #### 8. Elder Alasse's room
 
@@ -409,34 +415,35 @@ man, with little humour. Through fear of magic, following Elydir's wrath, he
 created and officiates the Swornight ceremony. He is unforgiving for any who
 break those rules, no matter the circumstances, though he will not use force or
 violence but will instead seek to isolate the rule breaker. Many of the village
-follow his thoughts on this.
+follow his thoughts on this. Ilphas will be critical of any solution the
+characters bring to them about the _attack in the night_.
 
 **Elder Maiele** (NE elf noble woman) is Elydir's older sister and secretly
 worked with her when she was in power, out of anger for how the village sold
 her. She knows that Elydir is still alive. She works in two ways against the
 village: use the tradition of no magic to weaken them, and to frame Lady
 Glynlamin for the disasters happening to the village. She believes that this
-revenge will bring peace. Maiele has the keys to Lady Glynlamin's house on her
-person.
+revenge will bring peace.
 
 **Elder Alasse** (NG elf noble woman) believes the village should take a softer
 approach the restriction of magic through education to prevent it from being
-used again. However, she does not have the will to go against Ilphas and Maiele.
-She hopes to outlive Ilphas and Maiele and bring around a positive change for
-the village.
+used again. However, she does not have the will to go against Ilphas and Maiele,
+though she is more likely to side with Ilphas. She hopes to outlive Ilphas and
+Maiele and bring around a positive change for the village.
 
 **Servant Orihil** (LE elf common man) works closely with Maiele, being
-corrupted with riches and power. He spies on the other Elders for Maiele which
-helps her know their secrets. He will decline to speak to anybody but the
-Elders, as his job keeps him so busy - though he is efficient at it.
+corrupted with bribes. He spies on the other Elders for Maiele which helps her
+know their secrets. He will decline to speak to anybody but the Elders, as his
+job keeps him so busy - though he is efficient at it. He will speak against
+Maiele if it's in his interest.
 
 ### Shafina residence
 
-**TODO**
+**TO DO**
 
 #### Roleplaying the Shafina family
 
-**TODO**
+**TO DO**
 
 ### Fires of the Spring - Smithy
 
@@ -481,8 +488,10 @@ and things he's seen.
 If the characters stay to have a drink, he will be willing to talk to them about
 the goings on of the town. In addition to the general lore, he also knows that
 Aien is often drinking at the pub in the evenings when he's meant to be working
-and that he was even that drunk once that Elder Maiele had to take him home. He
-was at the inn last night during the attack.
+and that he was even that drunk once that Elder Maiele had to take him home.
+
+Aien was at the inn last night during the **attack in the night** but Uldreiyn
+asked him to leave early after he drank too quickly.
 
 The bar sells only the grape wine grown locally for 1sp per glass.
 
@@ -568,7 +577,7 @@ If they succeed on a DC 13 Strength check, they can break the legs of the statue
 and get into the stone plinth from above.
 
 If the handwriting or seal is compared to a real Lady Glynlamin's character
-succeeds on an DC 15 Intelligence (Investigation check), they will notice
+succeeds on an DC 12 Intelligence (Investigation check), they will notice
 inconsistencies.
 
 If a character succeeds on a DC 18 Intelligence (Investigation) check, they will
@@ -621,9 +630,10 @@ to get information, she will tell them the following:
 - She was attacked during the night.
 - The attacker shouldn't have been able to get in past Aien.
 - The attacker spoke unfamiliar words and then cursed her for her cowardice.
-- The attacker fled after hearing a noise downstairs, but said she would be back
-  to finish the job tomorrow.
-- She couldn't recognise the attacker's voice.
+- The attacker fled after hearing a noise downstairs, but said "You're lucky to
+  get another night, coward."
+- She couldn't see the attacker because of a cloak and the dark - but it was a
+  woman's voice.
 
 Read the following description when the characters arrive in the village:
 
@@ -636,7 +646,7 @@ Read the following description if the characters reach the square:
 
 Read the following descriptions if the characters enter the Council of Elders,
 if it is the characters first time visiting the Council of Elders, read the
-description of the bulding:
+description of the building:
 
 > Inside the main room, a restless crowd is gathered. Three of the ancient elves
 > stand in front of the crowd, two women and a man. Many of those in the crowd
@@ -656,7 +666,7 @@ night, though she shows no wounds. The council will ask them to investigate what
 happened. If the characters talk of the involvement of the wolf attacks with
 Sylvanus, the council will say that Lady Glynlamin's father was a follower. The
 council will suggest that they are concerned that the attack could be fabricated
-to distract from her failings.
+to distract from her failings. They will ask them to bring the answer to them.
 
 During the characters investigation, Elder Maiele will send 3 vine blights to
 attack the characters. She will attempt to use this to banish the characters
