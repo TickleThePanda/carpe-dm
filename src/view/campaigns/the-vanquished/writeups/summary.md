@@ -69,3 +69,32 @@ Recap for the characters:
 > You found some treasure in the giant tree, including a gold oak leaf on Briid.
 >
 > What do you do now?
+
+### Session 3 - 6th July 2022
+
+> You were asked by Lady Glynlamin to find out the source of the wolf attacks,
+> which you successfully did - it was a druid Briid, in the Forest of Beasts.
+>
+> You travelled back from the giant tree and arrived back at the village,
+> finding that Lady Glynlamin had been attacked in the night. You met the
+> Council of Elders (Ilphas, Maiele, and Alasse) who asked you to investigate
+> her. After you showed them the golden oak leaf, they told you about the
+> Glynlamin family connection to Silvanus, about the nearby Shrine to Silvanus
+> and a druid settlement to the North West.
+>
+> When you saw Lady Glynlamin, you saw that she showed no signs of physical
+> injury but that she didn't seem herself. You Lady Glynlamin and questioned her
+> about the attack. It took some work, but she was able to tell you that she was
+> attacked in the night by a cloaked woman
+>
+> You next found wine stains leading outside and a very hungover Aien, the house
+> servant for Lady Glynlamin. He admitted that he been drinking at the Easing
+> Water Inn the previous night and so he missed the attack.
+>
+> You went to the blacksmith, she was hiding something. She was the first on the
+> scene. She was reluctant to say that she saw a cloaked figure arrive at the
+> Council of Elders.
+>
+> Brickny Spears did lots of intimidating. Shadow Vulture did a lot of window
+> watching. Merlin berated the young Aien about being a bad worker. Lael is
+> worried about losing her friends.
