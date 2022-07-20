@@ -475,17 +475,21 @@ speak badly about the Elders and will appear nervous when questioned.
 > chested man relaxing in it, text in elvish below it. The outside is decorated
 > with swirling patterns like steam and flowing water.
 
-Inside the inn:
+The text in elvish reads _The Easing Water_.
+
+#### Inside the inn
 
 > The inn is small and decorated blue and white. A large fireplace keeps the
 > room warm. A small bar with bottles of wine and wine glasses fill the shelves
-> on the back wall.
+> on the back wall, apart from a hole for a closed hatch. A door to right of the
+> bar has a sign in elvish above it.
 
-The text in elvish reads _The Easing Water_.
+The text in elvish reads _Hot springs_.
 
 The innkeeper, Uldreiyn Caigeiros (TN elf innkeeper man) is very perceptive. He
 believes it is important to do what feels good and likes to chat about rumours
-and things he's seen.
+and things he's seen. He will always recommend using the hot springs, calling it
+"the magic of the elves".
 
 If the characters stay to have a drink, he will be willing to talk to them about
 the goings on of the town. In addition to the general lore, he also knows that
@@ -501,7 +505,8 @@ The bar sells only the grape wine grown locally for 1sp per glass.
 #### Hot springs
 
 > Walls surround four steaming pools of water. Seats have been carved into the
-> natural stone of the springs. Tables for drinks
+> natural stone of the springs. The hatch to the bar is on the wall for the
+> building Small tables for drinks surround the pool.
 
 A **Water Weird** will attack the characters here during the **attack in the
 night**.
