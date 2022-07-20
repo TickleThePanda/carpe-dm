@@ -291,9 +291,9 @@ years ago, along with a book about Silvanus from the library.
 > rising suns. Outside the building are three large well maintained bushes,
 > growth creeping out under them.
 
-There are three vine blights, each hiding under the large well maintained
-bushes. These are controlled by Maiele. She will only use them if she feels
-threatened by the characters.
+There are four vine blights, hiding under the large well maintained bushes.
+These are controlled by Maiele. She will only use them if she feels threatened
+by the characters.
 
 #### 1. Public chambers
 
@@ -418,12 +418,13 @@ violence but will instead seek to isolate the rule breaker. Many of the village
 follow his thoughts on this. Ilphas will be critical of any solution the
 characters bring to them about the _attack in the night_.
 
-**Elder Maiele** (NE elf noble woman) is Elydir's older sister and secretly
-worked with her when she was in power, out of anger for how the village sold
-her. She knows that Elydir is still alive. She works in two ways against the
-village: use the tradition of no magic to weaken them, and to frame Lady
+**Elder Maiele** (NE elf cult fanatic woman) is Elydir's older sister and
+secretly worked with her when she was in power, out of anger for how the village
+sold her. She knows that Elydir is still alive. She works in two ways against
+the village: use the tradition of no magic to weaken them, and to frame Lady
 Glynlamin for the disasters happening to the village. She believes that this
-revenge will bring peace.
+revenge will bring peace. She will act carefully in secrecy but if she her plots
+are discovered, she will aim to cause as much destruction as possible.
 
 **Elder Alasse** (NG elf noble woman) believes the village should take a softer
 approach the restriction of magic through education to prevent it from being
@@ -431,11 +432,12 @@ used again. However, she does not have the will to go against Ilphas and Maiele,
 though she is more likely to side with Ilphas. She hopes to outlive Ilphas and
 Maiele and bring around a positive change for the village.
 
-**Servant Orihil** (LE elf common man) works closely with Maiele, being
-corrupted with bribes. He spies on the other Elders for Maiele which helps her
-know their secrets. He will decline to speak to anybody but the Elders, as his
-job keeps him so busy - though he is efficient at it. He will speak against
-Maiele if it's in his interest.
+**Servant Orihil** (LE elf spy man) works closely with Maiele, enjoying her
+power and the benefits that come with it. She has lead him to believe that the
+magic restrictions are preventing the village from reaching its best outcomes.
+He spies on the other Elders and other villagers for Maiele. He will generally
+decline to speak to anybody but the Elders, as his job keeps him so busy -
+though he is efficient at it.
 
 ### Shafina residence
 
@@ -488,12 +490,21 @@ and things he's seen.
 If the characters stay to have a drink, he will be willing to talk to them about
 the goings on of the town. In addition to the general lore, he also knows that
 Aien is often drinking at the pub in the evenings when he's meant to be working
-and that he was even that drunk once that Elder Maiele had to take him home.
+and that he was even that drunk once that Servant Orihil had to take him home -
+and when the Orihil stole the keys for Maiele keys were stolen.
 
 Aien was at the inn last night during the **attack in the night** but Uldreiyn
 asked him to leave early after he drank too quickly.
 
 The bar sells only the grape wine grown locally for 1sp per glass.
+
+#### Hot springs
+
+> Walls surround four steaming pools of water. Seats have been carved into the
+> natural stone of the springs. Tables for drinks
+
+A **Water Weird** will attack the characters here during the **attack in the
+night**.
 
 ### Grainsheaf Farm
 
@@ -668,8 +679,8 @@ Sylvanus, the council will say that Lady Glynlamin's father was a follower. The
 council will suggest that they are concerned that the attack could be fabricated
 to distract from her failings. They will ask them to bring the answer to them.
 
-During the characters investigation, Elder Maiele will send 3 vine blights to
-attack the characters. She will attempt to use this to banish the characters
+During the characters investigation, Elder Maiele will send 3 **Vine blights**
+to attack the characters. She will attempt to use this to banish the characters
 from the village due to their trouble making.
 
 ### Invasion
