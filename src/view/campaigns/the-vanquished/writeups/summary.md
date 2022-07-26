@@ -98,3 +98,24 @@ Recap for the characters:
 > Brickny Spears did lots of intimidating. Shadow Vulture did a lot of window
 > watching. Merlin berated the young Aien about being a bad worker. Lael is
 > worried about losing her friends.
+
+### Session 4 - 20th July 2022
+
+Information you've found out so far:
+
+- Lady Glynlamin was inconsolable and was talking about how she's a coward.
+- Aien missed the killer. He was drinking at the Inn last night - confirmed by
+  the Inn keeper.
+- Aien's keys are missing.
+- Stains leading out the back door of Lady Glynlamin's house.
+- Orihil took Aien home one night when he was incredibly drunk.
+- Blacksmith saw a cloaked figure enter the Council of Elders
+
+> You went to the Easing Water Inn to follow up on whether Aien had been
+> drinking there the previous night. In the hot springs of the Inn, you were
+> attacked by a water monster and in the ensuing battle, Lael was killed.
+>
+> Merlot took her and Lael's fathers' mule into the Forest of Beasts to find the
+> druids who might be able to help you heal her. Merlot narrowly escaped being
+> eaten by spiders. After speaking with the Council of Elders, the rest of the
+> party went to protect Lady Glynlamin.

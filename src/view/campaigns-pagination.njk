@@ -56,7 +56,8 @@ eleventyComputed:
       <h2 class="collection-nav__nav-section-title">Notes</h2>
       <ul class="collection-nav__list">
         {% set notesId = [campaign.id, "-notes"] | join %}
-        {% for notes in collections[notesId] %}
+        {% set notesCollection = collections[notesId] | sortByOrder %}
+        {% for notes in notesCollection %}
           <li class="collection-nav__list-item">
             <a class="card card--link" href="{{ notes.url }}">
               <h3 class="card__title">{{ notes.data.title }}</h2>

@@ -1,5 +1,6 @@
 ---
 title: "Session 4"
+index: 4
 ---
 
 ### Easing Water Inn

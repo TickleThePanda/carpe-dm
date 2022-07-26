@@ -1,5 +1,6 @@
 ---
 title: "Session 1 and 2"
+index: 1
 ---
 
 ### Plan
