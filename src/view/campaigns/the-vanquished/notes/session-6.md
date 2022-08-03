@@ -38,6 +38,7 @@ index: 6
   - Council of Elders meeting
     - Question if the party is causing this - being magic casters
     - Council will reassure the party is here to help
+    - Maiele will use the villager's worry about the party.
 - Revive Lael?
 
 [cult fanatic]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
