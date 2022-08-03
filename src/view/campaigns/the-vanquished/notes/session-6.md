@@ -30,6 +30,14 @@ index: 6
     - Use Orihil to sneak in and kill her
     - Use the environment escape
 
+- Village reaction to all of this:
+  - Most buildings closed:
+    - Inn
+    - Blacksmith
+  - People in the streets run from place to place quickly
+  - Council of Elders meeting
+    - Question if the party is causing this - being magic casters
+    - Council will reassure the party is here to help
 - Revive Lael?
 
 [cult fanatic]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
