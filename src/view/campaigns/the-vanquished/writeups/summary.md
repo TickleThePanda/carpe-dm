@@ -11,7 +11,7 @@ Recap for the characters:
 > - Shadow Vulture, a human rogue - James
 > - Lael Umelee - Jess
 > - Rudi Lanniter - Jim
-> - Merlin - Mark
+> - Merlot - Mark
 > - Thio - Nathan
 >
 > While waiting to meet Lady Alymir Glynlamin, you answered a cry for help to
@@ -45,7 +45,7 @@ So far, they have travelled 2.5 miles to their destination.
 Recap for the characters:
 
 > You followed the path in each direction and found traps. Thankfully, the keen
-> eyed Merlin saw the holes before you fell in them.
+> eyed Merlot saw the holes before you fell in them.
 >
 > Lael led you in the wrong direction but the others managed to get you back on
 > track.
@@ -62,7 +62,7 @@ Recap for the characters:
 >
 > Inside the oak tree, you heard two women arguing, one begging for protection,
 > and the other coldly refusing it. After entering, you quickly fought the druid
-> woman who was protecting wolves - with Merlin throwing a huge orb of thunder
+> woman who was protecting wolves - with Merlot throwing a huge orb of thunder
 > at the woman. While the remaining wolves managed to knock Lael and Thio
 > unconscious, you killed them and made the tree safe.
 >
@@ -96,7 +96,7 @@ Recap for the characters:
 > Council of Elders.
 >
 > Brickny Spears did lots of intimidating. Shadow Vulture did a lot of window
-> watching. Merlin berated the young Aien about being a bad worker. Lael is
+> watching. Merlot berated the young Aien about being a bad worker. Lael is
 > worried about losing her friends.
 
 ### Session 4 - 20th July 2022
@@ -119,3 +119,19 @@ Information you've found out so far:
 > druids who might be able to help you heal her. Merlot narrowly escaped being
 > eaten by spiders. After speaking with the Council of Elders, the rest of the
 > party went to protect Lady Glynlamin.
+
+### Session 5 - 27th July 2022
+
+> You met Donkey, a druid who had been exiled from the nearby Silvanus. After
+> some of you fought vine blights at the house and others fought twig blights at
+> the statue of Silvanus, you confronted Lady Glynlamin about a letter that
+> Merlot found at the statue. You deduced it likely wasn't written by her,
+> comparing her handwriting and the signet ring.
+
+### Session 6 - 3rd August 2022
+
+> In a gruelling fight, you defended Lady Glynlamin's house from the attackers,
+> finally killing (and unmasking) the attacker Elder Maiele. You lead the
+> village to depose the other Elders and were planning to set off to find the
+> druids in the Forest of Beasts. Before you left, you planted a suspicious
+> letter to draw out and meet any remaining conspirators a few days from now.
