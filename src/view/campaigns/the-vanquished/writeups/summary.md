@@ -135,3 +135,11 @@ Information you've found out so far:
 > village to depose the other Elders and were planning to set off to find the
 > druids in the Forest of Beasts. Before you left, you planted a suspicious
 > letter to draw out and meet any remaining conspirators a few days from now.
+
+### Session 7 - 10th August 2022
+
+> You travelled to Silvat, discovering the cooling of hot springs on the way,
+> avoiding getting bitten by snakes, and getting lost in a maze. Once getting to
+> Silvat, you talked to the leader, Yorhorn. He agreed to revive Lael in
+> recompense for the damage that Briid did to Lael's community, and if you
+> agreed to investigate the waning power of the hot springs.
