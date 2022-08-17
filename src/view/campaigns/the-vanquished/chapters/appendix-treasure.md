@@ -84,3 +84,24 @@ Silvatans. The Silvatans gave it to Briid.
 
 The curse allows Elydir to appear and speak to wearer and view the area around
 them.
+
+## Nixignis Gem
+
+A thin rhombus shape, this gem amplifies the temperature of anything it's in
+contact with, defining its form. Its colour depends on its form.
+
+If the gem is in contact with ice, it will go into cold form. In cold form, the
+gem glows blue. Unless neutralised, when a character moves within 5 feet of it,
+it must make a DC 12 constitution saving throw or take 2d10 cold damage on a
+failed save, or half as much on a successful save. While in cold form, if the
+gem takes fire damage, it is neutralised for 30 seconds.
+
+If the gem is in contact with a hot surface (too hot for human touch) or fire,
+it will go into hot form. In hot form, the gem glows red. Unless neutralised,
+when a character moves within 5 feet of it, it must make a DC 12 constitution
+saving throw or take 2d10 fire damage on a failed save, or half as much on a
+successful save. While in hot form, if the gem takes cold damage, it is
+neutralised for 30 seconds.
+
+If the gem isn't in contact with ice or a heated material, it will be in neutral
+form. In neutral form, it doesn't cause any damage.

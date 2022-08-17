@@ -128,7 +128,7 @@ In the larger building:
 
 The man is Yorhorn and the woman is Endi.
 
-#### Roleplaying the Silvatan leaders.
+#### Roleplaying the Silvatans
 
 **Yorhorn** (NG half-elf man) is an intimidating man who stands tall, and speaks
 rarely and softly. He is protective of Silvat and his inhabitants. He is too
@@ -143,6 +143,13 @@ embroidery.
 She believes it is important to achieve your goals and protect Silvat. She
 believes cleanliness is a waste of time - it'll just get dirty again. She
 encouraged Yorhorn to banish Briid.
+
+**Axilya** (CN elf woman) wearing simple, practical clothes, and a well-worn
+travelling cloak. She is a socially awkward. She believes it is important to
+connect with nature and take everything in moderation. She believes excelling at
+a skill isn't all it's cracked up to be. Axilya knows of the location of the
+Wellsprings of Vitality. She will agree to take the characters to the
+Wellsprings in return for some ammo for hunting.
 
 [aymeluma]: ../chapter-aymeluma/
 [golden oak amulet]: ../appendix-treasure/#golden-oak-amulet
