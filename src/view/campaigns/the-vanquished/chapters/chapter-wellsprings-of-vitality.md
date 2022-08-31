@@ -89,31 +89,33 @@ Each of the other tunnels in the cave are also frosty and cold.
 #### B2. Lake room
 
 > An irregular trench cuts across this cavern from east to west, a thick layer
-> of ice covering the bottom. At either end of the channel is a smaller tunnel.
-> To the north, opposite to the entrance, a passageway is blocked by fallen
-> rock. The cavern is 30ft at its widest, 20ft at its tallest, and 40ft long.
-> The channel is 20ft wide in the middle, 10ft wide at the edges, and 10ft deep.
+> of ice covering the bottom. Inside the channel, twelve cloaked figures, robed
+> in icy blue chant. The figure closest to the back wears larger and brighter
+> robes. A small spectral orb floats in the centre of the room above them, thick
+> snow spilling out of it.
 >
-> In the space south of the trench, you see fragments of a shattered stone
-> tablet on the floor, below a podium with a missing tablet.
+> At either end of the channel is a smaller tunnel. To the north, opposite to
+> the entrance, a passageway is blocked by fallen rock. The cavern is 30ft at
+> its widest, 20ft at its tallest, and 40ft long. The channel is 20ft wide in
+> the middle, 10ft wide at the edges, and 10ft deep.
 >
-> Inside the channel, twelve cloaked figures, robed in icy blue chanting. A
-> small spectral orb floats in the centre of the room above them, thick snow
-> spilling out of it.
+> In the space south of the trench, fragments of a shattered stone tablet lie on
+> the floor, below a podium.
 
 If the characters enter the channel, read the following description:
 
 > At the bottom of the channel, below the ice, two thick veins of metal runs
-> through it.
+> through it. The channel slopes upwards slightly to the east.
 
 The bottom of the channel is **slippery ice** (DMG p110).
 
-The ice worshippers are chanting to open a small portal to the ice realm. They
-will accelerate their efforts if they are interrupted, aiming to open a smaller
-unstable portal. At the end of each round, check if the ice worshippers are
-successful in opening a portal. Roll 1d20, if the result is less than the number
-of cultists chanting, open a portal in the centre of the room, bringing in 1d4
-ice mephits. This can be done at most 10 times in 24 hours.
+One of the ice worshippers is a [cult fanatic], Morrow, the others are
+[cultists]. The ice worshippers are chanting to open a small portal to the ice
+realm. They will accelerate their efforts if they are interrupted, aiming to
+open a smaller unstable portal. At the end of each round, check if the ice
+worshippers are successful in opening a portal. Roll 1d20, if the result is less
+than the number of cultists chanting, open a portal in the centre of the room,
+bringing in 1d4 ice mephits. This can be done at most 10 times in 24 hours.
 
 If the characters inspect the broken fragments, give the characters the dungeon
 puzzle.
@@ -248,16 +250,20 @@ by the Couatls, Tlene and Icpi, though Tlene was also slain in the process.
 
 #### C2. East reservoir
 
-> In the north of this large natural cave, a 30 foot tall cliff overlooks an
-> empty basin. A boat, chained to the top of the cliff hangs down the wall. In
-> the south west wall of the basin, 20 feet up, a channel opens into the cavern.
+> At the centre of this giant basin, a hunched older man sits near a small fire,
+> staring into it, a bag of weapons to his side. Closer to the man, a mound,
+> shaped in a crescent is covered in a sheet.
 >
-> At the centre of bottom of the basin, a hunched older man sits near a small
-> fire, staring into it, a bag of weapons to his side. Closer to the man, a
-> mound, shaped in a crescent is covered in a sheet.
->
-> At the edge of the cavern, to the east, a few small bunched mounds are covered
+> At the edge of the basin, to the east, a few small bunched mounds are covered
 > by a white sheet. Nearby those, two unconscious robed figures are tied up.
+>
+> To the north of the basin stands a 30 foot tall slimy cliff atop which a
+> tunnel exits. A boat hangs down the wall, chained to the top of the cliff. A
+> 10 wide channel opens into the basin, 20 feet up the south west wall, the
+> shadows beyond impenetrable.
+
+The channel in the south west wall of the basin leads to area C4. The tunnel
+leads to area C1.
 
 The man at the centre is **Icpi**, Icpicoualt, (LG [Couatl] male) in the form of
 a [Veteran] male. Icpi is mourning the loss of his mother, Tlene
@@ -282,17 +288,51 @@ on them, but bite marks.
 The fire at the centre of the cavern is incredibly hot, despite its small size.
 At the centre of it, is a [Nixignis Gem].
 
+A character who attempts to scale the cliff, either up or down must make a DC 14
+Athletics (Strength) check or fall, taking fall damage. If a character attempts
+to climb around the cavern, they must succeed on a DC 16 Athletics (Strength)
+check or fall.
+
 #### C3. West reservoir
 
-> An empty reservoir
+> This large cave has an empty basin. A makeshift ladder climbs down the 30ft
+> slimy cliff, at the top of which a tunnel exits further to the north east.
+> Strewn around the bottom of the ladder, slime covered corpses lie disfigured.
+>
+> To the south, 20ft up the basin wall, a dark tunnel stares out at you.
 
-[Gelatinous cube]
+The tunnel to the north east leads to C1, the tunnel to the south leads into C4.
 
-#### C4. Stairs to the deep
+At the bottom of this cave are three [gelatinous cubes], staying perfectly
+still. One is directly at the bottom of the ladder, waiting for an unlucky
+visitor.
 
-[Animated armour]
+A character who attempts to scale the cliff, either up or down must make a DC 14
+Athletics (Strength) check or fall, taking fall damage. If a character attempts
+to climb around the cavern, they must succeed on a DC 16 Athletics (Strength)
+check or fall.
 
-#### C5. Whirlpool
+#### C4. Water passages
+
+> The tunnel floor and lower walls are smooth and slippery. Stalactites hang
+> down from the ceiling.
+
+This passage connects areas C2 and C3 to area C5.
+
+#### C5. Stairs to the deep
+
+> This large square room has been slowly softened by time. A plateau, 40ft high
+> and 20ft wide, stands in the centre of the room. A 10 foot wide staircase
+> climbing around it, the stairs very worn at the bottom half. Four statues
+> stand atop it, watching out to below, the air around shimmers like the air on
+> a hot summer's day. The smell of sulphur fills the room. Two corpses lie
+> broken at the bottom of the room. To the north east and south west, tunnels
+> exit 20ft up into room.
+
+The statues are [animated armour] and will activate when people stand on the
+steps.
+
+#### C6. Whirlpool
 
 ### Lava cavern
 
@@ -314,7 +354,10 @@ Flameskull
 
 [couatl]: https://www.dndbeyond.com/monsters/16832-couatl
 [gelatinous cube]: https://www.dndbeyond.com/monsters/16869-gelatinous-cube
+[gelatinous cubes]: https://www.dndbeyond.com/monsters/16869-gelatinous-cube
 [ice mephits]: https://www.dndbeyond.com/monsters/16932-ice-mephit
+[cultist]: https://www.dndbeyond.com/monsters/16835-cultist
+[cultists]: https://www.dndbeyond.com/monsters/16835-cultist
 [cult fanatic]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
 [cult fanatics]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
 [veteran]: https://www.dndbeyond.com/monsters/17045-veteran
