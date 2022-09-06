@@ -143,3 +143,19 @@ Information you've found out so far:
 > Silvat, you talked to the leader, Yorhorn. He agreed to revive Lael in
 > recompense for the damage that Briid did to Lael's community, and if you
 > agreed to investigate the waning power of the hot springs.
+
+### Session 8 - 17th August 2022
+
+> Finally, Lael was revived, though she now has a fear of water! The very
+> helpful⸮ Axilya lead you to the Wellsprings of Vitality. After killing the
+> thugs and cultist leader outside, you entered the cave, coming across a
+> chanting cult and a floating orb.
+
+### Session 9 - 31st August 2022
+
+> You fought the cult, taking out their leader quickly. The chanting brought
+> through ice mephits. Just before killing the last cultist, his prayers were
+> answered and more ice mephits flooded out of it. You killed them, though not
+> without taking your own casualties. After the fight, you rested and repaired a
+> shattered tablet, revealing some symbols on it. Thio quickly explored some of
+> the nearby caves to find out what you might face next.
