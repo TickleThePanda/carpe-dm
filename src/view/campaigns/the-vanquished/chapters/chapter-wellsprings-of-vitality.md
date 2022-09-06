@@ -250,12 +250,13 @@ by the Couatls, Tlene and Icpi, though Tlene was also slain in the process.
 
 #### C2. East reservoir
 
-> At the centre of this giant basin, a hunched older man sits near a small fire,
+> At the centre of this giant basin, a hunched old man sits near a small fire,
 > staring into it, a bag of weapons to his side. Closer to the man, a mound,
 > shaped in a crescent is covered in a sheet.
 >
 > At the edge of the basin, to the east, a few small bunched mounds are covered
-> by a white sheet. Nearby those, two unconscious robed figures are tied up.
+> by a white sheet. Nearby those, two unconscious blue robed figures are tied
+> up.
 >
 > To the north of the basin stands a 30 foot tall slimy cliff atop which a
 > tunnel exits. A boat hangs down the wall, chained to the top of the cliff. A
@@ -269,14 +270,18 @@ The man at the centre is **Icpi**, Icpicoualt, (LG [Couatl] male) in the form of
 a [Veteran] male. Icpi is mourning the loss of his mother, Tlene
 (Tlenenepilcoualt), and is planning on burning her body. He has been tasked by
 his mother, and therefore the gods, to prevent the power of the Nixignis gems
-from being used for ill. Icpi is not quick to trust others and will be fearful
-of. He will use his abilities to mind read copiously, and be very questioning of
-any other creature's purpose here. He will be evasive of any questions and will
-try to lead others seeking the Nixignis Gems away. If he believes there are
-those that will help, he will ask them to return the Nixignis Gems to their
-rightful place and to drive any remaining cultists from the caves. In return, he
-will warn them of what is likely to happen once the water flows again and will
-offer to help them escape when the time comes.
+from being used for ill. Tlene had protected these before against the ancient
+wizard who used the lava cavern as its base.
+
+Icpi is not quick to trust others and will be fearful of. He will use his
+abilities to mind read copiously, and be very questioning of any other
+creature's purpose here. He will be evasive of any questions and will try to
+lead others seeking the Nixignis Gems away. If he believes there are those that
+will help, he will ask them to return the Nixignis Gems to their rightful place
+and to drive any remaining cultists from the caves. In return, he will warn them
+of what is likely to happen once the water flows again and will offer to help
+them escape when the time comes. He also knows of the flameskull in the Lava
+Cavern.
 
 Beneath the white sheet closest to Icpi is the corpse of Tlene. Under the other
 sheet are corpses of the cultists who failed. Icpi is also planning on burning
@@ -330,13 +335,49 @@ This passage connects areas C2 and C3 to area C5.
 > exit 20ft up into room.
 
 The statues are [animated armour] and will activate when people stand on the
-steps.
+steps. The corridor to the north east leads to area C4 and the corridor to the
+south west leads to C6.
 
 #### C6. Whirlpool
 
+> This huge cylindrical room has been cleanly hewn from the walls. The ground
+> feels warm below your feet though the air falling down from the small hole at
+> top. Three metal poles stick around the centre of the room from the floor to
+> the ceiling.
+
+The hole in the top leads to area B9. A corridor leads to area C5.
+
 ### Lava cavern
 
-Flameskull
+> The heat from the lava covered floor of this cavern is extreme. Ruins of an
+> old tower and battered foundations fill the centre of the cavern. Stairs lead
+> down to some of the foundations to the north west. Apart from the stairs, the
+> only standing structure is a large hexagonal pyramid. Three metal poles
+> descend from the ceiling onto the top of the pyramid.
+
+There is a [Flameskull] hiding in the lava which wants the Nixignis Gems,
+created by its long-gone master to protect them. The magic of the cave prevents
+the Flameskull from retrieving them once they are in their setting.
+
+When the characters reach the hexagonal pyramid, read the following description:
+
+> Around the hexagonal pyramid, there are three holes in the shape of a
+> trapezoid. The iron poles that descend from the ceiling attach to the sides of
+> the pyramid and to each of the holes.
+
+Restoring the Nixignis gems to this structure will return the heat to the metal
+conduits that run to the waterfalls. For every gem restored and each thirty
+minutes thereafter, the water level in the dungeon rises by five feet. After an
+hour, the water also becomes to hot to touch in the lower cave. Any creature who
+touches the hot water must make a DC 13 dexterity check. A creature takes 1d10
+fire damage on a failed save or half as much damage on a successful one.
+
+When the characters restore a gem, read the following description:
+
+> The metal pole attached to the gem begins to glow a bright red at the bottom,
+> the colour spreading up it.
+
+When a gem is restored, the [Nixignis Gem] goes into hot form.
 
 <!-- Factions -->
 
@@ -361,6 +402,7 @@ Flameskull
 [cult fanatic]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
 [cult fanatics]: https://www.dndbeyond.com/monsters/16836-cult-fanatic
 [veteran]: https://www.dndbeyond.com/monsters/17045-veteran
+[flameskull]: https://www.dndbeyond.com/monsters/17091-flameskull
 
 <!-- Traps -->
 
