@@ -159,3 +159,10 @@ Information you've found out so far:
 > without taking your own casualties. After the fight, you rested and repaired a
 > shattered tablet, revealing some symbols on it. Thio quickly explored some of
 > the nearby caves to find out what you might face next.
+
+### Session 10 - 7th September 2022
+
+> You explored the caves, recovering another gem, killing mephits and cultists.
+> Using the gems and fire, you melted the ice blocking the waterfalls. You
+> discovered stairs down but fell foul of the fiery fey-elf statues. You
+> decided, at this point, to rest.

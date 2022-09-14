@@ -250,21 +250,42 @@ by the Couatls, Tlene and Icpi, though Tlene was also slain in the process.
 
 #### C2. East reservoir
 
-> At the centre of this giant basin, a hunched old man sits near a small fire,
-> staring into it, a bag of weapons to his side. Closer to the man, a mound,
-> shaped in a crescent is covered in a sheet.
+Once area C5 has filled with water, this cave refills at 5ft per hour per
+waterfall, up to the top of the empty basin.
+
+When the characters enter this reservoir, read the following description if the
+water isn't flowing:
+
+> This giant reservoir is empty of water, a large island, now a hill, in the
+> centre. A 10 wide channel opens into the reservoir, 25 foot up the south west
+> wall, the shadows beyond impenetrable.
 >
-> At the edge of the basin, to the east, a few small bunched mounds are covered
+> To the north of the reservoir stands a 30 foot tall slimy cliff atop which a
+> tunnel exits. A boat hangs down the wall, chained to the top of the cliff.
+
+Read the following description if the water isn't flowing:
+
+> Water surrounds a large island at the centre of this reservoir. Water flows in
+> from a channel on the west wall, the shadows beyond impenetrable.
+>
+> To the north of the reservoir, a tunnel exits onto a short dry cliff. A chain
+> hangs down into the water.
+
+Then, read the following description.
+
+> At the top of the island, a hunched old man sits near a small fire, staring
+> into it, a bag of weapons to his side. Closer to the man, a mound, shaped in a
+> crescent is covered in a sheet.
+>
+> At the edge of the island, to the east, a few small bunched mounds are covered
 > by a white sheet. Nearby those, two unconscious blue robed figures are tied
 > up.
->
-> To the north of the basin stands a 30 foot tall slimy cliff atop which a
-> tunnel exits. A boat hangs down the wall, chained to the top of the cliff. A
-> 10 wide channel opens into the basin, 20 feet up the south west wall, the
-> shadows beyond impenetrable.
 
 The channel in the south west wall of the basin leads to area C4. The tunnel
 leads to area C1.
+
+A character who succeeds on a DC 15 Strength check can pull the boat up using
+the chain.
 
 The man at the centre is **Icpi**, Icpicoualt, (LG [Couatl] male) in the form of
 a [Veteran] male. Icpi is mourning the loss of his mother, Tlene
@@ -300,39 +321,85 @@ check or fall.
 
 #### C3. West reservoir
 
+Once area C5 has filled with water, this cave refills at 5ft per hour per
+waterfall, up to the top of the empty basin.
+
+When the characters enter this reservoir, read the following description if the
+water isn't flowing yet:
+
 > This large cave has an empty basin. A makeshift ladder climbs down the 30ft
-> slimy cliff, at the top of which a tunnel exits further to the north east.
-> Strewn around the bottom of the ladder, slime covered corpses lie disfigured.
+> slimy basin cliff, at the top of which a tunnel exits further to the north
+> east. Strewn around the bottom of the ladder, slime covered corpses lie
+> disfigured.
 >
-> To the south, 20ft up the basin wall, a dark tunnel stares out at you.
+> To the south, 25 foot up the basin wall, a dark tunnel stares out at you.
 
-The tunnel to the north east leads to C1, the tunnel to the south leads into C4.
+If the cave is is refilled, read the following description:
 
-At the bottom of this cave are three [gelatinous cubes], staying perfectly
-still. One is directly at the bottom of the ladder, waiting for an unlucky
-visitor.
+> Apart from a small area of ground to the north, this large cave is flooded
+> with water. A makeshift ladder floats on the water. A couple of slime covered
+> disfigured corpses lie half submerged at the edge of the water. Water flows
+> into the cave from a channel in the south.
+
+If the cave doesn't have any water in it, at the bottom there are three
+[gelatinous cubes], staying perfectly still. One is directly at the bottom of
+the ladder, waiting for an unlucky visitor. If the cave is filled with water,
+the [gelatinous cubes] will be waiting just below the water at the edge of the
+cliff.
 
 A character who attempts to scale the cliff, either up or down must make a DC 14
 Athletics (Strength) check or fall, taking fall damage. If a character attempts
 to climb around the cavern, they must succeed on a DC 16 Athletics (Strength)
 check or fall.
 
+The tunnel to the north east leads to C1, the tunnel to the south leads into C4.
+
 #### C4. Water passages
+
+Once area C5 has filled with water, this is flooded.
+
+Read the following description if the water isn't flowing:
 
 > The tunnel floor and lower walls are smooth and slippery. Stalactites hang
 > down from the ceiling.
+
+Read the following description if the water is flowing:
+
+> The water flows quickly through this channel. Stalactites hang down from the
+> ceiling.
+
+The water is flowing at 5 feet per second.
+
+There are six [dark mantles] in the main passage that exits C5. When a creature
+approaches them, they will use their darkness aura to surprise the unsuspecting
+victim. Read the following description if this happens:
+
+> The room plunges into darkness. You hear popping and squelching above you.
 
 This passage connects areas C2 and C3 to area C5.
 
 #### C5. Stairs to the deep
 
-> This large square room has been slowly softened by time. A plateau, 40ft high
-> and 20ft wide, stands in the centre of the room. A 10 foot wide staircase
-> climbing around it, the stairs very worn at the bottom half. Four statues
-> stand atop it, watching out to below, the air around shimmers like the air on
-> a hot summer's day. The smell of sulphur fills the room. Two corpses lie
-> broken at the bottom of the room. To the north east and south west, tunnels
-> exit 20ft up into room.
+This cave refills at 5ft per hour per running waterfall, up to 20ft.
+
+When the water isn't flowing read the following description:
+
+> This large square room has been slowly softened by time.
+
+When the water is flowing, read the following description:
+
+> Water fills this large square room.
+
+Then, read the following description:
+
+> The smell of sulphur fills the air. A plateau, 40ft high and 20ft wide, stands
+> in the centre. Half way up the plateau a stone protrudes out and, from it, a
+> 10 foot wide staircase climbs around the plateau. Four statues stand atop it,
+> watching out to below. The air around shimmers like them air on a hot summer's
+> day.
+>
+> Two corpses lie broken on the protrusion, dried blood covering their clothes.
+> To the north east and south west, tunnels exit 20ft up into room.
 
 The statues are [animated armour] and will activate when people stand on the
 steps. The corridor to the north east leads to area C4 and the corridor to the
@@ -394,6 +461,7 @@ When a gem is restored, the [Nixignis Gem] goes into hot form.
 <!-- Creatures -->
 
 [couatl]: https://www.dndbeyond.com/monsters/16832-couatl
+[dark mantles]: https://www.dndbeyond.com/monsters/16837-darkmantle
 [gelatinous cube]: https://www.dndbeyond.com/monsters/16869-gelatinous-cube
 [gelatinous cubes]: https://www.dndbeyond.com/monsters/16869-gelatinous-cube
 [ice mephits]: https://www.dndbeyond.com/monsters/16932-ice-mephit
