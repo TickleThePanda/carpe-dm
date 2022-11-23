@@ -496,8 +496,8 @@ fire damage on a failed save or half as much damage on a successful one.
 
 When the characters restore a gem, read the following description:
 
-> The metal pole attached to the gem begins to glow a bright red at the bottom,
-> the colour spreading up it.
+> From each of the gems across the metal flows a golden light. The light flows
+> along the poles towards the roof of the cavern.
 
 When a gem is restored, the [Nixignis Gem] goes into hot form.
 
