@@ -380,7 +380,7 @@ This passage connects areas C2 and C3 to area C5.
 
 #### C5. Stairs to the deep
 
-This cave refills at 5ft per hour per running waterfall, up to 20ft.
+This cave refills at 5ft per hour per running waterfall, up to 40ft.
 
 When the water isn't flowing read the following description:
 
@@ -392,7 +392,7 @@ When the water is flowing, read the following description:
 
 Then, read the following description:
 
-> The smell of sulphur fills the air. A plateau, 40ft high and 20ft wide, stands
+> The smell of sulphur fills the air. A plateau, 80ft high and 20ft wide, stands
 > in the centre. Half way up the plateau a stone protrudes out and, from it, a
 > 10 foot wide staircase climbs around the plateau. Four statues stand atop it,
 > watching out to below. The air around shimmers like them air on a hot summer's
@@ -401,9 +401,16 @@ Then, read the following description:
 > Two corpses lie broken on the protrusion, dried blood covering their clothes.
 > To the north east and south west, tunnels exit 20ft up into room.
 
-The statues are [animated armour] and will activate when people stand on the
-steps. The corridor to the north east leads to area C4 and the corridor to the
-south west leads to C6.
+The statues are [animated armour] and will activate when creatures reach the 3rd
+on the steps. The corridor to the north east leads to area C4 and the corridor
+to the south west leads to C6.
+
+When the characters reach the top of the stairs, read the following description:
+
+> A glowing red light emanates from a spiral, causing the air to shimmer around
+> it. You feel hot dry air flow from it, along with the stench of sulphur.
+
+The stairs lead to area D1.
 
 #### C6. Whirlpool
 
@@ -416,21 +423,69 @@ The hole in the top leads to area B9. A corridor leads to area C5.
 
 ### Lava cavern
 
-> The heat from the lava covered floor of this cavern is extreme. Ruins of an
-> old tower and battered foundations fill the centre of the cavern. Stairs lead
-> down to some of the foundations to the north west. Apart from the stairs, the
-> only standing structure is a large hexagonal pyramid. Three metal poles
-> descend from the ceiling onto the top of the pyramid.
-
 There is a [Flameskull] hiding in the lava which wants the Nixignis Gems,
-created by its long-gone master to protect them. The magic of the cave prevents
-the Flameskull from retrieving them once they are in their setting.
+created by its long-gone master to protect them. The magic of the cave protects
+the Nixignis pyramid from undead when powered. If the gems are in place, any
+undead within a 60ft of the platform become frightened of the platform.
+
+The Flameskull is intelligent and will choose a moment with advantage to attach
+the anybody who has the gems. It will try to convince the characters to give it
+the gems, if the gems are returned to their place.
+
+Throughout the buildings of the lava cavern, there is weakened floor. If a
+character steps on the weakened floor, it will collapse, and the character must
+succeed on a DC 10 dexterity saving throw or fall into the lava.
+
+A creature takes 6d10 fire damage when it enters lava for the first time on a
+turn or when it ends its turn there.
+
+#### D1. Broken staircase
+
+The spiral staircase is built into a huge stalactite. The tower below. The
+remaining tower built up to reach it has collapsed.
+
+> The staircase spirals down, hewn into natural rock. Sconces spread a dim red
+> light from the walls.
+
+130 feet down the stairs, the stairs end, leaving a 40 ft drop to a tower below.
+
+> The staircase ends in the air in this huge lava flooded cavern. Three features
+> stand out of the lava 80 feet below: a fragmented castle, with a half-broken
+> tower; a hexagonal pyramid, with three large statues standing at the top; and
+> a broken bridge between. The half-broken tower reaches towards the staircase,
+> leaving a 40 foot gap. Around the tower, you see a few bodies wearing blue
+> robes, some burnt, some broken. A knotted rope hangs down from the staircase
+> to the tower below.
+
+#### D2. Old castle
+
+The floor of the castle is 10 feet above the lava.
+
+> The old castle's foundations and outer walls are broken in many places,
+> leaving pools of lava below. Areas of the floor look are cracked and uneven.
+> Very little furniture remains. The few inner walls that stand inside are
+> crumbling.
+
+#### D3. Broken bridge
+
+> The bridge spans the 60 foot gap between the castle and the pyramid.
+
+#### D4. Hexagonal pyramid
 
 When the characters reach the hexagonal pyramid, read the following description:
 
-> Around the hexagonal pyramid, there are three holes in the shape of a
-> trapezoid. The iron poles that descend from the ceiling attach to the sides of
-> the pyramid and to each of the holes.
+> Three statues stand facing outwards on ever other side of this pyramid. Each
+> statue holds their right hand low, a diamond shaped hole in their palms; their
+> other hand holds onto the shoulder of the next statue. Between each statue,
+> there are holes to pools of lava below. Metal poles descend from the ceiling
+> to each, wrapping around to form their clothing - the poles split down into
+> each of the lava pools. The statue facing the left of the bridge is a man
+> wearing armour fashioned after oak leaves. The statue to the right of the
+> bridge is a woman wearing a tunic with images of fruit and harvest and her
+> hair covered in carved wildflowers. The statue facing away is wearing a plated
+> armour, a helmet concealing his face.
+
+The statues are Silvanus, Chauntea, and Helm.
 
 Restoring the Nixignis gems to this structure will return the heat to the metal
 conduits that run to the waterfalls. For every gem restored and each thirty
