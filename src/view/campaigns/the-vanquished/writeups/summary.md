@@ -166,3 +166,26 @@ Information you've found out so far:
 > Using the gems and fire, you melted the ice blocking the waterfalls. You
 > discovered stairs down but fell foul of the fiery fey-elf statues. You
 > decided, at this point, to rest.
+
+### Session 11 - 14th September 2022
+
+> You fought a Chuul and travelled down to the lower caves. In the lower caves,
+> you met an old man on an island in a large cavern where he asked to to burn a
+> large corpse with him. In the fire, was the third gem. You rested here. After
+> resting, you took a boat, up a channel. While rowing up the channel you were
+> attacked by dark mantles.
+
+### Session 12 - 16th November 2022
+
+> You fought the dark mantles, with only a few of you going overboard.
+> Travelling further upstream, you reached a cavern flooded, a tower reaching
+> out of the water, stairs around it. Fighting the top of the, past the statues
+> guarding it, then rested at the top, after Merlot went unconscious.
+
+### Session 13 - 23rd November 2022
+
+> Descending down into the lava caverns, you used rope ladder to get down the
+> broken tower. A flameskull surprised you, you tricked the flameskull, Merlot
+> fell into the lava, almost dying, but Thio saved him. You replaced the gems,
+> creating a protective area and restarting the Wellsprings. After, you went
+> back the way you came escaping the Wellsprings.
