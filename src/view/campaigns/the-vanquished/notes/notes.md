@@ -4,14 +4,10 @@ type: "Other"
 index: 99
 ---
 
-### Level 3 -> level 4 - Spring goes cold
+### Encounters
 
-- Ice mephits
-- Attacking ancient magic source under the village
--
+- Statues from the wellspring following the characters
 
-### Level
+### Adventures
 
-### Recovery of old book
-
-Ruined house of old prince?
+- Ruined house of old prince?
